@@ -1,4 +1,4 @@
-# Scrapy settings for detik project
+# Scrapy settings for news project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,14 +7,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'detik'
+BOT_NAME = 'news'
 
-SPIDER_MODULES = ['detik.spiders']
-NEWSPIDER_MODULE = 'detik.spiders'
+SPIDER_MODULES = ['news.spiders']
+NEWSPIDER_MODULE = 'news.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'detik (+http://www.yourdomain.com)'
+#USER_AGENT = 'news (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -45,13 +45,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'detik.middlewares.DetikSpiderMiddleware': 543,
+#    'news.middlewares.NewsSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'detik.middlewares.DetikDownloaderMiddleware': 543,
+#    'news.middlewares.NewsDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -63,7 +63,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'detik.pipelines.DetikPipeline': 300,
+#    'news.pipelines.NewsPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)

@@ -1,14 +1,11 @@
 import scrapy
-from scrapy.spiders import CrawlSpider, Rule
-from scrapy.linkextractors import LinkExtractor
 
 
-class DetikSpider(scrapy.Spider):
-    name = "detik"
+class NewsSpider(scrapy.Spider):
+    name = "news"
     allowed_domains = ["detik.com"]
     start_urls = [
-        # "https://www.detik.com/search/searchall?query=bencana&amp;siteid=2&amp;sortby=time&amp;page=1",
-        "https://www.detik.com/search/searchall?query=bencana&siteid=2&sortby=time&page=2"
+        "https://www.detik.com/search/searchall?query=bencana&siteid=2",
     ]
     interator = 0
 
