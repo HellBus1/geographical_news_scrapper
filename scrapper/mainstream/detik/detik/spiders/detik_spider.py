@@ -7,8 +7,10 @@ class DetikSpider(scrapy.Spider):
     name = "detik"
     allowed_domains = ["detik.com"]
     start_urls = [
-        "https://www.detik.com/search/searchall?query=bencana&siteid=2",
+        # "https://www.detik.com/search/searchall?query=bencana&amp;siteid=2&amp;sortby=time&amp;page=1",
+        "https://www.detik.com/search/searchall?query=bencana&siteid=2&sortby=time&page=2"
     ]
+    interator = 0
 
     def parse(self, response):
         for article in response.css("article"):
@@ -16,10 +18,18 @@ class DetikSpider(scrapy.Spider):
 
             yield response.follow(link, self.parse_article)
 
-        next_page = response.xpath('a.last').extract_first()
-        if next_page is not None:
-            yield response.follow(next_page, self.parse)
+        for navbutton in response.css('a'):
+            if self.interator == 10:
+                break
+
+            if navbutton.css("a.last img::attr(alt)").extract_first() == "Kanan":
+                next_page = navbutton.css(
+                    "a.last::attr(href)").extract_first()
+                if next_page is not None:
+                    self.interator += 1
+                    next_page = response.urljoin(next_page)
+                    yield scrapy.Request(next_page, callback=self.parse)
 
     def parse_article(self, response):
-        for text in response.css("div.detail__body-text"):
-            print(text.css("p").extract_first())
+        print(response.css("title").extract_first())
+        print("")
