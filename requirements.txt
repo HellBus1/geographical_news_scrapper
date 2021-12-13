@@ -26,3 +26,11 @@ six
 Twisted
 w3lib
 zope.interface
+selenium
+pandas
+numpy
+html2text
+nltk
+swifter
+Sastrawi
+openpyxl
