@@ -6,10 +6,7 @@ Geographical news scrapper is a project that scrap news for specific category (e
 
 ## How to Install
 ### News Scrapper
-1. Go to project folder 
-> cd mainstream
-
-2. Setup virtual env
+1. Setup virtual env
 > virtualenv venv
 
 3. Activate virtualenv
