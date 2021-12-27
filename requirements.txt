@@ -1,3 +1,6 @@
+pythran
+cython
+pybind11
 asn1crypto
 attrs
 Automat
@@ -34,3 +37,7 @@ nltk
 swifter
 Sastrawi
 openpyxl
+fasttext
+gensim
+sklearn
+nltk

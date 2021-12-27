@@ -9,10 +9,6 @@ from nltk.tokenize import word_tokenize
 from nltk.probability import FreqDist
 from nltk.corpus import stopwords
 
-class TextProcessing:
-  def __init__(self):
-    pass
-
 # ----- Tokenizing -----
 def remove_news_special(text):
   # remove tab, new line, and back slice
@@ -69,20 +65,20 @@ def stopwords_removal(words):
 if __name__ == "__main__":
   # nltk.download_shell()
   news_data = pd.read_csv("scrapped_news.csv", encoding = "ISO-8859-1")
-  # print(news_data['title'].isnull())
   # print(news_data['description'].isnull())
-  news_data['title'] = news_data['title'].apply(remove_news_special)
-  news_data['title'] = news_data['title'].apply(remove_number)
-  news_data['title'] = news_data['title'].apply(remove_punctuation)
-  news_data['title'] = news_data['title'].apply(remove_whitespace_LT)
-  news_data['title'] = news_data['title'].apply(remove_whitespace_multiple)
-  news_data['title'] = news_data['title'].apply(remove_single_char)
-  news_data['title_tokens'] = news_data['title'].apply(word_tokenize_wrapper)
-  news_data['title_tokens_fdist'] = news_data['title_tokens'].apply(freqDist_wrapper)
-  news_data['title_tokens_wsw'] = news_data['title_tokens'].apply(freqDist_wrapper)
+  # print(news_data['description'].isnull())
+  news_data['description'] = news_data['description'].apply(remove_news_special)
+  # news_data['description'] = news_data['description'].apply(remove_number)
+  news_data['description'] = news_data['description'].apply(remove_punctuation)
+  news_data['description'] = news_data['description'].apply(remove_whitespace_LT)
+  news_data['description'] = news_data['description'].apply(remove_whitespace_multiple)
+  news_data['description'] = news_data['description'].apply(remove_single_char)
+  news_data['description_tokens'] = news_data['description'].apply(word_tokenize_wrapper)
+  news_data['description_tokens_fdist'] = news_data['description_tokens'].apply(freqDist_wrapper)
+  news_data['description_tokens_wsw'] = news_data['description_tokens'].apply(freqDist_wrapper)
 
-  stemmer = CustomStemmer(news_data['title_tokens_wsw'])
-  news_data['title_tokens_stemmed'] = news_data['title_tokens_wsw'].swifter.apply(stemmer.get_stemmed_term)
+  stemmer = CustomStemmer(news_data['description_tokens_wsw'])
+  news_data['description_tokens_stemmed'] = news_data['description_tokens_wsw'].swifter.apply(stemmer.get_stemmed_term)
   # We will skip normalization word 
   
   news_data.to_csv('text_preprocessing.csv')
