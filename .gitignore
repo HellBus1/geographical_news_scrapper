@@ -129,3 +129,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.bin.gz
+*.bin
+Word_Embedding.ipynb
+*.pckl

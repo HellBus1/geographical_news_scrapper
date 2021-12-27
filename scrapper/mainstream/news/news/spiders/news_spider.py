@@ -12,7 +12,8 @@ class NewsSpider(scrapy.Spider):
         "detik.com",
     ]
     start_urls = [
-        "https://www.detik.com/search/searchall?query=bencana&siteid=2",
+        "https://www.detik.com/tag/banjir",
+        "https://www.detik.com/tag/gempa",
     ]
     interator = 0
 
@@ -21,7 +22,7 @@ class NewsSpider(scrapy.Spider):
         f = open('scrapped_news.csv', 'w')
 
         writer = csv.writer(f)
-        writer.writerow(['title', 'description'])
+        writer.writerow(['title', 'description', 'date'])
 
         f.close()
 
@@ -54,12 +55,18 @@ class NewsSpider(scrapy.Spider):
 
         title = response.css("h1.detail__title::text").extract_first()
         newsModel.title = ""
+        
 
         if title != None:
+            date = response.css("div.detail__date::text").extract_first()
+            desc += self.textParser(title)
             newsModel.title = self.textParser(title)
+            newsModel.date = self.textParser(date)
         else:
             title = response.css("h1.mt5::text").extract_first()
+            date = response.css("div.date::text").extract_first()
             newsModel.title = self.textParser(title)
+            newsModel.date = self.textParser(date)
 
         for paragraph in response.css('p'):
           paragraphBody = paragraph.css("p::text").extract_first()
@@ -69,7 +76,7 @@ class NewsSpider(scrapy.Spider):
         newsModel.description = desc
         
         writer = csv.writer(f)
-        writer.writerow([str(newsModel.title), str(newsModel.description)])
+        writer.writerow([str(newsModel.title), str(newsModel.description), str(newsModel.date)])
 
         f.close()
 
