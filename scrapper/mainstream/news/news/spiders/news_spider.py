@@ -59,7 +59,7 @@ class NewsSpider(scrapy.Spider):
 
         if title != None:
             date = response.css("div.detail__date::text").extract_first()
-            desc += self.textParser(title)
+            desc += (self.textParser(title) + " ")
             newsModel.title = self.textParser(title)
             newsModel.date = self.textParser(date)
         else:
