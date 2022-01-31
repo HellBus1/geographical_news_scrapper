@@ -64,7 +64,7 @@ def stopwords_removal(words):
 
 if __name__ == "__main__":
   # nltk.download_shell()
-  news_data = pd.read_csv("scrapped_news.csv", encoding = "ISO-8859-1")
+  news_data = pd.read_csv('scrapped_news.csv', encoding = "ISO-8859-1")
   # print(news_data['description'].isnull())
   # print(news_data['description'].isnull())
   news_data['description'] = news_data['description'].apply(remove_news_special)

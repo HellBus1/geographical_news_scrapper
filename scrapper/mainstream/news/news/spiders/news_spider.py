@@ -1,8 +1,10 @@
 
+import this
 from .parsed_news_model import ParsedNewsModel
 import scrapy
 from scrapy.linkextractors import LinkExtractor
 from urllib.parse import urlparse
+import pandas as pd
 import csv
 import html2text
 
@@ -12,19 +14,21 @@ class NewsSpider(scrapy.Spider):
         "detik.com",
     ]
     start_urls = [
-        "https://www.detik.com/tag/banjir",
-        "https://www.detik.com/tag/gempa",
+        "https://www.detik.com/tag/kecelakaan",
     ]
     interator = 0
 
+    berita = []
+
+
     def __init__(self, *a, **kw):
         super(NewsSpider, self).__init__(*a, **kw)
-        f = open('scrapped_news.csv', 'w')
+        # f = open('test_news.csv', 'w')
 
-        writer = csv.writer(f)
-        writer.writerow(['title', 'description', 'date'])
+        # writer = csv.writer(f)
+        # writer.writerow(['title', 'description', 'date'])
 
-        f.close()
+        # f.close()
 
     def parse(self, response):
         domain = urlparse(response.request.url).netloc
@@ -46,9 +50,10 @@ class NewsSpider(scrapy.Spider):
                         self.interator += 1
                         next_page = response.urljoin(next_page)
                         yield scrapy.Request(next_page, callback=self.parse)
+        
 
     def parse_article(self, response):
-        f = open('scrapped_news.csv', 'a')
+        # f = open('scrapped_news.csv', 'a')
 
         desc = ""
         newsModel = ParsedNewsModel()
@@ -74,14 +79,22 @@ class NewsSpider(scrapy.Spider):
             desc += (self.textParser(paragraphBody) + " ")
 
         newsModel.description = desc
-        
-        writer = csv.writer(f)
-        writer.writerow([str(newsModel.title), str(newsModel.description), str(newsModel.date)])
 
-        f.close()
+        data = [str(newsModel.title), str(newsModel.date), str(newsModel.description)]
+
+        self.berita.append(data)
+        
+        writer = pd.DataFrame(self.berita, columns=['title', 'date',  'description'])
+        writer.to_csv('scrapped_news.csv', index=False, sep=',')
+        # writer = csv.writer(f)
+        # writer.writerow([str(newsModel.title), str(newsModel.description), str(newsModel.date)])
+
+        # f.close()
 
     def textParser(self, text):
         converter = html2text.HTML2Text()
         converter.ignore_links = True
+
+        # print('selesai textparser')
 
         return converter.handle(text)
