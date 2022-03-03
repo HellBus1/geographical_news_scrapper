@@ -41,3 +41,8 @@ fasttext
 gensim
 sklearn
 nltk
+matplotlib
+sentence-transformers
+keybert
+textblob
+yake

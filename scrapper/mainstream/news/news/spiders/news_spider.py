@@ -26,9 +26,26 @@ class NewsSpider(scrapy.Spider):
     ]
     start_urls = [
         # "https://www.detik.com/tag/bencana",
-        # "https://www.detik.com/tag/gempa",
+        "https://www.detik.com/tag/gempa",
+        # "https://www.detik.com/tag/banjir",
+        # "https://www.detik.com/tag/banjir-bandang",
+        "https://www.detik.com/tag/kemarau",
+        "https://www.detik.com/tag/kekeringan",
+        "https://www.detik.com/tag/kebakaran-hutan",
+        "https://www.detik.com/tag/cuaca-panas",
+        "https://www.detik.com/tag/awan-panas",
+        "https://www.detik.com/tag/longsor",
+        "https://www.detik.com/tag/angin-kencang",
+        "https://www.detik.com/tag/bencana-alam",
+        "https://www.detik.com/tag/pergerakan-tanah",
+        "https://www.detik.com/tag/pergeseran-tanah",
+        "https://www.detik.com/tag/kebakaran",
+        "https://www.detik.com/tag/erosi",
+        "https://www.detik.com/tag/abrasi",
+        "https://www.detik.com/tag/tsunami",
+        # "https://www.kompas.com/tag/kecelakaan"
         # "https://www.kompas.com/tag/bencana",
-        "https://www.tribunnews.com/tag/bencana"
+        # "https://www.tribunnews.com/tag/bencana"
     ]
     headers = {
         'Connection': 'keep-alive',
@@ -45,7 +62,9 @@ class NewsSpider(scrapy.Spider):
     }
     interator = 0
     current_domain = ""
+    current_url = ""
     berita = []
+    visited = []
 
     def __init__(self, *a, **kw):
         super(NewsSpider, self).__init__(*a, **kw)
@@ -53,6 +72,9 @@ class NewsSpider(scrapy.Spider):
 
     def parse(self, response):
         domain = urlparse(response.request.url).netloc
+        if self.current_url != response.request.url:
+            self.current_url = response.request.url
+            self.visited.clear()
 
         if (domain == "www.detik.com"):
             self.current_domain = domain
@@ -61,14 +83,21 @@ class NewsSpider(scrapy.Spider):
 
                 yield response.follow(link, self.parse_detik)
 
-            for navbutton in response.css('a'):
-                # if self.interator == 2:
-                #     break
+            for navbutton in response.css('div.paging a'):
+                
+                currentIndexView = navbutton.css("a::text").extract_first()
+                if currentIndexView != None:
+                    if (currentIndexView.isnumeric() and (currentIndexView not in self.visited)):
+                        self.visited.append(currentIndexView)
+                        next_page = navbutton.css("a::attr(href)").extract_first()
+                        
+                        if next_page is not None and ("tv." not in next_page):
+                            next_page = response.urljoin(next_page)
+                            yield scrapy.Request(next_page, callback=self.parse, headers=self.headers)
 
-                if navbutton.css("a.last img::attr(alt)").extract_first() == "Kanan":
-                    next_page = navbutton.css(
-                        "a.last::attr(href)").extract_first()
-                    if next_page is not None:
+                elif "next" in navbutton.css("a::attr(onclick)").extract_first():    
+                    next_page = navbutton.css("a::attr(href)").extract_first()
+                    if next_page is not None and ("tv." not in next_page):
                         self.interator += 1
                         next_page = response.urljoin(next_page)
                         yield scrapy.Request(next_page, callback=self.parse, headers=self.headers)
@@ -76,14 +105,14 @@ class NewsSpider(scrapy.Spider):
         elif (domain == "www.kompas.com"):
             self.current_domain = domain
             for article in response.css("div.article__list"):
-                link = article.css("a::attr(href)").extract_first() + "?page=all"
+                link = article.css("a::attr(href)").extract_first() 
+                # + "?page=all"
 
                 yield response.follow(link, self.parse_kompas)
 
                 next_page = response.css(
                     "a.paging__link--next::attr(href)").extract_first()
                 if next_page is not None:
-                    self.interator += 1
                     next_page = response.urljoin(next_page)
                     yield scrapy.Request(next_page, callback=self.parse, headers=self.headers)
 
@@ -128,36 +157,33 @@ class NewsSpider(scrapy.Spider):
     def parse_detik(self, response):
             
         author = response.css("div.detail__author::text").extract_first()
+        
+        desc = ""
 
-        if "detikTV" in author.lower():
-            print("ada")
+        title = response.css("h1.detail__title::text").extract_first()
+
+        if title != None:
+            date = response.css("div.detail__date::text").extract_first()
         else:
-            desc = ""
-
-            title = response.css("h1.detail__title::text").extract_first()
-
-            if title != None:
-                date = response.css("div.detail__date::text").extract_first()
-                title = self.textParser(title)
-                date = self.textParser(date)
-            else:
-                title = response.css("h1.mt5::text").extract_first()
-                date = response.css("div.date::text").extract_first()
-                title = self.textParser(title)
-                date = self.textParser(date)
-
-            if len(response.css('p')) > 0 :
-                for paragraph in response.css('p'):
-                    paragraphBody = paragraph.css("p::text").extract_first()
-                    if paragraphBody != None:
-                        desc += (self.textParser(paragraphBody) + " ")
-
-            description = desc
+            title = response.css("h1.mt5::text").extract_first()
+            date = response.css("div.date::text").extract_first()
             
-            if description != "" and title != "" and date != "":
-                data = [str(title), str(date), str(description), str(self.current_domain)]
+        title = title
+        date = date
+        date = date
 
-                self.berita.append(data)
+        # if len(response.css('p')) > 0 :
+        for paragraph in response.css('p'):
+            paragraphBody = paragraph.css("p::text").extract_first()
+            if paragraphBody != None:
+                desc += (self.textParser(paragraphBody) + " ")
+
+        description = desc
+        
+        if description != "" and title != "" and date != "":
+            data = [str(title), str(date), str(description), str(self.current_domain)]
+
+            self.berita.append(data)
     
     def parse_tribun(self, response):
         desc = ""
