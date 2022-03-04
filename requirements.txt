@@ -41,3 +41,4 @@ fasttext
 gensim
 sklearn
 nltk
+keybert
