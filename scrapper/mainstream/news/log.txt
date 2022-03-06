@@ -1,0 +1,614 @@
+INFO: Scrapy 2.5.1 started (bot: news)
+INFO: Versions: lxml 4.7.1.0, libxml2 2.9.4, cssselect 1.1.0, parsel 1.6.0, w3lib 1.22.0, Twisted 21.7.0, Python 3.10.2 (v3.10.2:a58ebcc701, Jan 13 2022, 14:50:16) [Clang 13.0.0 (clang-1300.0.29.30)], pyOpenSSL 21.0.0 (OpenSSL 1.1.1m  14 Dec 2021), cryptography 36.0.1, Platform macOS-12.1-arm64-arm-64bit
+DEBUG: Using reactor: twisted.internet.selectreactor.SelectReactor
+INFO: Overridden settings:
+{'BOT_NAME': 'news',
+ 'LOG_ENABLED': False,
+ 'NEWSPIDER_MODULE': 'news.spiders',
+ 'ROBOTSTXT_OBEY': True,
+ 'SPIDER_MODULES': ['news.spiders'],
+ 'USER_AGENT': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
+               'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 '
+               'Safari/537.36'}
+INFO: Telnet Password: 5ef84825a6c72558
+INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+INFO: Enabled item pipelines:
+[]
+INFO: Spider opened
+INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+INFO: Telnet console listening on 127.0.0.1:6023
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/robots.txt> (referer: None)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/tag/kriminalitas> (referer: None)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/tag/kriminalitas?page=2> (referer: https://www.tribunnews.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/nasional/2022/01/19/pengamat-sebut-jemput-paksa-haris-azhar-dan-fatia-maulidiyanti-kriminalisasi-ini-alasannya?page=all> (referer: https://www.tribunnews.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/tag/kriminalitas?page=3> (referer: https://www.tribunnews.com/tag/kriminalitas?page=2)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/tag/kriminalitas?page=4> (referer: https://www.tribunnews.com/tag/kriminalitas?page=3)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/tag/kriminalitas?page=5> (referer: https://www.tribunnews.com/tag/kriminalitas?page=4)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/metropolitan/2016/08/01/lakukan-pemerasan-bermodal-foto-telanjang-korban-sepasang-kekasih-ditangkap-polisi?page=all> (referer: https://www.tribunnews.com/tag/kriminalitas?page=4)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/metropolitan/2017/12/29/kapolri-sebut-jumlah-kejahatan-yang-terjadi-selama-2017-turun-23-persen?page=all> (referer: https://www.tribunnews.com/tag/kriminalitas?page=3)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/regional/2016/03/28/bermaksud-merampok-perempuan-mahasiswa-todongkan-pisau-ke-leher-korban-dosennya-sendiri?page=all> (referer: https://www.tribunnews.com/tag/kriminalitas?page=5)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/regional/2020/01/02/dalam-setahun-2019-angka-kriminalitas-di-sumatera-utara-mencapai-31388-kasus?page=all> (referer: https://www.tribunnews.com/tag/kriminalitas?page=2)
+INFO: Closing spider (finished)
+INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 9111,
+ 'downloader/request_count': 11,
+ 'downloader/request_method_count/GET': 11,
+ 'downloader/response_bytes': 263044,
+ 'downloader/response_count': 11,
+ 'downloader/response_status_count/200': 11,
+ 'elapsed_time_seconds': 1.992494,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2022, 3, 1, 10, 32, 6, 521918),
+ 'httpcompression/response_bytes': 1171853,
+ 'httpcompression/response_count': 11,
+ 'log_count/DEBUG': 11,
+ 'log_count/INFO': 10,
+ 'memusage/max': 101138432,
+ 'memusage/startup': 101138432,
+ 'request_depth_max': 5,
+ 'response_received_count': 11,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 10,
+ 'scheduler/dequeued/memory': 10,
+ 'scheduler/enqueued': 10,
+ 'scheduler/enqueued/memory': 10,
+ 'start_time': datetime.datetime(2022, 3, 1, 10, 32, 4, 529424)}
+INFO: Spider closed (finished)
+INFO: Scrapy 2.5.1 started (bot: news)
+INFO: Versions: lxml 4.7.1.0, libxml2 2.9.4, cssselect 1.1.0, parsel 1.6.0, w3lib 1.22.0, Twisted 21.7.0, Python 3.10.2 (v3.10.2:a58ebcc701, Jan 13 2022, 14:50:16) [Clang 13.0.0 (clang-1300.0.29.30)], pyOpenSSL 21.0.0 (OpenSSL 1.1.1m  14 Dec 2021), cryptography 36.0.1, Platform macOS-12.1-arm64-arm-64bit
+DEBUG: Using reactor: twisted.internet.selectreactor.SelectReactor
+INFO: Overridden settings:
+{'BOT_NAME': 'news',
+ 'LOG_ENABLED': False,
+ 'NEWSPIDER_MODULE': 'news.spiders',
+ 'ROBOTSTXT_OBEY': True,
+ 'SPIDER_MODULES': ['news.spiders'],
+ 'USER_AGENT': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
+               'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 '
+               'Safari/537.36'}
+INFO: Telnet Password: 5baa7b2358c8d41c
+INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+INFO: Enabled item pipelines:
+[]
+INFO: Spider opened
+INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+INFO: Telnet console listening on 127.0.0.1:6023
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/robots.txt> (referer: None)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/tag/kriminalitas> (referer: None)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/nasional/2022/01/19/pengamat-sebut-jemput-paksa-haris-azhar-dan-fatia-maulidiyanti-kriminalisasi-ini-alasannya?page=all> (referer: https://www.tribunnews.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/tag/kriminalitas?page=2> (referer: https://www.tribunnews.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/tag/kriminalitas?page=3> (referer: https://www.tribunnews.com/tag/kriminalitas?page=2)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/regional/2020/01/02/dalam-setahun-2019-angka-kriminalitas-di-sumatera-utara-mencapai-31388-kasus?page=all> (referer: https://www.tribunnews.com/tag/kriminalitas?page=2)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/tag/kriminalitas?page=4> (referer: https://www.tribunnews.com/tag/kriminalitas?page=3)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/tag/kriminalitas?page=5> (referer: https://www.tribunnews.com/tag/kriminalitas?page=4)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/regional/2016/03/28/bermaksud-merampok-perempuan-mahasiswa-todongkan-pisau-ke-leher-korban-dosennya-sendiri?page=all> (referer: https://www.tribunnews.com/tag/kriminalitas?page=5)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/metropolitan/2017/12/29/kapolri-sebut-jumlah-kejahatan-yang-terjadi-selama-2017-turun-23-persen?page=all> (referer: https://www.tribunnews.com/tag/kriminalitas?page=3)
+DEBUG: Crawled (200) <GET https://www.tribunnews.com/metropolitan/2016/08/01/lakukan-pemerasan-bermodal-foto-telanjang-korban-sepasang-kekasih-ditangkap-polisi?page=all> (referer: https://www.tribunnews.com/tag/kriminalitas?page=4)
+INFO: Closing spider (finished)
+INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 9111,
+ 'downloader/request_count': 11,
+ 'downloader/request_method_count/GET': 11,
+ 'downloader/response_bytes': 262490,
+ 'downloader/response_count': 11,
+ 'downloader/response_status_count/200': 11,
+ 'elapsed_time_seconds': 3.43444,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2022, 3, 1, 13, 4, 3, 902087),
+ 'httpcompression/response_bytes': 1169470,
+ 'httpcompression/response_count': 11,
+ 'log_count/DEBUG': 11,
+ 'log_count/INFO': 10,
+ 'memusage/max': 101548032,
+ 'memusage/startup': 101548032,
+ 'request_depth_max': 5,
+ 'response_received_count': 11,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 10,
+ 'scheduler/dequeued/memory': 10,
+ 'scheduler/enqueued': 10,
+ 'scheduler/enqueued/memory': 10,
+ 'start_time': datetime.datetime(2022, 3, 1, 13, 4, 0, 467647)}
+INFO: Spider closed (finished)
+INFO: Scrapy 2.5.1 started (bot: news)
+INFO: Versions: lxml 4.7.1.0, libxml2 2.9.4, cssselect 1.1.0, parsel 1.6.0, w3lib 1.22.0, Twisted 21.7.0, Python 3.10.2 (v3.10.2:a58ebcc701, Jan 13 2022, 14:50:16) [Clang 13.0.0 (clang-1300.0.29.30)], pyOpenSSL 21.0.0 (OpenSSL 1.1.1m  14 Dec 2021), cryptography 36.0.1, Platform macOS-12.1-arm64-arm-64bit
+DEBUG: Using reactor: twisted.internet.selectreactor.SelectReactor
+INFO: Overridden settings:
+{'BOT_NAME': 'news',
+ 'LOG_ENABLED': False,
+ 'NEWSPIDER_MODULE': 'news.spiders',
+ 'ROBOTSTXT_OBEY': True,
+ 'SPIDER_MODULES': ['news.spiders'],
+ 'USER_AGENT': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
+               'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 '
+               'Safari/537.36'}
+INFO: Telnet Password: cac0d84577347982
+INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+INFO: Enabled item pipelines:
+[]
+INFO: Spider opened
+INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+INFO: Telnet console listening on 127.0.0.1:6023
+DEBUG: Crawled (200) <GET https://www.kompas.com/robots.txt> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/kriminalitas> (referer: None)
+DEBUG: Filtered duplicate request: <GET https://www.kompas.com/tag/kriminalitas?sort=desc&page=2> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/sains/read/2021/10/08/113000723/mengenal-psikopat-kriminalitas-remaja-jadi-faktor-risikonya?page=all> from <GET http://www.kompas.com/sains/read/2021/10/08/113000723/mengenal-psikopat-kriminalitas-remaja-jadi-faktor-risikonya?page=all>
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/robots.txt> from <GET http://nasional.kompas.com/robots.txt>
+DEBUG: Redirecting (301) to <GET https://otomotif.kompas.com/robots.txt> from <GET http://otomotif.kompas.com/robots.txt>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/tren/read/2021/12/28/141500565/apa-itu-klitih-aksi-kriminalitas-jalanan-remaja-di-yogyakarta-?page=all> from <GET http://www.kompas.com/tren/read/2021/12/28/141500565/apa-itu-klitih-aksi-kriminalitas-jalanan-remaja-di-yogyakarta-?page=all>
+DEBUG: Redirecting (301) to <GET https://travel.kompas.com/robots.txt> from <GET http://travel.kompas.com/robots.txt>
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/kriminalitas?sort=desc&page=2> (referer: https://www.kompas.com/tag/kriminalitas)
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/robots.txt> from <GET http://megapolitan.kompas.com/robots.txt>
+DEBUG: Redirecting (301) to <GET https://bandung.kompas.com/robots.txt> from <GET http://bandung.kompas.com/robots.txt>
+DEBUG: Crawled (200) <GET https://otomotif.kompas.com/robots.txt> (referer: None)
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/robots.txt> (referer: None)
+DEBUG: Crawled (200) <GET https://travel.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://otomotif.kompas.com/read/2021/06/15/084200415/kasus-premanisme-pengemudi-truk-di-tanjung-priok-gara-gara-macet?page=all> from <GET http://otomotif.kompas.com/read/2021/06/15/084200415/kasus-premanisme-pengemudi-truk-di-tanjung-priok-gara-gara-macet?page=all>
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2021/08/06/14000651/calon-hakim-agung-ungkap-dugaan-sebab-oknum-tni-terlibat-kriminalitas?page=all> from <GET http://nasional.kompas.com/read/2021/08/06/14000651/calon-hakim-agung-ungkap-dugaan-sebab-oknum-tni-terlibat-kriminalitas?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/global/read/2020/06/27/160820970/trump-soal-chicago-lebih-parah-dari-afghanistan-hidup-di-sana-seperti-di?page=all> from <GET http://www.kompas.com/global/read/2020/06/27/160820970/trump-soal-chicago-lebih-parah-dari-afghanistan-hidup-di-sana-seperti-di?page=all>
+DEBUG: Redirecting (301) to <GET https://travel.kompas.com/read/2022/01/31/220937327/10-negara-dengan-tingkat-kejahatan-tertinggi-di-dunia?page=all> from <GET http://travel.kompas.com/read/2022/01/31/220937327/10-negara-dengan-tingkat-kejahatan-tertinggi-di-dunia?page=all>
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2020/06/23/08083901/angka-kriminalitas-menurun-sepekan-terakhir-ini-paparannya?page=all> from <GET http://nasional.kompas.com/read/2020/06/23/08083901/angka-kriminalitas-menurun-sepekan-terakhir-ini-paparannya?page=all>
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2021/01/26/14453041/pengamat-komponen-cadangan-yang-tak-dikelola-dengan-baik-berpotensi?page=all> from <GET http://nasional.kompas.com/read/2021/01/26/14453041/pengamat-komponen-cadangan-yang-tak-dikelola-dengan-baik-berpotensi?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/robots.txt> from <GET http://money.kompas.com/robots.txt>
+DEBUG: Crawled (200) <GET https://bandung.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2021/07/20/19024181/tingkat-kriminalitas-di-jakarta-barat-turun-12-persen?page=all> from <GET http://megapolitan.kompas.com/read/2021/07/20/19024181/tingkat-kriminalitas-di-jakarta-barat-turun-12-persen?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2021/10/05/19000421/polda-metro-jaya-angka-kriminalitas-naik-selama-pandemi-covid-19?page=all> from <GET http://megapolitan.kompas.com/read/2021/10/05/19000421/polda-metro-jaya-angka-kriminalitas-naik-selama-pandemi-covid-19?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2021/09/29/15153331/polisi-ppkm-dilonggarkan-terjadi-peningkatan-kriminalitas-di-kota-bekasi?page=all> from <GET http://megapolitan.kompas.com/read/2021/09/29/15153331/polisi-ppkm-dilonggarkan-terjadi-peningkatan-kriminalitas-di-kota-bekasi?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2021/12/22/05350081/banyak-lampu-jalan-di-jakarta-dilaporkan-mati-ada-yang-padam-3-bulan?page=all> from <GET http://megapolitan.kompas.com/read/2021/12/22/05350081/banyak-lampu-jalan-di-jakarta-dilaporkan-mati-ada-yang-padam-3-bulan?page=all>
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2020/07/01/10390631/polri-catat-penurunan-angka-kriminalitas-pada-pekan-lalu?page=all> from <GET http://nasional.kompas.com/read/2020/07/01/10390631/polri-catat-penurunan-angka-kriminalitas-pada-pekan-lalu?page=all>
+DEBUG: Redirecting (301) to <GET https://bandung.kompas.com/read/2021/12/23/130245278/polda-banten-waspadai-aksi-kriminalitas-saat-nataru-termasuk-teroris?page=all> from <GET http://bandung.kompas.com/read/2021/12/23/130245278/polda-banten-waspadai-aksi-kriminalitas-saat-nataru-termasuk-teroris?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/tren/read/2021/12/28/141500565/apa-itu-klitih-aksi-kriminalitas-jalanan-remaja-di-yogyakarta-?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/sains/read/2021/10/08/113000723/mengenal-psikopat-kriminalitas-remaja-jadi-faktor-risikonya?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2020/06/30/170121826/benarkah-kriminalitas-di-indonesia-banyak-dipicu-kemiskinan?page=all> from <GET http://money.kompas.com/read/2020/06/30/170121826/benarkah-kriminalitas-di-indonesia-banyak-dipicu-kemiskinan?page=all>
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2020/07/06/20542291/polri-sebut-ada-penurunan-kasus-kriminalitas-di-dua-pekan-terakhir-sebesar?page=all> from <GET http://nasional.kompas.com/read/2020/07/06/20542291/polri-sebut-ada-penurunan-kasus-kriminalitas-di-dua-pekan-terakhir-sebesar?page=all>
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/robots.txt> from <GET http://regional.kompas.com/robots.txt>
+DEBUG: Crawled (200) <GET https://www.kompas.com/global/read/2020/06/27/160820970/trump-soal-chicago-lebih-parah-dari-afghanistan-hidup-di-sana-seperti-di?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://otomotif.kompas.com/read/2021/06/15/084200415/kasus-premanisme-pengemudi-truk-di-tanjung-priok-gara-gara-macet?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/global/read/2020/07/11/181737570/merasa-dirinya-robin-hood-ketua-geng-ini-minta-pengurangan-masa-tahanan?page=all> from <GET http://www.kompas.com/global/read/2020/07/11/181737570/merasa-dirinya-robin-hood-ketua-geng-ini-minta-pengurangan-masa-tahanan?page=all>
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2020/07/14/07054931/polri-catat-kenaikan-angka-kriminalitas-sebesar-1037-persen-dalam-sepekan?page=all> from <GET http://nasional.kompas.com/read/2020/07/14/07054931/polri-catat-kenaikan-angka-kriminalitas-sebesar-1037-persen-dalam-sepekan?page=all>
+DEBUG: Crawled (200) <GET https://travel.kompas.com/read/2022/01/31/220937327/10-negara-dengan-tingkat-kejahatan-tertinggi-di-dunia?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2021/08/06/14000651/calon-hakim-agung-ungkap-dugaan-sebab-oknum-tni-terlibat-kriminalitas?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2020/06/23/08083901/angka-kriminalitas-menurun-sepekan-terakhir-ini-paparannya?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2021/01/26/14453041/pengamat-komponen-cadangan-yang-tak-dikelola-dengan-baik-berpotensi?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2020/07/28/17341441/angka-kriminalitas-meningkat-pada-pekan-lalu-kasus-narkotika-terbanyak?page=all> from <GET http://nasional.kompas.com/read/2020/07/28/17341441/angka-kriminalitas-meningkat-pada-pekan-lalu-kasus-narkotika-terbanyak?page=all>
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2021/07/20/19024181/tingkat-kriminalitas-di-jakarta-barat-turun-12-persen?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/global/read/2020/07/23/125437970/penangkapan-7-petugas-polisi-carabinieri-di-italia-mengungkap-rangkaian?page=all> from <GET http://www.kompas.com/global/read/2020/07/23/125437970/penangkapan-7-petugas-polisi-carabinieri-di-italia-mengungkap-rangkaian?page=all>
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2020/08/04/16244691/seminggu-terakhir-polri-catat-penurunan-angka-kriminalitas-sebesar-306?page=all> from <GET http://nasional.kompas.com/read/2020/08/04/16244691/seminggu-terakhir-polri-catat-penurunan-angka-kriminalitas-sebesar-306?page=all>
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2020/07/01/10390631/polri-catat-penurunan-angka-kriminalitas-pada-pekan-lalu?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2020/07/01/16175951/setelah-psbb-palembang-dicabut-kriminalitas-malah-meningkat?page=all> from <GET http://regional.kompas.com/read/2020/07/01/16175951/setelah-psbb-palembang-dicabut-kriminalitas-malah-meningkat?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2020/08/25/17090911/mengaku-sebagai-teknisi-seorang-pria-rampok-pusat-gadai-di-tangerang?page=all> from <GET http://megapolitan.kompas.com/read/2020/08/25/17090911/mengaku-sebagai-teknisi-seorang-pria-rampok-pusat-gadai-di-tangerang?page=all>
+DEBUG: Crawled (200) <GET https://bandung.kompas.com/read/2021/12/23/130245278/polda-banten-waspadai-aksi-kriminalitas-saat-nataru-termasuk-teroris?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2020/12/21/11325091/selama-pandemi-covid-19-pembegalan-di-kalsel-makin-marak?page=all> from <GET http://regional.kompas.com/read/2020/12/21/11325091/selama-pandemi-covid-19-pembegalan-di-kalsel-makin-marak?page=all>
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2020/12/24/06351531/pandemi-covid-19-angka-kriminalitas-meningkat-kecelakaan-lalu-lintas-menurun?page=all> from <GET http://regional.kompas.com/read/2020/12/24/06351531/pandemi-covid-19-angka-kriminalitas-meningkat-kecelakaan-lalu-lintas-menurun?page=all>
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2020/12/26/11172131/kaleidoskop-2020-kasus-kriminalitas-di-banten-yang-bikin-heboh-madu-palsu?page=all> from <GET http://regional.kompas.com/read/2020/12/26/11172131/kaleidoskop-2020-kasus-kriminalitas-di-banten-yang-bikin-heboh-madu-palsu?page=all>
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2021/10/05/19000421/polda-metro-jaya-angka-kriminalitas-naik-selama-pandemi-covid-19?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/global/read/2021/02/28/184836370/dna-dari-kaleng-minuman-soda-ungkap-misteri-pembunuhan-40-tahun-lalu?page=all> from <GET http://www.kompas.com/global/read/2021/02/28/184836370/dna-dari-kaleng-minuman-soda-ungkap-misteri-pembunuhan-40-tahun-lalu?page=all>
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2021/12/22/05350081/banyak-lampu-jalan-di-jakarta-dilaporkan-mati-ada-yang-padam-3-bulan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2021/09/29/15153331/polisi-ppkm-dilonggarkan-terjadi-peningkatan-kriminalitas-di-kota-bekasi?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/kriminalitas?sort=desc&page=3> (referer: https://www.kompas.com/tag/kriminalitas?sort=desc&page=2)
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2021/12/30/173403078/kasus-kriminalitas-di-maluku-turun-sepanjang-2021-yang-naik-justru-narkoba?page=all> from <GET http://regional.kompas.com/read/2021/12/30/173403078/kasus-kriminalitas-di-maluku-turun-sepanjang-2021-yang-naik-justru-narkoba?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/global/read/2020/07/11/181737570/merasa-dirinya-robin-hood-ketua-geng-ini-minta-pengurangan-masa-tahanan?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2021/12/31/19055321/tingkat-kriminalitas-di-jakarta-barat-menurun-dibanding-tahun-lalu?page=all> from <GET http://megapolitan.kompas.com/read/2021/12/31/19055321/tingkat-kriminalitas-di-jakarta-barat-menurun-dibanding-tahun-lalu?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/wiken/read/2022/01/29/153854881/terbanyak-ada-di-benua-amerika-ini-7-kota-paling-berbahaya-di-dunia?page=all> from <GET http://www.kompas.com/wiken/read/2022/01/29/153854881/terbanyak-ada-di-benua-amerika-ini-7-kota-paling-berbahaya-di-dunia?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2020/06/30/170121826/benarkah-kriminalitas-di-indonesia-banyak-dipicu-kemiskinan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/global/read/2020/07/23/125437970/penangkapan-7-petugas-polisi-carabinieri-di-italia-mengungkap-rangkaian?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2020/07/06/20542291/polri-sebut-ada-penurunan-kasus-kriminalitas-di-dua-pekan-terakhir-sebesar?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2020/04/22/15191181/minim-laporan-warga-polres-jaksel-sebut-angka-kriminalitas-menurun?page=all> from <GET http://megapolitan.kompas.com/read/2020/04/22/15191181/minim-laporan-warga-polres-jaksel-sebut-angka-kriminalitas-menurun?page=all>
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2020/08/25/17090911/mengaku-sebagai-teknisi-seorang-pria-rampok-pusat-gadai-di-tangerang?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2020/04/06/19045601/selama-pandemi-corona-angka-kriminalitas-di-makassar-menurun?page=all> from <GET http://regional.kompas.com/read/2020/04/06/19045601/selama-pandemi-corona-angka-kriminalitas-di-makassar-menurun?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2020/04/15/16404561/selama-pandemi-covid-19-angka-kriminalitas-di-tangsel-menurun?page=all> from <GET http://megapolitan.kompas.com/read/2020/04/15/16404561/selama-pandemi-covid-19-angka-kriminalitas-di-tangsel-menurun?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2020/04/16/10030341/tingkat-kriminalitas-di-jakarta-timur-turun-30-persen-selama-pandemi?page=all> from <GET http://megapolitan.kompas.com/read/2020/04/16/10030341/tingkat-kriminalitas-di-jakarta-timur-turun-30-persen-selama-pandemi?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2020/04/16/13431961/selama-pandemi-covid-19-polisi-ungkap-17-kasus-kejahatan-di-wilayah?page=all> from <GET http://megapolitan.kompas.com/read/2020/04/16/13431961/selama-pandemi-covid-19-polisi-ungkap-17-kasus-kejahatan-di-wilayah?page=all>
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2020/07/14/07054931/polri-catat-kenaikan-angka-kriminalitas-sebesar-1037-persen-dalam-sepekan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2020/08/04/16244691/seminggu-terakhir-polri-catat-penurunan-angka-kriminalitas-sebesar-306?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2020/07/28/17341441/angka-kriminalitas-meningkat-pada-pekan-lalu-kasus-narkotika-terbanyak?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2020/04/16/14293071/meski-kasus-kriminalitas-turun-di-tangsel-polisi-sebut-pencurian-motor?page=all> from <GET http://megapolitan.kompas.com/read/2020/04/16/14293071/meski-kasus-kriminalitas-turun-di-tangsel-polisi-sebut-pencurian-motor?page=all>
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2020/04/16/19360961/polri-sebut-muncul-potensi-kriminalitas-di-tengah-pandemi-covid-19?page=all> from <GET http://nasional.kompas.com/read/2020/04/16/19360961/polri-sebut-muncul-potensi-kriminalitas-di-tengah-pandemi-covid-19?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2020/04/17/08063051/polisi-klaim-angka-kriminalitas-menurun-selama-pandemi-covid-19?page=all> from <GET http://megapolitan.kompas.com/read/2020/04/17/08063051/polisi-klaim-angka-kriminalitas-menurun-selama-pandemi-covid-19?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/wiken/read/2022/01/29/153854881/terbanyak-ada-di-benua-amerika-ini-7-kota-paling-berbahaya-di-dunia?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2020/07/01/16175951/setelah-psbb-palembang-dicabut-kriminalitas-malah-meningkat?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2020/04/22/16213761/antisipasi-kriminalitas-polda-metro-jaya-bentuk-satgas-begal-dan-preman?page=all> from <GET http://megapolitan.kompas.com/read/2020/04/22/16213761/antisipasi-kriminalitas-polda-metro-jaya-bentuk-satgas-begal-dan-preman?page=all>
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2020/12/21/11325091/selama-pandemi-covid-19-pembegalan-di-kalsel-makin-marak?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2021/12/31/19055321/tingkat-kriminalitas-di-jakarta-barat-menurun-dibanding-tahun-lalu?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2020/04/27/15420281/angka-kriminalitas-di-jakarta-meningkat-10-persen-selama-pandemi-covid-19?page=all> from <GET http://megapolitan.kompas.com/read/2020/04/27/15420281/angka-kriminalitas-di-jakarta-meningkat-10-persen-selama-pandemi-covid-19?page=all>
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2020/12/26/11172131/kaleidoskop-2020-kasus-kriminalitas-di-banten-yang-bikin-heboh-madu-palsu?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/global/read/2020/05/02/033000670/pria-ini-ditembak-mati-polisi-setelah-lukai-banyak-korban-di-pusat?page=all> from <GET http://www.kompas.com/global/read/2020/05/02/033000670/pria-ini-ditembak-mati-polisi-setelah-lukai-banyak-korban-di-pusat?page=all>
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2020/12/24/06351531/pandemi-covid-19-angka-kriminalitas-meningkat-kecelakaan-lalu-lintas-menurun?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2020/05/07/18485421/remaja-dibacok-di-depok-jelang-sahur-terluka-di-bagian-kepala-hingga?page=all> from <GET http://megapolitan.kompas.com/read/2020/05/07/18485421/remaja-dibacok-di-depok-jelang-sahur-terluka-di-bagian-kepala-hingga?page=all>
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2020/04/15/16404561/selama-pandemi-covid-19-angka-kriminalitas-di-tangsel-menurun?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2021/12/30/173403078/kasus-kriminalitas-di-maluku-turun-sepanjang-2021-yang-naik-justru-narkoba?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2020/04/22/15191181/minim-laporan-warga-polres-jaksel-sebut-angka-kriminalitas-menurun?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/global/read/2021/02/28/184836370/dna-dari-kaleng-minuman-soda-ungkap-misteri-pembunuhan-40-tahun-lalu?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2020/05/08/15370601/aksi-heroik-satpam-di-depok-pertahankan-gerbang-perumahan-dari-perampokan?page=all> from <GET http://megapolitan.kompas.com/read/2020/05/08/15370601/aksi-heroik-satpam-di-depok-pertahankan-gerbang-perumahan-dari-perampokan?page=all>
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2020/05/18/16253371/kasus-kriminal-meningkat-704-persen-dalam-sepekan-salah-satunya-perampokan?page=all> from <GET http://nasional.kompas.com/read/2020/05/18/16253371/kasus-kriminal-meningkat-704-persen-dalam-sepekan-salah-satunya-perampokan?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2020/05/08/17424591/ini-cerita-saimin-warga-depok-yang-berani-hajar-perampok-dengan-bambu?page=all> from <GET http://megapolitan.kompas.com/read/2020/05/08/17424591/ini-cerita-saimin-warga-depok-yang-berani-hajar-perampok-dengan-bambu?page=all>
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2020/04/16/10030341/tingkat-kriminalitas-di-jakarta-timur-turun-30-persen-selama-pandemi?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/kriminalitas?sort=desc&page=4> (referer: https://www.kompas.com/tag/kriminalitas?sort=desc&page=3)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2020/04/06/19045601/selama-pandemi-corona-angka-kriminalitas-di-makassar-menurun?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2020/04/16/19360961/polri-sebut-muncul-potensi-kriminalitas-di-tengah-pandemi-covid-19?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2020/04/16/13431961/selama-pandemi-covid-19-polisi-ungkap-17-kasus-kejahatan-di-wilayah?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2020/04/16/14293071/meski-kasus-kriminalitas-turun-di-tangsel-polisi-sebut-pencurian-motor?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2019/06/07/11054301/bentrokan-di-flores-timur-murni-kriminalitas-warga-diminta-tahan-diri-dan?page=all> from <GET http://regional.kompas.com/read/2019/06/07/11054301/bentrokan-di-flores-timur-murni-kriminalitas-warga-diminta-tahan-diri-dan?page=all>
+DEBUG: Redirecting (301) to <GET https://otomotif.kompas.com/read/2019/11/11/062200515/viral-video-penjambretan-bukti-pentingnya-kewaspadaan-berkendara?page=all> from <GET http://otomotif.kompas.com/read/2019/11/11/062200515/viral-video-penjambretan-bukti-pentingnya-kewaspadaan-berkendara?page=all>
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2019/11/16/23284391/kasus-pelemparan-sperma-di-tasikmalaya-pelaku-beraksi-di-pinggir-jalan?page=all> from <GET http://regional.kompas.com/read/2019/11/16/23284391/kasus-pelemparan-sperma-di-tasikmalaya-pelaku-beraksi-di-pinggir-jalan?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2019/09/20/14553871/kesal-tak-diberikan-kunci-motor-seorang-suami-pukul-istrinya-di-depok?page=all> from <GET http://megapolitan.kompas.com/read/2019/09/20/14553871/kesal-tak-diberikan-kunci-motor-seorang-suami-pukul-istrinya-di-depok?page=all>
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2020/04/17/08063051/polisi-klaim-angka-kriminalitas-menurun-selama-pandemi-covid-19?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2020/04/22/16213761/antisipasi-kriminalitas-polda-metro-jaya-bentuk-satgas-begal-dan-preman?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2019/12/30/16075971/kejahatan-menurun-pada-2019-tapi-persentasi-pengungkapan-kasus-meningkat?page=all> from <GET http://megapolitan.kompas.com/read/2019/12/30/16075971/kejahatan-menurun-pada-2019-tapi-persentasi-pengungkapan-kasus-meningkat?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2018/05/22/23374491/penembak-jitu-disiagakan-di-daerah-rawan-kriminalitas-di-jaktim?page=all> from <GET http://megapolitan.kompas.com/read/2018/05/22/23374491/penembak-jitu-disiagakan-di-daerah-rawan-kriminalitas-di-jaktim?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2018/06/05/05382491/polisi-tingkatkan-keamanan-di-titik-rawan-kriminalitas-di-jakarta-timur?page=all> from <GET http://megapolitan.kompas.com/read/2018/06/05/05382491/polisi-tingkatkan-keamanan-di-titik-rawan-kriminalitas-di-jakarta-timur?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/kriminalitas?sort=desc> (referer: https://www.kompas.com/tag/kriminalitas?sort=desc&page=4)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2020/05/08/15370601/aksi-heroik-satpam-di-depok-pertahankan-gerbang-perumahan-dari-perampokan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/global/read/2020/05/02/033000670/pria-ini-ditembak-mati-polisi-setelah-lukai-banyak-korban-di-pusat?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2018/12/27/15340551/pada-2018-kriminalitas-menurun-kekerasan-anak-dan-perempuan-meningkat?page=all> from <GET http://regional.kompas.com/read/2018/12/27/15340551/pada-2018-kriminalitas-menurun-kekerasan-anak-dan-perempuan-meningkat?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2018/12/28/15273761/kapolda-metro-jaya-sebut-kejahatan-terjadi-tiap-16-menit?page=all> from <GET http://megapolitan.kompas.com/read/2018/12/28/15273761/kapolda-metro-jaya-sebut-kejahatan-terjadi-tiap-16-menit?page=all>
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2020/05/18/16253371/kasus-kriminal-meningkat-704-persen-dalam-sepekan-salah-satunya-perampokan?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2018/12/30/15372901/sepanjang-2018-kasus-peredaran-narkoba-masih-mendominasi-di-solo?page=all> from <GET http://regional.kompas.com/read/2018/12/30/15372901/sepanjang-2018-kasus-peredaran-narkoba-masih-mendominasi-di-solo?page=all>
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2020/04/27/15420281/angka-kriminalitas-di-jakarta-meningkat-10-persen-selama-pandemi-covid-19?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2020/05/07/18485421/remaja-dibacok-di-depok-jelang-sahur-terluka-di-bagian-kepala-hingga?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2018/12/31/17474611/kasus-kriminalitas-di-jakarta-utara-sepanjang-2018-diklaim-menurun?page=all> from <GET http://megapolitan.kompas.com/read/2018/12/31/17474611/kasus-kriminalitas-di-jakarta-utara-sepanjang-2018-diklaim-menurun?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2019/03/14/14091721/di-hadapan-ratusan-kepala-sekolah-polisi-beberkan-maraknya-anak-jadi?page=all> from <GET http://megapolitan.kompas.com/read/2019/03/14/14091721/di-hadapan-ratusan-kepala-sekolah-polisi-beberkan-maraknya-anak-jadi?page=all>
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2019/04/13/07470081/walikota-makassar-merangkul-preman-ini-buktinya?page=all> from <GET http://regional.kompas.com/read/2019/04/13/07470081/walikota-makassar-merangkul-preman-ini-buktinya?page=all>
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2020/05/08/17424591/ini-cerita-saimin-warga-depok-yang-berani-hajar-perampok-dengan-bambu?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2019/06/07/11054301/bentrokan-di-flores-timur-murni-kriminalitas-warga-diminta-tahan-diri-dan?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://ekonomi.kompas.com/robots.txt> from <GET http://ekonomi.kompas.com/robots.txt>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/tren/read/2020/01/13/160000165/klitih-di-yogyakarta-kembali-terjadi-ini-kata-sosiolog-kriminalitas?page=all> from <GET http://www.kompas.com/tren/read/2020/01/13/160000165/klitih-di-yogyakarta-kembali-terjadi-ini-kata-sosiolog-kriminalitas?page=all>
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2019/09/20/14553871/kesal-tak-diberikan-kunci-motor-seorang-suami-pukul-istrinya-di-depok?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2019/11/16/23284391/kasus-pelemparan-sperma-di-tasikmalaya-pelaku-beraksi-di-pinggir-jalan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://otomotif.kompas.com/read/2019/11/11/062200515/viral-video-penjambretan-bukti-pentingnya-kewaspadaan-berkendara?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://ekonomi.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://ekonomi.kompas.com/read/2018/12/18/195343726/kasus-kriminalitas-transportasi-daring-picu-poin-keselamatan-permenhub?page=all> from <GET http://ekonomi.kompas.com/read/2018/12/18/195343726/kasus-kriminalitas-transportasi-daring-picu-poin-keselamatan-permenhub?page=all>
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2019/12/30/16075971/kejahatan-menurun-pada-2019-tapi-persentasi-pengungkapan-kasus-meningkat?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2018/06/05/05382491/polisi-tingkatkan-keamanan-di-titik-rawan-kriminalitas-di-jakarta-timur?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2018/05/22/23374491/penembak-jitu-disiagakan-di-daerah-rawan-kriminalitas-di-jaktim?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2018/12/27/15340551/pada-2018-kriminalitas-menurun-kekerasan-anak-dan-perempuan-meningkat?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2018/12/30/15372901/sepanjang-2018-kasus-peredaran-narkoba-masih-mendominasi-di-solo?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/tren/read/2020/01/13/160000165/klitih-di-yogyakarta-kembali-terjadi-ini-kata-sosiolog-kriminalitas?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2018/12/28/15273761/kapolda-metro-jaya-sebut-kejahatan-terjadi-tiap-16-menit?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2018/12/31/17474611/kasus-kriminalitas-di-jakarta-utara-sepanjang-2018-diklaim-menurun?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2019/03/14/14091721/di-hadapan-ratusan-kepala-sekolah-polisi-beberkan-maraknya-anak-jadi?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://ekonomi.kompas.com/read/2018/12/18/195343726/kasus-kriminalitas-transportasi-daring-picu-poin-keselamatan-permenhub?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2019/04/13/07470081/walikota-makassar-merangkul-preman-ini-buktinya?page=all> (referer: None)
+INFO: Closing spider (finished)
+INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 56980,
+ 'downloader/request_count': 142,
+ 'downloader/request_method_count/GET': 142,
+ 'downloader/response_bytes': 3010842,
+ 'downloader/response_count': 142,
+ 'downloader/response_status_count/200': 74,
+ 'downloader/response_status_count/301': 68,
+ 'dupefilter/filtered': 86,
+ 'elapsed_time_seconds': 6.979211,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2022, 3, 1, 13, 4, 43, 102951),
+ 'httpcompression/response_bytes': 19128511,
+ 'httpcompression/response_count': 65,
+ 'log_count/DEBUG': 143,
+ 'log_count/INFO': 10,
+ 'memusage/max': 101629952,
+ 'memusage/startup': 101629952,
+ 'request_depth_max': 5,
+ 'response_received_count': 74,
+ 'robotstxt/request_count': 9,
+ 'robotstxt/response_count': 9,
+ 'robotstxt/response_status_count/200': 9,
+ 'scheduler/dequeued': 125,
+ 'scheduler/dequeued/memory': 125,
+ 'scheduler/enqueued': 125,
+ 'scheduler/enqueued/memory': 125,
+ 'start_time': datetime.datetime(2022, 3, 1, 13, 4, 36, 123740)}
+INFO: Spider closed (finished)
+INFO: Scrapy 2.5.1 started (bot: news)
+INFO: Versions: lxml 4.6.4.0, libxml2 2.9.4, cssselect 1.1.0, parsel 1.6.0, w3lib 1.22.0, Twisted 21.7.0, Python 3.10.2 (v3.10.2:a58ebcc701, Jan 13 2022, 14:50:16) [Clang 13.0.0 (clang-1300.0.29.30)], pyOpenSSL 21.0.0 (OpenSSL 1.1.1l  24 Aug 2021), cryptography 36.0.0, Platform macOS-12.1-arm64-arm-64bit
+DEBUG: Using reactor: twisted.internet.selectreactor.SelectReactor
+INFO: Overridden settings:
+{'BOT_NAME': 'news',
+ 'LOG_ENABLED': False,
+ 'NEWSPIDER_MODULE': 'news.spiders',
+ 'ROBOTSTXT_OBEY': True,
+ 'SPIDER_MODULES': ['news.spiders'],
+ 'USER_AGENT': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
+               'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 '
+               'Safari/537.36'}
+INFO: Telnet Password: 35a89237e8bcaeb6
+INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+INFO: Enabled item pipelines:
+[]
+INFO: Spider opened
+INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+INFO: Telnet console listening on 127.0.0.1:6023
+DEBUG: Crawled (200) <GET https://www.detik.com/robots.txt> (referer: None)
+DEBUG: Crawled (200) <GET https://www.detik.com/tag/kriminalitas> (referer: None)
+DEBUG: Crawled (200) <GET https://news.detik.com/robots.txt> (referer: None)
+DEBUG: Crawled (200) <GET https://www.detik.com/tag/kriminalitas/?sortby=time&page=2> (referer: https://www.detik.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5944376/mencekam-kisah-polisi-dibegal-di-bekasi-di-kegelapan-malam> (referer: https://www.detik.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5941280/pria-berjaket-ojol-curi-spion-mobil-di-jelambar-jakbar-polisi-selidiki> (referer: https://www.detik.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5938010/kronologi-keroyokan-maut-geng-brotherstes-ke-abg-cari-kucing-yang-hilang> (referer: https://www.detik.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5946929/korban-salah-sasaran-gangster-pria-di-jaktim-kena-bacok-di-leher-dan-pipi> (referer: https://www.detik.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5938096/ditangkap-penusuk-pria-di-tpu-kober-jaksel-ternyata-pembunuh-bayaran> (referer: https://www.detik.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5938044/pelaku-pembunuhan-pria-di-tpu-kober-pesanggrahan-ditangkap> (referer: https://www.detik.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5944500/5-begal-polisi-di-bekasi-rata-rata-masih-abg-ini-perannya> (referer: https://www.detik.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://www.detik.com/tag/kriminalitas/?sortby=time&page=3> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=2)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5939039/5-fakta-gempar-wanita-dalam-kardus-ternyata-dibunuh-pacar-cemburu-buta> (referer: https://www.detik.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5939030/geger-pria-ditusuk-pembunuh-bayaran-di-tpu-kober-hingga-dalang-diburu> (referer: https://www.detik.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5936949/pria-tewas-di-tpu-kober-ulujami-pacar-curiga-terkait-gadai-motor> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=2)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5936384/polisi-ungkap-7-kasus-pencabulan-anak-di-tangerang-pelaku-ada-guru-ngaji> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=2)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5937060/kasus-pria-tewas-di-tpu-kober-ulujami-jaksel-polisi-periksa-4-saksi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=2)
+DEBUG: Crawled (200) <GET https://www.detik.com/tag/kriminalitas/?sortby=time&page=4> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=3)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5937137/polisi-ungkap-hal-yang-dilakukan-korban-sebelum-tewas-di-tpu-kober-ulujami> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=2)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5942627/8-fakta-pembunuhan-chef-fiky-dilatari-cemburu-cinta-segitiga> (referer: https://www.detik.com/tag/kriminalitas)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5937654/sedihnya-guru-honorer-kehilangan-tabungan-6-bulan-gegara-kena-ganjal-atm> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=2)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5936350/mayat-dalam-kardus-di-bogor-korban-pembunuhan-pelaku-diselidiki> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=2)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5937771/1-dari-4-pengeroyok-abg-yang-sedang-cari-kucing-di-bekasi-positif-covid> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=2)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5937418/nahas-nasib-guru-kena-modus-ganjal-atm-hingga-tabungan-dikuras> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=2)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5937818/polisi-3-pelaku-terpengaruh-sabu-saat-keroyok-abg-cari-kucing-yang-hilang> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=2)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5937787/ini-peran-4-tersangka-teriaki-maling-ke-abg-cari-kucingnya-yang-hilang> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=2)
+DEBUG: Crawled (200) <GET https://news.detik.com/kolom/d-5926380/tingkat-kejahatan-selama-pandemi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=3)
+DEBUG: Crawled (200) <GET https://www.detik.com/tag/kriminalitas/?sortby=time&page=5> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=4)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5927477/jejak-tukang-siomai-pelaku-pencabulan-bocah-di-jaksel-masih-dilacak> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=3)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5932870/apes-pembobol-minimarket-di-bekasi-tertangkap-gegara-alarm-bunyi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=3)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5928548/begal-yang-bacok-penjaga-toko-beras-di-bekasi-meninggal-di-rs> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=3)
+DEBUG: Crawled (200) <GET https://www.detik.com/edu/detikpedia/d-5875602/8-cara-mengatasi-klitih-dari-ahli-nggak-melulu-masuk-penjara> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=4)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5934283/cekcok-pasutri-di-tangerang-tewaskan-istri-suami-luka-tusuk> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=3)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5934204/petaka-teriakan-maling-kembali-makan-korban-jiwa> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=3)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5935732/guru-di-tangsel-kena-modus-ganjal-atm-tabungan-rp-5-juta-buat-nikah-raib> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=3)
+DEBUG: Redirecting (301) to <GET https://news.detik.com/x/detail/crimestory/20211125/Eddy-Sampak-Si-Perampok-Gaji-Tentara/> from <GET https://news.detik.com/crimestory/d-5826784/eddy-sampak-si-perampok-gaji-tentara>
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5926831/tawuran-pelajar-makan-korban-jiwa-di-bekasi-6-pelaku-ditangkap> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=3)
+DEBUG: Crawled (200) <GET https://www.detik.com/tag/kriminalitas/?sortby=time&page=6> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=5)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5756295/keterlaluan-ulah-jambret-ponsel-sempat-sempatnya-ledek-korban> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=4)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5935152/suami-pembacok-istri-di-tangerang-alami-luka-tusuk-begini-kondisinya-kini> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=3)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5769000/polisi-selidiki-viral-bajing-loncat-curi-besi-dari-truk-di-cakung> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=4)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita-jawa-timur/d-5878437/potret-kejahatan-di-mojokerto-2021-kekerasan-seksual-masih-jadi-momok> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=4)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5880452/ngerinya-torso-killer-korbannya-dimutilasi-sampai-bagian-terkecil> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=4)
+DEBUG: Crawled (200) <GET https://news.detik.com/foto-news/d-5808390/13000-senjata-api-di-chile-dimusnahkan> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=4)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5764955/pelajar-dirampok-dikepruk-kunci-roda-dalam-angkot-di-jakbar-sopir-dibekuk> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=4)
+DEBUG: Crawled (200) <GET https://www.detik.com/tag/kriminalitas/?sortby=time&page=7> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=6)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5715728/cerita-2-abg-pelaku-penodongan-ditangkap-saat-booking-psk> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=5)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5748001/perempuan-penumpang-ojol-tewas-dijambret-di-jaktim-pelaku-ditangkap> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=5)
+DEBUG: Crawled (200) <GET https://news.detik.com/x/detail/crimestory/20211125/Eddy-Sampak-Si-Perampok-Gaji-Tentara/> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=4)
+ERROR: Spider error processing <GET https://news.detik.com/x/detail/crimestory/20211125/Eddy-Sampak-Si-Perampok-Gaji-Tentara/> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=4)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/twisted/internet/defer.py", line 858, in _runCallbacks
+    current.result = callback(  # type: ignore[misc]
+  File "/Users/adi/Desktop/TA_Adi/scrapper/mainstream/news/news/spiders/news_spider.py", line 132, in parse_detik
+    if "detikTV" in author.lower():
+AttributeError: 'NoneType' object has no attribute 'lower'
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5748270/polisi-penjambret-yang-tewaskan-perempuan-di-jaktim-pelaku-tunggal> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=5)
+DEBUG: Crawled (200) <GET https://www.detik.com/tag/kriminalitas/?sortby=time&page=8> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=7)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5748476/penjambretan-maut-di-jaktim-pelaku-rampas-hp-korban-sambil-naik-motor> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=5)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5717488/10-pencuri-spion-mobil-di-jakbar-ditangkap-2-pelaku-positif-ganja> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=5)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5273890/wakil-ketua-mpr-minta-aparat-tangkap-otak-pembunuhan-keluarga-di-sigi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=6)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5754270/polda-metro-hampir-setiap-hari-terima-laporan-curanmor> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=5)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5749479/4-fakta-penjambret-sadis-tewaskan-wanita-di-timur-jakarta> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=5)
+DEBUG: Crawled (200) <GET https://finance.detik.com/robots.txt> (referer: None)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5748584/aksi-penjambretan-di-jaktim-bikin-korbannya-tewas-pelaku-menyesal> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=5)
+DEBUG: Crawled (200) <GET https://www.detik.com/tag/kriminalitas/?sortby=time&page=9> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=8)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5754159/polda-metro-tren-kriminalitas-di-jakarta-meningkat-selama-pandemi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=5)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5509530/3-anak-di-bawah-umur-komplotan-begal-di-bekasi-ditangkap-polisi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=6)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita-jawa-timur/d-5575281/operasi-ketupat-di-blitar-turunkan-angka-kriminalitas-selama-larangan-mudik> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=6)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5322612/as-ingin-ri-musuhi-china-dan-berteman-dengan-israel> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=6)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5475948/kriminalitas-di-bali-meningkat-kapolda-ingatkan-warga-tak-bepergian> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=6)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5603891/mabuk-preman-ini-terlindas-kereta-api-karena-menghindari-serangan-musuh> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=6)
+DEBUG: Crawled (200) <GET https://finance.detik.com/berita-ekonomi-bisnis/d-5094174/kriminalitas-bisa-merajalela-kalau-ri-sampai-masuk-jurang-resesi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=7)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5476874/wanti-wanti-polisi-kala-kriminalitas-meningkat-di-bali> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=6)
+DEBUG: Crawled (200) <GET https://www.detik.com/tag/kriminalitas/?sortby=time&page=10> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=9)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4984615/kejar-kejaran-bak-film-action-begal-di-cakung-dilumpuhkan> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=8)
+DEBUG: Crawled (200) <GET https://finance.detik.com/berita-ekonomi-bisnis/d-4989506/bukan-cctv-biasa-pakai-ini-bisa-usir-pencuri-masuk-rumah> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=8)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4993756/tragis-psk-di-depok-diajak-kencan-lalu-dirampok> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=8)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4985962/jejak-begal-cakung-dari-tawuran-hingga-aksi-perampasan> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=8)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita-jawa-barat/d-5075599/semester-pertama-angka-kriminalitas-di-banten-turun-30-persen> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=7)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5000129/karyawati-melawan-pelaku-jambret-di-atas-angkot-di-bekasi-ditangkap> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=8)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita-jawa-tengah/d-4886063/beredar-pesan-titik-rawan-klitih-di-sleman-via-wa-ini-kata-polisi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=9)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4993801/jurus-polisi-jakarta-atasi-kejahatan-selama-pandemi-corona> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=8)
+DEBUG: Crawled (200) <GET https://www.detik.com/tag/kriminalitas/?sortby=time&page=11> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=10)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita-jawa-barat/d-4994527/polda-banten-klaim-kriminalitas-turun-selama-pandemi-corona> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=8)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4964697/berakhirnya-geng-teras-penebas-pria-hingga-tewas> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=9)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita-jawa-tengah/d-4886342/mengurai-klitih-kekerasan-jalanan-yang-marak-di-kota-budaya-yogya> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=9)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4970770/polri-ungkap-kamtibmas-kondusif-saat-pandemi-angka-kejahatan-turun-11> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=9)
+DEBUG: Crawled (200) <GET https://www.detik.com/tag/kriminalitas/?sortby=time&page=12> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=11)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4980377/buron-spesialis-pencurian-sembako-di-tangerang-ditembak-mati-polisi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=9)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4979980/kapolres-sebut-angka-kriminalitas-di-tangsel-turun-15-selama-pandemi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=9)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4980260/usai-ganti-sabu-sabu-dengan-gula-batu-bandar-penipu-bunuh-pemesan> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=9)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita-jawa-barat/d-4583251/polisi-klaim-angka-kejahatan-di-jabar-turun-selama-musim-mudik-2019> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=10)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4979679/polres-tangsel-ungkap-17-kasus-selama-februari-april-curanmor-terbanyak> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=9)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4572751/wakapolri-minta-personel-patroli-titik-rawan-kejahatan-di-lampung> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=10)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita-jawa-timur/d-4586644/tujuh-pelaku-kejahatan-di-tuban-tertangkap-dan-dihadiahi-timah-panas> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=10)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4771706/penelitian-di-as-makin-banyak-pohon-makin-rendah-kriminalitas> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=10)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4795947/turis-spanyol-jadi-korban-jambret-di-pantai-padang-padang-bali> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=10)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4128476/penembakan-di-penjaringan-peluru-tembus-pipi-dan-dada-korban> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=11)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4126208/pria-tewas-ditembak-di-penjaringan-polisi-buru-pelaku> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=11)
+DEBUG: Crawled (200) <GET https://www.detik.com/tag/kriminalitas/?sortby=time&page=13> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=12)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita-jawa-tengah/d-4862980/yasonna-soal-kritik-bandingkan-priok-menteng-jangan-diputarbalikkan> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=10)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4128982/polisi-dalami-kemungkinan-penembak-pria-di-penjaringan-orang-dekat> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=11)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4858959/pria-di-medan-labuhan-tewas-ditikam-polisi-buru-pelaku> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=10)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4129534/tetangga-bilang-korban-penembakan-di-penjaringan-seorang-pengusaha> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=11)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4131881/melawan-penjambret-ponsel-milik-wn-mesir-ditembak-polisi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=11)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-3994028/bayi-di-depok-diculik-saat-ditinggal-ibu-ke-warung> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=12)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita-jawa-barat/d-4067865/selama-ramadan-polisi-sebut-angka-kejahatan-di-bandung-menurun> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=12)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita-jawa-barat/d-4022809/ini-penyebab-angka-kriminalitas-di-jabar-turun-jelang-ramadan> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=12)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4051456/sakit-hati-di-bully-tukang-es-kelapa-di-bogor-bacok-rekan-sendiri> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=12)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4056063/angka-kejahatan-di-jakbar-meningkat-saat-ramadan> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=12)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4076523/depok-dinilai-tak-ramah-anak-ini-kata-wali-kota> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=12)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4065897/h-4-lebaran-rumah-kapolsek-cempaka-putih-nyaris-dibobol-maling> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=12)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4831678/tegur-mobil-ngebut-bapak-anak-di-bangka-ditusuk> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=10)
+DEBUG: Crawled (200) <GET https://wolipop.detik.com/robots.txt> (referer: None)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4110800/11-anggota-geng-motor-yang-tewaskan-pelajar-di-sumsel-ditangkap> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=12)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4115614/pria-di-cipayung-alami-luka-bacok-usai-dibegal-8-orang> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=12)
+DEBUG: Crawled (200) <GET https://wolipop.detik.com/entertainment-news/d-4321394/foto-viral-penjahat-cantik-yang-lagi-diburu-ini-bikin-netizen-heboh> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=11)
+ERROR: Spider error processing <GET https://wolipop.detik.com/entertainment-news/d-4321394/foto-viral-penjahat-cantik-yang-lagi-diburu-ini-bikin-netizen-heboh> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=11)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/twisted/internet/defer.py", line 858, in _runCallbacks
+    current.result = callback(  # type: ignore[misc]
+  File "/Users/adi/Desktop/TA_Adi/scrapper/mainstream/news/news/spiders/news_spider.py", line 132, in parse_detik
+    if "detikTV" in author.lower():
+AttributeError: 'NoneType' object has no attribute 'lower'
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4119443/komplotan-ini-begal-motor-buat-beli-rokok-hingga-mabuk-mabukan> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=12)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-3569285/polisi-tangkap-3-perampok-spbu-mini-di-aceh-1-masih-buron> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=13)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-3944953/cerita-ketua-rt-saat-eza-koboi-tol-dapat-hormat-dari-polantas> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=13)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-3950163/sempat-diduga-dibunuh-prt-di-pekanbaru-ini-tewas-karena-stroke> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=13)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-3974660/seorang-pria-ditemukan-tewas-mengenaskan-di-cawang> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=13)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-3945199/kernet-bus-akap-tewas-ditusuk-pak-ogah-di-bekasi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=13)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-3897641/tolak-bayar-ongkos-rp-35-ribu-bule-pukul-sopir-taksi-di-menteng> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=13)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-3974943/polisi-periksa-3-saksi-penemuan-mayat-penuh-luka-di-cawang> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=13)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4343432/jelang-natal-12-penjahat-jalanan-ditangkap-di-pangkalpinang> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=11)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4363665/polisi-kejahatan-di-jaksel-menurun-28-di-tahun-2018> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=11)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita-jawa-tengah/d-4885293/marak-aksi-klitih-di-diy-kapolda-singgung-teori-balon> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=10)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita-jawa-tengah/d-4886029/polda-pemda-diy-kumpul-bahas-klitih-ini-hasilnya> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=10)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4342283/lempari-kereta-api-di-sumbar-9-anak-ditangkap-polisi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=11)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4983946/polda-metro-sebut-tren-perampokan-minimarket-hoax-meningkat-saat-psbb> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=9)
+DEBUG: Redirecting (301) to <GET https://tv.detik.com/readvideo/2020/06/16/215501/200616091/160106442/angka-kriminalitas-naik-3845-di-masa-new-normal> from <GET https://news.detik.com/detiktv/d-5056415/angka-kriminalitas-naik-3845-di-masa-new-normal>
+DEBUG: Crawled (200) <GET https://tv.detik.com/robots.txt> (referer: None)
+DEBUG: Forbidden by robots.txt: <GET https://tv.detik.com/readvideo/2020/06/16/215501/200616091/160106442/angka-kriminalitas-naik-3845-di-masa-new-normal>
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4536301/coba-kabur-buron-pembobol-rumah-di-sulsel-tewas-ditembak-polisi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=11)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-4983193/antisipasi-kejahatan-saat-pandemi-pukul-kentungan-hingga-patroli-malam> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=9)
+DEBUG: Crawled (200) <GET https://news.detik.com/kolom/d-5022416/kriminalitas-pada-masa-pandemi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=8)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5060045/kapolda-metro-kasus-curas-hingga-curanmor-naik-6-selama-pandemi-corona> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=8)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5240187/terekam-cctv-spesialis-curanmor-berkaus-doraemon-ditangkap-di-jakbar> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=7)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5245009/polda-metro-kasus-curanmor-di-jakarta-tinggi-setiap-hari-terjadi> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=7)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5250938/satreskrim-polres-sumbawa-rilis-sketsa-pelaku-percobaan-pemerkosaan> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=7)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5267158/polres-kobar-tetapkan-satu-tersangka-kecelakaan-tambang-emas-ilegal> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=7)
+DEBUG: Crawled (200) <GET https://news.detik.com/foto-news/d-5262167/nih-tampang-pelaku-curanmor-yang-dibekuk-di-cikarang> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=7)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5273182/2-remaja-komplotan-begal-jakarta-bekasi-ditangkap-pimpinannya-tewas-didor> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=7)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5258991/komplotan-perampok-nasabah-bank-di-bekasi-ditangkap-1-tewas-didor> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=7)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5262094/5-pelaku-spesialis-pencurian-motor-di-bekasi-ditangkap-1-tewas-didor> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=7)
+DEBUG: Crawled (200) <GET https://www.detik.com/jatim/berita/d-5926089/warga-kota-pasuruan-bisa-telepon-112-saat-butuh-bantuan-darurat> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=4)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5689049/sindikat-emak-emak-copet-di-mal-akhirnya-dijerat> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=6)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5713381/polisi-tangkap-5-abg-pelaku-penodongan-dan-perampasan-di-tebet> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=6)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5713674/2-abg-pelaku-penodongan-di-tebet-jaksel-ditangkap-saat-booking-psk> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=6)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5935858/cekcok-pasutri-tangerang-berujung-istri-tewas-kena-bacok> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=3)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5756141/ada-ada-saja-pria-berkaus-jersey-curi-selimut-di-jemuran-warga-jaktim> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=5)
+DEBUG: Crawled (200) <GET https://news.detik.com/berita/d-5926164/jual-motor-teman-pria-di-jakut-pakai-duit-kejahatan-buat-hiburan-di-hotel> (referer: https://www.detik.com/tag/kriminalitas/?sortby=time&page=4)
+INFO: Closing spider (finished)
+INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 1,
+ 'downloader/exception_type_count/scrapy.exceptions.IgnoreRequest': 1,
+ 'downloader/request_bytes': 66762,
+ 'downloader/request_count': 146,
+ 'downloader/request_method_count/GET': 146,
+ 'downloader/response_bytes': 3542554,
+ 'downloader/response_count': 146,
+ 'downloader/response_status_count/200': 144,
+ 'downloader/response_status_count/301': 2,
+ 'elapsed_time_seconds': 34.209505,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2022, 3, 2, 14, 27, 52, 439124),
+ 'httpcompression/response_bytes': 17292772,
+ 'httpcompression/response_count': 144,
+ 'log_count/DEBUG': 147,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 10,
+ 'memusage/max': 99909632,
+ 'memusage/startup': 99893248,
+ 'request_depth_max': 13,
+ 'response_received_count': 144,
+ 'robotstxt/forbidden': 1,
+ 'robotstxt/request_count': 5,
+ 'robotstxt/response_count': 5,
+ 'robotstxt/response_status_count/200': 5,
+ 'scheduler/dequeued': 142,
+ 'scheduler/dequeued/memory': 142,
+ 'scheduler/enqueued': 142,
+ 'scheduler/enqueued/memory': 142,
+ 'spider_exceptions/AttributeError': 2,
+ 'start_time': datetime.datetime(2022, 3, 2, 14, 27, 18, 229619)}
+INFO: Spider closed (finished)

@@ -25,10 +25,10 @@ class NewsSpider(scrapy.Spider):
         "tribunnews.com"
     ]
     start_urls = [
-        # "https://www.detik.com/tag/bencana",
-        # "https://www.detik.com/tag/gempa",
-        # "https://www.kompas.com/tag/bencana",
-        "https://www.tribunnews.com/tag/bencana"
+         "https://www.detik.com/tag/kriminalitas",
+        # "https://www.detik.com/tag/pembunuhan",
+        # "https://www.kompas.com/tag/kriminalitas",
+        # "https://www.tribunnews.com/tag/kriminalitas"
     ]
     headers = {
         'Connection': 'keep-alive',
@@ -189,3 +189,4 @@ class NewsSpider(scrapy.Spider):
         converter.ignore_links = True
 
         return converter.handle(text)
+

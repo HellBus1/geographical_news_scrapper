@@ -24,3 +24,4 @@ Geographical news scrapper is a project that scrap news for specific category (e
 
 2. Run this command
 > scrapy crawl --nolog news
+# TugasAkhir
