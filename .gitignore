@@ -135,4 +135,8 @@ dmypy.json
 Word_Embedding.ipynb
 *.pckl
 
-bow_bencana.csv
+bow_what.csv
+bow_when.csv
+bow_where.csv
+bow_who.csv
+news.csv
