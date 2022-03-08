@@ -140,3 +140,15 @@ bow_when.csv
 bow_where.csv
 bow_who.csv
 news.csv
+
+df_test.csv
+df_total.csv
+df_train.csv
+
+tfidf_test.pkl
+tfidf_train.pkl
+
+desc_text_test.pkl
+desc_text_train.pkl
+
+vectorizer.pkl
