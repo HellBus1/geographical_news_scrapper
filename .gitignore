@@ -153,3 +153,4 @@ desc_text_test.pkl
 desc_text_train.pkl
 
 vectorizer.pkl
+QE_Stat_V2_testing_result.csv
