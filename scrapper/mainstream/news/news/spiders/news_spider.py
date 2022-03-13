@@ -62,26 +62,36 @@ class NewsSpider(scrapy.Spider):
     }
     interator = 0
     current_domain = ""
+    current_subdomain = ""
     current_url = ""
     berita = []
     visited = []
+    skipped_subdomain = ["news", "travel", "20", "finance", "inet", "hot", "sport", "oto", "health", "food", "foto", "wolipop"]
 
     def __init__(self, *a, **kw):
         super(NewsSpider, self).__init__(*a, **kw)
         dispatcher.connect(self.spider_closed, signals.spider_closed)
 
     def parse(self, response):
-        domain = urlparse(response.request.url).netloc
+        parsing_url = urlparse(response.request.url)
+
+        domain = parsing_url.netloc
+
         if self.current_url != response.request.url:
             self.current_url = response.request.url
             self.visited.clear()
 
         if (domain == "www.detik.com"):
             self.current_domain = domain
+            
             for article in response.css("article"):
                 link = article.css("a::attr(href)").extract_first()
 
-                yield response.follow(link, self.parse_detik)
+                parsed_link = urlparse(link)
+                self.current_subdomain = parsed_link.hostname.split('.')[0]
+
+                if self.current_subdomain not in self.skipped_subdomain:
+                    yield response.follow(link, self.parse_detik)
 
             for navbutton in response.css('div.paging a'):
                 
@@ -100,7 +110,7 @@ class NewsSpider(scrapy.Spider):
                     if next_page is not None and ("tv." not in next_page):
                         self.interator += 1
                         next_page = response.urljoin(next_page)
-                        yield scrapy.Request(next_page, callback=self.parse, headers=self.headers)
+                    yield scrapy.Request(next_page, callback=self.parse, headers=self.headers)
 
         elif (domain == "www.kompas.com"):
             self.current_domain = domain
