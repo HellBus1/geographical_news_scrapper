@@ -184,7 +184,7 @@ class NewsSpider(scrapy.Spider):
 
     def spider_closed(self, spider):
         writer = pd.DataFrame(self.berita, columns=['title', 'date', 'description', 'source'])
-        writer.to_csv('scrapped_news3.csv', index=False, sep=',')
+        writer.to_csv('scrapped_news.csv', index=False, sep=',')
 
     def textParser(self, text):
         converter = html2text.HTML2Text()

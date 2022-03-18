@@ -137,6 +137,7 @@ Word_Embedding.ipynb
 
 bow_kesehatan.csv
 scrapped_news.csv
+scrapped_news_lama.csv
 bow_kecelakaan.csv
 bow_what.csv
 bow_when.csv
@@ -146,8 +147,9 @@ bow_who.csv
 bow.csv
 news.csv
 
+log.txt
 QE Statistik V2.zip
-
+rumus_excel.txt
 df_test.csv
 df_total.csv
 df_train.csv
