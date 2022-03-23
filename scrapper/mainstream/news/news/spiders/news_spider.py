@@ -20,15 +20,30 @@ class NewsSpider(scrapy.Spider):
 
     name = "news"
     allowed_domains = [
-        "detik.com",
-        "kompas.com",
-        "tribunnews.com"
+        # "detik.com"
+        "kompas.com"
+        # "tribunnews.com"
     ]
     start_urls = [
-        # "https://www.detik.com/tag/bencana",
-        # "https://www.detik.com/tag/gempa",
+        # "https://www.detik.com/tag/ekonomi",
+        # "https://www.detik.com/tag/ekonomi-ri/",
+        # "https://www.detik.com/tag/ekonomi-desa",
+        # "https://www.detik.com/tag/umkm",
+        # "https://www.detik.com/tag/krisis-ekonomi",
+        # "https://www.detik.com/tag/pertumbuhan-ekonomi",
+        # "https://www.detik.com/tag/ekspor",
+        # "https://www.detik.com/tag/impor",
+        # "https://www.detik.com/tag/ekspor-impor/",
+        # "https://www.detik.com/tag/neraca-dagang/",
+        # "https://www.detik.com/tag/neraca-perdagangan-indonesia/"
+
+        "https://www.kompas.com/tag/ekonomi",
+        "https://www.kompas.com/tag/kurs",
+        "https://www.kompas.com/tag/rupiah"
+        
+   
         # "https://www.kompas.com/tag/bencana",
-        "https://www.tribunnews.com/tag/bencana"
+        # "https://www.tribunnews.com/tag/bencana"
     ]
     headers = {
         'Connection': 'keep-alive',
@@ -50,30 +65,30 @@ class NewsSpider(scrapy.Spider):
     def __init__(self, *a, **kw):
         super(NewsSpider, self).__init__(*a, **kw)
         dispatcher.connect(self.spider_closed, signals.spider_closed)
-
+    
     def parse(self, response):
         domain = urlparse(response.request.url).netloc
 
-        if (domain == "www.detik.com"):
-            self.current_domain = domain
-            for article in response.css("article"):
-                link = article.css("a::attr(href)").extract_first()
+        # if (domain == "www.detik.com"):
+        #     self.current_domain = domain
+        #     for article in response.css("article"):
+        #         link = article.css("a::attr(href)").extract_first()
 
-                yield response.follow(link, self.parse_detik)
+        #         yield response.follow(link, self.parse_detik)
 
-            for navbutton in response.css('a'):
-                # if self.interator == 2:
-                #     break
+        #     for navbutton in response.css('a'):
+        #         # if self.interator == 2:
+        #         #     break
 
-                if navbutton.css("a.last img::attr(alt)").extract_first() == "Kanan":
-                    next_page = navbutton.css(
-                        "a.last::attr(href)").extract_first()
-                    if next_page is not None:
-                        self.interator += 1
-                        next_page = response.urljoin(next_page)
-                        yield scrapy.Request(next_page, callback=self.parse, headers=self.headers)
+        #         if navbutton.css("a.last img::attr(alt)").extract_first() == "Kanan":
+        #             next_page = navbutton.css(
+        #                 "a.last::attr(href)").extract_first()
+        #             if next_page is not None:
+        #                 self.interator += 1
+        #                 next_page = response.urljoin(next_page)
+        #                 yield scrapy.Request(next_page, callback=self.parse, headers=self.headers)
 
-        elif (domain == "www.kompas.com"):
+        if (domain == "www.kompas.com"):
             self.current_domain = domain
             for article in response.css("div.article__list"):
                 link = article.css("a::attr(href)").extract_first() + "?page=all"
@@ -87,22 +102,22 @@ class NewsSpider(scrapy.Spider):
                     next_page = response.urljoin(next_page)
                     yield scrapy.Request(next_page, callback=self.parse, headers=self.headers)
 
-        elif (domain == "www.tribunnews.com"):
-            self.current_domain = domain
-            for article in response.css("ul.lsi"):
-                link = article.css("a::attr(href)").extract_first() + "?page=all"
+        # elif (domain == "www.tribunnews.com"):
+        #     self.current_domain = domain
+        #     for article in response.css("ul.lsi"):
+        #         link = article.css("a::attr(href)").extract_first() + "?page=all"
 
-                yield response.follow(link, self.parse_tribun)
+        #         yield response.follow(link, self.parse_tribun)
 
-            for navbutton in response.css('div.paging a'):
-                if navbutton.css("a::text").extract_first() == "Next":
+        #     for navbutton in response.css('div.paging a'):
+        #         if navbutton.css("a::text").extract_first() == "Next":
                     
-                    next_page = navbutton.css("a::attr(href)").extract_first()
+        #             next_page = navbutton.css("a::attr(href)").extract_first()
 
-                    if next_page is not None:
-                        self.interator += 1
-                        next_page = response.urljoin(next_page)
-                        yield scrapy.Request(next_page, callback=self.parse, headers=self.headers)
+        #             if next_page is not None:
+        #                 self.interator += 1
+        #                 next_page = response.urljoin(next_page)
+        #                 yield scrapy.Request(next_page, callback=self.parse, headers=self.headers)
 
     def parse_kompas(self, response):
         desc = ""
@@ -125,60 +140,63 @@ class NewsSpider(scrapy.Spider):
 
             self.berita.append(data)
 
-    def parse_detik(self, response):
+
+    # def parse_detik(self, response):
             
-        author = response.css("div.detail__author::text").extract_first()
+    #     author = response.css("div.detail__author::text").extract_first()
 
-        if "detikTV" in author.lower():
-            print("ada")
-        else:
-            desc = ""
+    #     # if "detikTV" in author.lower():
+    #     #     print("ada")
+    #     # else:
+    #     desc = ""
 
-            title = response.css("h1.detail__title::text").extract_first()
+    #     title = response.css("h1.detail__title::text").extract_first()
 
-            if title != None:
-                date = response.css("div.detail__date::text").extract_first()
-                title = self.textParser(title)
-                date = self.textParser(date)
-            else:
-                title = response.css("h1.mt5::text").extract_first()
-                date = response.css("div.date::text").extract_first()
-                title = self.textParser(title)
-                date = self.textParser(date)
+    #     if title != None:
+    #         date = response.css("div.detail__date::text").extract_first()
+    #         title = self.textParser(title)
+    #         date = self.textParser(date)
+    #     else:
+    #         title = response.css("h1.mt5::text").extract_first()
+    #         date = response.css("div.date::text").extract_first()
+    #         title = self.textParser(title)
+    #         date = self.textParser(date)
 
-            if len(response.css('p')) > 0 :
-                for paragraph in response.css('p'):
-                    paragraphBody = paragraph.css("p::text").extract_first()
-                    if paragraphBody != None:
-                        desc += (self.textParser(paragraphBody) + " ")
+    #     # if len(response.css('p')) > 0 :
+    #     for paragraph in response.css('p'):
+    #         paragraphBody = paragraph.css("p::text").extract_first()
+    #         if paragraphBody != None:
+    #             desc += (self.textParser(paragraphBody) + " ")
 
-            description = desc
-            
-            if description != "" and title != "" and date != "":
-                data = [str(title), str(date), str(description), str(self.current_domain)]
+    #     description = desc
+        
+    #     if description != "" and title != "" and date != "":
+    #         data = [str(title), str(date), str(description), str(self.current_domain)]
 
-                self.berita.append(data)
+    #         self.berita.append(data)
+
+   
     
-    def parse_tribun(self, response):
-        desc = ""
+    # def parse_tribun(self, response):
+    #     desc = ""
 
-        title = response.css("#arttitle::text").extract_first()
+    #     title = response.css("#arttitle::text").extract_first()
 
-        date = response.css("time::text").extract_first()
+    #     date = response.css("time::text").extract_first()
 
-        title = self.textParser(title)
-        date = self.textParser(date)
+    #     title = self.textParser(title)
+    #     date = self.textParser(date)
 
-        for paragraph in response.css("div.txt-article p"):
-            paragraphBody = paragraph.css("p::text").extract_first()
-            if paragraphBody != None:
-                desc += (self.textParser(paragraphBody) + " ")
+    #     for paragraph in response.css("div.txt-article p"):
+    #         paragraphBody = paragraph.css("p::text").extract_first()
+    #         if paragraphBody != None:
+    #             desc += (self.textParser(paragraphBody) + " ")
 
-        description = desc
-        if description != "" and title != "" and date != "":
-            data = [str(title), str(date), str(description), str(self.current_domain)]
+    #     description = desc
+    #     if description != "" and title != "" and date != "":
+    #         data = [str(title), str(date), str(description), str(self.current_domain)]
 
-            self.berita.append(data)
+    #         self.berita.append(data)
 
     def spider_closed(self, spider):
         writer = pd.DataFrame(self.berita, columns=['title', 'date', 'description', 'source'])

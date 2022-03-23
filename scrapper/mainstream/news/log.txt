@@ -1,0 +1,802 @@
+INFO: Scrapy 2.6.1 started (bot: news)
+INFO: Versions: lxml 4.8.0.0, libxml2 2.9.12, cssselect 1.1.0, parsel 1.6.0, w3lib 1.22.0, Twisted 22.2.0, Python 3.9.10 (tags/v3.9.10:f2f3f53, Jan 17 2022, 15:14:21) [MSC v.1929 64 bit (AMD64)], pyOpenSSL 22.0.0 (OpenSSL 1.1.1m  14 Dec 2021), cryptography 36.0.1, Platform Windows-10-10.0.22000-SP0
+INFO: Overridden settings:
+{'BOT_NAME': 'news',
+ 'LOG_ENABLED': False,
+ 'NEWSPIDER_MODULE': 'news.spiders',
+ 'ROBOTSTXT_OBEY': True,
+ 'SPIDER_MODULES': ['news.spiders'],
+ 'USER_AGENT': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
+               'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 '
+               'Safari/537.36'}
+DEBUG: Using reactor: twisted.internet.selectreactor.SelectReactor
+INFO: Telnet Password: 1d6d1b4fe8ac5e0f
+INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+INFO: Enabled item pipelines:
+[]
+INFO: Spider opened
+INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+INFO: Telnet console listening on 127.0.0.1:6023
+DEBUG: Crawled (200) <GET https://www.kompas.com/robots.txt> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/ekonomi> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/kurs> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/rupiah> (referer: None)
+DEBUG: Filtered duplicate request: <GET https://www.kompas.com/tag/ekonomi?sort=desc&page=2> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/skola/read/2022/03/10/080000369/perbedaan-barang-bebas-dan-barang-ekonomi?page=all> from <GET http://www.kompas.com/skola/read/2022/03/10/080000369/perbedaan-barang-bebas-dan-barang-ekonomi?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/sports/read/2022/03/09/23530008/motogp-agenda-paling-penting-di-sirkuit-mandalika-tahun-2022?page=all> from <GET http://www.kompas.com/sports/read/2022/03/09/23530008/motogp-agenda-paling-penting-di-sirkuit-mandalika-tahun-2022?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/motogp/read/2022/03/09/21120068/banyak-negara-siarkan-motogp-mandalika-2022?page=all> from <GET http://www.kompas.com/motogp/read/2022/03/09/21120068/banyak-negara-siarkan-motogp-mandalika-2022?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/motogp/read/2022/03/09/17500058/ini-jumlah-penonton-yang-bakal-saksikan-langsung-motogp-mandalika-2022?page=all> from <GET http://www.kompas.com/motogp/read/2022/03/09/17500058/ini-jumlah-penonton-yang-bakal-saksikan-langsung-motogp-mandalika-2022?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/global/read/2022/03/09/210000570/produsen-bir-heineken-hentikan-produksi-dan-penjualan-di-rusia?page=all> from <GET http://www.kompas.com/global/read/2022/03/09/210000570/produsen-bir-heineken-hentikan-produksi-dan-penjualan-di-rusia?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/skola/read/2022/03/09/110000969/5-jenis-pajak-yang-ada-di-indonesia?page=all> from <GET http://www.kompas.com/skola/read/2022/03/09/110000969/5-jenis-pajak-yang-ada-di-indonesia?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/motogp/read/2022/03/09/20100008/400-juta-pasang-mata-saksikan-motogp-mandalika-2022?page=all> from <GET http://www.kompas.com/motogp/read/2022/03/09/20100008/400-juta-pasang-mata-saksikan-motogp-mandalika-2022?page=all>
+DEBUG: Redirecting (301) to <GET https://umkm.kompas.com/robots.txt> from <GET http://umkm.kompas.com/robots.txt>
+WARNING: C:\Users\ryand\OneDrive\TA\geographical_news_scrapper\venv\lib\site-packages\scrapy\core\engine.py:276: ScrapyDeprecationWarning: Passing a 'spider' argument to ExecutionEngine.download is deprecated
+  return self.download(result, spider) if isinstance(result, Request) else result
+
+DEBUG: Redirecting (301) to <GET https://bandung.kompas.com/robots.txt> from <GET http://bandung.kompas.com/robots.txt>
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/ekonomi?sort=desc&page=2> (referer: https://www.kompas.com/tag/ekonomi)
+DEBUG: Crawled (200) <GET https://www.kompas.com/sports/read/2022/03/09/23530008/motogp-agenda-paling-penting-di-sirkuit-mandalika-tahun-2022?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://travel.kompas.com/robots.txt> from <GET http://travel.kompas.com/robots.txt>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/robots.txt> from <GET http://money.kompas.com/robots.txt>
+DEBUG: Crawled (200) <GET https://www.kompas.com/motogp/read/2022/03/09/21120068/banyak-negara-siarkan-motogp-mandalika-2022?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/skola/read/2022/03/10/080000369/perbedaan-barang-bebas-dan-barang-ekonomi?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://bandung.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://bandung.kompas.com/read/2022/03/10/070349878/30-persen-penduduk-jabar-jadi-pelaku-industri-kreatif-begini-cara-dapat?page=all> from <GET http://bandung.kompas.com/read/2022/03/10/070349878/30-persen-penduduk-jabar-jadi-pelaku-industri-kreatif-begini-cara-dapat?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/skola/read/2022/03/09/110000969/5-jenis-pajak-yang-ada-di-indonesia?page=all> (referer: None)
+DEBUG: Crawled (404) <GET https://umkm.kompas.com/robots.txt> (referer: None)
+DEBUG: Rule at line 7 without any user agent to enforce it on.
+DEBUG: Rule at line 8 without any user agent to enforce it on.
+DEBUG: Rule at line 9 without any user agent to enforce it on.
+DEBUG: Rule at line 41 without any user agent to enforce it on.
+DEBUG: Rule at line 42 without any user agent to enforce it on.
+DEBUG: Rule at line 43 without any user agent to enforce it on.
+DEBUG: Rule at line 44 without any user agent to enforce it on.
+DEBUG: Rule at line 45 without any user agent to enforce it on.
+DEBUG: Rule at line 46 without any user agent to enforce it on.
+DEBUG: Rule at line 47 without any user agent to enforce it on.
+DEBUG: Rule at line 48 without any user agent to enforce it on.
+DEBUG: Rule at line 49 without any user agent to enforce it on.
+DEBUG: Rule at line 51 without any user agent to enforce it on.
+DEBUG: Rule at line 52 without any user agent to enforce it on.
+DEBUG: Rule at line 53 without any user agent to enforce it on.
+DEBUG: Rule at line 54 without any user agent to enforce it on.
+DEBUG: Rule at line 55 without any user agent to enforce it on.
+DEBUG: Rule at line 56 without any user agent to enforce it on.
+DEBUG: Rule at line 57 without any user agent to enforce it on.
+DEBUG: Rule at line 58 without any user agent to enforce it on.
+DEBUG: Rule at line 71 without any user agent to enforce it on.
+DEBUG: Rule at line 80 without any user agent to enforce it on.
+DEBUG: Rule at line 81 without any user agent to enforce it on.
+DEBUG: Rule at line 83 without any user agent to enforce it on.
+DEBUG: Rule at line 85 without any user agent to enforce it on.
+DEBUG: Rule at line 86 without any user agent to enforce it on.
+DEBUG: Rule at line 87 without any user agent to enforce it on.
+DEBUG: Rule at line 88 without any user agent to enforce it on.
+DEBUG: Rule at line 89 without any user agent to enforce it on.
+DEBUG: Rule at line 91 without any user agent to enforce it on.
+DEBUG: Rule at line 92 without any user agent to enforce it on.
+DEBUG: Rule at line 93 without any user agent to enforce it on.
+DEBUG: Rule at line 95 without any user agent to enforce it on.
+DEBUG: Rule at line 96 without any user agent to enforce it on.
+DEBUG: Rule at line 101 without any user agent to enforce it on.
+DEBUG: Rule at line 102 without any user agent to enforce it on.
+DEBUG: Rule at line 103 without any user agent to enforce it on.
+DEBUG: Rule at line 104 without any user agent to enforce it on.
+DEBUG: Rule at line 105 without any user agent to enforce it on.
+DEBUG: Rule at line 106 without any user agent to enforce it on.
+DEBUG: Rule at line 107 without any user agent to enforce it on.
+DEBUG: Rule at line 110 without any user agent to enforce it on.
+DEBUG: Rule at line 115 without any user agent to enforce it on.
+DEBUG: Rule at line 124 without any user agent to enforce it on.
+DEBUG: Rule at line 125 without any user agent to enforce it on.
+DEBUG: Rule at line 126 without any user agent to enforce it on.
+DEBUG: Rule at line 127 without any user agent to enforce it on.
+DEBUG: Rule at line 128 without any user agent to enforce it on.
+DEBUG: Rule at line 129 without any user agent to enforce it on.
+DEBUG: Rule at line 130 without any user agent to enforce it on.
+DEBUG: Rule at line 139 without any user agent to enforce it on.
+DEBUG: Rule at line 140 without any user agent to enforce it on.
+DEBUG: Rule at line 141 without any user agent to enforce it on.
+DEBUG: Rule at line 142 without any user agent to enforce it on.
+DEBUG: Rule at line 143 without any user agent to enforce it on.
+DEBUG: Rule at line 144 without any user agent to enforce it on.
+DEBUG: Rule at line 145 without any user agent to enforce it on.
+DEBUG: Rule at line 146 without any user agent to enforce it on.
+DEBUG: Rule at line 147 without any user agent to enforce it on.
+DEBUG: Rule at line 154 without any user agent to enforce it on.
+DEBUG: Rule at line 155 without any user agent to enforce it on.
+DEBUG: Rule at line 159 without any user agent to enforce it on.
+DEBUG: Rule at line 163 without any user agent to enforce it on.
+DEBUG: Rule at line 169 without any user agent to enforce it on.
+DEBUG: Rule at line 170 without any user agent to enforce it on.
+DEBUG: Rule at line 171 without any user agent to enforce it on.
+DEBUG: Rule at line 175 without any user agent to enforce it on.
+DEBUG: Rule at line 186 without any user agent to enforce it on.
+DEBUG: Rule at line 189 without any user agent to enforce it on.
+DEBUG: Rule at line 192 without any user agent to enforce it on.
+DEBUG: Rule at line 197 without any user agent to enforce it on.
+DEBUG: Rule at line 200 without any user agent to enforce it on.
+DEBUG: Rule at line 203 without any user agent to enforce it on.
+DEBUG: Rule at line 206 without any user agent to enforce it on.
+DEBUG: Rule at line 209 without any user agent to enforce it on.
+DEBUG: Rule at line 212 without any user agent to enforce it on.
+DEBUG: Rule at line 215 without any user agent to enforce it on.
+DEBUG: Rule at line 218 without any user agent to enforce it on.
+DEBUG: Rule at line 221 without any user agent to enforce it on.
+DEBUG: Rule at line 232 without any user agent to enforce it on.
+DEBUG: Rule at line 233 without any user agent to enforce it on.
+DEBUG: Rule at line 235 without any user agent to enforce it on.
+DEBUG: Rule at line 239 without any user agent to enforce it on.
+DEBUG: Rule at line 244 without any user agent to enforce it on.
+DEBUG: Rule at line 273 without any user agent to enforce it on.
+DEBUG: Rule at line 275 without any user agent to enforce it on.
+DEBUG: Rule at line 279 without any user agent to enforce it on.
+DEBUG: Rule at line 281 without any user agent to enforce it on.
+DEBUG: Rule at line 288 without any user agent to enforce it on.
+DEBUG: Rule at line 300 without any user agent to enforce it on.
+DEBUG: Rule at line 305 without any user agent to enforce it on.
+DEBUG: Rule at line 309 without any user agent to enforce it on.
+DEBUG: Rule at line 320 without any user agent to enforce it on.
+DEBUG: Rule at line 327 without any user agent to enforce it on.
+DEBUG: Rule at line 334 without any user agent to enforce it on.
+DEBUG: Rule at line 341 without any user agent to enforce it on.
+DEBUG: Rule at line 347 without any user agent to enforce it on.
+DEBUG: Rule at line 351 without any user agent to enforce it on.
+DEBUG: Rule at line 355 without any user agent to enforce it on.
+DEBUG: Rule at line 359 without any user agent to enforce it on.
+DEBUG: Rule at line 363 without any user agent to enforce it on.
+DEBUG: Rule at line 367 without any user agent to enforce it on.
+DEBUG: Rule at line 372 without any user agent to enforce it on.
+DEBUG: Rule at line 375 without any user agent to enforce it on.
+DEBUG: Rule at line 377 without any user agent to enforce it on.
+DEBUG: Rule at line 378 without any user agent to enforce it on.
+DEBUG: Rule at line 379 without any user agent to enforce it on.
+DEBUG: Rule at line 380 without any user agent to enforce it on.
+DEBUG: Rule at line 381 without any user agent to enforce it on.
+DEBUG: Rule at line 382 without any user agent to enforce it on.
+DEBUG: Rule at line 392 without any user agent to enforce it on.
+DEBUG: Rule at line 396 without any user agent to enforce it on.
+DEBUG: Rule at line 399 without any user agent to enforce it on.
+DEBUG: Rule at line 405 without any user agent to enforce it on.
+DEBUG: Rule at line 409 without any user agent to enforce it on.
+DEBUG: Rule at line 416 without any user agent to enforce it on.
+DEBUG: Rule at line 423 without any user agent to enforce it on.
+DEBUG: Rule at line 430 without any user agent to enforce it on.
+DEBUG: Rule at line 437 without any user agent to enforce it on.
+DEBUG: Rule at line 446 without any user agent to enforce it on.
+DEBUG: Rule at line 450 without any user agent to enforce it on.
+DEBUG: Rule at line 457 without any user agent to enforce it on.
+DEBUG: Rule at line 464 without any user agent to enforce it on.
+DEBUG: Rule at line 471 without any user agent to enforce it on.
+DEBUG: Rule at line 478 without any user agent to enforce it on.
+DEBUG: Rule at line 481 without any user agent to enforce it on.
+DEBUG: Rule at line 484 without any user agent to enforce it on.
+DEBUG: Rule at line 489 without any user agent to enforce it on.
+DEBUG: Rule at line 492 without any user agent to enforce it on.
+DEBUG: Rule at line 495 without any user agent to enforce it on.
+DEBUG: Rule at line 498 without any user agent to enforce it on.
+DEBUG: Rule at line 501 without any user agent to enforce it on.
+DEBUG: Rule at line 504 without any user agent to enforce it on.
+DEBUG: Rule at line 507 without any user agent to enforce it on.
+DEBUG: Rule at line 512 without any user agent to enforce it on.
+DEBUG: Rule at line 516 without any user agent to enforce it on.
+DEBUG: Rule at line 523 without any user agent to enforce it on.
+DEBUG: Rule at line 530 without any user agent to enforce it on.
+DEBUG: Rule at line 537 without any user agent to enforce it on.
+DEBUG: Rule at line 544 without any user agent to enforce it on.
+DEBUG: Rule at line 549 without any user agent to enforce it on.
+DEBUG: Rule at line 553 without any user agent to enforce it on.
+DEBUG: Rule at line 557 without any user agent to enforce it on.
+DEBUG: Rule at line 561 without any user agent to enforce it on.
+DEBUG: Rule at line 567 without any user agent to enforce it on.
+DEBUG: Rule at line 576 without any user agent to enforce it on.
+DEBUG: Rule at line 580 without any user agent to enforce it on.
+DEBUG: Rule at line 587 without any user agent to enforce it on.
+DEBUG: Rule at line 594 without any user agent to enforce it on.
+DEBUG: Rule at line 601 without any user agent to enforce it on.
+DEBUG: Rule at line 610 without any user agent to enforce it on.
+DEBUG: Rule at line 614 without any user agent to enforce it on.
+DEBUG: Rule at line 621 without any user agent to enforce it on.
+DEBUG: Rule at line 628 without any user agent to enforce it on.
+DEBUG: Rule at line 635 without any user agent to enforce it on.
+DEBUG: Rule at line 642 without any user agent to enforce it on.
+DEBUG: Rule at line 649 without any user agent to enforce it on.
+DEBUG: Rule at line 656 without any user agent to enforce it on.
+DEBUG: Rule at line 663 without any user agent to enforce it on.
+DEBUG: Rule at line 668 without any user agent to enforce it on.
+DEBUG: Rule at line 672 without any user agent to enforce it on.
+DEBUG: Rule at line 679 without any user agent to enforce it on.
+DEBUG: Rule at line 686 without any user agent to enforce it on.
+DEBUG: Rule at line 693 without any user agent to enforce it on.
+DEBUG: Rule at line 696 without any user agent to enforce it on.
+DEBUG: Rule at line 701 without any user agent to enforce it on.
+DEBUG: Rule at line 705 without any user agent to enforce it on.
+DEBUG: Rule at line 712 without any user agent to enforce it on.
+DEBUG: Rule at line 719 without any user agent to enforce it on.
+DEBUG: Rule at line 726 without any user agent to enforce it on.
+DEBUG: Rule at line 733 without any user agent to enforce it on.
+DEBUG: Rule at line 742 without any user agent to enforce it on.
+DEBUG: Rule at line 744 without any user agent to enforce it on.
+DEBUG: Rule at line 746 without any user agent to enforce it on.
+DEBUG: Rule at line 753 without any user agent to enforce it on.
+DEBUG: Rule at line 760 without any user agent to enforce it on.
+DEBUG: Rule at line 767 without any user agent to enforce it on.
+DEBUG: Rule at line 774 without any user agent to enforce it on.
+DEBUG: Rule at line 781 without any user agent to enforce it on.
+DEBUG: Rule at line 788 without any user agent to enforce it on.
+DEBUG: Rule at line 795 without any user agent to enforce it on.
+DEBUG: Rule at line 802 without any user agent to enforce it on.
+DEBUG: Rule at line 809 without any user agent to enforce it on.
+DEBUG: Rule at line 815 without any user agent to enforce it on.
+DEBUG: Rule at line 819 without any user agent to enforce it on.
+DEBUG: Rule at line 826 without any user agent to enforce it on.
+DEBUG: Rule at line 833 without any user agent to enforce it on.
+DEBUG: Rule at line 840 without any user agent to enforce it on.
+DEBUG: Rule at line 847 without any user agent to enforce it on.
+DEBUG: Rule at line 854 without any user agent to enforce it on.
+DEBUG: Rule at line 861 without any user agent to enforce it on.
+DEBUG: Rule at line 868 without any user agent to enforce it on.
+DEBUG: Rule at line 875 without any user agent to enforce it on.
+DEBUG: Rule at line 882 without any user agent to enforce it on.
+DEBUG: Rule at line 889 without any user agent to enforce it on.
+DEBUG: Rule at line 896 without any user agent to enforce it on.
+DEBUG: Rule at line 905 without any user agent to enforce it on.
+DEBUG: Rule at line 909 without any user agent to enforce it on.
+DEBUG: Rule at line 916 without any user agent to enforce it on.
+DEBUG: Rule at line 923 without any user agent to enforce it on.
+DEBUG: Rule at line 930 without any user agent to enforce it on.
+DEBUG: Rule at line 937 without any user agent to enforce it on.
+DEBUG: Rule at line 944 without any user agent to enforce it on.
+DEBUG: Rule at line 952 without any user agent to enforce it on.
+DEBUG: Rule at line 955 without any user agent to enforce it on.
+DEBUG: Rule at line 958 without any user agent to enforce it on.
+DEBUG: Rule at line 961 without any user agent to enforce it on.
+DEBUG: Rule at line 964 without any user agent to enforce it on.
+DEBUG: Rule at line 973 without any user agent to enforce it on.
+DEBUG: Rule at line 977 without any user agent to enforce it on.
+DEBUG: Rule at line 984 without any user agent to enforce it on.
+DEBUG: Rule at line 991 without any user agent to enforce it on.
+DEBUG: Rule at line 998 without any user agent to enforce it on.
+DEBUG: Rule at line 1005 without any user agent to enforce it on.
+DEBUG: Rule at line 1012 without any user agent to enforce it on.
+DEBUG: Rule at line 1019 without any user agent to enforce it on.
+DEBUG: Rule at line 1024 without any user agent to enforce it on.
+DEBUG: Rule at line 1028 without any user agent to enforce it on.
+DEBUG: Rule at line 1035 without any user agent to enforce it on.
+DEBUG: Rule at line 1042 without any user agent to enforce it on.
+DEBUG: Rule at line 1049 without any user agent to enforce it on.
+DEBUG: Rule at line 1056 without any user agent to enforce it on.
+DEBUG: Rule at line 1059 without any user agent to enforce it on.
+DEBUG: Rule at line 1066 without any user agent to enforce it on.
+DEBUG: Rule at line 1075 without any user agent to enforce it on.
+DEBUG: Rule at line 1079 without any user agent to enforce it on.
+DEBUG: Rule at line 1086 without any user agent to enforce it on.
+DEBUG: Rule at line 1093 without any user agent to enforce it on.
+DEBUG: Rule at line 1100 without any user agent to enforce it on.
+DEBUG: Rule at line 1107 without any user agent to enforce it on.
+DEBUG: Rule at line 1114 without any user agent to enforce it on.
+DEBUG: Rule at line 1123 without any user agent to enforce it on.
+DEBUG: Rule at line 1127 without any user agent to enforce it on.
+DEBUG: Rule at line 1131 without any user agent to enforce it on.
+DEBUG: Rule at line 1135 without any user agent to enforce it on.
+DEBUG: Rule at line 1139 without any user agent to enforce it on.
+DEBUG: Rule at line 1146 without any user agent to enforce it on.
+DEBUG: Rule at line 1159 without any user agent to enforce it on.
+DEBUG: Rule at line 1169 without any user agent to enforce it on.
+DEBUG: Rule at line 1181 without any user agent to enforce it on.
+DEBUG: Rule at line 1184 without any user agent to enforce it on.
+DEBUG: Rule at line 1189 without any user agent to enforce it on.
+DEBUG: Rule at line 1192 without any user agent to enforce it on.
+DEBUG: Rule at line 1197 without any user agent to enforce it on.
+DEBUG: Rule at line 1200 without any user agent to enforce it on.
+DEBUG: Rule at line 1205 without any user agent to enforce it on.
+DEBUG: Rule at line 1208 without any user agent to enforce it on.
+DEBUG: Rule at line 1213 without any user agent to enforce it on.
+DEBUG: Rule at line 1216 without any user agent to enforce it on.
+DEBUG: Rule at line 1221 without any user agent to enforce it on.
+DEBUG: Rule at line 1224 without any user agent to enforce it on.
+DEBUG: Rule at line 1229 without any user agent to enforce it on.
+DEBUG: Rule at line 1232 without any user agent to enforce it on.
+DEBUG: Rule at line 1237 without any user agent to enforce it on.
+DEBUG: Rule at line 1240 without any user agent to enforce it on.
+DEBUG: Rule at line 1245 without any user agent to enforce it on.
+DEBUG: Rule at line 1248 without any user agent to enforce it on.
+DEBUG: Rule at line 1253 without any user agent to enforce it on.
+DEBUG: Rule at line 1256 without any user agent to enforce it on.
+DEBUG: Rule at line 1278 without any user agent to enforce it on.
+DEBUG: Rule at line 1279 without any user agent to enforce it on.
+DEBUG: Rule at line 1280 without any user agent to enforce it on.
+DEBUG: Rule at line 1281 without any user agent to enforce it on.
+DEBUG: Rule at line 1282 without any user agent to enforce it on.
+DEBUG: Rule at line 1283 without any user agent to enforce it on.
+DEBUG: Rule at line 1284 without any user agent to enforce it on.
+DEBUG: Rule at line 1285 without any user agent to enforce it on.
+DEBUG: Rule at line 1290 without any user agent to enforce it on.
+DEBUG: Rule at line 1291 without any user agent to enforce it on.
+DEBUG: Rule at line 1292 without any user agent to enforce it on.
+DEBUG: Rule at line 1293 without any user agent to enforce it on.
+DEBUG: Rule at line 1294 without any user agent to enforce it on.
+DEBUG: Rule at line 1295 without any user agent to enforce it on.
+DEBUG: Rule at line 1296 without any user agent to enforce it on.
+DEBUG: Rule at line 1297 without any user agent to enforce it on.
+DEBUG: Rule at line 1302 without any user agent to enforce it on.
+DEBUG: Rule at line 1303 without any user agent to enforce it on.
+DEBUG: Rule at line 1304 without any user agent to enforce it on.
+DEBUG: Rule at line 1305 without any user agent to enforce it on.
+DEBUG: Rule at line 1306 without any user agent to enforce it on.
+DEBUG: Rule at line 1307 without any user agent to enforce it on.
+DEBUG: Rule at line 1308 without any user agent to enforce it on.
+DEBUG: Rule at line 1313 without any user agent to enforce it on.
+DEBUG: Rule at line 1314 without any user agent to enforce it on.
+DEBUG: Rule at line 1315 without any user agent to enforce it on.
+DEBUG: Rule at line 1316 without any user agent to enforce it on.
+DEBUG: Rule at line 1328 without any user agent to enforce it on.
+DEBUG: Rule at line 1332 without any user agent to enforce it on.
+DEBUG: Rule at line 1336 without any user agent to enforce it on.
+DEBUG: Rule at line 1342 without any user agent to enforce it on.
+DEBUG: Rule at line 1344 without any user agent to enforce it on.
+DEBUG: Rule at line 1349 without any user agent to enforce it on.
+DEBUG: Rule at line 1351 without any user agent to enforce it on.
+DEBUG: Rule at line 1361 without any user agent to enforce it on.
+DEBUG: Rule at line 1367 without any user agent to enforce it on.
+DEBUG: Rule at line 1369 without any user agent to enforce it on.
+DEBUG: Rule at line 1371 without any user agent to enforce it on.
+DEBUG: Rule at line 1376 without any user agent to enforce it on.
+DEBUG: Rule at line 1378 without any user agent to enforce it on.
+DEBUG: Rule at line 1383 without any user agent to enforce it on.
+DEBUG: Rule at line 1385 without any user agent to enforce it on.
+DEBUG: Rule at line 1390 without any user agent to enforce it on.
+DEBUG: Rule at line 1392 without any user agent to enforce it on.
+DEBUG: Rule at line 1399 without any user agent to enforce it on.
+DEBUG: Rule at line 1401 without any user agent to enforce it on.
+DEBUG: Rule at line 1404 without any user agent to enforce it on.
+DEBUG: Rule at line 1406 without any user agent to enforce it on.
+DEBUG: Rule at line 1412 without any user agent to enforce it on.
+DEBUG: Rule at line 1415 without any user agent to enforce it on.
+DEBUG: Rule at line 1418 without any user agent to enforce it on.
+DEBUG: Rule at line 1421 without any user agent to enforce it on.
+DEBUG: Rule at line 1424 without any user agent to enforce it on.
+DEBUG: Rule at line 1427 without any user agent to enforce it on.
+DEBUG: Rule at line 1430 without any user agent to enforce it on.
+DEBUG: Rule at line 1433 without any user agent to enforce it on.
+DEBUG: Rule at line 1444 without any user agent to enforce it on.
+DEBUG: Rule at line 1450 without any user agent to enforce it on.
+DEBUG: Rule at line 1453 without any user agent to enforce it on.
+DEBUG: Rule at line 1457 without any user agent to enforce it on.
+DEBUG: Rule at line 1459 without any user agent to enforce it on.
+DEBUG: Rule at line 1460 without any user agent to enforce it on.
+DEBUG: Rule at line 1461 without any user agent to enforce it on.
+DEBUG: Rule at line 1462 without any user agent to enforce it on.
+DEBUG: Rule at line 1463 without any user agent to enforce it on.
+DEBUG: Rule at line 1465 without any user agent to enforce it on.
+DEBUG: Rule at line 1466 without any user agent to enforce it on.
+DEBUG: Rule at line 1468 without any user agent to enforce it on.
+DEBUG: Rule at line 1471 without any user agent to enforce it on.
+DEBUG: Rule at line 1491 without any user agent to enforce it on.
+DEBUG: Rule at line 1492 without any user agent to enforce it on.
+DEBUG: Rule at line 1493 without any user agent to enforce it on.
+DEBUG: Rule at line 1494 without any user agent to enforce it on.
+DEBUG: Rule at line 1509 without any user agent to enforce it on.
+DEBUG: Rule at line 1514 without any user agent to enforce it on.
+DEBUG: Rule at line 1516 without any user agent to enforce it on.
+DEBUG: Rule at line 1521 without any user agent to enforce it on.
+DEBUG: Rule at line 1528 without any user agent to enforce it on.
+DEBUG: Rule at line 1537 without any user agent to enforce it on.
+DEBUG: Rule at line 1538 without any user agent to enforce it on.
+DEBUG: Rule at line 1545 without any user agent to enforce it on.
+DEBUG: Rule at line 1554 without any user agent to enforce it on.
+DEBUG: Rule at line 1586 without any user agent to enforce it on.
+DEBUG: Rule at line 1587 without any user agent to enforce it on.
+DEBUG: Rule at line 1588 without any user agent to enforce it on.
+DEBUG: Rule at line 1631 without any user agent to enforce it on.
+DEBUG: Rule at line 1641 without any user agent to enforce it on.
+DEBUG: Rule at line 1649 without any user agent to enforce it on.
+DEBUG: Rule at line 1652 without any user agent to enforce it on.
+DEBUG: Rule at line 1659 without any user agent to enforce it on.
+DEBUG: Rule at line 1661 without any user agent to enforce it on.
+DEBUG: Rule at line 1662 without any user agent to enforce it on.
+DEBUG: Rule at line 1695 without any user agent to enforce it on.
+DEBUG: Crawled (200) <GET https://bandung.kompas.com/read/2022/03/10/070349878/30-persen-penduduk-jabar-jadi-pelaku-industri-kreatif-begini-cara-dapat?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/robots.txt> from <GET http://megapolitan.kompas.com/robots.txt>
+DEBUG: Crawled (200) <GET https://travel.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://umkm.kompas.com/read/2022/03/10/070000183/teten-masduki-ajak-csr-perusahaan-berdayakan-ekonomi-di-wilayah-miskin-ekstrem?page=all> from <GET http://umkm.kompas.com/read/2022/03/10/070000183/teten-masduki-ajak-csr-perusahaan-berdayakan-ekonomi-di-wilayah-miskin-ekstrem?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://travel.kompas.com/read/2022/03/10/073100027/jadwal-kereta-api-surabaya-jakarta-dan-harga-tiketnya-maret-2022?page=all> from <GET http://travel.kompas.com/read/2022/03/10/073100027/jadwal-kereta-api-surabaya-jakarta-dan-harga-tiketnya-maret-2022?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/tren/read/2022/03/05/173000965/sederet-dampak-perang-rusia-ukraina-bagi-ekonomi-indonesia?page=all> from <GET http://www.kompas.com/tren/read/2022/03/05/173000965/sederet-dampak-perang-rusia-ukraina-bagi-ekonomi-indonesia?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/motogp/read/2022/03/09/20100008/400-juta-pasang-mata-saksikan-motogp-mandalika-2022?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/wiken/read/2022/03/05/203000281/kota-besar-di-indonesia-dengan-pertumbuhan-ekonomi-tertinggi-selama?page=all> from <GET http://www.kompas.com/wiken/read/2022/03/05/203000281/kota-besar-di-indonesia-dengan-pertumbuhan-ekonomi-tertinggi-selama?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/09/131100826/lps-optimis-pertumbuhan-ekonomi-ri-bisa-capai-5-5-persen-apa-pemicunya-?page=all> from <GET http://money.kompas.com/read/2022/03/09/131100826/lps-optimis-pertumbuhan-ekonomi-ri-bisa-capai-5-5-persen-apa-pemicunya-?page=all>
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/robots.txt> from <GET http://nasional.kompas.com/robots.txt>
+DEBUG: Crawled (200) <GET https://www.kompas.com/tren/read/2022/03/05/173000965/sederet-dampak-perang-rusia-ukraina-bagi-ekonomi-indonesia?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/07/092105926/mengawali-sesi-rupiah-dan-ihsg-merah?page=all> from <GET http://money.kompas.com/read/2022/03/07/092105926/mengawali-sesi-rupiah-dan-ihsg-merah?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/07/124822626/ihsg-melemah-di-sesi-i-investor-asing-lepas-saham-bbca-bbri-dan-indy?page=all> from <GET http://money.kompas.com/read/2022/03/07/124822626/ihsg-melemah-di-sesi-i-investor-asing-lepas-saham-bbca-bbri-dan-indy?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/04/164400626/presidensi-g20-kominfo-akan-tunjukkan-potensi-ekonomi-digital-ri?page=all> from <GET http://money.kompas.com/read/2022/03/04/164400626/presidensi-g20-kominfo-akan-tunjukkan-potensi-ekonomi-digital-ri?page=all>
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/06/123000626/pltn-zaporizhzhia-ukraina-direbut-rusia-apa-dampaknya-ke-ekonomi-global-?page=all> from <GET http://money.kompas.com/read/2022/03/06/123000626/pltn-zaporizhzhia-ukraina-direbut-rusia-apa-dampaknya-ke-ekonomi-global-?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/05/220028926/aset-kripto-jadi-primadona-apa-dampaknya-ke-ekonomi-indonesia?page=all> from <GET http://money.kompas.com/read/2022/03/05/220028926/aset-kripto-jadi-primadona-apa-dampaknya-ke-ekonomi-indonesia?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2022/03/04/12000941/komisi-d-dprd-dki-soroti-pinjaman-pen-dinas-sda-yang-baru-terserap-6674?page=all> from <GET http://megapolitan.kompas.com/read/2022/03/04/12000941/komisi-d-dprd-dki-soroti-pinjaman-pen-dinas-sda-yang-baru-terserap-6674?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/07/123024426/indonesia-hasilkan-93-juta-ton-sampah-sedotan-plastik-per-tahun-ekonomi?page=all> from <GET http://money.kompas.com/read/2022/03/07/123024426/indonesia-hasilkan-93-juta-ton-sampah-sedotan-plastik-per-tahun-ekonomi?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/global/read/2022/03/09/210000570/produsen-bir-heineken-hentikan-produksi-dan-penjualan-di-rusia?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2022/03/04/13595501/komisi-d-minta-pemprov-dki-segera-habiskan-pinjaman-pen-rp-371-miliar?page=all> from <GET http://megapolitan.kompas.com/read/2022/03/04/13595501/komisi-d-minta-pemprov-dki-segera-habiskan-pinjaman-pen-rp-371-miliar?page=all>
+DEBUG: Crawled (200) <GET https://umkm.kompas.com/read/2022/03/10/070000183/teten-masduki-ajak-csr-perusahaan-berdayakan-ekonomi-di-wilayah-miskin-ekstrem?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2022/03/05/01300031/perbedaan-sosialisme-dan-liberalisme?page=all> from <GET http://nasional.kompas.com/read/2022/03/05/01300031/perbedaan-sosialisme-dan-liberalisme?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/04/164400626/presidensi-g20-kominfo-akan-tunjukkan-potensi-ekonomi-digital-ri?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/07/092105926/mengawali-sesi-rupiah-dan-ihsg-merah?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/global/read/2022/03/07/150000570/imf--tak-hanya-rusia-sanksi-perang-di-ukraina-akan-berdampak-parah-pada?page=all> from <GET http://www.kompas.com/global/read/2022/03/07/150000570/imf--tak-hanya-rusia-sanksi-perang-di-ukraina-akan-berdampak-parah-pada?page=all>
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2022/03/07/14380891/rencana-pemerintah-ubah-pandemi-ke-endemi-dikhawatirkan-hanya-demi?page=all> from <GET http://nasional.kompas.com/read/2022/03/07/14380891/rencana-pemerintah-ubah-pandemi-ke-endemi-dikhawatirkan-hanya-demi?page=all>
+DEBUG: Crawled (200) <GET https://travel.kompas.com/read/2022/03/10/073100027/jadwal-kereta-api-surabaya-jakarta-dan-harga-tiketnya-maret-2022?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/07/124822626/ihsg-melemah-di-sesi-i-investor-asing-lepas-saham-bbca-bbri-dan-indy?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/07/152000126/data-east-ventures--perkembangan-ekonomi-digital-indonesia-semakin-meningkat?page=all> from <GET http://money.kompas.com/read/2022/03/07/152000126/data-east-ventures--perkembangan-ekonomi-digital-indonesia-semakin-meningkat?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/05/220028926/aset-kripto-jadi-primadona-apa-dampaknya-ke-ekonomi-indonesia?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/robots.txt> from <GET http://regional.kompas.com/robots.txt>
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2022/03/05/01300031/perbedaan-sosialisme-dan-liberalisme?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://travel.kompas.com/read/2022/03/07/160500527/daftar-kereta-api-jurusan-jakarta-yogyakarta-dan-harganya-maret-2022?page=all> from <GET http://travel.kompas.com/read/2022/03/07/160500527/daftar-kereta-api-jurusan-jakarta-yogyakarta-dan-harganya-maret-2022?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/global/read/2022/03/07/150000570/imf--tak-hanya-rusia-sanksi-perang-di-ukraina-akan-berdampak-parah-pada?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/wiken/read/2022/03/05/203000281/kota-besar-di-indonesia-dengan-pertumbuhan-ekonomi-tertinggi-selama?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/07/131252926/viral-di-medsos-pembeli-kena-tipu-ratusan-juta-rupiah-di-diler-honda-ini-kata?page=all> from <GET http://money.kompas.com/read/2022/03/07/131252926/viral-di-medsos-pembeli-kena-tipu-ratusan-juta-rupiah-di-diler-honda-ini-kata?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/06/123000626/pltn-zaporizhzhia-ukraina-direbut-rusia-apa-dampaknya-ke-ekonomi-global-?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/07/152000126/data-east-ventures--perkembangan-ekonomi-digital-indonesia-semakin-meningkat?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/07/155000726/-mengekor-bursa-regional-asia-rupiah-dan-ihsg-ditutup-melemah?page=all> from <GET http://money.kompas.com/read/2022/03/07/155000726/-mengekor-bursa-regional-asia-rupiah-dan-ihsg-ditutup-melemah?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/09/131100826/lps-optimis-pertumbuhan-ekonomi-ri-bisa-capai-5-5-persen-apa-pemicunya-?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/ekonomi?sort=desc&page=3> (referer: https://www.kompas.com/tag/ekonomi?sort=desc&page=2)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/08/101047326/simak-kurs-rupiah-terhadap-dollar-as-di-bri-hingga-cimb-niaga?page=all> from <GET http://money.kompas.com/read/2022/03/08/101047326/simak-kurs-rupiah-terhadap-dollar-as-di-bri-hingga-cimb-niaga?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/08/092305426/rupiah-dan-ihsg-bangkit?page=all> from <GET http://money.kompas.com/read/2022/03/08/092305426/rupiah-dan-ihsg-bangkit?page=all>
+DEBUG: Redirecting (301) to <GET https://travel.kompas.com/read/2022/03/07/184814727/jadwal-dan-harga-kereta-api-jakarta-yogyakarta-ekonomi-eksekutif-dan-sleeper?page=all> from <GET http://travel.kompas.com/read/2022/03/07/184814727/jadwal-dan-harga-kereta-api-jakarta-yogyakarta-ekonomi-eksekutif-dan-sleeper?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/17/100100826/mau-beli-dollar-as-intip-kurs-rupiah-hari-ini-?page=all> from <GET http://money.kompas.com/read/2022/02/17/100100826/mau-beli-dollar-as-intip-kurs-rupiah-hari-ini-?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/07/131252926/viral-di-medsos-pembeli-kena-tipu-ratusan-juta-rupiah-di-diler-honda-ini-kata?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/08/154500326/ihsg-ditutup-melemah-bagaimana-dengan-rupiah-?page=all> from <GET http://money.kompas.com/read/2022/03/08/154500326/ihsg-ditutup-melemah-bagaimana-dengan-rupiah-?page=all>
+DEBUG: Crawled (200) <GET https://travel.kompas.com/read/2022/03/07/160500527/daftar-kereta-api-jurusan-jakarta-yogyakarta-dan-harganya-maret-2022?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/hype/read/2022/03/09/090702066/deretan-artis-korea-selatan-sumbang-uang-untuk-ukraina-total-miliaran?page=all> from <GET http://www.kompas.com/hype/read/2022/03/09/090702066/deretan-artis-korea-selatan-sumbang-uang-untuk-ukraina-total-miliaran?page=all>
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2022/03/07/135350078/berapa-nilai-ekonomi-hutan-lindung-sungai-wain?page=all> from <GET http://regional.kompas.com/read/2022/03/07/135350078/berapa-nilai-ekonomi-hutan-lindung-sungai-wain?page=all>
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2022/03/09/061600678/ditinggal-jenguk-mertua-di-yogyakarta-rumah-warga-wonogiri-dibobol-maling?page=all> from <GET http://regional.kompas.com/read/2022/03/09/061600678/ditinggal-jenguk-mertua-di-yogyakarta-rumah-warga-wonogiri-dibobol-maling?page=all>
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2022/03/07/170107778/diimingi-anaknya-bakal-jadi-asn-ibu-di-oku-ditipu-dukun-palsu-hingga?page=all> from <GET http://regional.kompas.com/read/2022/03/07/170107778/diimingi-anaknya-bakal-jadi-asn-ibu-di-oku-ditipu-dukun-palsu-hingga?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/hype/read/2022/03/09/090702066/deretan-artis-korea-selatan-sumbang-uang-untuk-ukraina-total-miliaran?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2022/03/02/13031701/kepada-peserta-world-ocean-summit-ke-9-menteri-trenggono-kenalkan-kebijakan?page=all> from <GET http://nasional.kompas.com/read/2022/03/02/13031701/kepada-peserta-world-ocean-summit-ke-9-menteri-trenggono-kenalkan-kebijakan?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/08/092305426/rupiah-dan-ihsg-bangkit?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/08/101047326/simak-kurs-rupiah-terhadap-dollar-as-di-bri-hingga-cimb-niaga?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/08/154500326/ihsg-ditutup-melemah-bagaimana-dengan-rupiah-?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/07/155000726/-mengekor-bursa-regional-asia-rupiah-dan-ihsg-ditutup-melemah?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2022/03/02/14344511/puan-dukung-upaya-tni-polri-kawal-pemerintah-jalankan-program-pen?page=all> from <GET http://nasional.kompas.com/read/2022/03/02/14344511/puan-dukung-upaya-tni-polri-kawal-pemerintah-jalankan-program-pen?page=all>
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2022/03/07/14380891/rencana-pemerintah-ubah-pandemi-ke-endemi-dikhawatirkan-hanya-demi?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/07/123024426/indonesia-hasilkan-93-juta-ton-sampah-sedotan-plastik-per-tahun-ekonomi?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/02/133811426/sinergi-bpd-dorong-pertumbuhan-ekonomi-daerah?page=all> from <GET http://money.kompas.com/read/2022/03/02/133811426/sinergi-bpd-dorong-pertumbuhan-ekonomi-daerah?page=all>
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2022/03/04/13595501/komisi-d-minta-pemprov-dki-segera-habiskan-pinjaman-pen-rp-371-miliar?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://travel.kompas.com/read/2022/03/02/155624127/lewat-warung-rojali-kemenparekraf-promosikan-produk-ekonomi-kreatif-dan-umkm?page=all> from <GET http://travel.kompas.com/read/2022/03/02/155624127/lewat-warung-rojali-kemenparekraf-promosikan-produk-ekonomi-kreatif-dan-umkm?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/18/101500126/mau-tukar-valas-cek-kurs-rupiah-hari-ini?page=all> from <GET http://money.kompas.com/read/2022/02/18/101500126/mau-tukar-valas-cek-kurs-rupiah-hari-ini?page=all>
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2022/03/02/13031701/kepada-peserta-world-ocean-summit-ke-9-menteri-trenggono-kenalkan-kebijakan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/motogp/read/2022/03/09/17500058/ini-jumlah-penonton-yang-bakal-saksikan-langsung-motogp-mandalika-2022?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/02/180000426/siapkan-karyawan-hadapi-tantangan-ekonomi-digital-blibli-gelar-bold-2?page=all> from <GET http://money.kompas.com/read/2022/03/02/180000426/siapkan-karyawan-hadapi-tantangan-ekonomi-digital-blibli-gelar-bold-2?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/global/read/2022/03/02/171500670/biden-sebut-ekonomi-rusia-kini-terguncang-akibat-kesalahan-putin?page=all> from <GET http://www.kompas.com/global/read/2022/03/02/171500670/biden-sebut-ekonomi-rusia-kini-terguncang-akibat-kesalahan-putin?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/02/171000226/ekonomi-digital-adalah-kekuatan-baru-perekenomian-indonesia?page=all> from <GET http://money.kompas.com/read/2022/03/02/171000226/ekonomi-digital-adalah-kekuatan-baru-perekenomian-indonesia?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/wiken/read/2022/03/02/162856381/pbnu-fokus-kembangkan-potensi-ekonomi-berbasis-sawit?page=all> from <GET http://www.kompas.com/wiken/read/2022/03/02/162856381/pbnu-fokus-kembangkan-potensi-ekonomi-berbasis-sawit?page=all>
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2022/03/07/170107778/diimingi-anaknya-bakal-jadi-asn-ibu-di-oku-ditipu-dukun-palsu-hingga?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2022/03/03/00000091/contoh-wawasan-nusantara?page=all> from <GET http://nasional.kompas.com/read/2022/03/03/00000091/contoh-wawasan-nusantara?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/02/231400426/smi-gelontorkan-rp-52-6-triliun-untuk-92-pemda-dan-3-bumn-untuk-apa-?page=all> from <GET http://money.kompas.com/read/2022/03/02/231400426/smi-gelontorkan-rp-52-6-triliun-untuk-92-pemda-dan-3-bumn-untuk-apa-?page=all>
+DEBUG: Crawled (200) <GET https://travel.kompas.com/read/2022/03/02/155624127/lewat-warung-rojali-kemenparekraf-promosikan-produk-ekonomi-kreatif-dan-umkm?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/17/100100826/mau-beli-dollar-as-intip-kurs-rupiah-hari-ini-?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/tren/read/2022/03/03/103000365/5-dampak-perang-rusia-ukraina-bagi-indonesia-apa-saja?page=all> from <GET http://www.kompas.com/tren/read/2022/03/03/103000365/5-dampak-perang-rusia-ukraina-bagi-indonesia-apa-saja?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/tren/read/2022/03/03/103000365/5-dampak-perang-rusia-ukraina-bagi-indonesia-apa-saja?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://yogyakarta.kompas.com/robots.txt> from <GET http://yogyakarta.kompas.com/robots.txt>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/18/101500126/mau-tukar-valas-cek-kurs-rupiah-hari-ini?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2022/03/04/12000941/komisi-d-dprd-dki-soroti-pinjaman-pen-dinas-sda-yang-baru-terserap-6674?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/03/104735426/mengenal-swift-sanksi-ekonomi-yang-merepotkan-jutaan-warga-rusia?page=all> from <GET http://money.kompas.com/read/2022/03/03/104735426/mengenal-swift-sanksi-ekonomi-yang-merepotkan-jutaan-warga-rusia?page=all>
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2022/03/02/14344511/puan-dukung-upaya-tni-polri-kawal-pemerintah-jalankan-program-pen?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2022/03/07/135350078/berapa-nilai-ekonomi-hutan-lindung-sungai-wain?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/02/171000226/ekonomi-digital-adalah-kekuatan-baru-perekenomian-indonesia?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/wiken/read/2022/03/02/162856381/pbnu-fokus-kembangkan-potensi-ekonomi-berbasis-sawit?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://travel.kompas.com/read/2022/03/07/184814727/jadwal-dan-harga-kereta-api-jakarta-yogyakarta-ekonomi-eksekutif-dan-sleeper?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/03/110500626/bi-terbitkan-aturan-insentif-bagi-bank-penyedia-pendanaan-ekonomi-tertentu?page=all> from <GET http://money.kompas.com/read/2022/03/03/110500626/bi-terbitkan-aturan-insentif-bagi-bank-penyedia-pendanaan-ekonomi-tertentu?page=all>
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2022/03/09/061600678/ditinggal-jenguk-mertua-di-yogyakarta-rumah-warga-wonogiri-dibobol-maling?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/02/231400426/smi-gelontorkan-rp-52-6-triliun-untuk-92-pemda-dan-3-bumn-untuk-apa-?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/09/092616326/ihsg-dan-rupiah-melaju-positif-di-awal-perdagangan?page=all> from <GET http://money.kompas.com/read/2022/03/09/092616326/ihsg-dan-rupiah-melaju-positif-di-awal-perdagangan?page=all>
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2022/03/03/11470081/perludem-tunda-pemilu-dengan-alasan-ekonomi-pandemi-covid-19-bertentangan?page=all> from <GET http://nasional.kompas.com/read/2022/03/03/11470081/perludem-tunda-pemilu-dengan-alasan-ekonomi-pandemi-covid-19-bertentangan?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/09/102327926/simak-kurs-rupiah-hari-ini-di-bni-hingga-cimb-niaga?page=all> from <GET http://money.kompas.com/read/2022/03/09/102327926/simak-kurs-rupiah-hari-ini-di-bni-hingga-cimb-niaga?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/21/101607026/simak-kurs-rupiah-hari-ini-di-5-bank?page=all> from <GET http://money.kompas.com/read/2022/02/21/101607026/simak-kurs-rupiah-hari-ini-di-5-bank?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/22/093237126/cek-kurs-rupiah-hari-ini-di-bca-hingga-bri?page=all> from <GET http://money.kompas.com/read/2022/02/22/093237126/cek-kurs-rupiah-hari-ini-di-bca-hingga-bri?page=all>
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2022/03/09/103026678/80-hektar-tanaman-ubi-nuabosi-diserang-hama-busuk-petani-di-ende-rugi?page=all> from <GET http://regional.kompas.com/read/2022/03/09/103026678/80-hektar-tanaman-ubi-nuabosi-diserang-hama-busuk-petani-di-ende-rugi?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/02/133811426/sinergi-bpd-dorong-pertumbuhan-ekonomi-daerah?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/23/095106126/simak-kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all> from <GET http://money.kompas.com/read/2022/02/23/095106126/simak-kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/ekonomi?sort=desc&page=4> (referer: https://www.kompas.com/tag/ekonomi?sort=desc&page=3)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/09/092616326/ihsg-dan-rupiah-melaju-positif-di-awal-perdagangan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://yogyakarta.kompas.com/robots.txt> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2022/03/09/103026678/80-hektar-tanaman-ubi-nuabosi-diserang-hama-busuk-petani-di-ende-rugi?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2022/03/03/00000091/contoh-wawasan-nusantara?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/24/101000526/sebelum-tukar-valas-cek-kurs-rupiah-hari-ini-di-5-bank?page=all> from <GET http://money.kompas.com/read/2022/02/24/101000526/sebelum-tukar-valas-cek-kurs-rupiah-hari-ini-di-5-bank?page=all>
+DEBUG: Redirecting (301) to <GET https://yogyakarta.kompas.com/read/2022/03/03/103700778/cerita-giri-difabel-netra-peraih-sarjana-ekonomi-di-ugm-kehilangan?page=all> from <GET http://yogyakarta.kompas.com/read/2022/03/03/103700778/cerita-giri-difabel-netra-peraih-sarjana-ekonomi-di-ugm-kehilangan?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/hype/read/2022/03/09/144119266/5-fakta-doni-salmanan-pernah-kerja-serabutan-hingga-rasakan-penghasilan?page=all> from <GET http://www.kompas.com/hype/read/2022/03/09/144119266/5-fakta-doni-salmanan-pernah-kerja-serabutan-hingga-rasakan-penghasilan?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/25/103000326/mau-tukar-valas-cek-kurs-rupiah-hari-ini-di-cimb-niaga-bni-bank-mandiri-bca?page=all> from <GET http://money.kompas.com/read/2022/02/25/103000326/mau-tukar-valas-cek-kurs-rupiah-hari-ini-di-cimb-niaga-bni-bank-mandiri-bca?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/02/180000426/siapkan-karyawan-hadapi-tantangan-ekonomi-digital-blibli-gelar-bold-2?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/global/read/2022/03/02/171500670/biden-sebut-ekonomi-rusia-kini-terguncang-akibat-kesalahan-putin?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/global/read/2022/02/28/130000670/warga-rusia-serbu-bank-waswas-sanksi-swift-buat-nilai-mata-uang-rubel?page=all> from <GET http://www.kompas.com/global/read/2022/02/28/130000670/warga-rusia-serbu-bank-waswas-sanksi-swift-buat-nilai-mata-uang-rubel?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/01/100507026/cek-kurs-rupiah-terhadap-dollar-as-di-5-bank-besar?page=all> from <GET http://money.kompas.com/read/2022/03/01/100507026/cek-kurs-rupiah-terhadap-dollar-as-di-5-bank-besar?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/hype/read/2022/03/09/144119266/5-fakta-doni-salmanan-pernah-kerja-serabutan-hingga-rasakan-penghasilan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/03/104735426/mengenal-swift-sanksi-ekonomi-yang-merepotkan-jutaan-warga-rusia?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/28/123000326/-mengenal-swift-senjata-non-nuklir-yang-bisa-hancurkan-ekonomi-rusia?page=all> from <GET http://money.kompas.com/read/2022/02/28/123000326/-mengenal-swift-senjata-non-nuklir-yang-bisa-hancurkan-ekonomi-rusia?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/properti/read/2022/02/28/193000121/garap-tana-mori-senilai-rp-10-triliun-triniti-gandeng-konsultan-asing?page=all> from <GET http://www.kompas.com/properti/read/2022/02/28/193000121/garap-tana-mori-senilai-rp-10-triliun-triniti-gandeng-konsultan-asing?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/rupiah?sort=desc&page=2> (referer: https://www.kompas.com/tag/rupiah)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/21/101607026/simak-kurs-rupiah-hari-ini-di-5-bank?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://edukasi.kompas.com/robots.txt> from <GET http://edukasi.kompas.com/robots.txt>
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2022/02/28/21430071/wapres--riset-dan-inovasi-harus-diprioritaskan-untuk-rumuskan-kebijakan-yang?page=all> from <GET http://nasional.kompas.com/read/2022/02/28/21430071/wapres--riset-dan-inovasi-harus-diprioritaskan-untuk-rumuskan-kebijakan-yang?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/01/100507026/cek-kurs-rupiah-terhadap-dollar-as-di-5-bank-besar?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/01/051200926/ekonomi-digital-ini-strategi-kementerian-bumn-agar-pemain-lokal-tak-hanya-jadi?page=all> from <GET http://money.kompas.com/read/2022/03/01/051200926/ekonomi-digital-ini-strategi-kementerian-bumn-agar-pemain-lokal-tak-hanya-jadi?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2022/03/03/10383951/perampok-bobol-ruko-elektronik-di-depok-ancam-pemilik-pakai-golok-lalu?page=all> from <GET http://megapolitan.kompas.com/read/2022/03/03/10383951/perampok-bobol-ruko-elektronik-di-depok-ancam-pemilik-pakai-golok-lalu?page=all>
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2022/03/03/11470081/perludem-tunda-pemilu-dengan-alasan-ekonomi-pandemi-covid-19-bertentangan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://edukasi.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://edukasi.kompas.com/read/2022/02/28/142335771/cerita-mahasiswi-uny-tetap-berprestasi-di-tengah-keterbatasan-fisik-dan?page=all> from <GET http://edukasi.kompas.com/read/2022/02/28/142335771/cerita-mahasiswi-uny-tetap-berprestasi-di-tengah-keterbatasan-fisik-dan?page=all>
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2022/02/27/054500278/nestapa-saat-berburu-minyak-goreng-kecopetan-hingga-tertipu-ratusan-juta?page=all> from <GET http://regional.kompas.com/read/2022/02/27/054500278/nestapa-saat-berburu-minyak-goreng-kecopetan-hingga-tertipu-ratusan-juta?page=all>
+DEBUG: Crawled (200) <GET https://yogyakarta.kompas.com/read/2022/03/03/103700778/cerita-giri-difabel-netra-peraih-sarjana-ekonomi-di-ugm-kehilangan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/09/102327926/simak-kurs-rupiah-hari-ini-di-bni-hingga-cimb-niaga?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/25/155629626/ihsg-ditutup-menguat-net-buy-asing-mencapai-rp-108-trilun?page=all> from <GET http://money.kompas.com/read/2022/02/25/155629626/ihsg-ditutup-menguat-net-buy-asing-mencapai-rp-108-trilun?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/28/110716426/crazy-rich-rusia-kehilangan-ribuan-triliun-rupiah-akibat-perang?page=all> from <GET http://money.kompas.com/read/2022/02/28/110716426/crazy-rich-rusia-kehilangan-ribuan-triliun-rupiah-akibat-perang?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/22/093237126/cek-kurs-rupiah-hari-ini-di-bca-hingga-bri?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/01/091927226/usai-long-weekend-ihsg-langsung-tancap-gas?page=all> from <GET http://money.kompas.com/read/2022/03/01/091927226/usai-long-weekend-ihsg-langsung-tancap-gas?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/24/101000526/sebelum-tukar-valas-cek-kurs-rupiah-hari-ini-di-5-bank?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/properti/read/2022/02/28/193000121/garap-tana-mori-senilai-rp-10-triliun-triniti-gandeng-konsultan-asing?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2022/03/02/131800978/suami-kena-phk-puluhan-perempuan-di-semarang-produksi-jamu-beromzet-jutaan?page=all> from <GET http://regional.kompas.com/read/2022/03/02/131800978/suami-kena-phk-puluhan-perempuan-di-semarang-produksi-jamu-beromzet-jutaan?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/28/123000326/-mengenal-swift-senjata-non-nuklir-yang-bisa-hancurkan-ekonomi-rusia?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/25/103000326/mau-tukar-valas-cek-kurs-rupiah-hari-ini-di-cimb-niaga-bni-bank-mandiri-bca?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/23/095106126/simak-kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://denpasar.kompas.com/robots.txt> from <GET http://denpasar.kompas.com/robots.txt>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/04/093115626/pagi-ini-rupiah-dan-ihsg-melaju-di-zona-hijau?page=all> from <GET http://money.kompas.com/read/2022/03/04/093115626/pagi-ini-rupiah-dan-ihsg-melaju-di-zona-hijau?page=all>
+DEBUG: Redirecting (301) to <GET https://megapolitan.kompas.com/read/2022/03/02/16272161/perampok-sekap-keluarga-pemilik-ruko-elektronik-di-depok-uang-tunai?page=all> from <GET http://megapolitan.kompas.com/read/2022/03/02/16272161/perampok-sekap-keluarga-pemilik-ruko-elektronik-di-depok-uang-tunai?page=all>
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2022/02/28/21430071/wapres--riset-dan-inovasi-harus-diprioritaskan-untuk-rumuskan-kebijakan-yang?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/global/read/2022/02/28/130000670/warga-rusia-serbu-bank-waswas-sanksi-swift-buat-nilai-mata-uang-rubel?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2022/03/02/16272161/perampok-sekap-keluarga-pemilik-ruko-elektronik-di-depok-uang-tunai?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/rupiah?sort=desc&page=3> (referer: https://www.kompas.com/tag/rupiah?sort=desc&page=2)
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/skola/read/2022/03/01/110000069/3-konsep-utama-dalam-pendekatan-ekonomi-politik-komunikasi?page=all> from <GET http://www.kompas.com/skola/read/2022/03/01/110000069/3-konsep-utama-dalam-pendekatan-ekonomi-politik-komunikasi?page=all>
+DEBUG: Crawled (200) <GET https://edukasi.kompas.com/read/2022/02/28/142335771/cerita-mahasiswi-uny-tetap-berprestasi-di-tengah-keterbatasan-fisik-dan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2022/02/27/054500278/nestapa-saat-berburu-minyak-goreng-kecopetan-hingga-tertipu-ratusan-juta?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/properti/read/2022/03/01/110000321/ikn-akan-dimulai-dari-mana?page=all> from <GET http://www.kompas.com/properti/read/2022/03/01/110000321/ikn-akan-dimulai-dari-mana?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/01/120705426/jokowi-minta-digital-talent-bidang-ai-blockchain-hingga-marketing-di-luar?page=all> from <GET http://money.kompas.com/read/2022/03/01/120705426/jokowi-minta-digital-talent-bidang-ai-blockchain-hingga-marketing-di-luar?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/04/093115626/pagi-ini-rupiah-dan-ihsg-melaju-di-zona-hijau?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://denpasar.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/01/124915726/jokowi-saya-tidak-ingin-indonesia-hanya-jadi-pasar-ekonomi-digital-harus-jadi?page=all> from <GET http://money.kompas.com/read/2022/03/01/124915726/jokowi-saya-tidak-ingin-indonesia-hanya-jadi-pasar-ekonomi-digital-harus-jadi?page=all>
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2022/03/01/16375351/jaga-kondusifitas-ketua-dpr-minta-tni-polri-kawal-pemulihan-ekonomi-dan?page=all> from <GET http://nasional.kompas.com/read/2022/03/01/16375351/jaga-kondusifitas-ketua-dpr-minta-tni-polri-kawal-pemulihan-ekonomi-dan?page=all>
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2022/03/01/184455878/kalahkan-dki-semarang-jadi-kota-besar-dengan-pertumbuhan-ekonomi-tertinggi?page=all> from <GET http://regional.kompas.com/read/2022/03/01/184455878/kalahkan-dki-semarang-jadi-kota-besar-dengan-pertumbuhan-ekonomi-tertinggi?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/01/131500826/jokowi-resmikan-sea-labs-indonesia-bakal-rekrut-1.000-talenta-digital-hingga?page=all> from <GET http://money.kompas.com/read/2022/03/01/131500826/jokowi-resmikan-sea-labs-indonesia-bakal-rekrut-1.000-talenta-digital-hingga?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/03/110500626/bi-terbitkan-aturan-insentif-bagi-bank-penyedia-pendanaan-ekonomi-tertentu?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/25/155629626/ihsg-ditutup-menguat-net-buy-asing-mencapai-rp-108-trilun?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://denpasar.kompas.com/read/2022/03/02/111306278/cerita-maret-ubah-sampah-plastik-jadi-kerajinan-bernilai-jutaan-rupiah?page=all> from <GET http://denpasar.kompas.com/read/2022/03/02/111306278/cerita-maret-ubah-sampah-plastik-jadi-kerajinan-bernilai-jutaan-rupiah?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/01/091927226/usai-long-weekend-ihsg-langsung-tancap-gas?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/01/051200926/ekonomi-digital-ini-strategi-kementerian-bumn-agar-pemain-lokal-tak-hanya-jadi?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/01/150300526/pengamat--konflik-rusia-ukraina-bisa-memperlambat-pemulihan-ekonomi-ri?page=all> from <GET http://money.kompas.com/read/2022/03/01/150300526/pengamat--konflik-rusia-ukraina-bisa-memperlambat-pemulihan-ekonomi-ri?page=all>
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2022/03/01/184455878/kalahkan-dki-semarang-jadi-kota-besar-dengan-pertumbuhan-ekonomi-tertinggi?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://megapolitan.kompas.com/read/2022/03/03/10383951/perampok-bobol-ruko-elektronik-di-depok-ancam-pemilik-pakai-golok-lalu?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/21/155500626/-ihsg-tembus-6.902-96-asing-borong-saham-bbri-arto-dan-hrum?page=all> from <GET http://money.kompas.com/read/2022/02/21/155500626/-ihsg-tembus-6.902-96-asing-borong-saham-bbri-arto-dan-hrum?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/23/092824426/tensi-geopolitik-rusia-ukraina-mereda-rupiah-dan-ihsg-bergerak-menguat?page=all> from <GET http://money.kompas.com/read/2022/02/23/092824426/tensi-geopolitik-rusia-ukraina-mereda-rupiah-dan-ihsg-bergerak-menguat?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/23/125500326/rupiah-dan-ihsg-menguat-saham-bbca-bbni-dan-emtk-dikoleksi-asing?page=all> from <GET http://money.kompas.com/read/2022/02/23/125500326/rupiah-dan-ihsg-menguat-saham-bbca-bbni-dan-emtk-dikoleksi-asing?page=all>
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2022/02/20/165714378/jalankan-misi-rupiah-berdaulat-kapal-perang-tni-bawa-uang-tunai-ke-pulau?page=all> from <GET http://regional.kompas.com/read/2022/02/20/165714378/jalankan-misi-rupiah-berdaulat-kapal-perang-tni-bawa-uang-tunai-ke-pulau?page=all>
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2022/03/02/131800978/suami-kena-phk-puluhan-perempuan-di-semarang-produksi-jamu-beromzet-jutaan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://denpasar.kompas.com/read/2022/03/02/111306278/cerita-maret-ubah-sampah-plastik-jadi-kerajinan-bernilai-jutaan-rupiah?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/rupiah?sort=desc&page=4> (referer: https://www.kompas.com/tag/rupiah?sort=desc&page=3)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/01/124915726/jokowi-saya-tidak-ingin-indonesia-hanya-jadi-pasar-ekonomi-digital-harus-jadi?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/21/092759426/lanjutkan-kenaikan-ihsg-tembus-level-psikologis-6900?page=all> from <GET http://money.kompas.com/read/2022/02/21/092759426/lanjutkan-kenaikan-ihsg-tembus-level-psikologis-6900?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/28/110716426/crazy-rich-rusia-kehilangan-ribuan-triliun-rupiah-akibat-perang?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/21/124638726/rupiah-dan-ihsg-menguat-di-sesi-i-bbri-arto-dan-hrum-laris-dibeli-asing?page=all> from <GET http://money.kompas.com/read/2022/02/21/124638726/rupiah-dan-ihsg-menguat-di-sesi-i-bbri-arto-dan-hrum-laris-dibeli-asing?page=all>
+DEBUG: Redirecting (301) to <GET https://denpasar.kompas.com/read/2022/02/21/144703878/pohon-tumbang-timpa-pura-di-buleleng-kerugian-ditaksir-ratusan-juta-rupiah?page=all> from <GET http://denpasar.kompas.com/read/2022/02/21/144703878/pohon-tumbang-timpa-pura-di-buleleng-kerugian-ditaksir-ratusan-juta-rupiah?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/skola/read/2022/03/01/110000069/3-konsep-utama-dalam-pendekatan-ekonomi-politik-komunikasi?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/22/092306726/ihsg-dan-rupiah-pagi-melemah?page=all> from <GET http://money.kompas.com/read/2022/02/22/092306726/ihsg-dan-rupiah-pagi-melemah?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/01/120705426/jokowi-minta-digital-talent-bidang-ai-blockchain-hingga-marketing-di-luar?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2022/02/22/190728278/gaya-hidup-mewah-bandar-arisan-online-bodong-pernah-gelar-pesta-di-mal-dan?page=all> from <GET http://regional.kompas.com/read/2022/02/22/190728278/gaya-hidup-mewah-bandar-arisan-online-bodong-pernah-gelar-pesta-di-mal-dan?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/22/125306426/rupiah-dan-ihsg-melemah-di-sesi-i-perdagangan?page=all> from <GET http://money.kompas.com/read/2022/02/22/125306426/rupiah-dan-ihsg-melemah-di-sesi-i-perdagangan?page=all>
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2022/03/01/16375351/jaga-kondusifitas-ketua-dpr-minta-tni-polri-kawal-pemulihan-ekonomi-dan?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/22/154549226/rupiah-dan-ihsg-melemah-saham-bank-jago-laris-diborong-asing?page=all> from <GET http://money.kompas.com/read/2022/02/22/154549226/rupiah-dan-ihsg-melemah-saham-bank-jago-laris-diborong-asing?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/01/131500826/jokowi-resmikan-sea-labs-indonesia-bakal-rekrut-1.000-talenta-digital-hingga?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/properti/read/2022/03/01/110000321/ikn-akan-dimulai-dari-mana?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/18/092259526/rupiah-dan-ihsg-bergerak-melemah-pagi-ini?page=all> from <GET http://money.kompas.com/read/2022/02/18/092259526/rupiah-dan-ihsg-bergerak-melemah-pagi-ini?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/23/092824426/tensi-geopolitik-rusia-ukraina-mereda-rupiah-dan-ihsg-bergerak-menguat?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/01/150300526/pengamat--konflik-rusia-ukraina-bisa-memperlambat-pemulihan-ekonomi-ri?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/22/092306726/ihsg-dan-rupiah-pagi-melemah?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/21/155500626/-ihsg-tembus-6.902-96-asing-borong-saham-bbri-arto-dan-hrum?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/23/125500326/rupiah-dan-ihsg-menguat-saham-bbca-bbni-dan-emtk-dikoleksi-asing?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/21/092759426/lanjutkan-kenaikan-ihsg-tembus-level-psikologis-6900?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/16/093202526/awal-perdagangan-rupiah-dan-ihsg-kompak-menguat?page=all> from <GET http://money.kompas.com/read/2022/02/16/093202526/awal-perdagangan-rupiah-dan-ihsg-kompak-menguat?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/15/124951726/rupiah-dan-ihsg-menguat-di-sesi-i-asing-borong-bbni-asii-dan-bbca?page=all> from <GET http://money.kompas.com/read/2022/02/15/124951726/rupiah-dan-ihsg-menguat-di-sesi-i-asing-borong-bbni-asii-dan-bbca?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/15/155000026/ihsg-ditutup-menguat-asing-borong-saham-bbni-bbca-dan-tlkm?page=all> from <GET http://money.kompas.com/read/2022/02/15/155000026/ihsg-ditutup-menguat-asing-borong-saham-bbni-bbca-dan-tlkm?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/16/094441626/sebelum-tukar-valas-cek-kurs-rupiah-hari-ini-di-cimb-niaga-hingga-bri?page=all> from <GET http://money.kompas.com/read/2022/02/16/094441626/sebelum-tukar-valas-cek-kurs-rupiah-hari-ini-di-cimb-niaga-hingga-bri?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/hype/read/2022/02/17/113141866/j-hope-bts-dapat-kado-sikat-toilet-jutaan-rupiah-dari-jin?page=all> from <GET http://www.kompas.com/hype/read/2022/02/17/113141866/j-hope-bts-dapat-kado-sikat-toilet-jutaan-rupiah-dari-jin?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/16/124500626/rupiah-dan-ihsg-menguat-di-sesi-i-asing-koleksi-saham-arto-bbni-dan-bbca?page=all> from <GET http://money.kompas.com/read/2022/02/16/124500626/rupiah-dan-ihsg-menguat-di-sesi-i-asing-koleksi-saham-arto-bbni-dan-bbca?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/17/092200326/ihsg-bergerak-fluktuatif-rupiah-melemah?page=all> from <GET http://money.kompas.com/read/2022/02/17/092200326/ihsg-bergerak-fluktuatif-rupiah-melemah?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/16/153615326/rupiah-dan-ihsg-ditutup-menguat-asing-borong-bbca-dan-bbni?page=all> from <GET http://money.kompas.com/read/2022/02/16/153615326/rupiah-dan-ihsg-ditutup-menguat-asing-borong-bbca-dan-bbni?page=all>
+DEBUG: Crawled (200) <GET https://denpasar.kompas.com/read/2022/02/21/144703878/pohon-tumbang-timpa-pura-di-buleleng-kerugian-ditaksir-ratusan-juta-rupiah?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/17/124915826/rupiah-dan-ihsg-terkapar-di-sesi-i-asing-lepas-saham-bbri-bbca-dan-bumi?page=all> from <GET http://money.kompas.com/read/2022/02/17/124915826/rupiah-dan-ihsg-terkapar-di-sesi-i-asing-lepas-saham-bbri-bbca-dan-bumi?page=all>
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2022/02/20/165714378/jalankan-misi-rupiah-berdaulat-kapal-perang-tni-bawa-uang-tunai-ke-pulau?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/22/125306426/rupiah-dan-ihsg-melemah-di-sesi-i-perdagangan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/21/124638726/rupiah-dan-ihsg-menguat-di-sesi-i-bbri-arto-dan-hrum-laris-dibeli-asing?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://surabaya.kompas.com/robots.txt> from <GET http://surabaya.kompas.com/robots.txt>
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2022/02/17/222818878/ada-laporan-pungli-penyaluran-bpnt-di-kebumen-besarannya-capai-jutaan?page=all> from <GET http://regional.kompas.com/read/2022/02/17/222818878/ada-laporan-pungli-penyaluran-bpnt-di-kebumen-besarannya-capai-jutaan?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/22/154549226/rupiah-dan-ihsg-melemah-saham-bank-jago-laris-diborong-asing?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2022/02/22/190728278/gaya-hidup-mewah-bandar-arisan-online-bodong-pernah-gelar-pesta-di-mal-dan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2022/02/17/222818878/ada-laporan-pungli-penyaluran-bpnt-di-kebumen-besarannya-capai-jutaan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/18/092259526/rupiah-dan-ihsg-bergerak-melemah-pagi-ini?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2022/02/23/051900178/cerita-penjual-tempe-mendoan-tutup-warung-hingga-rugi-jutaan-rupiah-karena?page=all> from <GET http://regional.kompas.com/read/2022/02/23/051900178/cerita-penjual-tempe-mendoan-tutup-warung-hingga-rugi-jutaan-rupiah-karena?page=all>
+DEBUG: Crawled (200) <GET https://surabaya.kompas.com/robots.txt> (referer: None)
+DEBUG: Redirecting (301) to <GET https://nasional.kompas.com/read/2022/03/01/20232691/alasan-jokowi-pindahkan-ibu-kota-negara-pemerataan-ekonomi-hingga-populasi?page=all> from <GET http://nasional.kompas.com/read/2022/03/01/20232691/alasan-jokowi-pindahkan-ibu-kota-negara-pemerataan-ekonomi-hingga-populasi?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/rupiah?sort=desc> (referer: https://www.kompas.com/tag/rupiah?sort=desc&page=4)
+DEBUG: Crawled (200) <GET https://www.kompas.com/hype/read/2022/02/17/113141866/j-hope-bts-dapat-kado-sikat-toilet-jutaan-rupiah-dari-jin?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://surabaya.kompas.com/read/2022/02/17/142549178/satu-keluarga-pengusaha-di-tuban-disekap-kawanan-perampok-harta-ratusan?page=all> from <GET http://surabaya.kompas.com/read/2022/02/17/142549178/satu-keluarga-pengusaha-di-tuban-disekap-kawanan-perampok-harta-ratusan?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/15/124951726/rupiah-dan-ihsg-menguat-di-sesi-i-asing-borong-bbni-asii-dan-bbca?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://nasional.kompas.com/read/2022/03/01/20232691/alasan-jokowi-pindahkan-ibu-kota-negara-pemerataan-ekonomi-hingga-populasi?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/15/155000026/ihsg-ditutup-menguat-asing-borong-saham-bbni-bbca-dan-tlkm?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/16/094441626/sebelum-tukar-valas-cek-kurs-rupiah-hari-ini-di-cimb-niaga-hingga-bri?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/ekonomi?sort=desc> (referer: https://www.kompas.com/tag/ekonomi?sort=desc&page=4)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/17/160000226/rupiah-dan-ihsg-ditutup-melemah-sore-ini?page=all> from <GET http://money.kompas.com/read/2022/02/17/160000226/rupiah-dan-ihsg-ditutup-melemah-sore-ini?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/16/093202526/awal-perdagangan-rupiah-dan-ihsg-kompak-menguat?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/02/094006326/dibayangi-perang-rusia-ukraina-ihsg-hijau-di-awal-perdagangan-rupiah-justru?page=all> from <GET http://money.kompas.com/read/2022/03/02/094006326/dibayangi-perang-rusia-ukraina-ihsg-hijau-di-awal-perdagangan-rupiah-justru?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/01/125449926/ihsg-menguat-di-sesi-i-investor-asing-borong-saham-bbri-tlkm-dan-indy?page=all> from <GET http://money.kompas.com/read/2022/03/01/125449926/ihsg-menguat-di-sesi-i-investor-asing-borong-saham-bbri-tlkm-dan-indy?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/01/154027026/ihsg-ditutup-menguat-aksi-beli-bersih-investor-asing-capai-rp-15-triliun?page=all> from <GET http://money.kompas.com/read/2022/03/01/154027026/ihsg-ditutup-menguat-aksi-beli-bersih-investor-asing-capai-rp-15-triliun?page=all>
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/skola/read/2022/03/08/190000569/pengertian-administrasi-menurut-para-ahli-?page=all> from <GET http://www.kompas.com/skola/read/2022/03/08/190000569/pengertian-administrasi-menurut-para-ahli-?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/02/101556726/mau-tukar-dollar-as-simak-kurs-rupiah-di-bca-bri-bni-bank-mandiri-dan-cimb?page=all> from <GET http://money.kompas.com/read/2022/03/02/101556726/mau-tukar-dollar-as-simak-kurs-rupiah-di-bca-bri-bni-bank-mandiri-dan-cimb?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/17/124915826/rupiah-dan-ihsg-terkapar-di-sesi-i-asing-lepas-saham-bbri-bbca-dan-bumi?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/07/104232326/imbas-perang-rusia-ukraina-dollar-as-menguat-ke-level-tertinggi-sejak-2020?page=all> from <GET http://money.kompas.com/read/2022/03/07/104232326/imbas-perang-rusia-ukraina-dollar-as-menguat-ke-level-tertinggi-sejak-2020?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/07/110000626/simak-kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all> from <GET http://money.kompas.com/read/2022/03/07/110000626/simak-kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/03/04/095100126/sebelum-tukar-valas-cek-kurs-rupiah-hari-ini-di-5-bank?page=all> from <GET http://money.kompas.com/read/2022/03/04/095100126/sebelum-tukar-valas-cek-kurs-rupiah-hari-ini-di-5-bank?page=all>
+DEBUG: Redirecting (301) to <GET https://travel.kompas.com/read/2022/03/08/190700827/jadwal-ka-jakarta-ke-bandung-kelas-ekonomi-dan-eksekutif-serta-harga-tiketnya?page=all> from <GET http://travel.kompas.com/read/2022/03/08/190700827/jadwal-ka-jakarta-ke-bandung-kelas-ekonomi-dan-eksekutif-serta-harga-tiketnya?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/01/154027026/ihsg-ditutup-menguat-aksi-beli-bersih-investor-asing-capai-rp-15-triliun?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/02/094006326/dibayangi-perang-rusia-ukraina-ihsg-hijau-di-awal-perdagangan-rupiah-justru?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/02/101556726/mau-tukar-dollar-as-simak-kurs-rupiah-di-bca-bri-bni-bank-mandiri-dan-cimb?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://www.kompas.com/skola/read/2022/03/08/220000969/pengertian-administrasi-perkantoran-dan-ruang-lingkupnya?page=all> from <GET http://www.kompas.com/skola/read/2022/03/08/220000969/pengertian-administrasi-perkantoran-dan-ruang-lingkupnya?page=all>
+DEBUG: Redirecting (301) to <GET https://regional.kompas.com/read/2022/03/09/092032378/presidensi-g20-di-labuan-bajo-diharapkan-jadi-momentum-pemulihan-ekonomi?page=all> from <GET http://regional.kompas.com/read/2022/03/09/092032378/presidensi-g20-di-labuan-bajo-diharapkan-jadi-momentum-pemulihan-ekonomi?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/16/124500626/rupiah-dan-ihsg-menguat-di-sesi-i-asing-koleksi-saham-arto-bbni-dan-bbca?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://surabaya.kompas.com/read/2022/02/17/142549178/satu-keluarga-pengusaha-di-tuban-disekap-kawanan-perampok-harta-ratusan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://travel.kompas.com/read/2022/03/08/190700827/jadwal-ka-jakarta-ke-bandung-kelas-ekonomi-dan-eksekutif-serta-harga-tiketnya?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/kurs?sort=desc&page=2> (referer: https://www.kompas.com/tag/kurs)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/17/092200326/ihsg-bergerak-fluktuatif-rupiah-melemah?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2022/03/09/092032378/presidensi-g20-di-labuan-bajo-diharapkan-jadi-momentum-pemulihan-ekonomi?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/skola/read/2022/03/08/190000569/pengertian-administrasi-menurut-para-ahli-?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/01/125449926/ihsg-menguat-di-sesi-i-investor-asing-borong-saham-bbri-tlkm-dan-indy?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/17/160000226/rupiah-dan-ihsg-ditutup-melemah-sore-ini?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/04/095100126/sebelum-tukar-valas-cek-kurs-rupiah-hari-ini-di-5-bank?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/09/095915726/berikut-kurs-rupiah-hari-ini-di-bca-bri-bni-bank-mandiri-dan-cimb-niaga?page=all> from <GET http://money.kompas.com/read/2022/02/09/095915726/berikut-kurs-rupiah-hari-ini-di-bca-bri-bni-bank-mandiri-dan-cimb-niaga?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/11/094929926/mau-tukar-dollar-as-intip-dulu-kurs-rupiah-hari-ini?page=all> from <GET http://money.kompas.com/read/2022/02/11/094929926/mau-tukar-dollar-as-intip-dulu-kurs-rupiah-hari-ini?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/10/094200526/sebelum-beli-valas-cek-dulu-kurs-rupiah-hari-ini-?page=all> from <GET http://money.kompas.com/read/2022/02/10/094200526/sebelum-beli-valas-cek-dulu-kurs-rupiah-hari-ini-?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/07/110000626/simak-kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/03/094500426/mau-beli-dollar-as-cek-kurs-rupiah-hari-ini-di-bni-hingga-cimb-niaga?page=all> from <GET http://money.kompas.com/read/2022/02/03/094500426/mau-beli-dollar-as-cek-kurs-rupiah-hari-ini-di-bni-hingga-cimb-niaga?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/07/100859826/simak-kurs-rupiah-terhadap-dollar-as-di-bca-hingga-bank-mandiri?page=all> from <GET http://money.kompas.com/read/2022/02/07/100859826/simak-kurs-rupiah-terhadap-dollar-as-di-bca-hingga-bank-mandiri?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/08/101300626/kurs-rupiah-terhadap-dollar-as-di-bri-hingga-bca?page=all> from <GET http://money.kompas.com/read/2022/02/08/101300626/kurs-rupiah-terhadap-dollar-as-di-bri-hingga-bca?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/08/162306626/ihsg-ditutup-melemah-tiga-saham-bank-pelat-merah-diborong-investor-asing?page=all> from <GET http://money.kompas.com/read/2022/02/08/162306626/ihsg-ditutup-melemah-tiga-saham-bank-pelat-merah-diborong-investor-asing?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/04/092645326/sebelum-tukar-valas-intip-kurs-rupiah-hari-ini-di-5-bank?page=all> from <GET http://money.kompas.com/read/2022/02/04/092645326/sebelum-tukar-valas-intip-kurs-rupiah-hari-ini-di-5-bank?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/03/07/104232326/imbas-perang-rusia-ukraina-dollar-as-menguat-ke-level-tertinggi-sejak-2020?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/28/094500426/sebelum-beli-valas-simak-kurs-rupiah-hari-ini?page=all> from <GET http://money.kompas.com/read/2022/01/28/094500426/sebelum-beli-valas-simak-kurs-rupiah-hari-ini?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/31/100745026/simak-kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all> from <GET http://money.kompas.com/read/2022/01/31/100745026/simak-kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/27/154615426/ihsg-ditutup-menguat-016-persen-rupiah-justru-melemah?page=all> from <GET http://money.kompas.com/read/2022/01/27/154615426/ihsg-ditutup-menguat-016-persen-rupiah-justru-melemah?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/16/153615326/rupiah-dan-ihsg-ditutup-menguat-asing-borong-bbca-dan-bbni?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/kurs?sort=desc&page=3> (referer: https://www.kompas.com/tag/kurs?sort=desc&page=2)
+DEBUG: Crawled (200) <GET https://regional.kompas.com/read/2022/02/23/051900178/cerita-penjual-tempe-mendoan-tutup-warung-hingga-rugi-jutaan-rupiah-karena?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/skola/read/2022/03/08/220000969/pengertian-administrasi-perkantoran-dan-ruang-lingkupnya?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/11/094929926/mau-tukar-dollar-as-intip-dulu-kurs-rupiah-hari-ini?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/09/095915726/berikut-kurs-rupiah-hari-ini-di-bca-bri-bni-bank-mandiri-dan-cimb-niaga?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/31/122950226/ihsg-naik-tipis-di-sesi-i-rupiah-melemah?page=all> from <GET http://money.kompas.com/read/2022/01/31/122950226/ihsg-naik-tipis-di-sesi-i-rupiah-melemah?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/04/092645326/sebelum-tukar-valas-intip-kurs-rupiah-hari-ini-di-5-bank?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/03/094500426/mau-beli-dollar-as-cek-kurs-rupiah-hari-ini-di-bni-hingga-cimb-niaga?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/02/093501626/ihsg-menguat-di-awal-perdagangan-rupiah-justru-melemah?page=all> from <GET http://money.kompas.com/read/2022/02/02/093501626/ihsg-menguat-di-awal-perdagangan-rupiah-justru-melemah?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/08/101300626/kurs-rupiah-terhadap-dollar-as-di-bri-hingga-bca?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/10/094200526/sebelum-beli-valas-cek-dulu-kurs-rupiah-hari-ini-?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/02/094653526/sebelum-tukar-dollar-as-cek-dulu-kurs-rupiah-di-bca-hingga-bri?page=all> from <GET http://money.kompas.com/read/2022/02/02/094653526/sebelum-tukar-dollar-as-cek-dulu-kurs-rupiah-di-bca-hingga-bri?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/19/093142426/ihsg-dan-rupiah-melaju-di-zona-merah-pagi-ini?page=all> from <GET http://money.kompas.com/read/2022/01/19/093142426/ihsg-dan-rupiah-melaju-di-zona-merah-pagi-ini?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/02/09/093136826/awal-perdagangan-rupiah-dan-ihsg-melaju-di-zona-hijau?page=all> from <GET http://money.kompas.com/read/2022/02/09/093136826/awal-perdagangan-rupiah-dan-ihsg-melaju-di-zona-hijau?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/07/100859826/simak-kurs-rupiah-terhadap-dollar-as-di-bca-hingga-bank-mandiri?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/07/101734426/simak-kurs-rupiah-terhadap-dollar-as-hari-ini-di-bri-hingga-bni?page=all> from <GET http://money.kompas.com/read/2022/01/07/101734426/simak-kurs-rupiah-terhadap-dollar-as-hari-ini-di-bri-hingga-bni?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/06/104132426/simak-kurs-rupiah-terhadap-dollar-as-di-bank-mandiri-hingga-bca?page=all> from <GET http://money.kompas.com/read/2022/01/06/104132426/simak-kurs-rupiah-terhadap-dollar-as-di-bank-mandiri-hingga-bca?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/10/100814926/kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all> from <GET http://money.kompas.com/read/2022/01/10/100814926/kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/10/130459526/ihsg-menguat-di-sesi-i-investor-asing-koleksi-saham-arto-klbf-dan-tlkm?page=all> from <GET http://money.kompas.com/read/2022/01/10/130459526/ihsg-menguat-di-sesi-i-investor-asing-koleksi-saham-arto-klbf-dan-tlkm?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/08/162306626/ihsg-ditutup-melemah-tiga-saham-bank-pelat-merah-diborong-investor-asing?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/11/100938726/cek-kurs-rupiah-terhadap-dollar-as-di-cimb-niaga-hingga-mandiri?page=all> from <GET http://money.kompas.com/read/2022/01/11/100938726/cek-kurs-rupiah-terhadap-dollar-as-di-cimb-niaga-hingga-mandiri?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/11/153818726/sempat-berada-di-zona-hijau-ihsg-justru-berakhir-di-zona-merah?page=all> from <GET http://money.kompas.com/read/2022/01/11/153818726/sempat-berada-di-zona-hijau-ihsg-justru-berakhir-di-zona-merah?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/27/154615426/ihsg-ditutup-menguat-016-persen-rupiah-justru-melemah?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/31/100745026/simak-kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/12/092135226/ihsg-dan-rupiah-bergerak-positif-di-awal-perdagangan?page=all> from <GET http://money.kompas.com/read/2022/01/12/092135226/ihsg-dan-rupiah-bergerak-positif-di-awal-perdagangan?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/28/094500426/sebelum-beli-valas-simak-kurs-rupiah-hari-ini?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/02/093501626/ihsg-menguat-di-awal-perdagangan-rupiah-justru-melemah?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/31/122950226/ihsg-naik-tipis-di-sesi-i-rupiah-melemah?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/13/094000826/-intip-kurs-rupiah-hari-ini-di-bank-mandiri-bni-bri-cimb-niaga-dan-bca?page=all> from <GET http://money.kompas.com/read/2022/01/13/094000826/-intip-kurs-rupiah-hari-ini-di-bank-mandiri-bni-bri-cimb-niaga-dan-bca?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/19/093142426/ihsg-dan-rupiah-melaju-di-zona-merah-pagi-ini?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/09/093136826/awal-perdagangan-rupiah-dan-ihsg-melaju-di-zona-hijau?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/14/095000426/-cek-kurs-rupiah-hari-ini-di-lima-bank?page=all> from <GET http://money.kompas.com/read/2022/01/14/095000426/-cek-kurs-rupiah-hari-ini-di-lima-bank?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/17/102625726/intip-kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all> from <GET http://money.kompas.com/read/2022/01/17/102625726/intip-kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/02/02/094653526/sebelum-tukar-dollar-as-cek-dulu-kurs-rupiah-di-bca-hingga-bri?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/18/100512926/sebelum-beli-dollar-as-intip-kurs-rupiah-hari-ini?page=all> from <GET http://money.kompas.com/read/2022/01/18/100512926/sebelum-beli-dollar-as-intip-kurs-rupiah-hari-ini?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/19/094337726/sebelum-tukar-dollar-as-cek-kurs-rupiah-hari-ini-di-bank?page=all> from <GET http://money.kompas.com/read/2022/01/19/094337726/sebelum-tukar-dollar-as-cek-kurs-rupiah-hari-ini-di-bank?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/06/104132426/simak-kurs-rupiah-terhadap-dollar-as-di-bank-mandiri-hingga-bca?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/kurs?sort=desc&page=4> (referer: https://www.kompas.com/tag/kurs?sort=desc&page=3)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/20/095500126/mau-beli-valas-cek-kurs-rupiah-hari-ini-di-5-bank?page=all> from <GET http://money.kompas.com/read/2022/01/20/095500126/mau-beli-valas-cek-kurs-rupiah-hari-ini-di-5-bank?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/07/101734426/simak-kurs-rupiah-terhadap-dollar-as-hari-ini-di-bri-hingga-bni?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/10/130459526/ihsg-menguat-di-sesi-i-investor-asing-koleksi-saham-arto-klbf-dan-tlkm?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2022/01/21/094850826/mau-beli-valas-intip-kurs-rupiah-hari-ini-di-bca-hingga-bank-mandiri?page=all> from <GET http://money.kompas.com/read/2022/01/21/094850826/mau-beli-valas-intip-kurs-rupiah-hari-ini-di-bca-hingga-bank-mandiri?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/10/100814926/kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/11/153818726/sempat-berada-di-zona-hijau-ihsg-justru-berakhir-di-zona-merah?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/11/100938726/cek-kurs-rupiah-terhadap-dollar-as-di-cimb-niaga-hingga-mandiri?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/12/092135226/ihsg-dan-rupiah-bergerak-positif-di-awal-perdagangan?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/28/125503926/ihsg-sesi-i-menguat-ini-saham-saham-yang-dikoleksi-investor-asing?page=all> from <GET http://money.kompas.com/read/2021/12/28/125503926/ihsg-sesi-i-menguat-ini-saham-saham-yang-dikoleksi-investor-asing?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/28/154324726/ihsg-dan-rupiah-kompak-ditutup-menguat?page=all> from <GET http://money.kompas.com/read/2021/12/28/154324726/ihsg-dan-rupiah-kompak-ditutup-menguat?page=all>
+DEBUG: Crawled (200) <GET https://www.kompas.com/tag/kurs?sort=desc> (referer: https://www.kompas.com/tag/kurs?sort=desc&page=4)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/29/093733126/ihsg-bergerak-menguat-pagi-ini-rupiah-melemah?page=all> from <GET http://money.kompas.com/read/2021/12/29/093733126/ihsg-bergerak-menguat-pagi-ini-rupiah-melemah?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/17/102625726/intip-kurs-rupiah-hari-ini-di-bri-hingga-bca?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/29/102426926/simak-kurs-rupiah-hari-ini-di-bca-hingga-bank-mandiri?page=all> from <GET http://money.kompas.com/read/2021/12/29/102426926/simak-kurs-rupiah-hari-ini-di-bca-hingga-bank-mandiri?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/14/095000426/-cek-kurs-rupiah-hari-ini-di-lima-bank?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/22/100000126/simak-kurs-rupiah-hari-ini-di-bca-bri-bni-cimb-niaga-dan-bank-mandiri?page=all> from <GET http://money.kompas.com/read/2021/12/22/100000126/simak-kurs-rupiah-hari-ini-di-bca-bri-bni-cimb-niaga-dan-bank-mandiri?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/20/102045526/kurs-rupiah-hari-ini-di-bni-bri-cimb-niaga-bca-dan-bank-mandiri?page=all> from <GET http://money.kompas.com/read/2021/12/20/102045526/kurs-rupiah-hari-ini-di-bni-bri-cimb-niaga-bca-dan-bank-mandiri?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/20/123446726/ihsg-melemah-di-sesi-i-perdagangan-awal-pekan?page=all> from <GET http://money.kompas.com/read/2021/12/20/123446726/ihsg-melemah-di-sesi-i-perdagangan-awal-pekan?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/21/101000326/kurs-rupiah-hari-ini-di-bank-mandiri-bni-bri-cimb-dan-bca?page=all> from <GET http://money.kompas.com/read/2021/12/21/101000326/kurs-rupiah-hari-ini-di-bank-mandiri-bni-bri-cimb-dan-bca?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/22/092736226/awal-perdagangan-ihsg-dan-rupiah-menguat?page=all> from <GET http://money.kompas.com/read/2021/12/22/092736226/awal-perdagangan-ihsg-dan-rupiah-menguat?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/18/100512926/sebelum-beli-dollar-as-intip-kurs-rupiah-hari-ini?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/20/095500126/mau-beli-valas-cek-kurs-rupiah-hari-ini-di-5-bank?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/13/094000826/-intip-kurs-rupiah-hari-ini-di-bank-mandiri-bni-bri-cimb-niaga-dan-bca?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/19/094337726/sebelum-tukar-dollar-as-cek-kurs-rupiah-hari-ini-di-bank?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/24/094000426/berikut-kurs-rupiah-hari-ini-di-bni-bri-bca-bank-mandiri-dan-cimb-niaga?page=all> from <GET http://money.kompas.com/read/2021/12/24/094000426/berikut-kurs-rupiah-hari-ini-di-bni-bri-bca-bank-mandiri-dan-cimb-niaga?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/23/095000026/sebelum-tukar-valas-cek-kurs-rupiah-hari-ini-?page=all> from <GET http://money.kompas.com/read/2021/12/23/095000026/sebelum-tukar-valas-cek-kurs-rupiah-hari-ini-?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2022/01/21/094850826/mau-beli-valas-intip-kurs-rupiah-hari-ini-di-bca-hingga-bank-mandiri?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/21/101000326/kurs-rupiah-hari-ini-di-bank-mandiri-bni-bri-cimb-dan-bca?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/20/123446726/ihsg-melemah-di-sesi-i-perdagangan-awal-pekan?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/28/154324726/ihsg-dan-rupiah-kompak-ditutup-menguat?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/28/125503926/ihsg-sesi-i-menguat-ini-saham-saham-yang-dikoleksi-investor-asing?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/27/125114326/ihsg-menguat-di-sesi-i-perdagangan-bagaimana-dengan-rupiah?page=all> from <GET http://money.kompas.com/read/2021/12/27/125114326/ihsg-menguat-di-sesi-i-perdagangan-bagaimana-dengan-rupiah?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/24/153316326/ihsg-ditutup-menguat-jelang-natal-bagaimana-dengan-rupiah?page=all> from <GET http://money.kompas.com/read/2021/12/24/153316326/ihsg-ditutup-menguat-jelang-natal-bagaimana-dengan-rupiah?page=all>
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/27/103628726/mau-beli-valas-simak-kurs-rupiah-di-5-bank-ini?page=all> from <GET http://money.kompas.com/read/2021/12/27/103628726/mau-beli-valas-simak-kurs-rupiah-di-5-bank-ini?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/29/093733126/ihsg-bergerak-menguat-pagi-ini-rupiah-melemah?page=all> (referer: None)
+DEBUG: Redirecting (301) to <GET https://money.kompas.com/read/2021/12/28/094400926/kurs-rupiah-terhadap-dollar-as-di-bca-hingga-bank-mandiri-terkini?page=all> from <GET http://money.kompas.com/read/2021/12/28/094400926/kurs-rupiah-terhadap-dollar-as-di-bca-hingga-bank-mandiri-terkini?page=all>
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/22/100000126/simak-kurs-rupiah-hari-ini-di-bca-bri-bni-cimb-niaga-dan-bank-mandiri?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/29/102426926/simak-kurs-rupiah-hari-ini-di-bca-hingga-bank-mandiri?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/24/094000426/berikut-kurs-rupiah-hari-ini-di-bni-bri-bca-bank-mandiri-dan-cimb-niaga?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/27/125114326/ihsg-menguat-di-sesi-i-perdagangan-bagaimana-dengan-rupiah?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/23/095000026/sebelum-tukar-valas-cek-kurs-rupiah-hari-ini-?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/22/092736226/awal-perdagangan-ihsg-dan-rupiah-menguat?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/28/094400926/kurs-rupiah-terhadap-dollar-as-di-bca-hingga-bank-mandiri-terkini?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/24/153316326/ihsg-ditutup-menguat-jelang-natal-bagaimana-dengan-rupiah?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/20/102045526/kurs-rupiah-hari-ini-di-bni-bri-cimb-niaga-bca-dan-bank-mandiri?page=all> (referer: None)
+DEBUG: Crawled (200) <GET https://money.kompas.com/read/2021/12/27/103628726/mau-beli-valas-simak-kurs-rupiah-di-5-bank-ini?page=all> (referer: None)
+INFO: Closing spider (finished)
+INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 149137,
+ 'downloader/request_count': 374,
+ 'downloader/request_method_count/GET': 374,
+ 'downloader/response_bytes': 8575419,
+ 'downloader/response_count': 374,
+ 'downloader/response_status_count/200': 194,
+ 'downloader/response_status_count/301': 179,
+ 'downloader/response_status_count/404': 1,
+ 'dupefilter/filtered': 270,
+ 'elapsed_time_seconds': 10.19271,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2022, 3, 10, 10, 22, 21, 529199),
+ 'httpcompression/response_bytes': 54341417,
+ 'httpcompression/response_count': 184,
+ 'log_count/DEBUG': 728,
+ 'log_count/INFO': 10,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 5,
+ 'response_received_count': 195,
+ 'robotstxt/request_count': 12,
+ 'robotstxt/response_count': 12,
+ 'robotstxt/response_status_count/200': 11,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 351,
+ 'scheduler/dequeued/memory': 351,
+ 'scheduler/enqueued': 351,
+ 'scheduler/enqueued/memory': 351,
+ 'start_time': datetime.datetime(2022, 3, 10, 10, 22, 11, 336489)}
+INFO: Spider closed (finished)
