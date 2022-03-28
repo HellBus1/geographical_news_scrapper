@@ -66,7 +66,7 @@ class NewsSpider(scrapy.Spider):
     current_url = ""
     berita = []
     visited = []
-    skipped_subdomain = ["news", "travel", "20", "finance", "inet", "hot", "sport", "oto", "health", "food", "foto", "wolipop"]
+    skipped_subdomain = ["travel", "20", "finance", "inet", "hot", "sport", "oto", "health", "food", "foto", "wolipop"]
 
     def __init__(self, *a, **kw):
         super(NewsSpider, self).__init__(*a, **kw)

@@ -154,3 +154,6 @@ desc_text_train.pkl
 
 vectorizer.pkl
 QE_Stat_V2_testing_result.csv
+bow_expansion/
+hepur/
+bow_what2.csv
