@@ -157,3 +157,5 @@ QE_Stat_V2_testing_result.csv
 bow_expansion/
 hepur/
 bow_what2.csv
+*.npy
+*.model
