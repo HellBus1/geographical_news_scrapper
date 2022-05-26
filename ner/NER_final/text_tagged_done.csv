@@ -99,15 +99,15 @@ fikry,b-nama
  ,O
 abdul,b-nama
  ,O
-rohman,e-nama
+rohman,b-nama
  ,O
 randy,b-nama
  ,O
-apriyanto,e-nama
+apriyanto,b-nama
  ,O
 muhammad,b-nama
  ,O
-rizky,e-nama
+rizky,b-nama
  ,O
 sidang,o
  ,O
@@ -151,7 +151,7 @@ ketua,o
  ,O
 chandra,b-nama
  ,O
-ramadhani,e-nama
+ramadhani,b-nama
  ,O
 membacakan,o
  ,O
@@ -241,21 +241,21 @@ menuntut,o
  ,O
 muhammad,b-nama
  ,O
-fikry,e-nama
+fikry,b-nama
  ,O
 muhammad,b-nama
  ,O
-rizky,e-nama
+rizky,b-nama
  ,O
 randy,b-nama
  ,O
-apriyanto,e-nama
+apriyanto,b-nama
  ,O
 penjara,o
  ,O
 abdul,b-nama
  ,O
-rohman,e-nama
+rohman,b-nama
  ,O
 dituntut,o
  ,O
@@ -267,7 +267,7 @@ sidang,o
  ,O
 terpisah,o
  ,O
-basri,b-nama
+basri,o
  ,O
 haji,o
  ,O
@@ -391,9 +391,9 @@ pelaku,o
  ,O
 haji,o
  ,O
-dharma,o
+dharma,b-nama
  ,O
-dharma,o
+dharma,b-nama
  ,O
 pelaku,o
  ,O
@@ -643,7 +643,7 @@ narkotika,o
  ,O
 asusila,o
  ,O
-jon,b-nama
+jon,o
  ,O
 barubaru,o
  ,O
@@ -745,7 +745,7 @@ jalan,o
  ,O
 perkebunan,o
  ,O
-sei,b-nama
+sei,o
  ,O
 balai,o
  ,O
@@ -763,7 +763,7 @@ pelaku,o
  ,O
 berinisial,o
  ,O
-skt,b-nama
+skt,o
  ,O
 24,o
  ,O
@@ -787,9 +787,9 @@ rumahnya,o
  ,O
 bertemu,o
  ,O
-skt,b-nama
+skt,o
  ,O
-sei,b-nama
+sei,o
  ,O
 balai,o
  ,O
@@ -835,7 +835,7 @@ sawit,o
  ,O
 sepi,o
  ,O
-skt,b-nama
+skt,o
  ,O
 merampas,o
  ,O
@@ -849,7 +849,7 @@ mengancam,o
  ,O
 pisau,o
  ,O
-skt,b-nama
+skt,o
  ,O
 memaksa,o
  ,O
@@ -887,7 +887,7 @@ polres,o
  ,O
 asahan,o
  ,O
-skt,b-nama
+skt,o
  ,O
 ditangkap,o
  ,O
@@ -895,7 +895,7 @@ rabu,o
  ,O
 112,o
  ,O
-skt,b-nama
+skt,o
  ,O
 melawan,o
  ,O
@@ -945,7 +945,7 @@ jurnalis,o
  ,O
 indonesia,o
  ,O
-aji,o
+aji,b-nama
  ,O
 menggelar,o
  ,O
@@ -1127,7 +1127,7 @@ banyuwangi,o
  ,O
 syaifudin,b-nama
  ,O
-machmud,e-nama
+machmud,b-nama
  ,O
 tugas,o
  ,O
@@ -1173,7 +1173,7 @@ jawa,o
  ,O
 timur,o
  ,O
-probo,o
+probo,b-nama
  ,O
 menemui,o
  ,O
@@ -1203,7 +1203,7 @@ bernama,o
  ,O
 meta,b-nama
  ,O
-kumalasari,e-nama
+kumalasari,b-nama
  ,O
 pulogadung,o
  ,O
@@ -1335,7 +1335,7 @@ korban,o
  ,O
 pelaku,o
  ,O
-aam,b-nama
+aam,o
  ,O
 mendekati,o
  ,O
@@ -1380,3 +1380,4755 @@ menepikan,o
 kendaraan,o
  ,O
 mengajak,o
+ ,O
+sindikat,o
+ ,O
+kejahatan,o
+ ,O
+internasional,o
+ ,O
+berusaha,o
+ ,O
+menyelundupkan,o
+ ,O
+narkoba,o
+ ,O
+australia,o
+ ,O
+mengikatnya,o
+ ,O
+lambung,o
+ ,O
+kapal,o
+ ,O
+kargo,o
+ ,O
+terdeteksi,o
+ ,O
+kapal,o
+ ,O
+pelabuhan,o
+ ,O
+penyelam,o
+ ,O
+menjemput,o
+ ,O
+barang,o
+ ,O
+selundupan,o
+ ,O
+modus,o
+ ,O
+penyelundupan,o
+ ,O
+tergolong,o
+ ,O
+nekad,o
+ ,O
+terkuak,o
+ ,O
+penyelam,o
+ ,O
+mengambang,o
+ ,O
+air,o
+ ,O
+pelabuhan,o
+ ,O
+newcastle,o
+ ,O
+tempat,o
+ ,O
+kru,o
+ ,O
+kapal,o
+ ,O
+argentina,o
+ ,O
+menurunkan,o
+ ,O
+barang,o
+ ,O
+sekeliling,o
+ ,O
+pria,o
+ ,O
+dinyatakan,o
+ ,O
+meninggal,o
+ ,O
+tempat,o
+ ,O
+kemasan,o
+ ,O
+kokain,o
+ ,O
+bernilai,o
+ ,O
+puluhan,o
+ ,O
+juta,o
+ ,O
+dolar,o
+ ,O
+diduga,o
+ ,O
+penyelam,o
+ ,O
+perjalanan,o
+ ,O
+mengambil,o
+ ,O
+kokain,o
+ ,O
+kapal,o
+ ,O
+kargo,o
+ ,O
+bernama,o
+ ,O
+aretigr,o
+ ,O
+menemui,o
+ ,O
+hambatan,o
+ ,O
+detektif,o
+ ,O
+harga,o
+ ,O
+penjualan,o
+ ,O
+kokain,o
+ ,O
+sydney,o
+ ,O
+tertinggi,o
+ ,O
+dunia,o
+ ,O
+menjadikannya,o
+ ,O
+magnet,o
+ ,O
+pengedar,o
+ ,O
+narkoba,o
+ ,O
+internasional,o
+ ,O
+harga,o
+ ,O
+eceran,o
+ ,O
+kokain,o
+ ,O
+australia,o
+ ,O
+daya,o
+ ,O
+tarik,o
+ ,O
+pengedar,o
+ ,O
+narkoba,o
+ ,O
+internasional,o
+ ,O
+menargetkan,o
+ ,O
+komunitas,o
+ ,O
+komandan,o
+ ,O
+tim,o
+ ,O
+penyelidik,o
+ ,O
+kejahatan,o
+ ,O
+terorganisasi,o
+ ,O
+inspektur,o
+ ,O
+detektif,o
+ ,O
+rob,b-nama
+ ,O
+critchlow,b-nama
+ ,O
+operasi,o
+ ,O
+canggih,o
+ ,O
+melibatkan,o
+ ,O
+perpindahan,o
+ ,O
+komoditas,o
+ ,O
+dunia,o
+ ,O
+polisi,o
+ ,O
+mengidentifikasi,o
+ ,O
+penyelam,o
+ ,O
+meninggal,o
+ ,O
+tempat,o
+ ,O
+kejadian,o
+ ,O
+percaya,o
+ ,O
+perjalanan,o
+ ,O
+amerika,o
+ ,O
+selatan,o
+ ,O
+detektif,o
+ ,O
+pelabuhanpelabuhan,o
+ ,O
+mudah,o
+ ,O
+dijangkau,o
+ ,O
+sydney,o
+ ,O
+sasaran,o
+ ,O
+pengedar,o
+ ,O
+narkoba,o
+ ,O
+internasional,o
+ ,O
+sydney,o
+ ,O
+pasar,o
+ ,O
+inspektur,o
+ ,O
+critchlow,b-nama
+ ,O
+khawatir,o
+ ,O
+pelabuhan,o
+ ,O
+newcastle,o
+ ,O
+wollongong,o
+ ,O
+negara,o
+ ,O
+new,o
+ ,O
+south,o
+ ,O
+wales,o
+ ,O
+kejahatan,o
+ ,O
+terorganisasi,o
+ ,O
+mencari,o
+ ,O
+titik,o
+ ,O
+lemah,o
+ ,O
+menargetkan,o
+ ,O
+pelabuhanpelabuhan,o
+ ,O
+pelabuhan,o
+ ,O
+memiliki,o
+ ,O
+pergerakan,o
+ ,O
+kapal,o
+ ,O
+truk,o
+ ,O
+mudah,o
+ ,O
+menyembunyikan,o
+ ,O
+narkoba,o
+ ,O
+polisi,o
+ ,O
+menyadari,o
+ ,O
+oknum,o
+ ,O
+menghindari,o
+ ,O
+pemeriksaan,o
+ ,O
+perbatasan,o
+ ,O
+menempelkan,o
+ ,O
+narkoba,o
+ ,O
+kapal,o
+ ,O
+operasi,o
+ ,O
+ironside,o
+ ,O
+serangan,o
+ ,O
+internasional,o
+ ,O
+mencegat,o
+ ,O
+pesan,o
+ ,O
+terenkripsi,o
+ ,O
+geng,o
+ ,O
+kriminal,o
+ ,O
+persembunyian,o
+ ,O
+air,o
+ ,O
+dunia,o
+ ,O
+inspektur,o
+ ,O
+angkatan,o
+ ,O
+perbatasan,o
+ ,O
+australia,o
+ ,O
+tony,b-nama
+ ,O
+wheatley,o
+ ,O
+awak,o
+ ,O
+kapal,o
+ ,O
+narkotika,o
+ ,O
+ditempatkan,o
+ ,O
+lambung,o
+ ,O
+kapal,o
+ ,O
+tempat,o
+ ,O
+lambung,o
+ ,O
+kapal,o
+ ,O
+narkoba,o
+ ,O
+disembunyikan,o
+ ,O
+pejabat,o
+ ,O
+pasukan,o
+ ,O
+perbatasan,o
+ ,O
+menurunkan,o
+ ,O
+penyelam,o
+ ,O
+kapal,o
+ ,O
+air,o
+ ,O
+dioperasikan,o
+ ,O
+jarak,o
+ ,O
+memeriksa,o
+ ,O
+kapal,o
+ ,O
+pelabuhan,o
+ ,O
+australia,o
+ ,O
+polisi,o
+ ,O
+taktik,o
+ ,O
+dugaan,o
+ ,O
+newcastle,o
+ ,O
+kalinya,o
+ ,O
+sindikat,o
+ ,O
+mengimpor,o
+ ,O
+narkoba,o
+ ,O
+australia,o
+ ,O
+pekan,o
+ ,O
+pria,o
+ ,O
+sydney,o
+ ,O
+menghadap,o
+ ,O
+pengadilan,o
+ ,O
+tuduhan,o
+ ,O
+bersekongkol,o
+ ,O
+menyelundupkan,o
+ ,O
+kokain,o
+ ,O
+port,o
+ ,O
+botany,o
+ ,O
+nsw,o
+ ,O
+polisi,o
+ ,O
+federal,o
+ ,O
+australia,o
+ ,O
+afp,o
+ ,O
+menuduh,o
+ ,O
+orangorang,o
+ ,O
+sindikat,o
+ ,O
+kejahatan,o
+ ,O
+internasional,o
+ ,O
+mencoba,o
+ ,O
+membawa,o
+ ,O
+kokain,o
+ ,O
+disembunyikan,o
+ ,O
+ban,o
+ ,O
+dirantai,o
+ ,O
+kapal,o
+ ,O
+kargo,o
+ ,O
+diduga,o
+ ,O
+oktober,o
+ ,O
+2019,o
+ ,O
+pria,o
+ ,O
+penyelam,o
+ ,O
+berpengalaman,o
+ ,O
+mencoba,o
+ ,O
+mengambil,o
+ ,O
+ban,o
+ ,O
+kapal,o
+ ,O
+kargo,o
+ ,O
+berlabuh,o
+ ,O
+port,o
+ ,O
+botany,o
+ ,O
+menjatuhkannya,o
+ ,O
+dasar,o
+ ,O
+laut,o
+ ,O
+ban,o
+ ,O
+diambil,o
+ ,O
+penyelam,o
+ ,O
+polisi,o
+ ,O
+ditemukan,o
+ ,O
+kosong,o
+ ,O
+polisi,o
+ ,O
+menduga,o
+ ,O
+narkoba,o
+ ,O
+terlepas,o
+ ,O
+perjalanan,o
+ ,O
+australia,o
+ ,O
+diduga,o
+ ,O
+upaya,o
+ ,O
+mengimpor,o
+ ,O
+30,o
+ ,O
+kg,o
+ ,O
+kokain,o
+ ,O
+modus,o
+ ,O
+operandi,o
+ ,O
+penyelam,o
+ ,O
+polisi,o
+ ,O
+menemukan,o
+ ,O
+ban,o
+ ,O
+terpasang,o
+ ,O
+lambung,o
+ ,O
+kapal,o
+ ,O
+narkoba,o
+ ,O
+ditemukan,o
+ ,O
+selundupan,o
+ ,O
+diduga,o
+ ,O
+hilang,o
+ ,O
+laut,o
+ ,O
+pria,o
+ ,O
+sydney,o
+ ,O
+ketiga,o
+ ,O
+didakwa,o
+ ,O
+dugaan,o
+ ,O
+persekongkolan,o
+ ,O
+menghadap,o
+ ,O
+pengadilan,o
+ ,O
+newcastle,o
+ ,O
+pemeriksaan,o
+ ,O
+mayat,o
+ ,O
+penyelam,o
+ ,O
+amerika,o
+ ,O
+selatan,o
+ ,O
+ditemukan,o
+ ,O
+tewas,o
+ ,O
+senin,o
+ ,O
+pagi,o
+ ,O
+kemarin,o
+ ,O
+905,o
+ ,O
+polisi,o
+ ,O
+menggeledah,o
+ ,O
+kapal,o
+ ,O
+menemukan,o
+ ,O
+kiriman,o
+ ,O
+aparat,o
+ ,O
+penegak,o
+ ,O
+hukum,o
+ ,O
+dugaan,o
+ ,O
+operasi,o
+ ,O
+penyelundupan,o
+ ,O
+upaya,o
+ ,O
+kelompok,o
+ ,O
+profesional,o
+ ,O
+terlatih,o
+ ,O
+mengirim,o
+ ,O
+narkoba,o
+ ,O
+kapal,o
+ ,O
+dunia,o
+ ,O
+inspektur,o
+ ,O
+critchlow,o
+ ,O
+persis,o
+ ,O
+lakukan,o
+ ,O
+indonesia,o
+ ,O
+berhasil,o
+ ,O
+penyitaan,o
+ ,O
+kokain,o
+ ,O
+terbesar,o
+ ,O
+tni,o
+ ,O
+angkatan,o
+ ,O
+laut,o
+ ,O
+menemukan,o
+ ,O
+kemasan,o
+ ,O
+plastik,o
+ ,O
+narkoba,o
+ ,O
+mengambang,o
+ ,O
+laut,o
+ ,O
+keterangan,o
+ ,O
+laksamana,o
+ ,O
+madya,b-nama
+ ,O
+ahmadi,b-nama
+ ,O
+heri,b-nama
+ ,O
+purwono,b-nama
+ ,O
+konferensi,o
+ ,O
+persempat,o
+ ,O
+bungkus,o
+ ,O
+plastik,o
+ ,O
+hitam,o
+ ,O
+berisi,o
+ ,O
+179,o
+ ,O
+kilogram,o
+ ,O
+kokain,o
+ ,O
+senilai,o
+ ,O
+12,o
+ ,O
+triliun,o
+ ,O
+rupiah,o
+ ,O
+1186,o
+ ,O
+juta,o
+ ,O
+ditemukan,o
+ ,O
+mengambang,o
+ ,O
+pelabuhan,o
+ ,O
+merak,o
+ ,O
+jawa,o
+ ,O
+minggu,o
+ ,O
+805,o
+ ,O
+laksamana,o
+ ,O
+madya,o
+ ,O
+penyelundupan,o
+ ,O
+narkoba,o
+ ,O
+melemparkan,o
+ ,O
+paket,o
+ ,O
+pelampung,o
+ ,O
+laut,o
+ ,O
+taktik,o
+ ,O
+menduga,o
+ ,O
+kuat,o
+ ,O
+bungkus,o
+ ,O
+narkoba,o
+ ,O
+diangkut,o
+ ,O
+kapal,o
+ ,O
+pesiar,o
+ ,O
+diedarkan,o
+ ,O
+disita,o
+ ,O
+penyitaan,o
+ ,O
+kokain,o
+ ,O
+spektakuler,o
+ ,O
+nilainya,o
+ ,O
+dampak,o
+ ,O
+ditimbulkan,o
+ ,O
+peredaran,o
+ ,O
+narkoba,o
+ ,O
+masyarakat,o
+ ,O
+laksamana,o
+ ,O
+madya,b-nama
+ ,O
+petugas,o
+ ,O
+paket,o
+ ,O
+5000,o
+ ,O
+personel,o
+ ,O
+tni,o
+ ,O
+dikerahkan,o
+ ,O
+mengamankan,o
+ ,O
+arus,o
+ ,O
+mudik,o
+ ,O
+idul,o
+ ,O
+fitri,o
+ ,O
+pbb,o
+ ,O
+indonesia,o
+ ,O
+pusat,o
+ ,O
+penyelundupan,o
+ ,O
+utama,o
+ ,O
+sindikat,o
+ ,O
+narkoba,o
+ ,O
+internasional,o
+ ,O
+menargetkan,o
+ ,O
+populasi,o
+ ,O
+mudanya,o
+ ,O
+badan,o
+ ,O
+narkotika,o
+ ,O
+nasional,o
+ ,O
+indonesia,o
+ ,O
+56,o
+ ,O
+juta,o
+ ,O
+pengguna,o
+ ,O
+narkoba,o
+ ,O
+indonesia,o
+ ,O
+150,o
+ ,O
+terpidana,o
+ ,O
+mati,o
+ ,O
+indonesia,o
+ ,O
+dihukum,o
+ ,O
+kejahatan,o
+ ,O
+narkoba,o
+ ,O
+sepertiga,o
+ ,O
+asing,o
+ ,O
+diproduksi,o
+ ,O
+natasya,b-nama
+ ,O
+salim,b-nama
+ ,O
+penyidik,o
+ ,O
+memeriksa,o
+ ,O
+saksi,o
+ ,O
+mendalami,o
+ ,O
+penemuan,o
+ ,O
+mayat,o
+ ,O
+pria,o
+ ,O
+tewas,o
+ ,O
+tergantung,o
+ ,O
+kasat,o
+ ,O
+reskrim,o
+ ,O
+polres,o
+ ,O
+pinrang,o
+ ,O
+akp,o
+ ,O
+muhalis,b-nama
+ ,O
+ditemui,o
+ ,O
+saksi,o
+ ,O
+diperiksa,o
+ ,O
+korban,o
+ ,O
+polisi,o
+ ,O
+menyebut,o
+ ,O
+menampung,o
+ ,O
+korban,o
+ ,O
+rekan,o
+ ,O
+berjualannya,o
+ ,O
+teman,o
+ ,O
+korban,o
+ ,O
+tetangga,o
+ ,O
+penjual,o
+ ,O
+lokasi,o
+ ,O
+korban,o
+ ,O
+menjual,o
+ ,O
+muhalis,b-nama
+ ,O
+pemeriksaan,o
+ ,O
+saksi,o
+ ,O
+mendalami,o
+ ,O
+temuan,o
+ ,O
+mayat,o
+ ,O
+kondisi,o
+ ,O
+tangan,o
+ ,O
+terikat,o
+ ,O
+posisi,o
+ ,O
+kaki,o
+ ,O
+korban,o
+ ,O
+menyentuh,o
+ ,O
+tanah,o
+ ,O
+bunuh,o
+ ,O
+indikasi,o
+ ,O
+dibunuh,o
+ ,O
+selidiki,o
+ ,O
+memeriksa,o
+ ,O
+saksi,o
+ ,O
+petunjukpetunjuk,o
+ ,O
+bebernya,o
+ ,O
+muhalis,b-nama
+ ,O
+mengaku,o
+ ,O
+enggan,o
+ ,O
+berspekulasi,o
+ ,O
+temuan,o
+ ,O
+mayat,o
+ ,O
+aksi,o
+ ,O
+massa,o
+ ,O
+pengrusakan,o
+ ,O
+lapak,o
+ ,O
+pedagang,o
+ ,O
+diduga,o
+ ,O
+pembunuh,o
+ ,O
+korban,o
+ ,O
+dalami,o
+ ,O
+dugaan,o
+ ,O
+penemuan,o
+ ,O
+mayat,o
+ ,O
+penemuan,o
+ ,O
+mayat,o
+ ,O
+dilaporkan,o
+ ,O
+warga,o
+ ,O
+jumat,o
+ ,O
+65,o
+ ,O
+1630,o
+ ,O
+wita,o
+ ,O
+kampung,o
+ ,O
+cikkuale,o
+ ,O
+keluarahan,o
+ ,O
+langga,o
+ ,O
+kecamatan,o
+ ,O
+mattirosompe,o
+ ,O
+kabupaten,o
+ ,O
+pinrang,o
+ ,O
+korban,o
+ ,O
+bernama,o
+ ,O
+tomi,b-nama
+ ,O
+menemukan,o
+ ,O
+mayat,o
+ ,O
+tangan,o
+ ,O
+terikat,o
+ ,O
+kasat,o
+ ,O
+reskrim,o
+ ,O
+polres,o
+ ,O
+pinrang,o
+ ,O
+akp,o
+ ,O
+muhalis,b-nama
+ ,O
+konfirmasi,o
+ ,O
+korban,o
+ ,O
+ditemukan,o
+ ,O
+kondisi,o
+ ,O
+tewas,o
+ ,O
+tergantung,o
+ ,O
+tangan,o
+ ,O
+terikat,o
+ ,O
+gubuk,o
+ ,O
+sawah,o
+ ,O
+warga,o
+ ,O
+korban,o
+ ,O
+berasal,o
+ ,O
+pulau,o
+ ,O
+jawa,o
+ ,O
+identitas,o
+ ,O
+korban,o
+ ,O
+nama,o
+ ,O
+tomi,b-nama
+ ,O
+bersuku,o
+ ,O
+jawa,o
+ ,O
+seharihari,o
+ ,O
+penjual,o
+ ,O
+martabak,o
+ ,O
+polisi,o
+ ,O
+lokasi,o
+ ,O
+kejadian,o
+ ,O
+korban,o
+ ,O
+dibawa,o
+ ,O
+rsud,o
+ ,O
+lasinrang,o
+ ,O
+diperiksa,o
+ ,O
+medis,o
+ ,O
+keterangan,o
+ ,O
+lengkap,o
+ ,O
+penyebab,o
+ ,O
+kematiannya,o
+ ,O
+korban,o
+ ,O
+divisum,o
+ ,O
+diperiksa,o
+ ,O
+medis,o
+ ,O
+tim,o
+ ,O
+inafis,o
+ ,O
+bebernya,o
+ ,O
+penemuan,o
+ ,O
+mayat,o
+ ,O
+heboh,o
+ ,O
+sekelompok,o
+ ,O
+massa,o
+ ,O
+penyerangan,o
+ ,O
+lapak,o
+ ,O
+pedagang,o
+ ,O
+kelurahan,o
+ ,O
+langnga,o
+ ,O
+kecamatan,o
+ ,O
+mattirosompe,o
+ ,O
+penyerangan,o
+ ,O
+diduga,o
+ ,O
+terkait,o
+ ,O
+pembunuhan,o
+ ,O
+pria,o
+ ,O
+ditemukan,o
+ ,O
+tewas,o
+ ,O
+tergantung,o
+ ,O
+tangan,o
+ ,O
+terikat,o
+ ,O
+penyerangan,o
+ ,O
+terekam,o
+ ,O
+video,o
+ ,O
+amatir,o
+ ,O
+warga,o
+ ,O
+beredar,o
+ ,O
+media,o
+ ,O
+sosial,o
+ ,O
+jumat,o
+ ,O
+65,o
+ ,O
+video,o
+ ,O
+beredar,o
+ ,O
+sekelompok,o
+ ,O
+massa,o
+ ,O
+berkumpul,o
+ ,O
+mengerumuni,o
+ ,O
+lapak,o
+ ,O
+berwarna,o
+ ,O
+biru,o
+ ,O
+massa,o
+ ,O
+merusak,o
+ ,O
+lapak,o
+ ,O
+berukuran,o
+ ,O
+1x1,o
+ ,O
+meter,o
+ ,O
+kursi,o
+ ,O
+kayu,o
+ ,O
+warga,o
+ ,O
+memukul,o
+ ,O
+lapak,o
+ ,O
+tangan,o
+ ,O
+menendangnya,o
+ ,O
+salah,o
+ ,O
+warga,o
+ ,O
+mencoba,o
+ ,O
+menghentikan,o
+ ,O
+aksi,o
+ ,O
+pengrusakan,o
+ ,O
+massa,o
+ ,O
+emosi,o
+ ,O
+berhenti,o
+ ,O
+melakukannya,o
+ ,O
+warga,o
+ ,O
+berkerumun,o
+ ,O
+merekam,o
+ ,O
+aksi,o
+ ,O
+perusakan,o
+ ,O
+lapak,o
+ ,O
+berdasarkan,o
+ ,O
+informasi,o
+ ,O
+dihimpun,o
+ ,O
+lurah,o
+ ,O
+langnga,o
+ ,O
+fahrun,b-nama
+ ,O
+affandi,b-nama
+ ,O
+dikonfirmasi,o
+ ,O
+lapak,o
+ ,O
+dirusak,o
+ ,O
+lapak,o
+ ,O
+penjual,o
+ ,O
+martabak,o
+ ,O
+sampingnya,o
+ ,O
+lapak,o
+ ,O
+milik,o
+ ,O
+korban,o
+ ,O
+pemilik,o
+ ,O
+lapak,o
+ ,O
+diduga,o
+ ,O
+menghilangkan,o
+ ,O
+nyawa,o
+ ,O
+korban,o
+ ,O
+kejadiannya,o
+ ,O
+2100,o
+ ,O
+wita,o
+ ,O
+pencuri,o
+ ,O
+berinisial,o
+ ,O
+43,o
+ ,O
+melancarkan,o
+ ,O
+aksinya,o
+ ,O
+menyasar,o
+ ,O
+lansia,o
+ ,O
+berpurapura,o
+ ,O
+petugas,o
+ ,O
+satgas,o
+ ,O
+virus,o
+ ,O
+corona,o
+ ,O
+korban,o
+ ,O
+nenek,o
+ ,O
+berumur,o
+ ,O
+60,o
+ ,O
+tersangka,o
+ ,O
+inisial,o
+ ,O
+modusnya,o
+ ,O
+tersangka,o
+ ,O
+berpurapura,o
+ ,O
+petugas,o
+ ,O
+mengaku,o
+ ,O
+bantuan,o
+ ,O
+satgas,o
+ ,O
+covid19,o
+ ,O
+wakapolres,o
+ ,O
+boyolali,o
+ ,O
+kompol,o
+ ,O
+ferdy,b-nama
+ ,O
+kastalani,b-nama
+ ,O
+wartawan,o
+ ,O
+keterangan,o
+ ,O
+pers,o
+ ,O
+mapolres,o
+ ,O
+boyolali,o
+ ,O
+selasa,o
+ ,O
+10112020,o
+ ,O
+ferdy,b-nama
+ ,O
+peristiwa,o
+ ,O
+november,o
+ ,O
+2020,o
+ ,O
+pelaku,o
+ ,O
+melintas,o
+ ,O
+rumah,o
+ ,O
+korban,o
+ ,O
+pelaku,o
+ ,O
+korban,o
+ ,O
+rumahnya,o
+ ,O
+tersangka,o
+ ,O
+korban,o
+ ,O
+dinilai,o
+ ,O
+gampang,o
+ ,O
+diperdaya,o
+ ,O
+berumur,o
+ ,O
+60,o
+ ,O
+didatangi,o
+ ,O
+ditawarkan,o
+ ,O
+korban,o
+ ,O
+bantuan,o
+ ,O
+pemerintah,o
+ ,O
+terkait,o
+ ,O
+situasi,o
+ ,O
+kondisi,o
+ ,O
+pandemi,o
+ ,O
+covid19,o
+ ,O
+terang,o
+ ,O
+ferdy,b-nama
+ ,O
+tersangka,o
+ ,O
+mengajak,o
+ ,O
+korban,o
+ ,O
+alasan,o
+ ,O
+mengambil,o
+ ,O
+bantuan,o
+ ,O
+sosial,o
+ ,O
+kantor,o
+ ,O
+berangkat,o
+ ,O
+tersangka,o
+ ,O
+menyuruh,o
+ ,O
+korban,o
+ ,O
+melepaskan,o
+ ,O
+perhiasan,o
+ ,O
+dipakainya,o
+ ,O
+korban,o
+ ,O
+melepaskan,o
+ ,O
+cincin,o
+ ,O
+sepasang,o
+ ,O
+giwang,o
+ ,O
+dipakainya,o
+ ,O
+perhiasan,o
+ ,O
+ditaruh,o
+ ,O
+saku,o
+ ,O
+jaket,o
+ ,O
+tergantung,o
+ ,O
+lemari,o
+ ,O
+rumah,o
+ ,O
+korban,o
+ ,O
+menyimpan,o
+ ,O
+perhiasan,o
+ ,O
+tersangka,o
+ ,O
+korban,o
+ ,O
+dibawa,o
+ ,O
+tersangka,o
+ ,O
+10,o
+ ,O
+menit,o
+ ,O
+berjalan,o
+ ,O
+rumah,o
+ ,O
+korban,o
+ ,O
+korban,o
+ ,O
+diturunkan,o
+ ,O
+pinggir,o
+ ,O
+jalan,o
+ ,O
+alasan,o
+ ,O
+menjemput,o
+ ,O
+warga,o
+ ,O
+bantuan,o
+ ,O
+paparnya,o
+ ,O
+meninggalkan,o
+ ,O
+korbannya,o
+ ,O
+pinggir,o
+ ,O
+jalan,o
+ ,O
+pelaku,o
+ ,O
+rumah,o
+ ,O
+korban,o
+ ,O
+ketemu,o
+ ,O
+suami,o
+ ,O
+korban,o
+ ,O
+tua,o
+ ,O
+suami,o
+ ,O
+korban,o
+ ,O
+tersangka,o
+ ,O
+mengaku,o
+ ,O
+mengambil,o
+ ,O
+fotokopi,o
+ ,O
+kartu,o
+ ,O
+keluarga,o
+ ,O
+kk,o
+ ,O
+suami,o
+ ,O
+korban,o
+ ,O
+lengah,o
+ ,O
+pelaku,o
+ ,O
+rumah,o
+ ,O
+mencuri,o
+ ,O
+perhiasan,o
+ ,O
+saku,o
+ ,O
+jaket,o
+ ,O
+pelaku,o
+ ,O
+melarikan,o
+ ,O
+kejadian,o
+ ,O
+viral,o
+ ,O
+media,o
+ ,O
+sosial,o
+ ,O
+tim,o
+ ,O
+sapu,o
+ ,O
+jagad,o
+ ,O
+turun,o
+ ,O
+korban,o
+ ,O
+laporan,o
+ ,O
+hasil,o
+ ,O
+pengembangan,o
+ ,O
+dapatlah,o
+ ,O
+tersangka,o
+ ,O
+nama,o
+ ,O
+inisial,o
+ ,O
+ferdy,b-nama
+ ,O
+tangan,o
+ ,O
+pelaku,o
+ ,O
+polisi,o
+ ,O
+menyita,o
+ ,O
+barang,o
+ ,O
+bukti,o
+ ,O
+unit,o
+ ,O
+sepeda,o
+ ,O
+motor,o
+ ,O
+milik,o
+ ,O
+pelaku,o
+ ,O
+uang,o
+ ,O
+tunai,o
+ ,O
+rp,o
+ ,O
+15,o
+ ,O
+juta,o
+ ,O
+hasil,o
+ ,O
+penjualan,o
+ ,O
+perhiasan,o
+ ,O
+korban,o
+ ,O
+polisi,o
+ ,O
+menyita,o
+ ,O
+pelat,o
+ ,O
+nomor,o
+ ,O
+palsu,o
+ ,O
+masker,o
+ ,O
+berlambang,o
+ ,O
+tnipolri,o
+ ,O
+sepatu,o
+ ,O
+dinas,o
+ ,O
+tnipolri,o
+ ,O
+celana,o
+ ,O
+standar,o
+ ,O
+dinas,o
+ ,O
+polri,o
+ ,O
+polisi,o
+ ,O
+menjerat,o
+ ,O
+pelaku,o
+ ,O
+pasal,o
+ ,O
+362,o
+ ,O
+kuhp,o
+ ,O
+ancaman,o
+ ,O
+hukuman,o
+ ,O
+maksimal,o
+ ,O
+penjara,o
+ ,O
+kesempatan,o
+ ,O
+pelaku,o
+ ,O
+perbuatan,o
+ ,O
+perhiasan,o
+ ,O
+jual,o
+ ,O
+rp,o
+ ,O
+15,o
+ ,O
+juta,o
+ ,O
+polisi,o
+ ,O
+menangkap,o
+ ,O
+tunawisma,o
+ ,O
+berinisial,o
+ ,O
+um,o
+ ,O
+36,o
+ ,O
+kapolsek,o
+ ,O
+tanah,o
+ ,O
+abang,o
+ ,O
+kompol,o
+ ,O
+singgih,b-nama
+ ,O
+hermawan,b-nama
+ ,O
+peristiwa,o
+ ,O
+selasa,o
+ ,O
+178,o
+ ,O
+malam,o
+ ,O
+korban,o
+ ,O
+mengendarai,o
+ ,O
+mobil,o
+ ,O
+jalan,o
+ ,O
+gatot,o
+ ,O
+soebroto,o
+ ,O
+tepatnya,o
+ ,O
+gedung,o
+ ,O
+dpr,o
+ ,O
+tibatiba,o
+ ,O
+melintas,o
+ ,O
+korban,o
+ ,O
+mobilnya,o
+ ,O
+dijatuhi,o
+ ,O
+batu,o
+ ,O
+dilempar,o
+ ,O
+jpo,o
+ ,O
+batu,o
+ ,O
+dilempar,o
+ ,O
+jatuh,o
+ ,O
+jalan,o
+ ,O
+ditabrak,o
+ ,O
+polisi,o
+ ,O
+melintas,o
+ ,O
+sepeda,o
+ ,O
+motor,o
+ ,O
+polisi,o
+ ,O
+terjatuh,o
+ ,O
+saksi,o
+ ,O
+iptu,o
+ ,O
+hendro,b-nama
+ ,O
+mengendarai,o
+ ,O
+sepeda,o
+ ,O
+motor,o
+ ,O
+terjatuh,o
+ ,O
+jalan,o
+ ,O
+disebabkan,o
+ ,O
+roda,o
+ ,O
+sepeda,o
+ ,O
+motornya,o
+ ,O
+melindas,o
+ ,O
+batu,o
+ ,O
+jalan,o
+ ,O
+dilempar,o
+ ,O
+pelaku,o
+ ,O
+saksi,o
+ ,O
+iptu,o
+ ,O
+hendro,b-nama
+ ,O
+mengalami,o
+ ,O
+luka,o
+ ,O
+tangan,o
+ ,O
+kaki,o
+ ,O
+singgih,b-nama
+ ,O
+wartawan,o
+ ,O
+sabtu,o
+ ,O
+2182021,o
+ ,O
+korban,o
+ ,O
+mengejar,o
+ ,O
+um,o
+ ,O
+pelempar,o
+ ,O
+batu,o
+ ,O
+jpo,o
+ ,O
+um,o
+ ,O
+perlawanan,o
+ ,O
+membawa,o
+ ,O
+um,o
+ ,O
+diamankan,o
+ ,O
+polisi,o
+ ,O
+menyita,o
+ ,O
+barang,o
+ ,O
+bukti,o
+ ,O
+batu,o
+ ,O
+korban,o
+ ,O
+saksi,o
+ ,O
+petugas,o
+ ,O
+tkp,o
+ ,O
+berusaha,o
+ ,O
+mengejar,o
+ ,O
+pelaku,o
+ ,O
+pelaku,o
+ ,O
+ancaman,o
+ ,O
+perlawanan,o
+ ,O
+mengeluarkan,o
+ ,O
+pisau,o
+ ,O
+bantuan,o
+ ,O
+petugas,o
+ ,O
+massa,o
+ ,O
+lokasi,o
+ ,O
+pelaku,o
+ ,O
+diamankan,o
+ ,O
+barang,o
+ ,O
+bukti,o
+ ,O
+pisau,o
+ ,O
+terkait,o
+ ,O
+kondisi,o
+ ,O
+pelaku,o
+ ,O
+singgih,b-nama
+ ,O
+um,o
+ ,O
+pemulung,o
+ ,O
+kejiwaan,o
+ ,O
+um,o
+ ,O
+normal,o
+ ,O
+singgih,b-nama
+ ,O
+menyebut,o
+ ,O
+alasan,o
+ ,O
+um,o
+ ,O
+melempar,o
+ ,O
+batu,o
+ ,O
+mobil,o
+ ,O
+suntuk,o
+ ,O
+dibilang,o
+ ,O
+gila,o
+ ,O
+nggak,O
+ ,O
+gila,o
+ ,O
+suntuk,o
+ ,O
+alasannya,o
+ ,O
+kaya,o
+ ,O
+pemulung,o
+ ,O
+singgih,o
+ ,O
+menduga,o
+ ,O
+um,o
+ ,O
+pelaku,o
+ ,O
+pelemparan,o
+ ,O
+batu,o
+ ,O
+jalan,o
+ ,O
+margonda,o
+ ,O
+depok,o
+ ,O
+minggu,o
+ ,O
+158,o
+ ,O
+singgih,b-nama
+ ,O
+menyebut,o
+ ,O
+polisi,o
+ ,O
+mendalami,o
+ ,O
+keterlibatan,o
+ ,O
+um,o
+ ,O
+perbuatannya,o
+ ,O
+um,o
+ ,O
+dijerat,o
+ ,O
+pasal,o
+ ,O
+406,o
+ ,O
+kuhp,o
+ ,O
+danatau,o
+ ,O
+pasal,o
+ ,O
+335,o
+ ,O
+kuhp,o
+ ,O
+danatau,o
+ ,O
+pasal,o
+ ,O
+uu,o
+ ,O
+darurat,o
+ ,O
+nomor,o
+ ,O
+12,o
+ ,O
+1951,o
+ ,O
+desember,o
+ ,O
+42,o
+ ,O
+pemuda,o
+ ,O
+mark,b-nama
+ ,O
+david,b-nama
+ ,O
+chapman,o
+ ,O
+menembak,o
+ ,O
+mati,o
+ ,O
+penyanyi,o
+ ,O
+legendaris,o
+ ,O
+dikutip,o
+ ,O
+dijatuhi,o
+ ,O
+hukuman,o
+ ,O
+25,o
+ ,O
+penjara,o
+ ,O
+1981,o
+ ,O
+bebas,o
+ ,O
+chapman,o
+ ,O
+mengajukan,o
+ ,O
+permohonan,o
+ ,O
+pembebasan,o
+ ,O
+juli,o
+ ,O
+2010,o
+ ,O
+pemerintah,o
+ ,O
+peru,o
+ ,O
+memusnahkan,o
+ ,O
+16,o
+ ,O
+ton,o
+ ,O
+narkoba,o
+ ,O
+hasil,o
+ ,O
+operasi,o
+ ,O
+razia,o
+ ,O
+jenis,o
+ ,O
+narkoba,o
+ ,O
+dibakar,o
+ ,O
+kokain,o
+ ,O
+ganja,o
+ ,O
+amfetamin,o
+ ,O
+menteri,o
+ ,O
+negeri,o
+ ,O
+peru,o
+ ,O
+alfonso,b-nama
+ ,O
+chavarry,o
+ ,O
+memegang,o
+ ,O
+sekantong,o
+ ,O
+kokain,o
+ ,O
+disita,o
+ ,O
+dimusnahkan,o
+ ,O
+peru,o
+ ,O
+senin,o
+ ,O
+1842022,o
+ ,O
+waktu,o
+ ,O
+pemerintah,o
+ ,O
+peru,o
+ ,O
+memusnahkan,o
+ ,O
+16,o
+ ,O
+ton,o
+ ,O
+narkoba,o
+ ,O
+dibakar,o
+ ,O
+jenis,o
+ ,O
+narkoba,o
+ ,O
+dibakar,o
+ ,O
+kokain,o
+ ,O
+ganja,o
+ ,O
+amfetamin,o
+ ,O
+banyaknya,o
+ ,O
+narkoba,o
+ ,O
+hasil,o
+ ,O
+operasi,o
+ ,O
+penyitaan,o
+ ,O
+desember,o
+ ,O
+2021,o
+ ,O
+maret,o
+ ,O
+2022,o
+ ,O
+badan,o
+ ,O
+penegakan,o
+ ,O
+narkoba,o
+ ,O
+dea,b-nama
+ ,O
+pbb,o
+ ,O
+peru,o
+ ,O
+produsen,o
+ ,O
+kokain,o
+ ,O
+terbesar,o
+ ,O
+dunia,o
+ ,O
+presiden,o
+ ,O
+peru,o
+ ,O
+pedro,b-nama
+ ,O
+castillo,o
+ ,O
+hadir,o
+ ,O
+pemusnahan,o
+ ,O
+narkoba,o
+ ,O
+pedro,b-nama
+ ,O
+pemerintah,o
+ ,O
+berupaya,o
+ ,O
+membebaskan,o
+ ,O
+peru,o
+ ,O
+narkoba,o
+ ,O
+akibat,o
+ ,O
+kejadian,o
+ ,O
+ropik,o
+ ,O
+rahman,o
+ ,O
+37,o
+ ,O
+uang,o
+ ,O
+tunai,o
+ ,O
+milik,o
+ ,O
+korban,o
+ ,O
+disimpan,o
+ ,O
+lemari,o
+ ,O
+raib,o
+ ,O
+kasi,o
+ ,O
+humas,o
+ ,O
+polres,o
+ ,O
+buleleng,o
+ ,O
+akp,o
+ ,O
+gede,o
+ ,O
+sumarjaya,b-nama
+ ,O
+peristiwa,o
+ ,O
+dugaan,o
+ ,O
+pencurian,o
+ ,O
+korban,o
+ ,O
+keluarganya,o
+ ,O
+pergi,o
+ ,O
+desa,o
+ ,O
+kedis,o
+ ,O
+kecamatan,o
+ ,O
+busungbiu,o
+ ,O
+buleleng,o
+ ,O
+menjenguk,o
+ ,O
+mertuanya,o
+ ,O
+singkat,o
+ ,O
+cerita,o
+ ,O
+1800,o
+ ,O
+wita,o
+ ,O
+korban,o
+ ,O
+keluarganya,o
+ ,O
+pulang,o
+ ,O
+rumahnya,o
+ ,O
+sesampainya,o
+ ,O
+rumah,o
+ ,O
+1930,o
+ ,O
+wita,o
+ ,O
+tetangga,o
+ ,O
+korban,o
+ ,O
+bernama,o
+ ,O
+bardan,o
+ ,O
+riyanto,b-nama
+ ,O
+tibatiba,o
+ ,O
+memberitahu,o
+ ,O
+korban,o
+ ,O
+dirinyasempat,o
+ ,O
+dikenal,o
+ ,O
+rumah,o
+ ,O
+membawa,o
+ ,O
+tentengan,o
+ ,O
+tetangganya,o
+ ,O
+korban,o
+ ,O
+korban,o
+ ,O
+kehilangan,o
+ ,O
+tetangganya,o
+ ,O
+lari,o
+ ,O
+arah,o
+ ,O
+rumah,o
+ ,O
+korban,o
+ ,O
+membawa,o
+ ,O
+tentengan,o
+ ,O
+akp,o
+ ,O
+sumarjaya,b-nama
+ ,O
+dikonfirmasi,o
+ ,O
+senin,o
+ ,O
+952022,o
+ ,O
+informasi,o
+ ,O
+tetangganya,o
+ ,O
+korban,o
+ ,O
+bergegas,o
+ ,O
+rumah,o
+ ,O
+mengecek,o
+ ,O
+ruangan,o
+ ,O
+rumah,o
+ ,O
+korban,o
+ ,O
+mendapati,o
+ ,O
+pintu,o
+ ,O
+rumah,o
+ ,O
+korban,o
+ ,O
+terbuka,o
+ ,O
+lantas,o
+ ,O
+korban,o
+ ,O
+mengecek,o
+ ,O
+kamar,o
+ ,O
+pintu,o
+ ,O
+lemarinya,o
+ ,O
+terbuka,o
+ ,O
+pengecekan,o
+ ,O
+uang,o
+ ,O
+tunai,o
+ ,O
+rp,o
+ ,O
+juta,o
+ ,O
+beserta,o
+ ,O
+kwitansi,o
+ ,O
+pembelian,o
+ ,O
+emas,o
+ ,O
+disimpan,o
+ ,O
+lemari,o
+ ,O
+hilang,o
+ ,O
+diambil,o
+ ,O
+uang,o
+ ,O
+tunai,o
+ ,O
+senilai,o
+ ,O
+rp,o
+ ,O
+juta,o
+ ,O
+kwitansi,o
+ ,O
+pembelian,o
+ ,O
+emas,o
+ ,O
+lembar,o
+ ,O
+imbuhnya,o
+ ,O
+lakukan,o
+ ,O
+penyelidikan,o
+ ,O
+ciriciri,o
+ ,O
+terduga,o
+ ,O
+semoga,o
+ ,O
+waktu,o
+ ,O
+pelaku,o
+ ,O
+cepat,o
+ ,O
+ditangkap,o
+ ,O
+diduga,o
+ ,O
+modus,o
+ ,O
+pelaku,o
+ ,O
+rumah,o
+ ,O
+korban,o
+ ,O
+merusak,o
+ ,O
+mencongkel,o
+ ,O
+pintu,o
+ ,O
+rumah,o
+ ,O
+lemari,o
+ ,O
+kamar,o
+ ,O
+korban,o
+ ,O
+tukas,o
+ ,O
+sumarjaya,b-nama
+ ,O
+ditingkatkan,o
+ ,O
+status,o
+ ,O
+ik,o
+ ,O
+tersangka,o
+ ,O
+panit,o
+ ,O
+reksrim,o
+ ,O
+polsek,o
+ ,O
+tamalanrea,o
+ ,O
+makassar,o
+ ,O
+ipda,o
+ ,O
+jamaluddin,b-nama
+ ,O
+proses,o
+ ,O
+gelar,o
+ ,O
+perkara,o
+ ,O
+polsek,o
+ ,O
+tamalanrea,o
+ ,O
+1215,o
+ ,O
+wita,o
+ ,O
+1730,o
+ ,O
+wita,o
+ ,O
+gelar,o
+ ,O
+perkara,o
+ ,O
+ik,o
+ ,O
+ditingkatkan,o
+ ,O
+penyelidikan,o
+ ,O
+penyidikan,o
+ ,O
+penetapan,o
+ ,O
+tersangka,o
+ ,O
+kasusnya,o
+ ,O
+disidik,o
+ ,O
+kasusnya,o
+ ,O
+lidik,o
+ ,O
+sidik,o
+ ,O
+jamaluddin,b-nama
+ ,O
+akibat,o
+ ,O
+ulah,o
+ ,O
+bejatnya,o
+ ,O
+ik,o
+ ,O
+dijerat,o
+ ,O
+pasal,o
+ ,O
+281,o
+ ,O
+kuhp,o
+ ,O
+ik,o
+ ,O
+ditahan,o
+ ,O
+polsek,o
+ ,O
+tamalanrea,o
+ ,O
+makassar,o
+ ,O
+tersangka,o
+ ,O
+ditahan,o
+ ,O
+polsek,o
+ ,O
+dipulangkan,o
+ ,O
+diberitakan,o
+ ,O
+ik,o
+ ,O
+dilaporkan,o
+ ,O
+polisi,o
+ ,O
+lantaran,o
+ ,O
+nekat,o
+ ,O
+mencabuli,o
+ ,O
+rekan,o
+ ,O
+tetangga,o
+ ,O
+kamar,o
+ ,O
+kosnya,o
+ ,O
+ik,o
+ ,O
+berbuat,o
+ ,O
+bejat,o
+ ,O
+salah,o
+ ,O
+pondok,o
+ ,O
+rumah,o
+ ,O
+kos,o
+ ,O
+kawasan,o
+ ,O
+bumi,o
+ ,O
+tamalanrea,o
+ ,O
+permai,o
+ ,O
+btp,o
+ ,O
+jumat,o
+ ,O
+253,o
+ ,O
+kejadian,o
+ ,O
+korban,o
+ ,O
+tidur,o
+ ,O
+sore,o
+ ,O
+kamar,o
+ ,O
+kosnya,o
+ ,O
+1600,o
+ ,O
+wita,o
+ ,O
+kamar,o
+ ,O
+kos,o
+ ,O
+korban,o
+ ,O
+kondisi,o
+ ,O
+terbuka,o
+ ,O
+korban,o
+ ,O
+tidur,o
+ ,O
+kamar,o
+ ,O
+kosannya,o
+ ,O
+pintu,o
+ ,O
+terbuka,o
+ ,O
+kasi,o
+ ,O
+humas,o
+ ,O
+polsek,o
+ ,O
+tamalanrea,o
+ ,O
+aipda,o
+ ,O
+khalil,b-nama
+ ,O
+konfirmasi,o
+ ,O
+pelaku,o
+ ,O
+kondisi,o
+ ,O
+lantas,o
+ ,O
+berbuat,o
+ ,O
+bejat,o
+ ,O
+nekat,o
+ ,O
+memasuki,o
+ ,O
+kamar,o
+ ,O
+kos,o
+ ,O
+korban,o
+ ,O
+perbuatan,o
+ ,O
+bejat,o
+ ,O
+kamar,o
+ ,O
+kos,o
+ ,O
+korban,o
+ ,O
+terbangun,o
+ ,O
+tersadar,o
+ ,O
+korban,o
+ ,O
+berteriak,o
+ ,O
+pelaku,o
+ ,O
+melarikan,o
+ ,O
+menghadapi,o
+ ,O
+ancaman,o
+ ,O
+hukuman,o
+ ,O
+penjara,o
+ ,O
+polisi,o
+ ,O
+memintanya,o
+ ,O
+berpose,o
+ ,O
+menggendong,o
+ ,O
+babi,o
+ ,O
+foto,o
+ ,O
+dokumentasi,o
+ ,O
+aksi,o
+ ,O
+pemuda,o
+ ,O
+usia,o
+ ,O
+23,o
+ ,O
+gede,o
+ ,O
+agung,b-nama
+ ,O
+alias,o
+ ,O
+gobler,o
+ ,O
+mencuri,o
+ ,O
+babi,o
+ ,O
+tergolong,o
+ ,O
+nekat,o
+ ,O
+tepergok,o
+ ,O
+mencuri,o
+ ,O
+anak,o
+ ,O
+babi,o
+ ,O
+kucit,o
+ ,O
+desa,o
+ ,O
+taro,o
+ ,O
+kecamatan,o
+ ,O
+tegallalang,o
+ ,O
+kapolsek,o
+ ,O
+tegallalang,o
+ ,O
+akp,o
+ ,O
+ketut,b-nama
+ ,O
+sudita,b-nama
+ ,O
+pencurian,o
+ ,O
+anak,o
+ ,O
+babi,o
+ ,O
+laporan,o
+ ,O
+saksi,o
+ ,O
+wayan,b-nama
+ ,O
+latra,o
+ ,O
+kerabat,o
+ ,O
+korban,o
+ ,O
+wayan,o
+ ,O
+gatri,o
+ ,O
+saksi,o
+ ,O
+curiga,o
+ ,O
+hilangnya,o
+ ,O
+ekor,o
+ ,O
+anak,o
+ ,O
+babi,o
+ ,O
+kucit,o
+ ,O
+milik,o
+ ,O
+korban,o
+ ,O
+kandang,o
+ ,O
+anak,o
+ ,O
+babinya,o
+ ,O
+hilang,o
+ ,O
+kandang,o
+ ,O
+latra,o
+ ,O
+menginformasikan,o
+ ,O
+gatri,o
+ ,O
+singkat,o
+ ,O
+cerita,o
+ ,O
+informasi,o
+ ,O
+saksi,o
+ ,O
+pemilik,o
+ ,O
+babi,o
+ ,O
+lantas,o
+ ,O
+mengecek,o
+ ,O
+kandang,o
+ ,O
+berlokasi,o
+ ,O
+50,o
+ ,O
+meter,o
+ ,O
+rumahnya,o
+ ,O
+sembilan,o
+ ,O
+anak,o
+ ,O
+babi,o
+ ,O
+miliknya,o
+ ,O
+hilang,o
+ ,O
+kandang,o
+ ,O
+korban,o
+ ,O
+memelihara,o
+ ,O
+40,o
+ ,O
+ekor,o
+ ,O
+12,o
+ ,O
+indukan,o
+ ,O
+28,o
+ ,O
+anak,o
+ ,O
+babi,o
+ ,O
+kejadian,o
+ ,O
+korban,o
+ ,O
+melapor,o
+ ,O
+polisi,o
+ ,O
+terang,o
+ ,O
+akp,o
+ ,O
+sudita,b-nama
+ ,O
+sudita,b-nama
+ ,O
+warga,o
+ ,O
+bernama,o
+ ,O
+wayan,b-nama
+ ,O
+sumartika,b-nama
+ ,O
+mengaku,o
+ ,O
+memergoki,o
+ ,O
+mobil,o
+ ,O
+bak,o
+ ,O
+terbuka,o
+ ,O
+terparkir,o
+ ,O
+kandang,o
+ ,O
+saksi,o
+ ,O
+sumartika,b-nama
+ ,O
+membeli,o
+ ,O
+saksi,o
+ ,O
+pelaku,o
+ ,O
+bercakap,o
+ ,O
+saksi,o
+ ,O
+aneh,o
+ ,O
+wajah,o
+ ,O
+pelaku,o
+ ,O
+asing,o
+ ,O
+pelaku,o
+ ,O
+mengaku,o
+ ,O
+banjar,o
+ ,O
+kenal,o
+ ,O
+sudita,b-nama
+ ,O
+suasana,o
+ ,O
+gelap,o
+ ,O
+sumartika,b-nama
+ ,O
+menyalakan,o
+ ,O
+lampu,o
+ ,O
+handphone,o
+ ,O
+mengarahkannya,o
+ ,O
+wajah,o
+ ,O
+pelaku,o
+ ,O
+berasal,o
+ ,O
+banjar,o
+ ,O
+tatag,o
+ ,O
+desa,o
+ ,O
+taro,o
+ ,O
+saksi,o
+ ,O
+asing,o
+ ,O
+kenal,o
+ ,O
+pelaku,o
+ ,O
+imbuh,o
+ ,O
+kapolsek,o
+ ,O
+curiga,o
+ ,O
+pelaku,o
+ ,O
+sumartika,b-nama
+ ,O
+mobil,o
+ ,O
+bak,o
+ ,O
+terbuka,o
+ ,O
+milik,o
+ ,O
+pelaku,o
+ ,O
+berisi,o
+ ,O
+kucit,o
+ ,O
+sumartika,o
+ ,O
+memilih,o
+ ,O
+pergi,o
+ ,O
+pelaku,o
+ ,O
+meyakinkannya,o
+ ,O
+membeli,o
+ ,O
+anak,o
+ ,O
+babi,o
+ ,O
+melanjutkan,o
+ ,O
+perjalanannya,o
+ ,O
+membeli,o
+ ,O
+kelapa,o
+ ,O
+sumartika,b-nama
+ ,O
+kandang,o
+ ,O
+korban,o
+ ,O
+pelaku,o
+ ,O
+saksi,o
+ ,O
+mendengar,o
+ ,O
+korban,o
+ ,O
+kecurian,o
+ ,O
+lantas,o
+ ,O
+menceritakan,o
+ ,O
+korban,o
+ ,O
+polisi,o
+ ,O
+menerima,o
+ ,O
+laporan,o
+ ,O
+korban,o
+ ,O
+keterangan,o
+ ,O
+saksi,o
+ ,O
+polisi,o
+ ,O
+berhasil,o
+ ,O
+mengendus,o
+ ,O
+keberadaan,o
+ ,O
+pelaku,o
+ ,O
+menangkap,o
+ ,O
+pelaku,o
+ ,O
+rumahnya,o
+ ,O
+abiansemal,o
+ ,O
+pelaku,o
+ ,O
+mengelak,o
+ ,O
+dituduh,o
+ ,O
+mencuri,o
+ ,O
+babi,o
+ ,O
+diinterogasi,o
+ ,O
+pelaku,o
+ ,O
+mengaku,o
+ ,O
+babi,o
+ ,O
+curiannya,o
+ ,O
+dititip,o
+ ,O
+kandang,o
+ ,O
+babi,o
+ ,O
+milik,o
+ ,O
+temannyaungkap,o
+ ,O
+sudita,b-nama
+ ,O
+perbuatannya,o
+ ,O
+mendekam,o
+ ,O
+sel,o
+ ,O
+tahanan,o
+ ,O
+polsek,o
+ ,O
+tegallalang,o
+ ,O
+gobler,o
+ ,O
+dijerat,o
+ ,O
+pasal,o
+ ,O
+363,o
+ ,O
+kuhp,o
+ ,O
+tindak,o
+ ,O
+pidana,o
+ ,O
+pencurian,o
+ ,O
+terancam,o
+ ,O
+hukuman,o
+ ,O
+penjara,o
+ ,O
+menghadapi,o
+ ,O
+ancaman,o
+ ,O
+hukuman,o
+ ,O
+hukuman,o
+ ,O
+berpose,o
+ ,O
+menggendong,o
+ ,O
+babi,o
+ ,O
+keperluan,o
+ ,O
+foto,o
+ ,O
+dokumentasi,o
+ ,O
+foto,o
+ ,O
+anggota,o
+ ,O
+polisi,o
+ ,O
+dokumentasi,o
+ ,O
+polisi,o
+ ,O
+media,o
+ ,O
+keluarga,o
+ ,O
+menyebut,o
+ ,O
+barang,o
+ ,O
+milik,o
+ ,O
+barangbarang,o
+ ,O
+aman,o
+ ,O
+begal,o
+ ,O
+begal,o
+ ,O
+diambil,o
+ ,O
+barang,o
+ ,O
+putri,o
+ ,O
+sekeluarga,o
+ ,O
+mengaku,o
+ ,O
+informasi,o
+ ,O
+andry,b-nama
+ ,O
+meninggal,o
+ ,O
+pagi,o
+ ,O
+530,o
+ ,O
+wib,o
+ ,O
+neneknya,o
+ ,O
+tkp,o
+ ,O
+tibatiba,o
+ ,O
+jam,o
+ ,O
+530,o
+ ,O
+wib,o
+ ,O
+kabar,o
+ ,O
+kabar,o
+ ,O
+andry,b-nama
+ ,O
+meninggal,o
+ ,O
+bilangnya,o
+ ,O
+kecelakaan,o
+ ,O
+nggak,O
+ ,O
+menceritakan,o
+ ,O
+andry,b-nama
+ ,O
+pulang,o
+ ,O
+rumah,o
+ ,O
+200,o
+ ,O
+wib,o
+ ,O
+pergi,o
+ ,O
+300,o
+ ,O
+wib,o
+ ,O
+putri,b-nama
+ ,O
+saudaranya,o
+ ,O
+pergi,o
+ ,O
+keluarga,o
+ ,O
+kabar,o
+ ,O
+mengejutkan,o
+ ,O
+pagi,o
+ ,O
+andry,b-nama
+ ,O
+ditemukan,o
+ ,O
+tewas,o
+ ,O
+jalan,o
+ ,O
+sapi,o
+ ,O
+perah,o
+ ,O
+pondok,o
+ ,O
+ranggon,o
+ ,O
+cipayung,o
+ ,O
+jakarta,o
+ ,O
+timur,o
+ ,O
+pagi,o
+ ,O
+penyebab,o
+ ,O
+kematian,o
+ ,O
+korban,o
+ ,O
+petugas,o
+ ,O
+ppsu,o
+ ,O
+kelurahan,o
+ ,O
+pondok,o
+ ,O
+ranggon,o
+ ,O
+darman,o
+ ,O
+mengevakuasi,o
+ ,O
+jenazah,o
+ ,O
+briptu,o
+ ,O
+andry,b-nama
+ ,O
+budi,b-nama
+ ,O
+wibowo,b-nama
+ ,O
+29,o
+ ,O
+ditemukan,o
+ ,O
+tewas,o
+ ,O
+pondok,o
+ ,O
+ranggon,o
+ ,O
+jakarta,o
+ ,O
+timur,o
+ ,O
+darman,b-nama
+ ,O
+mengungkap,o
+ ,O
+kondisi,o
+ ,O
+luka,o
+ ,O
+korban,o
+ ,O
+terseret,o
+ ,O
+kulit,o
+ ,O
+korban,o
+ ,O
+darman,o
+ ,O
+mengaku,o
+ ,O
+membantu,o
+ ,O
+mengevakuasi,o
+ ,O
+korban,o
+ ,O
+ambulans,o
+ ,O
+darman,b-nama
+ ,O
+mengungkap,o
+ ,O
+pakaian,o
+ ,O
+korban,o
+ ,O
+terkoyak,o
+ ,O
+kepala,o
+ ,O
+nggak,O
+ ,O
+luka,o
+ ,O
+simbah,o
+ ,O
+darah,o
+ ,O
+kondisi,o
+ ,O
+celana,o
+ ,O
+pendek,o
+ ,O
+korban,o
+ ,O
+sobek,o
+ ,O
+pakai,o
+ ,O
+baju,o
+ ,O
+sobek,o
+ ,O
+korban,o
+ ,O
+memakai,o
+ ,O
+kaus,o
+ ,O
+hitam,o
+ ,O
+motor,o
+ ,O
+korban,o
+ ,O
+ditemukan,o
+ ,O
+200,o
+ ,O
+meter,o
+ ,O
+lokasi,o
+ ,O
+kejadian,o
+ ,O
+polisi,o
+ ,O
+menyebut,o
+ ,O
+barang,o
+ ,O
+korban,o
+ ,O
+hilang,o
+ ,O
+warga,o
+ ,O
+melintas,o
+ ,O
+korban,o
+ ,O
+tergeletak,o
+ ,O
+istrinya,o
+ ,O
+didapati,o
+ ,O
+penuh,o
+ ,O
+luka,o
+ ,O
+bacok,o
+ ,O
+mencaricari,o
+ ,O
+anaknya,o
+ ,O
+novri,b-nama
+ ,O
+warga,o
+ ,O
+wartawan,o
+ ,O
+minggu,o
+ ,O
+174202,o
+ ,O
+novri,b-nama
+ ,O
+korban,o
+ ,O
+bernama,o
+ ,O
+rg,o
+ ,O
+34,o
+ ,O
+ditemukan,o
+ ,O
+warga,o
+ ,O
+terkapar,o
+ ,O
+bersimbah,o
+ ,O
+darah,o
+ ,O
+kondisi,o
+ ,O
+meninggal,o
+ ,O
+dunia,o
+ ,O
+suamimya,o
+ ,O
+meninggal,o
+ ,O
+dunia,o
+ ,O
+tempat,o
+ ,O
+mengaku,o
+ ,O
+kejadian,o
+ ,O
+persis,o
+ ,O
+melintas,o
+ ,O
+lokasi,o
+ ,O
+kejadian,o
+ ,O
+novri,b-nama
+ ,O
+lokasi,o
+ ,O
+warga,o
+ ,O
+lokasi,o
+ ,O
+heboh,o
+ ,O
+korban,o
+ ,O
+terkapar,o
+ ,O
+jalan,o
+ ,O
+tkp,o
+ ,O
+ramai,o
+ ,O
+mobil,o
+ ,O
+setop,o
+ ,O
+kemanusiaan,o
+ ,O
+setop,o
+ ,O
+novri,b-nama
+ ,O
+orangorang,o
+ ,O
+ngecek,o
+ ,O
+suaminya,o
+ ,O
+tergeletak,o
+ ,O
+situ,o
+ ,O
+istrinya,o
+ ,O
+berjarak,o
+ ,O
+meter,o
+ ,O
+anaknya,o
+ ,O
+rawarawa,o
+ ,O
+lari,o
+ ,O
+menyelamatkan,o
+ ,O
+motor,o
+ ,O
+posisi,o
+ ,O
+terbalik,o
+ ,O
+istrinya,o
+ ,O
+cerita,o
+ ,O
+motor,o
+ ,O
+dipepet,o
+ ,O
+avanza,o
+ ,O
+hitam,o
+ ,O
+bacok,o
+ ,O
+sambungnya,o
+ ,O
+diberitakan,o
+ ,O
+keluarga,o
+ ,O
+suami,o
+ ,O
+istri,o
+ ,O
+anaknya,o
+ ,O
+diduga,o
+ ,O
+korban,o
+ ,O
+begal,o
+ ,O
+suami,o
+ ,O
+berinisial,o
+ ,O
+rg,o
+ ,O
+34,o
+ ,O
+ditemukan,o
+ ,O
+tewas,o
+ ,O
+lokasi,o
+ ,O
+istrinya,o
+ ,O
+wd,o
+ ,O
+27,o
+ ,O
+lukaluka,o
+ ,O
+akibat,o
+ ,O
+bacokan,o
+ ,O
+anak,o
+ ,O
+ditemukan,o
+ ,O
+rawa,o
+ ,O
+lari,o
+ ,O
+peristiwa,o
+ ,O
+kapolres,o
+ ,O
+ogan,o
+ ,O
+ilir,o
+ ,O
+dikonfirmasi,o
+ ,O
+membantah,o
+ ,O
+peristiwa,o
+ ,O
+berdarah,o
+ ,O
+kabar,o
+ ,O
+korban,o
+ ,O
+dipepet,o
+ ,O
+mobil,o
+ ,O
+dianiaya,o
+ ,O
+sadis,o
+ ,O
+kejadiannya,o
+ ,O
+korban,o
+ ,O
+dipepet,o
+ ,O
+avanza,o
+ ,O
+hitam,o
+ ,O
+dianiaya,o
+ ,O
+korban,o
+ ,O
+meninggal,o
+ ,O
+dunia,o
+ ,O
+istrinya,o
+ ,O
+luka,o
+ ,O
+berat,o
+ ,O
+tindakan,o
+ ,O
+medis,o
+ ,O
+informasi,o
+ ,O
+rilis,o
+ ,O
+kapolres,o
+ ,O
+ogan,o
+ ,O
+ilir,o
+ ,O
+akbp,o
+ ,O
+yusantiyo,b-nama
+ ,O
+sandy,b-nama
+ ,O
+konfirmasi,o
+ ,O
+detiksumut,o
+ ,O
+polres,o
+ ,O
+metro,o
+ ,O
+bekasi,o
+ ,O
+kota,o
+ ,O
+menyelidiki,o
+ ,O
+dugaan,o
+ ,O
+perampasan,o
+ ,O
+aulia,b-nama
+ ,O
+rafiqi,b-nama
+ ,O
+tersangka,o
+ ,O
+laporan,o
+ ,O
+palsu,o
+ ,O
+polres,o
+ ,O
+metro,o
+ ,O
+jakarta,o
+ ,O
+timur,o
+ ,O
+pelaku,o
+ ,O
+ditangkap,o
+ ,O
+polisi,o
+ ,O
+pelaku,o
+ ,O
+amankan,o
+ ,O
+kasubag,o
+ ,O
+humas,o
+ ,O
+polres,o
+ ,O
+metro,o
+ ,O
+bekasi,o
+ ,O
+kota,o
+ ,O
+kompol,o
+ ,O
+erna,b-nama
+ ,O
+ruswing,b-nama
+ ,O
+dihubungi,o
+ ,O
+erna,b-nama
+ ,O
+memerinci,o
+ ,O
+terkait,o
+ ,O
+penangkapan,o
+ ,O
+pelaku,o
+ ,O
+menyebut,o
+ ,O
+pelaku,o
+ ,O
+lakilaki,o
+ ,O
+pria,o
+ ,O
+ditangkap,o
+ ,O
+bekasi,o
+ ,O
+proses,o
+ ,O
+penyelidikan,o
+ ,O
+kepolisian,o
+ ,O
+aulia,b-nama
+ ,O
+rafiqi,b-nama
+ ,O
+menjalani,o
+ ,O
+pemeriksaan,o
+ ,O
+terkait,o
+ ,O
+perampasan,o
+ ,O
+aulia,b-nama
+ ,O
+rafiqi,b-nama
+ ,O
+ditangkap,o
+ ,O
+polisi,o
+ ,O
+lantaran,o
+ ,O
+laporan,o
+ ,O
+palsu,o
+ ,O
+mengaku,o
+ ,O
+dibegal,o
+ ,O
+korban,o
+ ,O
+hasil,o
+ ,O
+penyelidikan,o
+ ,O
+polisi,o
+ ,O
+aulia,b-nama
+ ,O
+keterangan,o
+ ,O
+palsu,o
+ ,O
+aulia,b-nama
+ ,O
+korban,o
+ ,O
+perampasan,o
+ ,O
+barangbarang,o
+ ,O
+miliknya,o
+ ,O
+diambil,o
+ ,O
+temanteman,o
+ ,O
+perempuan,o
+ ,O
+pasangan,o
+ ,O
+kencannya,o
+ ,O
+kejadian,o
+ ,O
+aulia,b-nama
+ ,O
+membayar,o
+ ,O
+tarif,o
+ ,O
+kencan,o
+ ,O
+seharga,o
+ ,O
+rp,o
+ ,O
+500,o
+ ,O
+ribu,o
+ ,O
+keluarga,o
+ ,O
+aulia,b-nama
+ ,O
+maaf,o
+ ,O
+kebohongan,o
+ ,O
+aulia,b-nama
+ ,O
+rafiqi,b-nama
+ ,O
+posisinya,o
+ ,O
+pesakitan,o
+ ,O
+dipermalukan,o
+ ,O
+keponakanku,o
+ ,O
+maaf,o
+ ,O
+maaf,o
+ ,O
+paman,o
+ ,O
+aulia,b-nama
+ ,O
+erwin,b-nama
+ ,O
+tambunan,o
+ ,O
+dihubungi,o
+ ,O
+erwin,b-nama
+ ,O
+mengaku,o
+ ,O
+peristiwa,o
+ ,O
+aulia,b-nama
+ ,O
+korban,o
+ ,O
+open,o
+ ,O
+perbuatan,o
+ ,O
+aulia,b-nama
+ ,O
+menyebut,o
+ ,O
+dilempari,o
+ ,O
+kotoran,o
+ ,O
+keponakannya,o
+ ,O
+erwin,b-nama
+ ,O
+berkomunikasi,o
+ ,O
+aulia,b-nama
+ ,O
+tanda,o
+ ,O
+tangani,o
+ ,O
+kuasa,o
+ ,O
+lawyernya,o
+ ,O
+menjenguk,o
+ ,O
+erwin,b-nama
+ ,O
+beragam,o
+ ,O
+peristiwa,o
+ ,O
+jawa,o
+ ,O
+barat,o
+ ,O
+banten,o
+ ,O
+senin,o
+ ,O
+11102021,o
+ ,O
+warga,o
+ ,O
+lembang,o
+ ,O
+getok,o
+ ,O
+tarif,o
+ ,O
+parkir,o
+ ,O
+rp,o
+ ,O
+150,o
+ ,O
+ribu,o
+ ,O
+iti,o
+ ,O
+jayabaya,b-nama
+ ,O
+pimpin,o
+ ,O
+demokrat,o
+ ,O
+banten,o
+ ,O
+rangkuman,o
+ ,O
+beritanya,o
+ ,O
+wisatawan,o
+ ,O
+kawasan,o
+ ,O
+lembang,o
+ ,O
+bandung,o
+ ,O
+barat,o
+ ,O
+dikenai,o
+ ,O
+getok,o
+ ,O
+harga,o
+ ,O
+tarif,o
+ ,O
+parkir,o
+ ,O
+oknum,o
+ ,O
+diamankan,o
+ ,O
+keterangan,o
+ ,O
+kepolisian,o
+ ,O
+video,o
+ ,O
+diunggah,o
+ ,O
+akun,o
+ ,O
+instagram,o
+ ,O
+infobdgbaratcimahi,o
+ ,O
+suasana,o
+ ,O
+jalan,o
+ ,O
+kawasan,o
+ ,O
+lembang,o
+ ,O
+oknum,o
+ ,O
+warga,o
+ ,O
+diduga,o
+ ,O
+getok,o
+ ,O
+tarif,o
+ ,O
+parkir,o
+ ,O
+wisatawan,o
+ ,O
+unggahan,o
+ ,O
+terdengar,o
+ ,O
+suara,o
+ ,O
+pria,o
+ ,O
+merekam,o
+ ,O
+video,o
+ ,O
+tarif,o
+ ,O
+parkir,o
+ ,O
+dibebankan,o
+ ,O
+izin,o
+ ,O
+melaporkan,o
+ ,O
+parkiran,o
+ ,O
+kawasan,o
+ ,O
+farmhouse,o
+ ,O
+lembang,o
+ ,O
+tarif,o
+ ,O
+rp,o
+ ,O
+150,o
+ ,O
+ribu,o
+ ,O
+daerah,o
+ ,O
+farmhouse,o
+ ,O
+thank,o
+ ,O
+pria,o
+ ,O
+kanit,o
+ ,O
+reskrim,o
+ ,O
+polsek,o
+ ,O
+lembang,o
+ ,O
+ipda,o
+ ,O
+yana,b-nama
+ ,O
+suryana,b-nama
+ ,O
+viralnya,o
+ ,O
+video,o
+ ,O
+getok,o
+ ,O
+tarif,o
+ ,O
+parkir,o
+ ,O
+mengamankan,o
+ ,O
+ketiga,o
+ ,O
+oknum,o
+ ,O
+warga,o
+ ,O
+minggu,o
+ ,O
+10102021,o
+ ,O
+siang,o
+ ,O
+menjaga,o
+ ,O
+parkir,o
+ ,O
+liar,o
+ ,O
+amankan,o
+ ,O
+minggu,o
+ ,O
+video,o
+ ,O
+viral,o
+ ,O
+diamankan,o
+ ,O
+menjaga,o
+ ,O
+parkir,o
+ ,O
+yana,o
+ ,O
+wartawan,o
+ ,O
+yana,b-nama
+ ,O
+peristiwa,o
+ ,O
+bus,o
+ ,O
+mengangkut,o
+ ,O
+wisatawan,o
+ ,O
+lamongan,o
+ ,O
+berwisata,o
+ ,O
+salah,o
+ ,O
+objek,o
+ ,O
+wisata,o
+ ,O
+lembang,o
+ ,O
+lantaran,o
+ ,O
+parkir,o
+ ,O
+objek,o
+ ,O
+wisata,o
+ ,O
+penuh,o
+ ,O
+diarahkan,o
+ ,O
+mencari,o
+ ,O
+parkir,o
+ ,O
+lokasi,o
+ ,O
+bus,o
+ ,O
+area,o
+ ,O
+parkir,o
+ ,O
+wisata,o
+ ,O
+penuh,o
+ ,O
+menggiring,o
+ ,O
+lahan,o
+ ,O
+kosong,o
+ ,O
+tempat,o
+ ,O
+parkir,o
+ ,O
+liar,o
+ ,O
+warga,o
+ ,O
+parkir,o
+ ,O
+yana,b-nama
+ ,O
+pulang,o
+ ,O
+travel,o
+ ,O
+membawa,o
+ ,O
+rombongan,o
+ ,O
+kaget,o
+ ,O
+ditagih,o
+ ,O
+tarif,o
+ ,O
+parkir,o
+ ,O
+rp,o
+ ,O
+150,o
+ ,O
+ribu,o
+ ,O
+semahal,o
+ ,O
+oknum,o
+ ,O
+warga,o
+ ,O
+karcis,o
+ ,O
+parkir,o
+ ,O
+rombongan,o
+ ,O
+wisatawan,o
+ ,O
+karcis,o
+ ,O
+parkir,o
+ ,O
+sisa,o
+ ,O
+karcis,o
+ ,O
+parkir,o
+ ,O
+2019,o
+ ,O
+bus,o
+ ,O
+karcis,o
+ ,O
+bukti,o
+ ,O
+travelnya,o
+ ,O
+situ,o
+ ,O
+tertulis,o
+ ,O
+harganya,o
+ ,O
+rp,o
+ ,O
+150,o
+ ,O
+ribu,o
+ ,O
+karcis,o
+ ,O
+sisa,o
+ ,O
+2019,o
+ ,O
+terang,o
+ ,O
+yana,b-nama
+ ,O
+berlanjut,o
+ ,O
+proses,o
+ ,O
+mediasi,o
+ ,O
+petugas,o
+ ,O
+parkir,o
+ ,O
+perwakilan,o
+ ,O
+bus,o
+ ,O
+bus,o
+ ,O
+petugas,o
+ ,O
+parkir,o
+ ,O
+pernyataan,o
+ ,O
+selesai,o
+ ,O
+kekeluargaan,o
+ ,O
+surat,o
+ ,O
+pernyataan,o
+ ,O
+yana,b-nama
+ ,O
+ketiga,o
+ ,O
+oknum,o
+ ,O
+warga,o
+ ,O
+dikembalikan,o
+ ,O
+keluarganya,o
+ ,O
+sanksi,o
+ ,O
+peringatan,o
+ ,O
+mengulangi,o
+ ,O
+perbuatan,o
+ ,O
+warga,o
+ ,O
+kawasan,o
+ ,O
+wisata,o
+ ,O
+peringatan,o
+ ,O
+pembinaan,o
+ ,O
+yana,b-nama
+ ,O
+kadisparbud,o
+ ,O
+jabar,o
+ ,O
+dedi,b-nama
+ ,O
+taufik,b-nama
+ ,O
+menyayangkan,o
+ ,O
+dedi,b-nama
+ ,O
+aksi,o
+ ,O
+kesan,o
+ ,O
+negatif,o
+ ,O
+wisatawan,o
+ ,O
+berasal,o
+ ,O
+daerah,o
+ ,O
+buntutnya,o
+ ,O
+geliat,o
+ ,O
+wisata,o
+ ,O
+ekonomi,o
+ ,O
+daerah,o
+ ,O
+tujuan,o
+ ,O
+pariwisata,o
+ ,O
+berkurang,o
+ ,O
+pengalamannya,o
+ ,O
+negatif,o
+ ,O
+kunjungan,o
+ ,O
+berkurang,o
+ ,O
+antisipasi,o
+ ,O
+pariwisata,o
+ ,O
+salah,o
+ ,O
+sektor,o
+ ,O
+kebangkitan,o
+ ,O
+ekonomi,o
+ ,O
+pandemi,o
+ ,O
+covid19,o
+ ,O
+dedi,b-nama
+ ,O
+dihubungi,o
+ ,O
+kejadian,o
+ ,O
+lembang,o
+ ,O
+dedi,b-nama
+ ,O
+salah,o
+ ,O
+objek,o
+ ,O
+wisata,o
+ ,O
+jabar,o
+ ,O
+selatan,o
+ ,O
+objek,o
+ ,O
+wisata,o
+ ,O
+dikelola,o
+ ,O
+warga,o
+ ,O
+menetapkan,o
+ ,O
+tarif,o
+ ,O
+tiket,o
+ ,O
+berkisar,o
+ ,O
+rp,o
+ ,O
+100,o
+ ,O
+ribu,o
+ ,O
+rp,o
+ ,O
+150,o
+ ,O
+ribu,o
+ ,O
+wisatawan,o
+ ,O
+daerah,o
+ ,O
+panggil,o
+ ,O
+pengelola,o
+ ,O
+aparat,o
+ ,O
+keamanan,o
+ ,O
+desa,o
+ ,O
+masyarakat,o
+ ,O
+karang,o
+ ,O
+taruna,o
+ ,O
+tekankan,o
+ ,O
+jualan,o
+ ,O
+tempat,o
+ ,O
+wisata,o
+ ,O
+mahalmahal,o
+ ,O
+malak,o
+ ,O
+teguran,o
+ ,O
+kejadian,o
+ ,O
+terulang,o
+ ,O
+dedi,b-nama
+ ,O
+mengimbau,o
+ ,O
+pengelola,o
+ ,O
+objek,o
+ ,O
+wisata,o
+ ,O
+warga,o
+ ,O
+mengelola,o
+ ,O
+tempat,o
+ ,O
+parkir,o
+ ,O
+area,o
+ ,O
+wisata,o
+ ,O
+mendukung,o
+ ,O
+itudedi,o
+ ,O
+menggenjot,o
+ ,O
+kunjungan,o
+ ,O
+wisata,o
+ ,O
+menerapkan,o
+ ,O
+testcovid19,o
+ ,O
+acak,o
+ ,O
+lokasi,o
+ ,O
+wisata,o
+ ,O
+penerapan,o
+ ,O
+aplikasipedulilindungi,o
+ ,O
+slogannya,o
+ ,O
+dont,o
+ ,O
+panic,o
+ ,O
+vaccine,o
+ ,O
+picnic,o
+ ,O
+pungkasdedi,o
