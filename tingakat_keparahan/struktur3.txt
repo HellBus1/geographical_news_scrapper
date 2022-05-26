@@ -1,0 +1,943 @@
+['CD', 'indikator'] 2
+['indikator', 'CD'] 2
+['indikator', 'VB', 'CD'] 3
+['indikator', 'IN', 'CD'] 3
+['indikator', 'NN', 'CD'] 3
+['indikator', 'NNP', 'CD'] 3
+['CD', 'NN', 'indikator'] 3
+['CD', 'VB', 'indikator'] 3
+['NNP', 'indikator', 'SC'] 3
+['indikator', 'NN', 'VB', 'CD'] 4
+['indikator', 'IN', 'NNP', 'CD'] 4
+['indikator', 'IN', 'NN', 'CD'] 4
+['indikator', 'NN', 'IN', 'CD'] 4
+['indikator', 'SC', 'VB', 'CD'] 4
+['indikator', 'NN', 'NN', 'CD'] 4
+['indikator', 'JJ', 'IN', 'CD'] 4
+['CD', 'NN', 'PR', 'indikator'] 4
+['CD', 'NN', 'VB', 'indikator'] 4
+['CD', 'NN', 'NN', 'indikator'] 4
+['CD', 'RB', 'VB', 'indikator'] 4
+['CD', 'NN', 'SC', 'indikator'] 4
+['CD', 'NN', 'RB', 'indikator'] 4
+['CD', 'VB', 'NN', 'indikator'] 4
+['CD', 'NND', 'NN', 'indikator'] 4
+['CD', 'IN', 'RB', 'indikator'] 4
+['CC', 'NN', 'PR', 'indikator'] 4
+['CD', 'NN', 'JJ', 'indikator'] 4
+['CD', 'NN', 'IN', 'indikator'] 4
+['NN', 'NN', 'NN', 'indikator'] 4
+['NNP', 'VB', 'indikator', 'NN'] 4
+['PRP', 'RB', 'indikator', 'NN'] 4
+['PRP', 'VB', 'indikator', 'JJ'] 4
+['indikator', 'SC', 'RB', 'JJ', 'CD'] 5
+['indikator', 'NN', 'SC', 'VB', 'CD'] 5
+['indikator', 'IN', 'NN', 'IN', 'CD'] 5
+['indikator', 'IN', 'VB', 'NN', 'CD'] 5
+['indikator', 'VB', 'NNP', 'NNP', 'NNP'] 5
+['indikator', 'NN', 'NN', 'PR', 'CD'] 5
+['indikator', 'SC', 'NN', 'VB', 'CD'] 5
+['SC', 'RB', 'VB', 'NN', 'indikator'] 5
+['CD', 'NN', 'NN', 'IN', 'indikator'] 5
+['CD', 'NN', 'VB', 'VB', 'indikator'] 5
+['CD', 'NN', 'PR', 'MD', 'indikator'] 5
+['CD', 'NN', 'SC', 'VB', 'indikator'] 5
+['CD', 'NN', 'IN', 'VB', 'indikator'] 5
+['NNP', 'NNP', 'SC', 'VB', 'indikator'] 5
+['CD', 'NN', 'JJ', 'VB', 'indikator'] 5
+['NN', 'VB', 'NN', 'VB', 'indikator'] 5
+['PR', 'VB', 'NN', 'NN', 'indikator'] 5
+['CD', 'NN', 'NN', 'VB', 'indikator'] 5
+['CD', 'NND', 'NN', 'JJ', 'indikator'] 5
+['CD', 'NN', 'NN', 'NN', 'indikator'] 5
+['CD', 'NN', 'RB', 'VB', 'indikator'] 5
+['CD', 'NND', 'NN', 'VB', 'indikator'] 5
+['NND', 'NN', 'VB', 'NN', 'indikator'] 5
+['CC', 'NN', 'NN', 'VB', 'indikator'] 5
+['CD', 'NN', 'NN', 'SC', 'indikator'] 5
+['NNP', 'Z', 'NND', 'NN', 'indikator'] 5
+['NNP', 'indikator', 'IN', 'NN', 'NN'] 5
+['SC', 'indikator', 'MD', 'NEG', 'VB'] 5
+['RB', 'indikator', 'CC', 'MD', 'VB'] 5
+['NNP', 'NNP', 'indikator', 'IN', 'NN'] 5
+['NNP', 'VB', 'indikator', 'IN', 'NN'] 5
+['NNP', 'VB', 'indikator', 'CC', 'Z'] 5
+['NNP', 'VB', 'VB', 'indikator', 'JJ'] 5
+['CC', 'RB', 'VB', 'indikator', 'JJ'] 5
+['NNP', 'IN', 'RB', 'indikator', 'NN'] 5
+['indikator', 'NN', 'NN', 'NN', 'NN', 'NN'] 6
+['indikator', 'SC', 'NN', 'IN', 'NN', 'CD'] 6
+['indikator', 'NN', 'IN', 'NN', 'NN', 'CD'] 6
+['indikator', 'IN', 'NN', 'PR', 'RB', 'CD'] 6
+['indikator', 'NN', 'SC', 'JJ', 'NNP', 'CD'] 6
+['indikator', 'NN', 'IN', 'NN', 'VB', 'CD'] 6
+['CD', 'NN', 'NN', 'MD', 'VB', 'indikator'] 6
+['CD', 'NN', 'IN', 'NN', 'PR', 'indikator'] 6
+['SC', 'NNP', 'CC', 'NNP', 'VB', 'indikator'] 6
+['CD', 'NN', 'NN', 'NN', 'VB', 'indikator'] 6
+['CD', 'NN', 'IN', 'NN', 'NN', 'indikator'] 6
+['CD', 'NN', 'JJ', 'VB', 'VB', 'indikator'] 6
+['CD', 'NN', 'VB', 'SC', 'VB', 'indikator'] 6
+['CD', 'NN', 'SC', 'NNP', 'NNP', 'indikator'] 6
+['NN', 'NN', 'PR', 'NN', 'VB', 'indikator'] 6
+['NN', 'JJ', 'PR', 'VB', 'Z', 'indikator'] 6
+['CD', 'NND', 'NN', 'SC', 'VB', 'indikator'] 6
+['NNP', 'Z', 'NN', 'NN', 'VB', 'indikator'] 6
+['CD', 'NND', 'IN', 'RB', 'VB', 'indikator'] 6
+['CD', 'NN', 'IN', 'RB', 'VB', 'indikator'] 6
+['CD', 'NN', 'SC', 'NN', 'VB', 'indikator'] 6
+['CD', 'NN', 'NN', 'JJ', 'VB', 'indikator'] 6
+['CD', 'NN', 'RB', 'VB', 'JJ', 'indikator'] 6
+['CD', 'NN', 'NN', 'SC', 'VB', 'indikator'] 6
+['CD', 'NN', 'NN', 'VB', 'NN', 'indikator'] 6
+['NNP', 'indikator', 'SC', 'IN', 'NN', 'NN'] 6
+['NNP', 'indikator', 'VB', 'NN', 'CC', 'NN'] 6
+['NN', 'indikator', 'SC', 'IN', 'NN', 'NN'] 6
+['NNP', 'NNP', 'indikator', 'IN', 'NN', 'NN'] 6
+['VB', 'NN', 'indikator', 'IN', 'NN', 'PR'] 6
+['NNP', 'VB', 'indikator', 'NN', 'NN', 'PR'] 6
+['NNP', 'NNP', 'indikator', 'SC', 'VB', 'NN'] 6
+['RB', 'VB', 'indikator', 'NN', 'NN', 'PR'] 6
+['PRP', 'RB', 'indikator', 'NN', 'IN', 'NN'] 6
+['NN', 'PR', 'indikator', 'NN', 'NN', 'NN'] 6
+['NNP', 'PR', 'indikator', 'IN', 'NN', 'NN'] 6
+['NND', 'NN', 'indikator', 'NN', 'NN', 'PR'] 6
+['NNP', 'VB', 'NNP', 'indikator', 'SC', 'VB'] 6
+['NNP', 'SC', 'NN', 'indikator', 'IN', 'NN'] 6
+['NND', 'NN', 'NN', 'indikator', 'NN', 'NNP'] 6
+['VB', 'VB', 'NN', 'VB', 'indikator', 'NN'] 6
+['NNP', 'NNP', 'MD', 'RB', 'indikator', 'FW'] 6
+['NND', 'NN', 'NN', 'VB', 'indikator', 'JJ'] 6
+['indikator', 'VB', 'IN', 'NNP', 'NNP', 'VB', 'CD'] 7
+['indikator', 'NN', 'VB', 'NN', 'JJ', 'SYM', 'CD'] 7
+['NNP', 'VB', 'NN', 'OD', 'NEG', 'VB', 'indikator'] 7
+['NNP', 'Z', 'NN', 'NN', 'NN', 'VB', 'indikator'] 7
+['SC', 'NNP', 'CC', 'NNP', 'RB', 'VB', 'indikator'] 7
+['CD', 'NN', 'NN', 'NN', 'RB', 'VB', 'indikator'] 7
+['NNP', 'Z', 'NN', 'NN', 'NEG', 'VB', 'indikator'] 7
+['CD', 'NN', 'NN', 'NN', 'NN', 'VB', 'indikator'] 7
+['NN', 'SC', 'VB', 'NN', 'NEG', 'VB', 'indikator'] 7
+['CD', 'NN', 'SC', 'MD', 'VB', 'NN', 'indikator'] 7
+['NNP', 'VB', 'Z', 'NND', 'NN', 'NN', 'indikator'] 7
+['CD', 'NN', 'RB', 'VB', 'RB', 'VB', 'indikator'] 7
+['CD', 'NN', 'NN', 'SC', 'VB', 'VB', 'indikator'] 7
+['CD', 'NN', 'IN', 'NN', 'NN', 'VB', 'indikator'] 7
+['NNP', 'indikator', 'IN', 'NN', 'NN', 'NN', 'PR'] 7
+['NNP', 'indikator', 'IN', 'NN', 'JJ', 'IN', 'NN'] 7
+['NNP', 'VB', 'indikator', 'NN', 'IN', 'NN', 'JJ'] 7
+['NNP', 'NNP', 'indikator', 'NN', 'SC', 'VB', 'NN'] 7
+['NNP', 'VB', 'indikator', 'IN', 'NN', 'NN', 'NN'] 7
+['NNP', 'VB', 'indikator', 'JJ', 'IN', 'NN', 'NN'] 7
+['SC', 'NN', 'NN', 'indikator', 'IN', 'NN', 'RB'] 7
+['NNP', 'CC', 'VB', 'indikator', 'Z', 'VB', 'NN'] 7
+['FW', 'NN', 'RB', 'indikator', 'NN', 'NN', 'NN'] 7
+['NNP', 'VB', 'IN', 'indikator', 'JJ', 'IN', 'NN'] 7
+['NN', 'NN', 'PR', 'indikator', 'IN', 'NN', 'Z'] 7
+['CC', 'SC', 'NN', 'indikator', 'SC', 'VB', 'VB'] 7
+['NNP', 'RP', 'VB', 'indikator', 'IN', 'NN', 'NN'] 7
+['SC', 'VB', 'NN', 'indikator', 'IN', 'NN', 'JJ'] 7
+['NND', 'NN', 'NN', 'NN', 'indikator', 'NN', 'NN'] 7
+['NN', 'VB', 'VB', 'NN', 'indikator', 'NN', 'NN'] 7
+['NNP', 'VB', 'VB', 'NN', 'indikator', 'IN', 'NN'] 7
+['SC', 'NN', 'CC', 'NN', 'NN', 'indikator', 'NN'] 7
+['NN', 'NN', 'Z', 'NND', 'NN', 'indikator', 'NN'] 7
+['RB', 'JJ', 'Z', 'RB', 'VB', 'indikator', 'JJ'] 7
+['CC', 'NN', 'PR', 'Z', 'NNP', 'indikator', 'NN'] 7
+['indikator', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'CD'] 8
+['CD', 'NN', 'PR', 'MD', 'VB', 'NN', 'SC', 'indikator'] 8
+['CD', 'NN', 'SC', 'VB', 'IN', 'NN', 'PR', 'indikator'] 8
+['CD', 'NN', 'NNP', 'SC', 'VB', 'NN', 'PR', 'indikator'] 8
+['CD', 'NN', 'VB', 'NN', 'IN', 'NNP', 'SC', 'indikator'] 8
+['CD', 'NN', 'PR', 'VB', 'NN', 'NNP', 'VB', 'indikator'] 8
+['CD', 'NND', 'IN', 'NN', 'NN', 'IN', 'NN', 'indikator'] 8
+['CD', 'RB', 'SC', 'VB', 'NNP', 'NNP', 'VB', 'indikator'] 8
+['CD', 'NN', 'SC', 'VB', 'VB', 'NN', 'VB', 'indikator'] 8
+['NN', 'NN', 'PR', 'Z', 'NN', 'RB', 'VB', 'indikator'] 8
+['NN', 'PR', 'VB', 'CD', 'NN', 'CC', 'NN', 'indikator'] 8
+['NN', 'PR', 'VB', 'NN', 'VB', 'VB', 'CC', 'indikator'] 8
+['SC', 'PR', 'Z', 'NN', 'NN', 'NEG', 'VB', 'indikator'] 8
+['NN', 'NN', 'PR', 'NNP', 'CC', 'NNP', 'VB', 'indikator'] 8
+['NN', 'NN', 'PR', 'Z', 'NN', 'NN', 'VB', 'indikator'] 8
+['PRP', 'VB', 'NEG', 'VB', 'NN', 'NN', 'CC', 'indikator'] 8
+['NNP', 'NNP', 'VB', 'Z', 'NN', 'Z', 'MD', 'indikator'] 8
+['CC', 'NN', 'NN', 'Z', 'NNP', 'Z', 'VB', 'indikator'] 8
+['NNP', 'indikator', 'IN', 'NNP', 'Z', 'Z', 'VB', 'NNP'] 8
+['NNP', 'indikator', 'SC', 'SC', 'NN', 'SC', 'VB', 'Z'] 8
+['NNP', 'indikator', 'IN', 'NN', 'NN', 'SC', 'VB', 'NN'] 8
+['NNP', 'indikator', 'IN', 'NN', 'NN', 'NN', 'NN', 'PR'] 8
+['NND', 'NN', 'indikator', 'Z', 'CC', 'CD', 'RB', 'JJ'] 8
+['NNP', 'NN', 'indikator', 'IN', 'NN', 'Z', 'Z', 'RB'] 8
+['NNP', 'NEG', 'VB', 'indikator', 'JJ', 'SC', 'VB', 'RB'] 8
+['CC', 'SC', 'RB', 'indikator', 'Z', 'RB', 'VB', 'NN'] 8
+['NNP', 'CC', 'RB', 'indikator', 'NN', 'NN', 'NN', 'PR'] 8
+['NNP', 'VB', 'NN', 'indikator', 'NN', 'NN', 'PR', 'Z'] 8
+['NNP', 'VB', 'VB', 'indikator', 'NN', 'CC', 'NN', 'NN'] 8
+['VB', 'JJ', 'NNP', 'indikator', 'NN', 'MD', 'VB', 'NN'] 8
+['NNP', 'Z', 'NEG', 'VB', 'indikator', 'JJ', 'SC', 'RB'] 8
+['NN', 'NN', 'PR', 'VB', 'indikator', 'RB', 'JJ', 'Z'] 8
+['NNP', 'VB', 'NN', 'CC', 'indikator', 'SC', 'IN', 'NN'] 8
+['NN', 'PR', 'VB', 'NN', 'indikator', 'IN', 'NN', 'NN'] 8
+['NNP', 'VB', 'Z', 'NNP', 'indikator', 'SC', 'VB', 'NN'] 8
+['NNP', 'VB', 'IN', 'NN', 'NN', 'indikator', 'IN', 'NN'] 8
+['NNP', 'Z', 'NND', 'NN', 'NNP', 'indikator', 'IN', 'NN'] 8
+['NN', 'PR', 'Z', 'NN', 'NN', 'indikator', 'IN', 'NN'] 8
+['IN', 'NN', 'PR', 'NND', 'NN', 'indikator', 'NN', 'Z'] 8
+['NN', 'SC', 'NN', 'NN', 'RB', 'VB', 'indikator', 'JJ'] 8
+['CC', 'NNP', 'NN', 'NN', 'RB', 'VB', 'indikator', 'JJ'] 8
+['NNP', 'NN', 'NNP', 'RP', 'RB', 'VB', 'indikator', 'JJ'] 8
+['NNP', 'NND', 'NN', 'NN', 'VB', 'VB', 'indikator', 'JJ'] 8
+['CC', 'RB', 'SC', 'VB', 'NNP', 'VB', 'indikator', 'JJ'] 8
+['NNP', 'NNP', 'IN', 'NN', 'PR', 'RB', 'indikator', 'NN'] 8
+['NN', 'NN', 'PR', 'Z', 'NNP', 'VB', 'indikator', 'JJ'] 8
+['NNP', 'VB', 'NNP', 'NNP', 'PR', 'VB', 'indikator', 'JJ'] 8
+['indikator', 'IN', 'NN', 'NN', 'NN', 'NN', 'NN', 'VB', 'CD'] 9
+['indikator', 'SC', 'VB', 'NNP', 'NNP', 'IN', 'NN', 'VB', 'CD'] 9
+['indikator', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'CD'] 9
+['indikator', 'SC', 'VB', 'NNP', 'VB', 'NN', 'NNP', 'NNP', 'CD'] 9
+['indikator', 'VB', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'NNP'] 9
+['indikator', 'SC', 'VB', 'NN', 'IN', 'NN', 'IN', 'NN', 'CD'] 9
+['CD', 'NN', 'VB', 'IN', 'NN', 'NN', 'IN', 'NN', 'indikator'] 9
+['CD', 'NN', 'VB', 'VB', 'NN', 'CC', 'NN', 'NN', 'indikator'] 9
+['CC', 'Z', 'NN', 'NN', 'PR', 'Z', 'NN', 'VB', 'indikator'] 9
+['NN', 'PRP', 'VB', 'NN', 'PR', 'NN', 'IN', 'NN', 'indikator'] 9
+['NNP', 'VB', 'NN', 'IN', 'NN', 'NN', 'SC', 'VB', 'indikator'] 9
+['CC', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'NNP', 'VB', 'indikator'] 9
+['NNP', 'Z', 'NN', 'NN', 'VB', 'SC', 'RB', 'VB', 'indikator'] 9
+['NNP', 'RB', 'NN', 'Z', 'NN', 'CC', 'RB', 'VB', 'indikator'] 9
+['NNP', 'indikator', 'NN', 'JJ', 'NNP', 'SC', 'RB', 'MD', 'VB'] 9
+['NNP', 'indikator', 'VB', 'IN', 'NN', 'NN', 'VB', 'NN', 'NN'] 9
+['SC', 'indikator', 'NN', 'Z', 'NNP', 'NNP', 'MD', 'VB', 'RB'] 9
+['NNP', 'VB', 'indikator', 'NN', 'IN', 'NN', 'NN', 'CC', 'RB'] 9
+['NND', 'NN', 'indikator', 'NN', 'NN', 'NN', 'IN', 'NN', 'NN'] 9
+['NNP', 'NNP', 'indikator', 'IN', 'NN', 'Z', 'Z', 'NN', 'NNP'] 9
+['NNP', 'VB', 'indikator', 'IN', 'NN', 'NN', 'SC', 'VB', 'VB'] 9
+['CC', 'NNP', 'indikator', 'NN', 'SC', 'VB', 'IN', 'NN', 'JJ'] 9
+['NNP', 'NNP', 'indikator', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 9
+['SC', 'RB', 'indikator', 'RP', 'VB', 'NN', 'Z', 'Z', 'RB'] 9
+['NNP', 'NN', 'VB', 'indikator', 'NN', 'IN', 'NN', 'JJ', 'Z'] 9
+['IN', 'PR', 'NN', 'indikator', 'RB', 'VB', 'IN', 'NNP', 'NNP'] 9
+['SC', 'NNP', 'VB', 'indikator', 'JJ', 'CC', 'VB', 'NN', 'JJ'] 9
+['NNP', 'NN', 'RB', 'indikator', 'CC', 'VB', 'IN', 'NN', 'NN'] 9
+['SC', 'VB', 'NN', 'indikator', 'IN', 'NN', 'SC', 'VB', 'NN'] 9
+['PRP', 'VB', 'NN', 'indikator', 'VB', 'NN', 'IN', 'NN', 'NN'] 9
+['NNP', 'Z', 'NN', 'NN', 'indikator', 'SC', 'RB', 'VB', 'NN'] 9
+['NN', 'NN', 'JJ', 'VB', 'indikator', 'IN', 'NN', 'SC', 'RB'] 9
+['NND', 'NN', 'JJ', 'NNP', 'indikator', 'NN', 'NN', 'NN', 'PR'] 9
+['NNP', 'VB', 'NN', 'VB', 'indikator', 'JJ', 'IN', 'NN', 'NN'] 9
+['NNP', 'NEG', 'VB', 'VB', 'indikator', 'JJ', 'SC', 'VB', 'NN'] 9
+['NN', 'NN', 'NN', 'Z', 'VB', 'indikator', 'IN', 'NN', 'NN'] 9
+['NND', 'NN', 'VB', 'NN', 'NN', 'indikator', 'IN', 'NN', 'NN'] 9
+['NN', 'NN', 'NNP', 'NNP', 'SC', 'indikator', 'CC', 'NEG', 'JJ'] 9
+['NNP', 'NNP', 'NNP', 'NNP', 'CC', 'indikator', 'NN', 'IN', 'NN'] 9
+['NN', 'RB', 'VB', 'NNP', 'VB', 'indikator', 'IN', 'NN', 'NN'] 9
+['NN', 'NN', 'VB', 'NN', 'VB', 'indikator', 'JJ', 'IN', 'NN'] 9
+['PRP', 'VB', 'NN', 'VB', 'VB', 'indikator', 'IN', 'NN', 'NN'] 9
+['NN', 'NN', 'PR', 'NN', 'NN', 'indikator', 'IN', 'NN', 'NN'] 9
+['NN', 'NN', 'PR', 'Z', 'NN', 'VB', 'indikator', 'NN', 'NN'] 9
+['NNP', 'Z', 'NN', 'VB', 'NN', 'VB', 'indikator', 'IN', 'NN'] 9
+['NNP', 'NNP', 'IN', 'NN', 'NNP', 'NNP', 'indikator', 'IN', 'NN'] 9
+['FW', 'FW', 'Z', 'CD', 'Z', 'VB', 'indikator', 'IN', 'NN'] 9
+['SC', 'VB', 'NN', 'Z', 'NN', 'PR', 'VB', 'indikator', 'NN'] 9
+['NN', 'NN', 'NN', 'NN', 'PR', 'VB', 'RB', 'indikator', 'NN'] 9
+['NN', 'RB', 'VB', 'VB', 'NN', 'NN', 'SC', 'indikator', 'Z'] 9
+['NN', 'IN', 'NN', 'SC', 'MD', 'VB', 'NN', 'indikator', 'NN'] 9
+['CC', 'NN', 'NN', 'VB', 'NN', 'JJ', 'NN', 'indikator', 'RB'] 9
+['indikator', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'RB', 'CD'] 10
+['CD', 'NN', 'RB', 'VB', 'IN', 'NN', 'JJ', 'SC', 'VB', 'indikator'] 10
+['CD', 'NN', 'SC', 'VB', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'indikator'] 10
+['CD', 'NN', 'IN', 'NNP', 'NNP', 'VB', 'NN', 'NNP', 'NNP', 'indikator'] 10
+['CD', 'NN', 'NN', 'JJ', 'VB', 'NN', 'PR', 'VB', 'IN', 'indikator'] 10
+['NNP', 'Z', 'IN', 'NN', 'NN', 'NN', 'Z', 'NN', 'NNP', 'indikator'] 10
+['PRP', 'VB', 'VB', 'NN', 'SC', 'VB', 'NND', 'NN', 'IN', 'indikator'] 10
+['NN', 'indikator', 'NN', 'PR', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP'] 10
+['NNP', 'indikator', 'NN', 'NN', 'NNP', 'IN', 'NNP', 'Z', 'CD', 'Z'] 10
+['NNP', 'indikator', 'PR', 'Z', 'NN', 'NN', 'NN', 'Z', 'Z', 'RB'] 10
+['NNP', 'NNP', 'indikator', 'NN', 'IN', 'NN', 'Z', 'Z', 'NN', 'NNP'] 10
+['NN', 'NN', 'indikator', 'SC', 'Z', 'SC', 'RB', 'VB', 'VB', 'NN'] 10
+['NNP', 'VB', 'IN', 'indikator', 'VB', 'IN', 'NN', 'NN', 'CC', 'NN'] 10
+['NNP', 'VB', 'PR', 'indikator', 'JJ', 'CC', 'VB', 'IN', 'NN', 'NN'] 10
+['NNP', 'VB', 'VB', 'indikator', 'SC', 'RB', 'JJ', 'SC', 'VB', 'NN'] 10
+['NNP', 'Z', 'NN', 'indikator', 'IN', 'NN', 'IN', 'NN', 'SC', 'VB'] 10
+['NN', 'VB', 'NN', 'indikator', 'IN', 'NN', 'NN', 'SC', 'NN', 'NN'] 10
+['NND', 'NN', 'NN', 'indikator', 'NN', 'NN', 'SC', 'VB', 'NN', 'VB'] 10
+['NND', 'NN', 'VB', 'NN', 'indikator', 'NN', 'SC', 'VB', 'IN', 'NN'] 10
+['NN', 'NN', 'PR', 'Z', 'NN', 'indikator', 'SC', 'IN', 'NN', 'NN'] 10
+['NNP', 'NNP', 'NNP', 'VB', 'indikator', 'JJ', 'Z', 'Z', 'RB', 'Z'] 10
+['NNP', 'VB', 'NN', 'NN', 'NN', 'indikator', 'NN', 'NN', 'NN', 'PR'] 10
+['NNP', 'PR', 'VB', 'RB', 'VB', 'indikator', 'NN', 'IN', 'NN', 'Z'] 10
+['NNP', 'SC', 'VB', 'PR', 'VB', 'indikator', 'IN', 'NN', 'NN', 'NN'] 10
+['CD', 'NN', 'VB', 'NN', 'Z', 'indikator', 'SC', 'IN', 'NN', 'VB'] 10
+['NN', 'NN', 'PR', 'Z', 'NNP', 'VB', 'indikator', 'JJ', 'IN', 'NN'] 10
+['SC', 'NN', 'PR', 'VB', 'RB', 'VB', 'indikator', 'NN', 'IN', 'NN'] 10
+['NN', 'PR', 'SC', 'NN', 'NN', 'SC', 'indikator', 'NN', 'VB', 'VB'] 10
+['NN', 'NN', 'PR', 'Z', 'NN', 'VB', 'indikator', 'IN', 'NN', 'NN'] 10
+['NNP', 'RP', 'VB', 'NNP', 'PR', 'IN', 'indikator', 'SC', 'IN', 'NN'] 10
+['NEG', 'VB', 'NN', 'NN', 'CC', 'NN', 'indikator', 'IN', 'NN', 'PR'] 10
+['NN', 'PR', 'VB', 'NN', 'NNP', 'Z', 'indikator', 'IN', 'NN', 'JJ'] 10
+['NNP', 'VB', 'PR', 'NN', 'JJ', 'CC', 'indikator', 'IN', 'NN', 'NN'] 10
+['NNP', 'NNP', 'VB', 'RB', 'Z', 'NN', 'VB', 'indikator', 'RB', 'RB'] 10
+['NN', 'NN', 'PR', 'Z', 'NN', 'VB', 'NN', 'indikator', 'IN', 'NN'] 10
+['NNP', 'VB', 'NN', 'NN', 'NN', 'NN', 'CC', 'indikator', 'FW', 'FW'] 10
+['NN', 'PR', 'VB', 'NN', 'NNP', 'Z', 'VB', 'IN', 'indikator', 'JJ'] 10
+['NNP', 'RB', 'Z', 'VB', 'NNP', 'Z', 'RB', 'VB', 'indikator', 'JJ'] 10
+['indikator', 'NN', 'NN', 'NN', 'RB', 'JJ', 'PR', 'NN', 'JJ', 'VB', 'CD'] 11
+['indikator', 'NN', 'NN', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'CD'] 11
+['indikator', 'NN', 'NN', 'NN', 'JJ', 'IN', 'NN', 'NNP', 'NNP', 'VB', 'CD'] 11
+['NN', 'NN', 'PR', 'Z', 'NN', 'NNP', 'NNP', 'SC', 'VB', 'VB', 'indikator'] 11
+['CD', 'NN', 'SC', 'VB', 'IN', 'NN', 'PR', 'VB', 'SC', 'VB', 'indikator'] 11
+['NN', 'NN', 'PR', 'Z', 'NNP', 'NNP', 'NNP', 'NNP', 'PR', 'VB', 'indikator'] 11
+['CD', 'NN', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'IN', 'NN', 'NNP', 'indikator'] 11
+['NNP', 'WH', 'Z', 'SC', 'VB', 'NN', 'Z', 'NN', 'NN', 'NN', 'indikator'] 11
+['NN', 'NN', 'VB', 'NN', 'NN', 'CC', 'NN', 'SC', 'DT', 'NN', 'indikator'] 11
+['CD', 'NN', 'SC', 'VB', 'VB', 'NN', 'NN', 'VB', 'JJ', 'IN', 'indikator'] 11
+['NNP', 'indikator', 'SC', 'VB', 'IN', 'NN', 'JJ', 'NN', 'IN', 'NN', 'NN'] 11
+['NNP', 'NNP', 'VB', 'indikator', 'JJ', 'Z', 'NN', 'MD', 'VB', 'IN', 'NNP'] 11
+['NN', 'NN', 'indikator', 'NN', 'IN', 'NNP', 'Z', 'Z', 'NN', 'NNP', 'Z'] 11
+['NNP', 'NNP', 'VB', 'NN', 'NN', 'NNP', 'VB', 'indikator', 'NN', 'NN', 'NN'] 11
+['IN', 'NN', 'PR', 'Z', 'VB', 'JJ', 'NN', 'indikator', 'SC', 'VB', 'NN'] 11
+['NNP', 'SC', 'VB', 'IN', 'NN', 'NN', 'CC', 'NN', 'indikator', 'IN', 'NN'] 11
+['NNP', 'NNP', 'VB', 'indikator', 'JJ', 'CC', 'MD', 'VB', 'IN', 'NN', 'JJ'] 11
+['SC', 'PR', 'Z', 'NND', 'NN', 'NN', 'NN', 'VB', 'indikator', 'JJ', 'Z'] 11
+['NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'NN', 'PR', 'VB', 'indikator', 'JJ'] 11
+['NN', 'NN', 'VB', 'NN', 'indikator', 'JJ', 'IN', 'NN', 'NN', 'CC', 'RB'] 11
+['NNP', 'VB', 'indikator', 'IN', 'NN', 'NN', 'CC', 'VB', 'NN', 'NN', 'PR'] 11
+['NNP', 'indikator', 'IN', 'NN', 'NN', 'RB', 'VB', 'Z', 'Z', 'VB', 'NNP'] 11
+['NNP', 'VB', 'IN', 'NN', 'NN', 'NN', 'SC', 'RB', 'indikator', 'NN', 'NN'] 11
+['NN', 'IN', 'NNP', 'indikator', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNP', 'NNP'] 11
+['NN', 'NN', 'JJ', 'PR', 'VB', 'IN', 'NN', 'RB', 'JJ', 'indikator', 'NN'] 11
+['NN', 'indikator', 'Z', 'CD', 'NN', 'JJ', 'VB', 'NN', 'IN', 'NN', 'PR'] 11
+['NNP', 'Z', 'NN', 'VB', 'NNP', 'NNP', 'indikator', 'NN', 'NN', 'NN', 'PR'] 11
+['NNP', 'VB', 'indikator', 'NN', 'SC', 'MD', 'VB', 'IN', 'NN', 'NN', 'NNP'] 11
+['NNP', 'indikator', 'SC', 'IN', 'NN', 'IN', 'NN', 'JJ', 'IN', 'NN', 'NN'] 11
+['NNP', 'VB', 'SC', 'IN', 'NN', 'IN', 'indikator', 'JJ', 'IN', 'NN', 'NN'] 11
+['RB', 'VB', 'indikator', 'NN', 'IN', 'NN', 'RB', 'Z', 'Z', 'VB', 'NNP'] 11
+['NNP', 'SC', 'indikator', 'JJ', 'Z', 'VB', 'PRP', 'Z', 'VB', 'CD', 'NN'] 11
+['NNP', 'VB', 'RB', 'RB', 'indikator', 'NN', 'VB', 'NN', 'IN', 'NN', 'JJ'] 11
+['NNP', 'Z', 'VB', 'PRP', 'Z', 'RB', 'VB', 'indikator', 'JJ', 'CC', 'JJ'] 11
+['SC', 'NN', 'indikator', 'JJ', 'CC', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'NNP'] 11
+['NNP', 'NNP', 'indikator', 'IN', 'NN', 'NN', 'Z', 'NN', 'Z', 'CC', 'NN'] 11
+['NNP', 'VB', 'NN', 'NN', 'NN', 'VB', 'CC', 'NN', 'VB', 'indikator', 'JJ'] 11
+['NNP', 'NNP', 'Z', 'NNP', 'Z', 'indikator', 'NN', 'NN', 'IN', 'NN', 'JJ'] 11
+['PRP', 'RB', 'VB', 'indikator', 'JJ', 'CC', 'RB', 'VB', 'IN', 'NN', 'JJ'] 11
+['CD', 'NN', 'VB', 'CC', 'NN', 'JJ', 'indikator', 'IN', 'NN', 'PR', 'Z'] 11
+['NND', 'NN', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'IN', 'NN', 'PR'] 11
+['indikator', 'NN', 'NN', 'VB', 'NN', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'CD'] 12
+['indikator', 'NN', 'NNP', 'VB', 'NN', 'SC', 'VB', 'NN', 'NEG', 'MD', 'VB', 'CD'] 12
+['indikator', 'VB', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'PR', 'VB', 'IN', 'NN', 'CD'] 12
+['SC', 'VB', 'NN', 'NN', 'Z', 'NN', 'NEG', 'JJ', 'NN', 'CC', 'NN', 'indikator'] 12
+['CD', 'NN', 'SC', 'MD', 'VB', 'NN', 'SC', 'VB', 'NN', 'SC', 'NNP', 'indikator'] 12
+['CD', 'NN', 'IN', 'NN', 'NN', 'VB', 'IN', 'NN', 'NN', 'RB', 'VB', 'indikator'] 12
+['NNP', 'VB', 'NN', 'NN', 'SC', 'VB', 'CC', 'SC', 'VB', 'NEG', 'VB', 'indikator'] 12
+['NNP', 'Z', 'NN', 'VB', 'NN', 'JJ', 'SC', 'indikator', 'NN', 'IN', 'NN', 'NN'] 12
+['NNP', 'Z', 'NN', 'VB', 'indikator', 'JJ', 'SC', 'VB', 'NN', 'IN', 'NN', 'NN'] 12
+['NNP', 'Z', 'NN', 'VB', 'indikator', 'JJ', 'CC', 'VB', 'NN', 'IN', 'NN', 'NN'] 12
+['JJ', 'PR', 'NEG', 'VB', 'NN', 'SC', 'VB', 'IN', 'NN', 'NN', 'indikator', 'VB'] 12
+['SC', 'MD', 'NEG', 'VB', 'NN', 'Z', 'NNP', 'PR', 'NEG', 'VB', 'indikator', 'JJ'] 12
+['NNP', 'Z', 'NN', 'VB', 'CC', 'indikator', 'IN', 'NN', 'SC', 'VB', 'NN', 'PR'] 12
+['NNP', 'SC', 'indikator', 'VB', 'NN', 'CC', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP'] 12
+['NNP', 'VB', 'Z', 'SC', 'indikator', 'NN', 'Z', 'NN', 'NN', 'VB', 'IN', 'NN'] 12
+['NN', 'PR', 'VB', 'Z', 'NND', 'NN', 'indikator', 'SC', 'NN', 'NN', 'SC', 'VB'] 12
+['NNP', 'VB', 'CC', 'indikator', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP'] 12
+['NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'OD', 'NND', 'VB', 'NNP', 'indikator', 'NN'] 12
+['NNP', 'Z', 'NN', 'VB', 'indikator', 'JJ', 'VB', 'NN', 'IN', 'NN', 'NN', 'VB'] 12
+['NNP', 'SC', 'NND', 'NN', 'IN', 'NN', 'VB', 'indikator', 'JJ', 'IN', 'NN', 'NN'] 12
+['PRP', 'indikator', 'SC', 'NN', 'JJ', 'IN', 'NN', 'CC', 'MD', 'NEG', 'VB', 'NN'] 12
+['PRP', 'VB', 'SC', 'indikator', 'JJ', 'IN', 'NN', 'CC', 'MD', 'NEG', 'VB', 'NN'] 12
+['NNP', 'NNP', 'NNP', 'VB', 'NN', 'NN', 'NN', 'Z', 'CC', 'NNP', 'indikator', 'JJ'] 12
+['NN', 'indikator', 'CC', 'CD', 'VB', 'IN', 'NN', 'IN', 'NNP', 'Z', 'NNP', 'NNP'] 12
+['NNP', 'NNP', 'indikator', 'CC', 'CD', 'NND', 'NN', 'NN', 'JJ', 'SC', 'VB', 'NN'] 12
+['NN', 'NN', 'PR', 'Z', 'NN', 'VB', 'indikator', 'CC', 'VB', 'IN', 'NN', 'JJ'] 12
+['NN', 'NN', 'NNP', 'NNP', 'NNP', 'indikator', 'SC', 'NN', 'NN', 'CC', 'VB', 'NN'] 12
+['NNP', 'NNP', 'Z', 'NNP', 'NEG', 'indikator', 'NN', 'Z', 'Z', 'Z', 'VB', 'PRP'] 12
+['NNP', 'CC', 'NN', 'NN', 'NNP', 'VB', 'NN', 'JJ', 'CC', 'indikator', 'NN', 'Z'] 12
+['NNP', 'CC', 'NN', 'NN', 'NNP', 'VB', 'indikator', 'JJ', 'CC', 'VB', 'NN', 'Z'] 12
+['PRP', 'RP', 'VB', 'NEG', 'VB', 'NN', 'NN', 'CC', 'indikator', 'IN', 'NN', 'NN'] 12
+['NNP', 'NNP', 'NNP', 'indikator', 'CC', 'VB', 'IN', 'NNP', 'NNP', 'Z', 'Z', 'RB'] 12
+['NNP', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'CC', 'NN', 'NN', 'NN', 'JJ'] 12
+['NN', 'CC', 'Z', 'NNP', 'VB', 'VB', 'IN', 'NNP', 'PR', 'indikator', 'SC', 'NN'] 12
+['CD', 'NN', 'NN', 'VB', 'IN', 'NN', 'CC', 'indikator', 'NN', 'IN', 'NN', 'NN'] 12
+['NNP', 'Z', 'NNP', 'indikator', 'SC', 'IN', 'NN', 'IN', 'NN', 'JJ', 'IN', 'NN'] 12
+['NNP', 'Z', 'NNP', 'VB', 'SC', 'IN', 'NN', 'IN', 'indikator', 'JJ', 'IN', 'NN'] 12
+['NN', 'Z', 'NNP', 'NNP', 'NNP', 'indikator', 'IN', 'NNP', 'Z', 'CD', 'Z', 'NN'] 12
+['NNP', 'NNP', 'VB', 'indikator', 'IN', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'Z'] 12
+['SC', 'SC', 'VB', 'NN', 'VB', 'indikator', 'JJ', 'CC', 'VB', 'IN', 'NN', 'JJ'] 12
+['NNP', 'JJ', 'IN', 'indikator', 'IN', 'NN', 'NN', 'CC', 'NN', 'IN', 'VB', 'NN'] 12
+['NNP', 'Z', 'NN', 'NN', 'NNP', 'NNP', 'PR', 'indikator', 'CC', 'NN', 'NN', 'JJ'] 12
+['NNP', 'Z', 'NN', 'NN', 'NNP', 'NNP', 'PR', 'VB', 'CC', 'NN', 'indikator', 'JJ'] 12
+['NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'indikator', 'NN', 'NN', 'NN', 'PR', 'Z'] 12
+['CC', 'NNP', 'VB', 'NN', 'NN', 'VB', 'indikator', 'IN', 'NN', 'NN', 'CC', 'NN'] 12
+['NNP', 'NNP', 'VB', 'indikator', 'CC', 'RB', 'VB', 'NN', 'Z', 'Z', 'VB', 'NNP'] 12
+['VB', 'NN', 'indikator', 'IN', 'NN', 'NN', 'Z', 'Z', 'VB', 'NN', 'NN', 'VB'] 12
+['SC', 'RB', 'JJ', 'VB', 'indikator', 'IN', 'NN', 'NN', 'NN', 'Z', 'Z', 'RB'] 12
+['NNP', 'VB', 'Z', 'IN', 'NN', 'PR', 'NN', 'indikator', 'NN', 'IN', 'NN', 'FW'] 12
+['NNP', 'VB', 'VB', 'NNP', 'NNP', 'VB', 'indikator', 'NN', 'CC', 'NN', 'IN', 'NN'] 12
+['JJ', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'VB', 'NN', 'NN', 'SC', 'NEG', 'VB'] 12
+['PRP', 'RB', 'VB', 'indikator', 'JJ', 'CC', 'RB', 'VB', 'IN', 'NN', 'JJ', 'Z'] 12
+['RB', 'CD', 'NN', 'JJ', 'CC', 'RB', 'VB', 'indikator', 'JJ', 'Z', 'Z', 'RB'] 12
+['NEG', 'VB', 'VB', 'NN', 'NN', 'NN', 'CC', 'NN', 'indikator', 'IN', 'NN', 'PR'] 12
+['indikator', 'NN', 'IN', 'NN', 'NNP', 'VB', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'NN', 'CD'] 13
+['indikator', 'VB', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'NNP', 'Z', 'CD', 'Z'] 13
+['SC', 'NN', 'MD', 'VB', 'CD', 'NN', 'IN', 'NN', 'Z', 'VB', 'NN', 'NN', 'indikator'] 13
+['SYM', 'CD', 'NN', 'IN', 'NN', 'NN', 'FW', 'FW', 'JJ', 'Z', 'CC', 'VB', 'indikator'] 13
+['NNP', 'VB', 'Z', 'NN', 'NN', 'IN', 'NN', 'NNP', 'Z', 'NN', 'NN', 'RB', 'indikator'] 13
+['NND', 'NN', 'VB', 'NN', 'VB', 'Z', 'CC', 'NND', 'NN', 'SC', 'NN', 'VB', 'indikator'] 13
+['CD', 'NND', 'NN', 'VB', 'SC', 'VB', 'NN', 'JJ', 'JJ', 'VB', 'NN', 'IN', 'indikator'] 13
+['SC', 'RB', 'JJ', 'Z', 'NN', 'PR', 'VB', 'NN', 'PR', 'VB', 'indikator', 'RB', 'JJ'] 13
+['NN', 'NN', 'PR', 'Z', 'NN', 'VB', 'indikator', 'JJ', 'CC', 'VB', 'IN', 'NN', 'JJ'] 13
+['NNP', 'NN', 'VB', 'indikator', 'NN', 'CC', 'CD', 'NN', 'VB', 'NN', 'JJ', 'CC', 'JJ'] 13
+['NN', 'NN', 'NN', 'PR', 'NN', 'VB', 'indikator', 'IN', 'NN', 'NN', 'NN', 'CC', 'NN'] 13
+['NNP', 'VB', 'NN', 'NN', 'PR', 'Z', 'NNP', 'VB', 'indikator', 'JJ', 'IN', 'NN', 'NN'] 13
+['NNP', 'VB', 'Z', 'NN', 'VB', 'VB', 'SC', 'NN', 'indikator', 'JJ', 'IN', 'NN', 'NN'] 13
+['NN', 'indikator', 'SC', 'VB', 'NN', 'SC', 'NN', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 13
+['CC', 'NND', 'NN', 'NN', 'SC', 'NN', 'NN', 'PR', 'NEG', 'VB', 'indikator', 'JJ', 'Z'] 13
+['VB', 'NNP', 'NNP', 'VB', 'NN', 'IN', 'NN', 'NN', 'CC', 'indikator', 'NN', 'IN', 'NNP'] 13
+['VB', 'NNP', 'NNP', 'VB', 'indikator', 'IN', 'NN', 'NN', 'CC', 'VB', 'NN', 'IN', 'NNP'] 13
+['NN', 'NN', 'NN', 'NN', 'NN', 'indikator', 'VB', 'NNP', 'SC', 'VB', 'IN', 'NN', 'NN'] 13
+['PRP', 'indikator', 'SC', 'VB', 'NN', 'NN', 'NN', 'IN', 'NN', 'NN', 'NN', 'NNP', 'Z'] 13
+['NN', 'indikator', 'NN', 'NN', 'NN', 'NN', 'NNP', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 13
+['CD', 'NN', 'indikator', 'IN', 'NN', 'NN', 'NN', 'SC', 'VB', 'CD', 'NN', 'PR', 'Z'] 13
+['NN', 'JJ', 'NNP', 'indikator', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 13
+['NNP', 'VB', 'NN', 'VB', 'indikator', 'IN', 'NN', 'JJ', 'Z', 'IN', 'Z', 'CC', 'VB'] 13
+['SC', 'VB', 'Z', 'NN', 'IN', 'NN', 'MD', 'indikator', 'NN', 'IN', 'NN', 'NN', 'JJ'] 13
+['PRP', 'VB', 'indikator', 'IN', 'NN', 'NN', 'NN', 'CC', 'NN', 'IN', 'NN', 'NN', 'NN'] 13
+['IN', 'NN', 'PR', 'Z', 'NN', 'JJ', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN'] 13
+['NN', 'SC', 'NN', 'VB', 'NN', 'CC', 'SC', 'RB', 'JJ', 'IN', 'indikator', 'RB', 'JJ'] 13
+['NNP', 'VB', 'NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'IN', 'NN', 'JJ'] 13
+['NN', 'NN', 'NNP', 'NNP', 'PR', 'RB', 'VB', 'indikator', 'CC', 'VB', 'IN', 'NN', 'NN'] 13
+['NNP', 'VB', 'NN', 'NN', 'PR', 'Z', 'NN', 'VB', 'NN', 'VB', 'indikator', 'Z', 'NN'] 13
+['NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'Z', 'PR', 'VB', 'RB', 'VB', 'indikator', 'JJ'] 13
+['NN', 'PR', 'VB', 'CD', 'NN', 'JJ', 'JJ', 'CC', 'NND', 'NN', 'VB', 'indikator', 'JJ'] 13
+['NNP', 'PR', 'VB', 'NN', 'NN', 'IN', 'NN', 'IN', 'VB', 'NN', 'JJ', 'indikator', 'NN'] 13
+['NNP', 'indikator', 'IN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z'] 13
+['PRP', 'VB', 'NN', 'NN', 'PR', 'RB', 'JJ', 'SC', 'NN', 'RB', 'indikator', 'IN', 'NN'] 13
+['NND', 'NN', 'JJ', 'NNP', 'NNP', 'NNP', 'RB', 'indikator', 'NN', 'Z', 'Z', 'VB', 'NNP'] 13
+['NN', 'NN', 'VB', 'NN', 'CC', 'NN', 'NN', 'indikator', 'IN', 'NN', 'NN', 'IN', 'NN'] 13
+['VB', 'NN', 'indikator', 'VB', 'NN', 'SC', 'VB', 'NN', 'IN', 'NN', 'SC', 'MD', 'VB'] 13
+['CD', 'NN', 'Z', 'CC', 'SC', 'VB', 'NN', 'CC', 'indikator', 'NN', 'MD', 'VB', 'NN'] 13
+['CD', 'NN', 'Z', 'CC', 'SC', 'VB', 'indikator', 'CC', 'VB', 'NN', 'MD', 'VB', 'NN'] 13
+['IN', 'NN', 'PR', 'NEG', 'VB', 'NN', 'NN', 'SC', 'VB', 'NN', 'IN', 'indikator', 'NN'] 13
+['NN', 'NN', 'PR', 'NN', 'SC', 'MD', 'VB', 'VB', 'indikator', 'Z', 'Z', 'NN', 'NNP'] 13
+['NNP', 'Z', 'NN', 'NN', 'VB', 'Z', 'IN', 'NN', 'NNP', 'NNP', 'indikator', 'NN', 'Z'] 13
+['NEG', 'VB', 'NN', 'indikator', 'IN', 'NN', 'PR', 'CC', 'CD', 'NN', 'VB', 'NN', 'JJ'] 13
+['NNP', 'Z', 'NN', 'VB', 'indikator', 'JJ', 'SC', 'VB', 'NN', 'IN', 'NN', 'NN', 'Z'] 13
+['IN', 'NN', 'PR', 'Z', 'NEG', 'VB', 'NN', 'indikator', 'Z', 'VB', 'RB', 'NN', 'JJ'] 13
+['NNP', 'VB', 'NEG', 'MD', 'VB', 'indikator', 'SC', 'PRP', 'VB', 'X', 'NN', 'NN', 'PR'] 13
+['SC', 'Z', 'NN', 'indikator', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'SC', 'VB', 'NN'] 13
+['indikator', 'SC', 'VB', 'NNP', 'NNP', 'VB', 'NN', 'IN', 'NN', 'NN', 'NN', 'VB', 'IN', 'CD'] 14
+['indikator', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'CD'] 14
+['indikator', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'IN', 'NN', 'VB', 'CD'] 14
+['indikator', 'SC', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 14
+['PR', 'CD', 'NN', 'CC', 'IN', 'NN', 'JJ', 'VB', 'SC', 'PRP', 'VB', 'SC', 'PRP', 'indikator'] 14
+['NNP', 'Z', 'IN', 'NN', 'RB', 'VB', 'NN', 'NNP', 'SC', 'VB', 'Z', 'PR', 'SC', 'indikator'] 14
+['NN', 'NN', 'PR', 'CD', 'NN', 'NN', 'VB', 'NN', 'Z', 'CC', 'NN', 'RB', 'VB', 'indikator'] 14
+['NNP', 'indikator', 'IN', 'NN', 'IN', 'NN', 'NN', 'CC', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP'] 14
+['NNP', 'VB', 'IN', 'indikator', 'IN', 'NN', 'NN', 'CC', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP'] 14
+['NN', 'IN', 'NN', 'CC', 'NN', 'PR', 'NEG', 'VB', 'SC', 'VB', 'indikator', 'Z', 'Z', 'RB'] 14
+['NNP', 'NNP', 'VB', 'indikator', 'NN', 'IN', 'NN', 'NN', 'CC', 'NN', 'CC', 'NN', 'NN', 'NN'] 14
+['CC', 'NN', 'RB', 'indikator', 'IN', 'NN', 'Z', 'SC', 'VB', 'NN', 'JJ', 'IN', 'NN', 'NN'] 14
+['CC', 'NN', 'RB', 'VB', 'IN', 'NN', 'Z', 'SC', 'VB', 'indikator', 'JJ', 'IN', 'NN', 'NN'] 14
+['NNP', 'NNP', 'VB', 'NN', 'RB', 'indikator', 'CC', 'MD', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP'] 14
+['NNP', 'IN', 'NN', 'NNP', 'NNP', 'indikator', 'NN', 'IN', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NN'] 14
+['NNP', 'Z', 'NNP', 'VB', 'indikator', 'RB', 'JJ', 'SC', 'VB', 'NN', 'IN', 'NN', 'CC', 'NN'] 14
+['NN', 'NN', 'PR', 'Z', 'VB', 'NNP', 'NNP', 'VB', 'NN', 'indikator', 'JJ', 'IN', 'NN', 'NN'] 14
+['NN', 'NN', 'VB', 'NN', 'VB', 'indikator', 'JJ', 'IN', 'NN', 'NN', 'Z', 'NN', 'CC', 'NN'] 14
+['PRP', 'VB', 'indikator', 'JJ', 'IN', 'NN', 'IN', 'VB', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 14
+['NN', 'NN', 'NN', 'IN', 'NN', 'NN', 'Z', 'NN', 'indikator', 'RB', 'Z', 'Z', 'VB', 'NNP'] 14
+['NN', 'PR', 'Z', 'NN', 'NN', 'indikator', 'IN', 'NN', 'NN', 'Z', 'SC', 'FW', 'FW', 'NN'] 14
+['NN', 'PR', 'VB', 'NN', 'PR', 'VB', 'indikator', 'NN', 'IN', 'NN', 'NN', 'CC', 'NN', 'JJ'] 14
+['CD', 'NN', 'Z', 'NN', 'CC', 'RB', 'SC', 'VB', 'NN', 'indikator', 'NN', 'NN', 'NN', 'PR'] 14
+['NNP', 'PR', 'VB', 'IN', 'NN', 'NN', 'NN', 'VB', 'indikator', 'IN', 'NN', 'NN', 'CC', 'NN'] 14
+['VB', 'NN', 'NN', 'indikator', 'VB', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 14
+['CC', 'CD', 'NN', 'RB', 'Z', 'SC', 'NND', 'NN', 'Z', 'VB', 'indikator', 'NN', 'NN', 'PR'] 14
+['NNP', 'VB', 'indikator', 'NN', 'NN', 'IN', 'NN', 'CC', 'VB', 'IN', 'NNP', 'NNP', 'Z', 'NNP'] 14
+['SC', 'VB', 'Z', 'VB', 'NNP', 'Z', 'RB', 'indikator', 'VB', 'NN', 'NN', 'NN', 'NNP', 'NNP'] 14
+['NNP', 'Z', 'RB', 'NN', 'NN', 'CC', 'NN', 'SC', 'VB', 'NNP', 'NNP', 'indikator', 'NN', 'NNP'] 14
+['RB', 'indikator', 'NN', 'Z', 'NN', 'IN', 'NN', 'CC', 'NN', 'NN', 'RB', 'Z', 'Z', 'RB'] 14
+['NNP', 'VB', 'VB', 'indikator', 'NN', 'IN', 'NN', 'NN', 'CC', 'NN', 'NN', 'NN', 'SC', 'VB'] 14
+['NN', 'IN', 'NNP', 'indikator', 'NN', 'NN', 'NN', 'VB', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 14
+['NN', 'NN', 'indikator', 'NN', 'NN', 'NN', 'Z', 'VB', 'NNP', 'Z', 'IN', 'NN', 'CD', 'NN'] 14
+['NNP', 'VB', 'indikator', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'VB', 'NN', 'NN', 'Z', 'Z', 'RB'] 14
+['RB', 'VB', 'indikator', 'VB', 'IN', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'RB'] 14
+['NNP', 'VB', 'indikator', 'JJ', 'CC', 'RB', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP'] 14
+['NNP', 'NN', 'VB', 'indikator', 'NN', 'CC', 'CD', 'NN', 'VB', 'NN', 'JJ', 'CC', 'JJ', 'Z'] 14
+['CD', 'NN', 'VB', 'VB', 'NN', 'CC', 'NN', 'NN', 'indikator', 'CC', 'VB', 'IN', 'NN', 'JJ'] 14
+['NNP', 'NNP', 'CC', 'NND', 'NN', 'Z', 'VB', 'VB', 'indikator', 'IN', 'NN', 'NN', 'CC', 'NN'] 14
+['CD', 'NN', 'SC', 'VB', 'VB', 'NN', 'MD', 'VB', 'IN', 'NN', 'JJ', 'SC', 'VB', 'NN', 'indikator'] 15
+['NNP', 'Z', 'NN', 'NN', 'NN', 'VB', 'NN', 'IN', 'NN', 'NN', 'CC', 'NN', 'SC', 'VB', 'indikator'] 15
+['NN', 'NN', 'SC', 'VB', 'IN', 'NN', 'RB', 'VB', 'Z', 'NN', 'JJ', 'CC', 'VB', 'indikator', 'JJ'] 15
+['NN', 'NN', 'NN', 'JJ', 'SC', 'VB', 'indikator', 'NN', 'IN', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP'] 15
+['NN', 'VB', 'NN', 'indikator', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP'] 15
+['NNP', 'indikator', 'IN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 15
+['NN', 'NN', 'indikator', 'NN', 'NN', 'NN', 'VB', 'NNP', 'NNP', 'MD', 'VB', 'NN', 'CC', 'MD', 'VB'] 15
+['NNP', 'CC', 'NN', 'IN', 'NN', 'CC', 'NN', 'IN', 'IN', 'CD', 'NND', 'CC', 'indikator', 'IN', 'NN'] 15
+['NN', 'SC', 'VB', 'CD', 'NN', 'PR', 'VB', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'indikator', 'NN'] 15
+['NNP', 'VB', 'NN', 'MD', 'VB', 'VB', 'NN', 'indikator', 'SC', 'VB', 'CC', 'NEG', 'VB', 'IN', 'NN'] 15
+['NNP', 'VB', 'NN', 'NN', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'SC', 'VB', 'indikator', 'IN', 'NN', 'RB'] 15
+['NN', 'indikator', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP'] 15
+['CC', 'NN', 'NN', 'indikator', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP'] 15
+['NN', 'indikator', 'VB', 'NN', 'NN', 'NN', 'IN', 'NN', 'NN', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 15
+['SC', 'indikator', 'SC', 'VB', 'Z', 'RB', 'VB', 'IN', 'NN', 'Z', 'JJ', 'IN', 'NN', 'NN', 'NNP'] 15
+['NNP', 'indikator', 'IN', 'NN', 'CC', 'NNP', 'CC', 'VB', 'NN', 'CC', 'NN', 'RB', 'IN', 'NN', 'NN'] 15
+['NN', 'NN', 'indikator', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP'] 15
+['NNP', 'VB', 'NNP', 'PR', 'indikator', 'SC', 'VB', 'NND', 'NN', 'IN', 'NN', 'NNP', 'Z', 'NNP', 'NNP'] 15
+['PRP', 'indikator', 'IN', 'NN', 'NN', 'Z', 'NNP', 'NNP', 'Z', 'SC', 'VB', 'NN', 'JJ', 'IN', 'NN'] 15
+['PRP', 'VB', 'IN', 'NN', 'NN', 'Z', 'NNP', 'NNP', 'Z', 'SC', 'VB', 'indikator', 'JJ', 'IN', 'NN'] 15
+['CC', 'RB', 'VB', 'VB', 'indikator', 'CC', 'RB', 'VB', 'IN', 'NNP', 'NNP', 'Z', 'Z', 'VB', 'NNP'] 15
+['PR', 'MD', 'VB', 'NN', 'CC', 'NN', 'SC', 'VB', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'IN', 'NN'] 15
+['RB', 'VB', 'indikator', 'IN', 'NN', 'CC', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'NN', 'NN', 'RB'] 15
+['VB', 'VB', 'IN', 'NN', 'NN', 'NN', 'PR', 'VB', 'IN', 'NN', 'NNP', 'NNP', 'Z', 'indikator', 'Z'] 15
+['NNP', 'VB', 'NN', 'IN', 'NN', 'NN', 'NN', 'CC', 'indikator', 'IN', 'NN', 'NN', 'Z', 'Z', 'RB'] 15
+['NNP', 'VB', 'indikator', 'IN', 'NN', 'NN', 'NN', 'CC', 'VB', 'IN', 'NN', 'NN', 'Z', 'Z', 'RB'] 15
+['NN', 'PRP', 'IN', 'NN', 'NN', 'VB', 'CC', 'NN', 'CC', 'indikator', 'JJ', 'Z', 'Z', 'VB', 'NNP'] 15
+['RB', 'VB', 'IN', 'NN', 'SC', 'VB', 'VB', 'RB', 'Z', 'NNP', 'Z', 'SC', 'indikator', 'NN', 'NN'] 15
+['VB', 'NNP', 'indikator', 'NN', 'NN', 'NN', 'NN', 'RB', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 15
+['NNP', 'NNP', 'RB', 'VB', 'CC', 'VB', 'NN', 'Z', 'indikator', 'NN', 'IN', 'NNP', 'Z', 'Z', 'RB'] 15
+['NNP', 'NNP', 'RB', 'VB', 'CC', 'VB', 'indikator', 'Z', 'VB', 'NN', 'IN', 'NNP', 'Z', 'Z', 'RB'] 15
+['NNP', 'PRP', 'VB', 'indikator', 'IN', 'NN', 'Z', 'NN', 'NN', 'CC', 'NN', 'NN', 'NN', 'IN', 'NN'] 15
+['NNP', 'RB', 'indikator', 'Z', 'CC', 'NN', 'NN', 'NEG', 'MD', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN'] 15
+['CC', 'RB', 'JJ', 'Z', 'NEG', 'VB', 'NN', 'indikator', 'Z', 'RB', 'NN', 'NN', 'Z', 'Z', 'RB'] 15
+['NNP', 'indikator', 'VB', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NNP', 'NNP', 'Z', 'NNP'] 15
+['CD', 'NN', 'NN', 'SC', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'MD', 'VB', 'IN', 'NN', 'indikator'] 16
+['SC', 'RB', 'Z', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'VB', 'indikator'] 16
+['IN', 'NN', 'PR', 'NN', 'NN', 'NN', 'IN', 'NN', 'NN', 'NN', 'CC', 'VB', 'indikator', 'SC', 'RB', 'JJ'] 16
+['NNP', 'NNP', 'SC', 'VB', 'NN', 'NN', 'FW', 'FW', 'VB', 'indikator', 'JJ', 'CC', 'VB', 'NN', 'IN', 'NNP'] 16
+['NNP', 'VB', 'indikator', 'IN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NN', 'VB', 'Z', 'NNP', 'Z', 'CD', 'Z'] 16
+['NN', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'NN', 'PR', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'CC'] 16
+['PR', 'VB', 'NNP', 'indikator', 'IN', 'NN', 'IN', 'NN', 'JJ', 'IN', 'NN', 'Z', 'SC', 'VB', 'NN', 'NN'] 16
+['PR', 'VB', 'NNP', 'VB', 'IN', 'NN', 'IN', 'indikator', 'JJ', 'IN', 'NN', 'Z', 'SC', 'VB', 'NN', 'NN'] 16
+['NNP', 'indikator', 'NN', 'IN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 16
+['NNP', 'VB', 'NN', 'NN', 'PR', 'NN', 'NN', 'RB', 'indikator', 'IN', 'NN', 'JJ', 'SC', 'VB', 'NN', 'JJ'] 16
+['NNP', 'RB', 'MD', 'NN', 'NN', 'NN', 'Z', 'RB', 'VB', 'indikator', 'IN', 'NN', 'NN', 'CC', 'NN', 'RB'] 16
+['NNP', 'NNP', 'VB', 'indikator', 'JJ', 'SC', 'NN', 'NNP', 'SC', 'RB', 'VB', 'NN', 'VB', 'IN', 'NNP', 'NNP'] 16
+['NNP', 'NNP', 'VB', 'NN', 'RB', 'indikator', 'NN', 'NN', 'NN', 'IN', 'NN', 'JJ', 'IN', 'NNP', 'NNP', 'NNP'] 16
+['NNP', 'indikator', 'RB', 'JJ', 'RB', 'NN', 'RB', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP'] 16
+['NNP', 'VB', 'indikator', 'IN', 'NN', 'NN', 'SC', 'VB', 'NND', 'NN', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 16
+['NN', 'CC', 'Z', 'NN', 'NN', 'NNP', 'SC', 'VB', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'indikator', 'Z'] 16
+['NNP', 'VB', 'NN', 'NN', 'VB', 'NN', 'MD', 'VB', 'NN', 'SC', 'NEG', 'indikator', 'NN', 'Z', 'Z', 'RB'] 16
+['NNP', 'RP', 'VB', 'indikator', 'JJ', 'IN', 'NN', 'NN', 'Z', 'CC', 'VB', 'RB', 'VB', 'IN', 'NN', 'NN'] 16
+['NNP', 'indikator', 'IN', 'NN', 'Z', 'SC', 'VB', 'IN', 'CD', 'NND', 'IN', 'VB', 'NN', 'SC', 'PRP', 'VB'] 16
+['NN', 'indikator', 'IN', 'NN', 'SC', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 16
+['NN', 'IN', 'NN', 'NN', 'NN', 'Z', 'VB', 'NN', 'NN', 'CC', 'NN', 'NN', 'indikator', 'IN', 'NN', 'VB'] 16
+['NNP', 'VB', 'IN', 'VB', 'indikator', 'JJ', 'IN', 'NN', 'Z', 'NN', 'NN', 'CC', 'NN', 'NN', 'NN', 'Z'] 16
+['CC', 'NN', 'CC', 'NN', 'NN', 'Z', 'CC', 'NN', 'JJ', 'SC', 'VB', 'NN', 'RB', 'VB', 'indikator', 'JJ'] 16
+['Z', 'CD', 'Z', 'indikator', 'NN', 'NN', 'CC', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 16
+['NNP', 'NNP', 'NN', 'NN', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'NN', 'indikator', 'NN', 'NN', 'PR'] 16
+['NNP', 'NNP', 'Z', 'IN', 'NN', 'CC', 'NN', 'PR', 'NN', 'VB', 'indikator', 'CC', 'VB', 'NN', 'IN', 'NNP'] 16
+['NNP', 'Z', 'NN', 'NN', 'CD', 'CC', 'NN', 'JJ', 'NNP', 'VB', 'indikator', 'CC', 'VB', 'IN', 'CD', 'NN'] 16
+['VB', 'SC', 'Z', 'NN', 'CC', 'NNP', 'indikator', 'SC', 'VB', 'NN', 'NN', 'Z', 'FW', 'Z', 'NNP', 'NNP'] 16
+['SC', 'VB', 'NN', 'VB', 'VB', 'indikator', 'IN', 'NN', 'NN', 'NN', 'SC', 'VB', 'NN', 'NN', 'NN', 'NN'] 16
+['NND', 'NN', 'SC', 'VB', 'VB', 'NNP', 'Z', 'indikator', 'IN', 'VB', 'IN', 'NN', 'SC', 'VB', 'NN', 'NN'] 16
+['NND', 'NN', 'SC', 'VB', 'VB', 'NNP', 'Z', 'indikator', 'VB', 'IN', 'NN', 'SC', 'VB', 'NN', 'NN', 'NNP'] 16
+['NN', 'NN', 'PR', 'MD', 'VB', 'IN', 'NN', 'JJ', 'RB', 'RB', 'VB', 'indikator', 'Z', 'Z', 'RB', 'Z'] 16
+['indikator', 'VB', 'NN', 'PR', 'RB', 'IN', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NN', 'NNP', 'SYM', 'CD'] 17
+['MD', 'VB', 'NN', 'CC', 'NN', 'NN', 'NN', 'SC', 'NNP', 'NNP', 'Z', 'SC', 'IN', 'NN', 'PR', 'SC', 'indikator'] 17
+['NEG', 'VB', 'NN', 'NN', 'Z', 'CC', 'DT', 'NN', 'FW', 'FW', 'MD', 'VB', 'IN', 'NN', 'NN', 'VB', 'indikator'] 17
+['NNP', 'NNP', 'IN', 'RB', 'PRP', 'Z', 'PRP', 'NEG', 'indikator', 'NEG', 'VB', 'NN', 'NN', 'Z', 'Z', 'NN', 'NNP'] 17
+['NN', 'NN', 'NN', 'PR', 'NN', 'NEG', 'VB', 'indikator', 'CC', 'RB', 'VB', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP'] 17
+['NN', 'VB', 'NN', 'NN', 'NN', 'NN', 'VB', 'IN', 'NN', 'NND', 'NN', 'RB', 'VB', 'indikator', 'VB', 'IN', 'NN'] 17
+['IN', 'PR', 'NN', 'NN', 'VB', 'NNP', 'RB', 'VB', 'indikator', 'NN', 'NN', 'NN', 'NN', 'NN', 'PR', 'IN', 'NN'] 17
+['NN', 'SC', 'indikator', 'NN', 'SC', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP'] 17
+['NN', 'NN', 'SC', 'VB', 'NN', 'NN', 'NN', 'indikator', 'IN', 'NN', 'NN', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP'] 17
+['NNP', 'NNP', 'NNP', 'VB', 'indikator', 'IN', 'NN', 'NN', 'CC', 'CD', 'NND', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'NNP'] 17
+['NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'VB', 'indikator', 'NN', 'NN', 'NN', 'PR', 'Z', 'Z', 'VB', 'NNP'] 17
+['NN', 'PR', 'RP', 'RB', 'VB', 'Z', 'VB', 'IN', 'NN', 'NN', 'RB', 'IN', 'NNP', 'NNP', 'NNP', 'indikator', 'NN'] 17
+['NNP', 'NNP', 'NN', 'indikator', 'NN', 'NN', 'NN', 'NN', 'NN', 'NN', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'Z'] 17
+['NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'SC', 'VB', 'NN', 'NND', 'NN', 'IN', 'NNP', 'Z', 'NNP'] 17
+['NNP', 'Z', 'SC', 'VB', 'NN', 'IN', 'NN', 'Z', 'NN', 'Z', 'CC', 'NN', 'Z', 'indikator', 'NN', 'IN', 'NN'] 17
+['NNP', 'Z', 'SC', 'VB', 'indikator', 'IN', 'NN', 'Z', 'NN', 'Z', 'CC', 'NN', 'Z', 'VB', 'NN', 'IN', 'NN'] 17
+['NNP', 'SC', 'indikator', 'Z', 'MD', 'CD', 'NN', 'CC', 'NN', 'CD', 'Z', 'RB', 'JJ', 'Z', 'Z', 'VB', 'NNP'] 17
+['NND', 'NN', 'indikator', 'IN', 'NN', 'Z', 'CC', 'RB', 'VB', 'NN', 'OD', 'IN', 'NN', 'JJ', 'CC', 'RB', 'JJ'] 17
+['NNP', 'RB', 'indikator', 'IN', 'NN', 'NN', 'CC', 'PRP', 'VB', 'IN', 'NN', 'JJ', 'NNP', 'NNP', 'Z', 'Z', 'RB'] 17
+['NN', 'indikator', 'NN', 'NN', 'NN', 'MD', 'VB', 'NN', 'NN', 'NN', 'IN', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP'] 17
+['NNP', 'VB', 'indikator', 'JJ', 'CC', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'SC', 'VB', 'VB', 'NN'] 17
+['NNP', 'VB', 'NN', 'Z', 'VB', 'NNP', 'Z', 'NEG', 'indikator', 'JJ', 'CC', 'VB', 'NN', 'RB', 'VB', 'NN', 'NN'] 17
+['NN', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'PR', 'VB', 'indikator', 'RB', 'JJ', 'Z'] 17
+['NNP', 'NNP', 'NN', 'Z', 'NNP', 'Z', 'VB', 'indikator', 'IN', 'NN', 'CC', 'VB', 'IN', 'NN', 'JJ', 'NNP', 'NNP'] 17
+['CD', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'indikator', 'NN'] 17
+['SC', 'PR', 'NN', 'RB', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'RB', 'VB', 'MD', 'indikator', 'Z', 'Z', 'RB'] 17
+['NNP', 'Z', 'NN', 'NN', 'NN', 'SC', 'indikator', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NNP'] 17
+['NNP', 'MD', 'VB', 'IN', 'NN', 'NN', 'JJ', 'Z', 'CC', 'IN', 'NN', 'NN', 'IN', 'NN', 'PR', 'indikator', 'NN'] 17
+['NNP', 'Z', 'NN', 'NN', 'indikator', 'CC', 'NN', 'MD', 'VB', 'IN', 'NN', 'JJ', 'SC', 'VB', 'JJ', 'NN', 'JJ'] 17
+['NNP', 'NNP', 'NNP', 'NN', 'CC', 'NN', 'IN', 'NNP', 'Z', 'CC', 'indikator', 'NN', 'IN', 'NN', 'Z', 'Z', 'RB'] 17
+['NNP', 'NNP', 'NNP', 'indikator', 'CC', 'NN', 'IN', 'NNP', 'Z', 'CC', 'VB', 'NN', 'IN', 'NN', 'Z', 'Z', 'RB'] 17
+['NNP', 'NNP', 'RB', 'SC', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'Z', 'RB', 'indikator', 'NN', 'CC', 'NN', 'VB', 'NN'] 17
+['SC', 'VB', 'CD', 'NN', 'Z', 'NNP', 'CC', 'NNP', 'VB', 'indikator', 'VB', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 17
+['NNP', 'NNP', 'Z', 'NNP', 'Z', 'indikator', 'NN', 'IN', 'NN', 'NN', 'MD', 'VB', 'NN', 'NN', 'IN', 'NN', 'NN'] 17
+['RB', 'indikator', 'IN', 'NN', 'NN', 'SC', 'VB', 'NNP', 'NN', 'NN', 'VB', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP'] 17
+['NNP', 'NNP', 'NEG', 'VB', 'NN', 'NN', 'CC', 'indikator', 'Z', 'CD', 'NN', 'JJ', 'CC', 'JJ', 'Z', 'Z', 'RB'] 17
+['NNP', 'VB', 'SC', 'Z', 'NN', 'CC', 'NNP', 'indikator', 'SC', 'VB', 'NN', 'NN', 'Z', 'FW', 'Z', 'NNP', 'NNP'] 17
+['CC', 'NN', 'VB', 'IN', 'NN', 'NNP', 'NNP', 'Z', 'NN', 'NN', 'PR', 'Z', 'NN', 'NN', 'indikator', 'IN', 'NN'] 17
+['PR', 'JJ', 'NN', 'NN', 'NN', 'SC', 'VB', 'VB', 'NNP', 'Z', 'CD', 'Z', 'VB', 'indikator', 'JJ', 'SC', 'VB'] 17
+['indikator', 'VB', 'NN', 'CC', 'NN', 'SC', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'NNP', 'NNP', 'Z', 'CD', 'Z'] 18
+['NNP', 'NNP', 'IN', 'NN', 'NN', 'NN', 'NN', 'IN', 'NN', 'NN', 'Z', 'NN', 'SC', 'VB', 'NN', 'RB', 'RB', 'indikator'] 18
+['NN', 'indikator', 'VB', 'IN', 'NNP', 'NNP', 'Z', 'CC', 'NN', 'VB', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z'] 18
+['NN', 'IN', 'NN', 'PR', 'Z', 'VB', 'PRP', 'Z', 'NN', 'indikator', 'NN', 'Z', 'NN', 'CC', 'VB', 'NN', 'CC', 'NN'] 18
+['NN', 'IN', 'NN', 'PR', 'Z', 'VB', 'PRP', 'Z', 'NN', 'VB', 'NN', 'Z', 'indikator', 'CC', 'VB', 'NN', 'CC', 'NN'] 18
+['CC', 'NN', 'NN', 'NNP', 'NNP', 'VB', 'indikator', 'Z', 'Z', 'VB', 'NNP', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 18
+['NN', 'indikator', 'IN', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNP', 'IN', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP'] 18
+['VB', 'NN', 'OD', 'SC', 'VB', 'indikator', 'JJ', 'Z', 'NEG', 'RB', 'IN', 'NN', 'JJ', 'CC', 'MD', 'RB', 'VB', 'NN'] 18
+['NNP', 'NNP', 'PR', 'indikator', 'SC', 'Z', 'Z', 'VB', 'NND', 'NN', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 18
+['NNP', 'NNP', 'indikator', 'NN', 'NN', 'CC', 'NN', 'CC', 'PRP', 'VB', 'NN', 'NN', 'NN', 'RB', 'Z', 'Z', 'VB', 'NNP'] 18
+['NNP', 'VB', 'IN', 'NN', 'IN', 'indikator', 'IN', 'NN', 'CC', 'NN', 'Z', 'NN', 'NEG', 'VB', 'Z', 'Z', 'VB', 'NNP'] 18
+['NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 18
+['NN', 'VB', 'NNP', 'NNP', 'indikator', 'NN', 'NN', 'NN', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'IN', 'NN', 'CD', 'NN'] 18
+['NN', 'NN', 'NN', 'PR', 'VB', 'MD', 'VB', 'IN', 'CD', 'NND', 'CC', 'NNP', 'Z', 'indikator', 'NN', 'Z', 'IN', 'NNP'] 18
+['NN', 'indikator', 'NN', 'NN', 'NN', 'IN', 'NNP', 'PR', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'CD', 'NN'] 18
+['NNP', 'SC', 'VB', 'VB', 'VB', 'NN', 'NN', 'Z', 'NN', 'Z', 'NN', 'CC', 'VB', 'indikator', 'NN', 'Z', 'Z', 'RB'] 18
+['NNP', 'SC', 'VB', 'VB', 'VB', 'indikator', 'NN', 'Z', 'NN', 'Z', 'NN', 'CC', 'VB', 'VB', 'NN', 'Z', 'Z', 'RB'] 18
+['FW', 'FW', 'PR', 'indikator', 'NN', 'NNP', 'IN', 'NN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 18
+['NN', 'indikator', 'CC', 'CD', 'NN', 'NN', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 18
+['NNP', 'VB', 'NN', 'SC', 'VB', 'indikator', 'IN', 'NN', 'NN', 'NN', 'NN', 'PR', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'Z'] 18
+['NNP', 'NNP', 'indikator', 'NN', 'IN', 'NN', 'NNP', 'Z', 'CD', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'Z', 'Z', 'VB', 'NNP'] 18
+['NNP', 'RB', 'NEG', 'MD', 'VB', 'VB', 'CC', 'NN', 'NN', 'NN', 'CC', 'NN', 'indikator', 'IN', 'NN', 'NN', 'NN', 'PR'] 18
+['PRP', 'VB', 'JJ', 'SC', 'VB', 'NN', 'IN', 'NNP', 'Z', 'CC', 'VB', 'indikator', 'VB', 'IN', 'NNP', 'NNP', 'Z', 'NNP'] 18
+['NN', 'NN', 'NN', 'PR', 'NEG', 'VB', 'RB', 'Z', 'IN', 'NN', 'indikator', 'IN', 'NN', 'NN', 'Z', 'Z', 'RB', 'Z'] 18
+['NEG', 'VB', 'SC', 'IN', 'PR', 'Z', 'RB', 'VB', 'CC', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'indikator', 'Z', 'Z', 'RB'] 18
+['NN', 'IN', 'NN', 'CC', 'NN', 'NN', 'IN', 'CD', 'NN', 'JJ', 'NN', 'CC', 'indikator', 'NN', 'IN', 'NNP', 'NNP', 'NNP'] 18
+['NNP', 'NNP', 'RB', 'SC', 'VB', 'NN', 'JJ', 'indikator', 'NN', 'Z', 'NN', 'RB', 'CD', 'NN', 'NN', 'Z', 'Z', 'RB'] 18
+['SC', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'VB', 'CD', 'NN', 'SC', 'indikator', 'VB', 'NN', 'CD'] 18
+['VB', 'NN', 'JJ', 'NNP', 'indikator', 'SC', 'VB', 'NN', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'IN', 'NN', 'CD', 'NN'] 18
+['NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'NN', 'NN', 'VB', 'NNP', 'VB', 'indikator', 'NN', 'IN', 'NN', 'NN'] 19
+['NNP', 'RB', 'VB', 'VB', 'IN', 'NN', 'NN', 'NN', 'CC', 'indikator', 'SC', 'VB', 'DT', 'NN', 'NN', 'NN', 'NN', 'NN', 'NN'] 19
+['SC', 'PR', 'Z', 'NN', 'VB', 'NNP', 'IN', 'NN', 'SC', 'VB', 'VB', 'IN', 'NN', 'SC', 'VB', 'NN', 'JJ', 'indikator', 'NN'] 19
+['NNP', 'Z', 'SC', 'VB', 'NN', 'IN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'indikator', 'IN', 'NN', 'NN', 'NN', 'IN', 'NN', 'NN'] 19
+['NNP', 'Z', 'SC', 'VB', 'NN', 'IN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'VB', 'IN', 'NN', 'NN', 'indikator', 'IN', 'NN', 'NN'] 19
+['NNP', 'CC', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', 'NNP', 'Z', 'RB', 'IN', 'NNP', 'indikator', 'NN', 'IN', 'NN'] 19
+['VB', 'NN', 'SC', 'VB', 'CD', 'NND', 'NN', 'Z', 'VB', 'RB', 'Z', 'NNP', 'NNP', 'indikator', 'NN', 'SC', 'VB', 'NN', 'NN'] 19
+['NNP', 'indikator', 'IN', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'Z', 'NN', 'SC', 'VB', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 19
+['NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'NN', 'Z', 'indikator', 'NNP', 'VB', 'VB', 'NN', 'VB', 'NND', 'NN', 'SC', 'VB', 'NN'] 19
+['NN', 'NN', 'indikator', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'Z', 'NNP', 'Z', 'RB', 'RB', 'VB', 'NN', 'VB', 'NN'] 19
+['FW', 'FW', 'FW', 'Z', 'CD', 'Z', 'indikator', 'IN', 'NN', 'IN', 'NN', 'SC', 'VB', 'NN', 'IN', 'NNP', 'Z', 'NNP', 'NNP'] 19
+['NN', 'NN', 'NNP', 'NNP', 'indikator', 'NN', 'CC', 'IN', 'NNP', 'SC', 'VB', 'IN', 'NND', 'NN', 'NN', 'MD', 'VB', 'IN', 'NNP'] 19
+['IN', 'NN', 'CD', 'Z', 'NND', 'NN', 'indikator', 'NN', 'JJ', 'IN', 'NNP', 'SC', 'VB', 'NN', 'CC', 'VB', 'VB', 'NN', 'NNP'] 19
+['NN', 'NN', 'indikator', 'SC', 'SC', 'VB', 'NN', 'NN', 'IN', 'NN', 'IN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP'] 19
+['NNP', 'Z', 'NND', 'NN', 'NN', 'NNP', 'indikator', 'SC', 'VB', 'NN', 'NN', 'SC', 'MD', 'VB', 'IN', 'NN', 'JJ', 'PR', 'Z'] 19
+['PRP', 'VB', 'SC', 'NN', 'IN', 'NN', 'NN', 'PR', 'MD', 'VB', 'Z', 'CC', 'indikator', 'PR', 'VB', 'NN', 'RB', 'JJ', 'Z'] 19
+['Z', 'NNP', 'NNP', 'NNP', 'VB', 'SC', 'RB', 'RB', 'VB', 'NN', 'VB', 'IN', 'NN', 'indikator', 'Z', 'SC', 'RB', 'VB', 'NNP'] 19
+['NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'IN', 'NN', 'IN', 'NN', 'SC', 'VB', 'NN', 'IN', 'NNP', 'Z', 'NNP', 'NNP'] 19
+['CC', 'NN', 'SC', 'VB', 'indikator', 'SC', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP'] 19
+['NNP', 'NNP', 'VB', 'NN', 'JJ', 'IN', 'NN', 'NN', 'NN', 'CC', 'indikator', 'NN', 'IN', 'NNP', 'Z', 'Z', 'VB', 'NNP', 'Z'] 19
+['NN', 'NN', 'JJ', 'VB', 'NN', 'PR', 'NNP', 'NNP', 'NNP', 'SC', 'VB', 'IN', 'NN', 'NN', 'VB', 'SC', 'MD', 'indikator', 'NN'] 19
+['NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'SC', 'indikator', 'SC', 'VB', 'NN', 'IN', 'NNP', 'NNP', 'MD', 'VB'] 19
+['NN', 'NN', 'NN', 'JJ', 'indikator', 'NN', 'IN', 'NN', 'NN', 'NN', 'NN', 'Z', 'NN', 'CD', 'Z', 'NN', 'NNP', 'Z', 'NNP'] 19
+['NN', 'NN', 'NN', 'PR', 'NN', 'indikator', 'IN', 'NN', 'NN', 'Z', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'Z', 'Z', 'VB', 'NNP'] 19
+['NNP', 'NNP', 'NN', 'NN', 'NN', 'VB', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NNP', 'NNP', 'VB', 'indikator', 'Z', 'Z', 'RB'] 19
+['NNP', 'CC', 'NNP', 'RB', 'VB', 'CC', 'IN', 'NN', 'indikator', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'Z', 'NNP', 'NNP'] 19
+['NNP', 'NN', 'PR', 'VB', 'indikator', 'IN', 'NN', 'NN', 'NN', 'NN', 'IN', 'NN', 'VB', 'CC', 'VB', 'VB', 'NNP', 'NNP', 'NNP'] 19
+['CC', 'PRP', 'MD', 'VB', 'NN', 'NN', 'Z', 'VB', 'RB', 'SC', 'RB', 'PR', 'SC', 'indikator', 'NN', 'Z', 'Z', 'RB', 'Z'] 19
+['NEG', 'VB', 'CC', 'NN', 'RB', 'VB', 'NN', 'indikator', 'IN', 'NN', 'PR', 'NN', 'NN', 'NN', 'CC', 'IN', 'NN', 'NN', 'Z'] 19
+['SYM', 'CD', 'NN', 'VB', 'IN', 'NN', 'Z', 'IN', 'NN', 'Z', 'CC', 'VB', 'NN', 'NN', 'indikator', 'Z', 'Z', 'VB', 'NNP'] 19
+['indikator', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NN', 'CD', 'NN', 'VB', 'IN', 'NN', 'Z', 'CD', 'NN', 'VB', 'IN', 'NN', 'JJ'] 20 ->dipertanyakan ada total
+['indikator', 'NN', 'IN', 'NN', 'CC', 'NN', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'VB', 'VB'] 20
+['NNP', 'VB', 'Z', 'NNP', 'VB', 'SC', 'VB', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'indikator', 'IN', 'NN', 'NN', 'VB', 'NN', 'IN', 'NNP'] 20
+['NNP', 'PR', 'VB', 'VB', 'NN', 'JJ', 'VB', 'NN', 'NN', 'PR', 'CC', 'VB', 'indikator', 'VB', 'IN', 'NN', 'NNP', 'NNP', 'Z', 'NNP'] 20
+['SC', 'MD', 'VB', 'CC', 'NN', 'SC', 'RB', 'indikator', 'NN', 'Z', 'NN', 'JJ', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'Z'] 20
+['CD', 'NN', 'CC', 'NN', 'VB', 'indikator', 'SC', 'VB', 'NN', 'Z', 'NN', 'NNP', 'VB', 'PR', 'VB', 'NNP', 'IN', 'NNP', 'NNP', 'RB'] 20
+['NN', 'NN', 'Z', 'NNP', 'NNP', 'Z', 'indikator', 'NN', 'SC', 'VB', 'NNP', 'NNP', 'JJ', 'Z', 'RB', 'VB', 'IN', 'NN', 'NN', 'JJ'] 20
+['NNP', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'VB', 'NN', 'SC', 'RB', 'VB', 'NN', 'SC', 'VB', 'NN', 'NNP', 'Z', 'CD', 'Z'] 20
+['NNP', 'NNP', 'CC', 'NN', 'NN', 'IN', 'NN', 'IN', 'CD', 'NND', 'NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'IN', 'NN', 'PR'] 20
+['SC', 'NN', 'CC', 'VB', 'IN', 'RB', 'VB', 'indikator', 'JJ', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 20
+['RB', 'IN', 'CD', 'NN', 'JJ', 'Z', 'VB', 'RB', 'CD', 'NN', 'NN', 'Z', 'indikator', 'IN', 'NN', 'PR', 'Z', 'VB', 'DT', 'NN'] 20
+['PRP', 'VB', 'NN', 'SC', 'VB', 'NN', 'PR', 'VB', 'indikator', 'Z', 'CC', 'VB', 'IN', 'NN', 'PRP', 'SC', 'VB', 'IN', 'NN', 'JJ'] 20
+['NNP', 'SC', 'VB', 'IN', 'NN', 'NNP', 'NNP', 'PR', 'VB', 'NEG', 'VB', 'VB', 'NN', 'IN', 'NN', 'NN', 'CC', 'RB', 'indikator', 'Z'] 20
+['NN', 'FW', 'FW', 'FW', 'Z', 'CD', 'Z', 'VB', 'NN', 'IN', 'indikator', 'IN', 'NN', 'IN', 'NN', 'IN', 'NNP', 'Z', 'NNP', 'NNP'] 20
+['NN', 'NN', 'NN', 'Z', 'NNP', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'indikator', 'IN', 'NN'] 20
+['Z', 'NNP', 'NNP', 'NNP', 'Z', 'SC', 'PRP', 'VB', 'NNP', 'VB', 'Z', 'NEG', 'VB', 'NN', 'NN', 'CC', 'indikator', 'NN', 'NN', 'PR'] 20
+['NN', 'VB', 'NN', 'NNP', 'VB', 'Z', 'VB', 'NN', 'NN', 'NN', 'NN', 'NN', 'indikator', 'VB', 'NNP', 'SC', 'VB', 'IN', 'NN', 'NN'] 20
+['NNP', 'NNP', 'NN', 'IN', 'NN', 'NNP', 'VB', 'Z', 'NN', 'VB', 'NN', 'MD', 'VB', 'IN', 'NN', 'NN', 'NN', 'IN', 'NN', 'indikator'] 20
+['NNP', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'NN', 'NNP', 'VB', 'NN', 'VB', 'indikator', 'IN', 'NN', 'NN', 'CC', 'VB', 'VB', 'IN', 'NNP'] 20
+['NNP', 'CC', 'NNP', 'RB', 'VB', 'CC', 'IN', 'NN', 'indikator', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'Z', 'NNP', 'NNP', 'Z'] 20
+['NNP', 'VB', 'NN', 'CC', 'NN', 'NN', 'PR', 'RB', 'VB', 'IN', 'NN', 'NN', 'NN', 'VB', 'indikator', 'RB', 'JJ', 'IN', 'NN', 'NN'] 20
+['PRP', 'MD', 'VB', 'Z', 'Z', 'NN', 'indikator', 'NN', 'NN', 'NN', 'Z', 'VB', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'SC', 'VB'] 20
+['CC', 'NN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'VB', 'indikator', 'JJ', 'Z'] 20
+['NNP', 'VB', 'NN', 'Z', 'CC', 'VB', 'NN', 'VB', 'NN', 'IN', 'NNP', 'Z', 'SC', 'RB', 'indikator', 'NN', 'Z', 'Z', 'VB', 'NN'] 20
+['NN', 'JJ', 'SC', 'indikator', 'NN', 'NN', 'NN', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'RB', 'VB'] 20
+['NNP', 'indikator', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 20
+['NNP', 'NNP', 'VB', 'VB', 'VB', 'IN', 'NNP', 'Z', 'PRP', 'VB', 'NN', 'NN', 'SC', 'VB', 'NN', 'NN', 'VB', 'NN', 'CC', 'indikator'] 20
+['NNP', 'VB', 'SC', 'NN', 'PR', 'VB', 'IN', 'NN', 'SC', 'VB', 'NNP', 'NNP', 'Z', 'NN', 'NN', 'NNP', 'indikator', 'IN', 'NN', 'NN'] 20
+['VB', 'NN', 'NN', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'VB', 'RB', 'VB', 'VB', 'NN', 'NN', 'IN', 'NN', 'indikator'] 21
+['indikator', 'SC', 'SC', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'CD'] 21
+['NN', 'VB', 'IN', 'NN', 'SC', 'VB', 'NN', 'Z', 'NN', 'VB', 'NNP', 'NNP', 'VB', 'indikator', 'NN', 'IN', 'NN', 'CC', 'NN', 'NN', 'NN'] 21
+['NNP', 'NNP', 'VB', 'NN', 'VB', 'IN', 'NN', 'NN', 'IN', 'NN', 'NN', 'NN', 'CC', 'VB', 'IN', 'NN', 'Z', 'NN', 'indikator', 'IN', 'NN'] 21
+['NN', 'indikator', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'PR', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z'] 21
+['CC', 'NN', 'SC', 'indikator', 'SC', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'CC', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP'] 21
+['VB', 'IN', 'NNP', 'NNP', 'Z', 'VB', 'NN', 'VB', 'indikator', 'JJ', 'CC', 'RB', 'VB', 'NN', 'IN', 'NN', 'SC', 'VB', 'JJ', 'NN', 'NN'] 21
+['NN', 'NN', 'NN', 'indikator', 'SC', 'VB', 'NN', 'SC', 'VB', 'NN', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NN', 'NN'] 21
+['NN', 'NN', 'NN', 'CC', 'NN', 'PR', 'Z', 'NN', 'NN', 'IN', 'NN', 'NNP', 'VB', 'indikator', 'JJ', 'NN', 'JJ', 'Z', 'Z', 'VB', 'NNP'] 21
+['NN', 'JJ', 'VB', 'IN', 'NNP', 'CC', 'NN', 'SC', 'indikator', 'NN', 'RB', 'VB', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP'] 21
+['RB', 'indikator', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'VB', 'NN', 'NNP', 'Z', 'CD', 'Z'] 21
+['IN', 'CD', 'NN', 'Z', 'NND', 'NN', 'VB', 'NNP', 'NNP', 'NNP', 'SC', 'MD', 'indikator', 'IN', 'NN', 'CC', 'VB', 'NN', 'IN', 'NN', 'NN'] 21 -> ?
+['NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'indikator', 'IN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'MD', 'VB', 'NN', 'PR', 'IN', 'NNP', 'NNP', 'NNP'] 21
+['NN', 'Z', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'NN', 'NNP', 'IN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z', 'NN'] 21
+['NN', 'PRP', 'NN', 'PR', 'indikator', 'SC', 'VB', 'Z', 'CC', 'WH', 'NN', 'PR', 'VB', 'IN', 'NN', 'NN', 'NN', 'PR', 'Z', 'Z', 'RB'] 21
+['NN', 'NN', 'NN', 'MD', 'RB', 'VB', 'JJ', 'IN', 'indikator', 'IN', 'CC', 'NN', 'NN', 'Z', 'Z', 'RB', 'IN', 'NN', 'NEG', 'JJ', 'PR'] 21
+['NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'indikator', 'IN', 'NN', 'NN', 'IN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'VB', 'IN', 'NNP', 'NNP', 'NNP'] 21
+['NNP', 'SC', 'VB', 'NN', 'NN', 'VB', 'Z', 'NN', 'RB', 'indikator', 'IN', 'NN', 'SC', 'VB', 'NN', 'IN', 'NN', 'NN', 'NN', 'NN', 'NN'] 21
+['CC', 'RB', 'Z', 'NEG', 'VB', 'NN', 'NN', 'indikator', 'CC', 'NN', 'NN', 'IN', 'NN', 'IN', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NN', 'PR'] 21
+['NNP', 'IN', 'PR', 'Z', 'NNP', 'VB', 'NN', 'CC', 'VB', 'NN', 'NN', 'SC', 'indikator', 'IN', 'NN', 'PRP', 'NEG', 'RB', 'VB', 'SC', 'VB'] 21
+['NNP', 'Z', 'NN', 'NN', 'NN', 'IN', 'JJ', 'NN', 'NN', 'VB', 'NN', 'indikator', 'SC', 'MD', 'VB', 'IN', 'NN', 'IN', 'NN', 'NN', 'NN'] 21
+['NN', 'PR', 'VB', 'NN', 'indikator', 'IN', 'NN', 'NNP', 'NNP', 'Z', 'NN', 'Z', 'VB', 'NN', 'IN', 'NN', 'NN', 'Z', 'Z', 'NN', 'NNP'] 21
+['NN', 'NN', 'CC', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'MD', 'VB', 'NN', 'NN', 'DT', 'NN', 'SC', 'VB', 'indikator', 'JJ', 'SC', 'JJ'] 21
+['NN', 'NN', 'NN', 'NN', 'PRP', 'NN', 'NN', 'IN', 'NN', 'JJ', 'Z', 'CC', 'RB', 'MD', 'indikator', 'NN', 'Z', 'Z', 'VB', 'NNP', 'Z'] 21
+['NNP', 'indikator', 'IN', 'NN', 'NN', 'NN', 'Z', 'NNP', 'Z', 'IN', 'CD', 'NN', 'IN', 'NN', 'NN', 'Z', 'VB', 'Z', 'NN', 'Z', 'CC', 'NN'] 22
+['NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z', 'Z', 'indikator', 'NN', 'SC', 'VB', 'NN', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'NNP'] 22
+['NN', 'indikator', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'CD', 'NN', 'MD', 'VB', 'NN'] 22
+['NN', 'PR', 'indikator', 'NN', 'Z', 'CC', 'SC', 'IN', 'NN', 'NN', 'RB', 'VB', 'SC', 'VB', 'NN', 'CC', 'NN', 'JJ', 'NN', 'Z', 'Z', 'RB'] 22
+['NN', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'NN', 'NN', 'NN', 'Z', 'NNP', 'Z', 'IN', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'NNP', 'IN', 'NN'] 22
+['NN', 'VB', 'indikator', 'IN', 'IN', 'NNP', 'IN', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z'] 22
+['RB', 'VB', 'CC', 'indikator', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 22
+['NNP', 'NNP', 'PR', 'MD', 'RB', 'VB', 'NN', 'Z', 'SC', 'VB', 'NN', 'SC', 'VB', 'NN', 'NN', 'NN', 'Z', 'RB', 'MD', 'MD', 'indikator', 'NN'] 22
+['NNP', 'Z', 'CD', 'Z', 'indikator', 'SC', 'VB', 'NN', 'NN', 'SC', 'VB', 'NN', 'IN', 'NN', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 22
+['NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'indikator', 'NN', 'IN', 'NN', 'CC', 'NN', 'NN', 'NEG', 'VB', 'VB', 'RB', 'IN', 'NN'] 22
+['NN', 'indikator', 'NN', 'NN', 'NN', 'Z', 'NNP', 'Z', 'IN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'MD', 'VB', 'NN', 'IN', 'CD', 'NN'] 22
+['NN', 'IN', 'NNP', 'NNP', 'VB', 'indikator', 'NN', 'NN', 'NN', 'NN', 'VB', 'IN', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP'] 22
+['VB', 'NN', 'IN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'SC', 'VB', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'SC', 'VB', 'NN', 'NN', 'VB', 'NN'] 22
+['NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'NN', 'NN', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 22
+['NNP', 'Z', 'NN', 'CC', 'NN', 'NN', 'NNP', 'IN', 'NNP', 'NNP', 'Z', 'NN', 'VB', 'indikator', 'JJ', 'IN', 'NN', 'NN', 'NN', 'NN', 'NN', 'PR'] 22
+['NN', 'NN', 'PR', 'Z', 'NN', 'NN', 'NNP', 'Z', 'CD', 'Z', 'VB', 'NN', 'JJ', 'CC', 'indikator', 'NN', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'NNP'] 22
+['NN', 'NN', 'PR', 'Z', 'NN', 'NN', 'NNP', 'Z', 'CD', 'Z', 'VB', 'indikator', 'JJ', 'CC', 'VB', 'NN', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'NNP'] 22
+['NNP', 'indikator', 'IN', 'NNP', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'IN', 'NN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 22
+['IN', 'NND', 'NN', 'NN', 'NNP', 'Z', 'CD', 'Z', 'Z', 'SC', 'VB', 'Z', 'NNP', 'VB', 'IN', 'NN', 'NN', 'IN', 'indikator', 'JJ', 'IN', 'NN'] 22
+['NNP', 'NN', 'NN', 'JJ', 'CC', 'NN', 'indikator', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'Z', 'VB', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z'] 22
+['NNP', 'Z', 'NNP', 'Z', 'VB', 'indikator', 'IN', 'NN', 'NN', 'NN', 'NN', 'Z', 'VB', 'NN', 'VB', 'NN', 'IN', 'NNP', 'Z', 'Z', 'RB', 'Z'] 22
+['JJ', 'SC', 'indikator', 'NN', 'NN', 'NN', 'Z', 'FW', 'Z', 'Z', 'NN', 'CC', 'NNP', 'Z', 'CD', 'Z', 'VB', 'IN', 'CD', 'NN', 'VB', 'SC', 'JJ'] 23
+['NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NNP', 'NNP', 'NNP', 'Z', 'NN', 'NN', 'Z', 'indikator', 'NN', 'IN', 'NN', 'JJ'] 23
+['NN', 'indikator', 'VB', 'VB', 'IN', 'NN', 'VB', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'NN', 'RB', 'VB', 'VB', 'IN', 'NN', 'NN', 'VB', 'NN'] 23
+['NNP', 'VB', 'NNP', 'Z', 'CD', 'Z', 'PR', 'MD', 'VB', 'NN', 'IN', 'NN', 'NN', 'NN', 'VB', 'VB', 'NN', 'CC', 'NN', 'NN', 'IN', 'RB', 'indikator'] 23
+['NN', 'NN', 'JJ', 'OD', 'Z', 'CD', 'Z', 'indikator', 'NN', 'NN', 'VB', 'NN', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z'] 23
+['NNP', 'VB', 'Z', 'NN', 'SC', 'indikator', 'IN', 'NN', 'PR', 'SC', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP'] 23
+['NN', 'FW', 'FW', 'FW', 'Z', 'CD', 'Z', 'indikator', 'IN', 'NN', 'IN', 'NN', 'SC', 'VB', 'NN', 'SC', 'MD', 'VB', 'NN', 'IN', 'NNP', 'Z', 'NNP'] 23
+['Z', 'SC', 'MD', 'VB', 'IN', 'NN', 'JJ', 'IN', 'NNP', 'IN', 'NNP', 'Z', 'NN', 'VB', 'NN', 'indikator', 'CC', 'NN', 'NN', 'NN', 'NN', 'VB', 'Z'] 23
+['NN', 'JJ', 'NNP', 'VB', 'NN', 'JJ', 'Z', 'NNP', 'Z', 'CD', 'Z', 'Z', 'SC', 'indikator', 'SC', 'MD', 'VB', 'NN', 'IN', 'NNP', 'Z', 'NNP', 'NNP'] 23
+['NN', 'FW', 'FW', 'FW', 'Z', 'CD', 'Z', 'indikator', 'IN', 'NN', 'IN', 'NN', 'SC', 'VB', 'NN', 'SC', 'VB', 'NN', 'IN', 'NNP', 'Z', 'NNP', 'NNP'] 23
+['NN', 'indikator', 'CC', 'CD', 'NN', 'VB', 'SC', 'VB', 'NN', 'SC', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 23
+['NNP', 'NNP', 'MD', 'RB', 'NN', 'CC', 'WH', 'Z', 'NN', 'VB', 'JJ', 'CD', 'VB', 'SC', 'VB', 'CC', 'indikator', 'IN', 'NN', 'Z', 'Z', 'NN', 'NNP'] 23
+['IN', 'NN', 'PR', 'Z', 'VB', 'NND', 'NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'Z', 'CC', 'NN', 'NNP', 'Z', 'CD', 'Z', 'VB', 'NN', 'JJ'] 23
+['IN', 'NN', 'PR', 'Z', 'VB', 'NND', 'NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'VB', 'Z', 'CC', 'NN', 'NNP', 'Z', 'CD', 'Z', 'VB', 'indikator', 'JJ'] 23
+['PRP', 'VB', 'NN', 'SC', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'CC', 'PR', 'VB', 'NN', 'indikator', 'NN', 'SC', 'VB', 'NN', 'IN', 'NNP', 'NNP', 'NNP'] 23
+['NNP', 'NNP', 'PR', 'VB', 'indikator', 'IN', 'NN', 'NN', 'NN', 'NN', 'IN', 'VB', 'Z', 'Z', 'VB', 'NNP', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 23
+['NN', 'NN', 'VB', 'NN', 'indikator', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'NNP', 'Z', 'CD', 'Z'] 23
+['NNP', 'Z', 'CD', 'Z', 'NN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'indikator', 'NN', 'SC', 'VB', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NN', 'NN'] 23
+['NNP', 'NNP', 'RB', 'VB', 'VB', 'indikator', 'NN', 'NN', 'VB', 'NN', 'PR', 'VB', 'IN', 'NN', 'PRP', 'VB', 'IN', 'NN', 'PR', 'RB', 'NEG', 'VB', 'NN'] 23
+['NNP', 'VB', 'Z', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'indikator', 'NN', 'NN', 'NN', 'VB', 'NN', 'SC', 'VB'] 23
+['NN', 'NN', 'NN', 'IN', 'CD', 'VB', 'NN', 'CC', 'NN', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'NN', 'indikator', 'NN', 'PR', 'NN', 'SC', 'NN', 'VB', 'NN'] 23
+['NN', 'indikator', 'SC', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NNP', 'VB', 'NN', 'SC', 'VB', 'NN', 'JJ', 'NNP', 'Z', 'CD', 'Z'] 23
+['IN', 'NN', 'CD', 'VB', 'NN', 'CC', 'NN', 'IN', 'NN', 'NN', 'NN', 'NN', 'CD', 'CD', 'NN', 'IN', 'NN', 'indikator', 'CD', 'NN', 'CC', 'NN', 'CD', 'NN'] 24
+['NN', 'indikator', 'IN', 'NN', 'NN', 'NN', 'NN', 'NN', 'Z', 'NNP', 'Z', 'NNP', 'IN', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NN', 'NN'] 24
+['SC', 'Z', 'NN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z', 'Z', 'indikator', 'VB', 'IN', 'NNP', 'NNP', 'NN', 'VB', 'NN', 'NN', 'IN', 'NNP', 'Z', 'CD', 'Z'] 24
+['NN', 'NN', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'indikator', 'NN', 'SC', 'VB', 'NN', 'NN'] 24
+['SC', 'VB', 'Z', 'NND', 'NN', 'NN', 'Z', 'NNP', 'NNP', 'Z', 'indikator', 'NN', 'SC', 'VB', 'NNP', 'NNP', 'JJ', 'Z', 'RB', 'VB', 'IN', 'NN', 'NN', 'JJ'] 24
+['NNP', 'NNP', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'SC', 'NN', 'JJ', 'CC', 'VB', 'indikator', 'NN', 'IN', 'NN', 'SC', 'VB', 'Z', 'Z', 'RB', 'Z'] 24
+['WH', 'NN', 'NN', 'PR', 'IN', 'NN', 'PR', 'JJ', 'SC', 'NN', 'MD', 'JJ', 'CC', 'RB', 'VB', 'NN', 'SC', 'RB', 'indikator', 'NN', 'VB', 'IN', 'NNP', 'NNP'] 24
+['WH', 'NN', 'NN', 'PR', 'IN', 'NN', 'PR', 'JJ', 'SC', 'NN', 'MD', 'JJ', 'CC', 'RB', 'indikator', 'NN', 'SC', 'RB', 'VB', 'NN', 'VB', 'IN', 'NNP', 'NNP'] 24
+['NNP', 'NNP', 'NNP', 'Z', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'VB', 'RB', 'indikator', 'VB', 'Z', 'VB', 'IN', 'NN', 'NN', 'NNP', 'Z', 'IN', 'NN', 'NN'] 24
+['NN', 'VB', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'SC', 'VB', 'NN', 'NNP', 'NNP', 'SC', 'VB', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 24
+['CC', 'FW', 'FW', 'FW', 'FW', 'Z', 'PR', 'VB', 'NN', 'VB', 'IN', 'NN', 'Z', 'SC', 'VB', 'RB', 'VB', 'CC', 'VB', 'NN', 'indikator', 'NN', 'VB', 'NN'] 24
+['NNP', 'NNP', 'VB', 'IN', 'NN', 'indikator', 'Z', 'NN', 'CD', 'NN', 'NN', 'NN', 'IN', 'CD', 'NN', 'NN', 'Z', 'VB', 'NN', 'SC', 'NN', 'CD', 'NN', 'NN'] 24
+['PRP', 'indikator', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'PR', 'NN', 'MD', 'VB', 'NN', 'IN', 'NN', 'Z', 'VB', 'NEG', 'VB', 'NN', 'NNP'] 24
+['NN', 'NN', 'NN', 'indikator', 'SC', 'VB', 'NN', 'PRP', 'RB', 'NN', 'Z', 'VB', 'NN', 'Z', 'Z', 'RB', 'NN', 'NN', 'NN', 'Z', 'IN', 'NN', 'NN', 'Z'] 24
+['SC', 'VB', 'NNP', 'Z', 'CD', 'Z', 'SC', 'indikator', 'Z', 'NN', 'SC', 'VB', 'NN', 'PR', 'NN', 'PR', 'VB', 'IN', 'NNP', 'Z', 'NND', 'NN', 'RB', 'NN'] 24
+['NND', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'VB', 'NN', 'NN', 'JJ', 'IN', 'NN', 'NNP', 'VB', 'NNP', 'Z', 'RB', 'indikator', 'SC', 'IN', 'NN', 'NN'] 24
+['NN', 'JJ', 'NNP', 'CC', 'RB', 'JJ', 'NNP', 'indikator', 'NN', 'NN', 'NN', 'NN', 'Z', 'NNP', 'PR', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'IN', 'NN', 'CD'] 24
+['NN', 'PR', 'NN', 'VB', 'NN', 'IN', 'NN', 'IN', 'NN', 'Z', 'CC', 'PRP', 'VB', 'NN', 'NN', 'CC', 'NN', 'PR', 'Z', 'NN', 'indikator', 'NN', 'IN', 'NN'] 24
+['NNP', 'indikator', 'PR', 'VB', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 24
+['NNP', 'Z', 'NNP', 'VB', 'IN', 'NNP', 'NNP', 'VB', 'IN', 'NN', 'IN', 'NN', 'NNP', 'VB', 'indikator', 'NN', 'NNP', 'NNP', 'VB', 'NN', 'NN', 'Z', 'Z', 'RB'] 24
+['CC', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'indikator', 'VB', 'IN', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'VB', 'NN', 'NN', 'VB'] 24
+['NN', 'indikator', 'NN', 'NN', 'NN', 'IN', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NN', 'PR'] 24
+['NN', 'NN', 'NN', 'PR', 'Z', 'NN', 'SC', 'VB', 'VB', 'NN', 'Z', 'CC', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'indikator', 'Z', 'Z', 'VB', 'NNP'] 24
+['CC', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'Z', 'VB', 'NN', 'PR', 'VB', 'IN', 'NNP', 'NNP', 'NN', 'NN', 'PR', 'NN', 'VB', 'indikator', 'Z', 'Z', 'VB', 'NNP'] 24
+['NNP', 'VB', 'Z', 'CD', 'NN', 'JJ', 'IN', 'NN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'CC', 'NNP', 'SC', 'VB', 'NN', 'NNP', 'NNP', 'VB', 'indikator', 'JJ'] 25
+['NN', 'indikator', 'IN', 'NN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'Z', 'NN', 'PR', 'VB', 'IN', 'NN', 'CD', 'NN'] 25
+['NN', 'CC', 'IN', 'NN', 'SC', 'VB', 'Z', 'IN', 'NN', 'NN', 'NN', 'NN', 'NN', 'NN', 'PR', 'NN', 'VB', 'CC', 'VB', 'indikator', 'JJ', 'IN', 'NN', 'NN', 'NN'] 25
+['SC', 'VB', 'NND', 'NN', 'NN', 'Z', 'NNP', 'NNP', 'Z', 'indikator', 'NN', 'SC', 'VB', 'NN', 'IN', 'NN', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP'] 25
+['NNP', 'NNP', 'IN', 'NN', 'NN', 'VB', 'NN', 'NN', 'IN', 'NNP', 'CD', 'CC', 'NNP', 'CD', 'NN', 'MD', 'NNP', 'Z', 'indikator', 'NN', 'Z', 'Z', 'Z', 'VB', 'NNP'] 25
+['NN', 'VB', 'NN', 'NN', 'NN', 'IN', 'NN', 'JJ', 'NN', 'VB', 'PRP', 'VB', 'Z', 'NN', 'NN', 'PR', 'Z', 'NN', 'NN', 'VB', 'indikator', 'JJ', 'IN', 'NN', 'NN'] 25
+['NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'JJ', 'VB', 'IN', 'indikator', 'IN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'VB', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN'] 25
+['NN', 'indikator', 'CC', 'CD', 'NN', 'VB', 'SC', 'VB', 'NN', 'SC', 'VB', 'IN', 'NN', 'VB', 'NNP', 'Z', 'CD', 'Z', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 25
+['NNP', 'Z', 'NND', 'NN', 'VB', 'NNP', 'NNP', 'VB', 'VB', 'NNP', 'SC', 'VB', 'NN', 'NN', 'RB', 'Z', 'SC', 'VB', 'NN', 'IN', 'indikator', 'NN', 'SC', 'RB', 'VB'] 25
+['CD', 'Z', 'Z', 'NN', 'indikator', 'NNP', 'NNP', 'SC', 'IN', 'NNP', 'Z', 'NNP', 'NNP', 'PRP', 'PR', 'JJ', 'CD', 'SC', 'VB', 'NN', 'VB', 'IN', 'NN', 'SC', 'PRP'] 25
+['NNP', 'RB', 'indikator', 'NN', 'IN', 'NN', 'NN', 'Z', 'IN', 'Z', 'NN', 'CC', 'NN', 'NN', 'Z', 'SC', 'VB', 'CD', 'NN', 'VB', 'VB', 'RB', 'IN', 'NN', 'NN'] 25
+['NNP', 'RP', 'VB', 'Z', 'IN', 'NN', 'NN', 'PR', 'Z', 'NN', 'NN', 'VB', 'NND', 'NN', 'SC', 'VB', 'IN', 'NN', 'NN', 'NN', 'SC', 'indikator', 'IN', 'NN', 'PR'] 25
+['NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'SC', 'VB', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'PR'] 25
+['NN', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'Z', 'CD', 'Z', 'SC', 'VB', 'NN', 'NN', 'IN', 'NNP', 'CC', 'VB', 'indikator', 'IN', 'NNP', 'NNP', 'MD', 'JJ'] 25
+['NN', 'JJ', 'NN', 'NN', 'NN', 'Z', 'NNP', 'NNP', 'Z', 'VB', 'indikator', 'IN', 'IN', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP'] 25
+['NNP', 'NNP', 'NNP', 'VB', 'VB', 'VB', 'IN', 'NNP', 'Z', 'PRP', 'VB', 'NN', 'NN', 'SC', 'VB', 'NN', 'NN', 'indikator', 'NN', 'CC', 'NN', 'Z', 'Z', 'NN', 'NNP'] 25
+['NNP', 'NNP', 'NNP', 'VB', 'VB', 'VB', 'IN', 'NNP', 'Z', 'PRP', 'VB', 'NN', 'NN', 'SC', 'VB', 'NN', 'NN', 'VB', 'NN', 'CC', 'indikator', 'Z', 'Z', 'NN', 'NNP'] 25
+['NN', 'NN', 'JJ', 'indikator', 'CC', 'IN', 'NN', 'SC', 'VB', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'Z', 'CD', 'Z'] 25
+['NNP', 'NNP', 'NEG', 'MD', 'VB', 'CC', 'IN', 'indikator', 'Z', 'NN', 'IN', 'NN', 'Z', 'NN', 'PR', 'VB', 'NN', 'NN', 'NN', 'IN', 'NN', 'JJ', 'Z', 'Z', 'RB'] 25
+['NNP', 'VB', 'Z', 'CD', 'NN', 'JJ', 'IN', 'NN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'CC', 'NNP', 'SC', 'VB', 'NN', 'NNP', 'NNP', 'VB', 'indikator', 'JJ'] 26
+['IN', 'CD', 'NND', 'NN', 'NN', 'NN', 'Z', 'NN', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NNP', 'Z', 'NNP', 'VB', 'indikator', 'JJ', 'IN', 'NN', 'CC', 'VB', 'IN', 'NN', 'NN'] 26
+['MD', 'VB', 'NN', 'NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'SC', 'indikator', 'NN', 'NN', 'NN', 'NN', 'PR', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'IN', 'NN', 'CD', 'NN'] 26
+['NN', 'PR', 'Z', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'NN', 'PR', 'NN', 'JJ', 'CD', 'NND', 'CC', 'VB', 'NN', 'JJ', 'IN', 'NN', 'indikator'] 26
+['NNP', 'NNP', 'CC', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'VB', 'NN', 'NN', 'VB', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'Z'] 26
+['NNP', 'Z', 'NNP', 'SC', 'PRP', 'VB', 'VB', 'Z', 'CD', 'NN', 'Z', 'PRP', 'NEG', 'VB', 'SC', 'VB', 'WH', 'Z', 'NN', 'PR', 'Z', 'Z', 'SC', 'indikator', 'JJ', 'WH'] 26
+['IN', 'NN', 'PR', 'Z', 'CD', 'NN', 'VB', 'CC', 'NN', 'NN', 'VB', 'indikator', 'Z', 'NN', 'VB', 'CC', 'NN', 'RB', 'IN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP'] 26
+['NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'VB', 'SC', 'NNP', 'Z', 'RB', 'NN', 'NN', 'CC', 'NN', 'SC', 'VB', 'NNP', 'NNP', 'indikator', 'NN', 'NNP'] 26
+['NN', 'SC', 'VB', 'CC', 'RB', 'RB', 'VB', 'RB', 'VB', 'NN', 'NN', 'Z', 'NN', 'SC', 'VB', 'IN', 'NN', 'NN', 'PR', 'RB', 'indikator', 'NN', 'VB', 'IN', 'NNP', 'NNP'] 26
+['NN', 'SC', 'VB', 'CC', 'RB', 'RB', 'VB', 'RB', 'VB', 'indikator', 'NN', 'Z', 'NN', 'SC', 'VB', 'IN', 'NN', 'NN', 'PR', 'RB', 'VB', 'NN', 'VB', 'IN', 'NNP', 'NNP'] 26
+['NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'Z', 'NN', 'PR', 'MD', 'PRP', 'VB', 'SC', 'RB', 'VB', 'VB', 'indikator', 'PRP', 'VB', 'IN', 'NN', 'JJ', 'SC', 'VB'] 26
+['NNP', 'CD', 'NN', 'PRP', 'SC', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'VB', 'NN', 'Z', 'NN', 'PRP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'indikator', 'NN', 'NN', 'IN', 'NN'] 26
+['NNP', 'RB', 'Z', 'NN', 'VB', 'NN', 'FW', 'Z', 'NNP', 'Z', 'SC', 'VB', 'NN', 'NN', 'Z', 'NNP', 'Z', 'SC', 'indikator', 'IN', 'NNP', 'Z', 'MD', 'VB', 'CD', 'NN'] 26
+['CC', 'Z', 'SC', 'PR', 'Z', 'NNP', 'Z', 'NNP', 'Z', 'CC', 'Z', 'IN', 'NN', 'NNP', 'MD', 'VB', 'CC', 'indikator', 'IN', 'NN', 'Z', 'VB', 'RB', 'RB', 'VB', 'NN'] 26
+['NNP', 'RP', 'indikator', 'SC', 'IN', 'NN', 'NNP', 'NNP', 'VB', 'NN', 'IN', 'NN', 'Z', 'NN', 'MD', 'PRP', 'VB', 'IN', 'NNP', 'NNP', 'SC', 'NN', 'Z', 'Z', 'NN', 'NNP'] 26
+['NEG', 'VB', 'RB', 'NN', 'SC', 'VB', 'VB', 'NNP', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'Z', 'CD', 'Z', 'PR', 'indikator', 'NN', 'NN', 'CC', 'VB', 'SC', 'VB'] 26
+['NN', 'indikator', 'IN', 'NN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'Z', 'RB', 'MD', 'VB', 'JJ', 'IN', 'NNP', 'NNP', 'NNP'] 26
+['SC', 'NN', 'indikator', 'SC', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'CC', 'NNP', 'Z', 'CD', 'Z', 'RB', 'NN', 'JJ', 'IN', 'CD', 'NN', 'VB'] 27
+['NNP', 'NNP', 'PR', 'VB', 'NN', 'OD', 'PRP', 'RB', 'indikator', 'Z', 'NNP', 'VB', 'NEG', 'MD', 'VB', 'VB', 'Z', 'CC', 'PRP', 'MD', 'VB', 'RB', 'VB', 'NN', 'Z', 'Z', 'RB'] 27
+['NNP', 'MD', 'NN', 'CC', 'VB', 'RB', 'indikator', 'NN', 'SC', 'VB', 'Z', 'NN', 'NEG', 'NN', 'SC', 'VB', 'VB', 'NN', 'NN', 'PR', 'VB', 'NN', 'VB', 'NN', 'IN', 'NNP', 'NNP'] 27
+['NNP', 'NNP', 'NN', 'VB', 'NEG', 'VB', 'SC', 'MD', 'indikator', 'NN', 'RB', 'Z', 'NN', 'NN', 'SC', 'RB', 'VB', 'NN', 'PR', 'NN', 'NN', 'Z', 'VB', 'Z', 'Z', 'VB', 'NNP'] 27
+['SC', 'CD', 'NN', 'NN', 'Z', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'indikator', 'IN', 'NN', 'NN'] 27
+['NN', 'NN', 'NNP', 'NNP', 'NNP', 'SC', 'VB', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'RB', 'VB', 'Z', 'PRP', 'VB', 'NEG', 'VB', 'NN', 'NN', 'CC', 'NN', 'indikator', 'IN', 'NN', 'PR'] 27
+['NNP', 'SC', 'NNP', 'NNP', 'indikator', 'IN', 'NN', 'NN', 'Z', 'NN', 'Z', 'NN', 'NEG', 'JJ', 'Z', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'VB', 'NN', 'IN', 'NNP', 'NNP', 'NNP'] 27
+['NNP', 'Z', 'NNP', 'Z', 'NN', 'CC', 'NN', 'NN', 'NNP', 'SC', 'VB', 'NN', 'CC', 'NN', 'SC', 'VB', 'NNP', 'VB', 'indikator', 'IN', 'NN', 'NN', 'CC', 'VB', 'Z', 'Z', 'RB'] 27
+['NNP', 'NNP', 'NNP', 'SC', 'VB', 'SC', 'VB', 'IN', 'NNP', 'PR', 'RB', 'VB', 'NN', 'CD', 'NN', 'NN', 'NN', 'Z', 'NNP', 'CC', 'NNP', 'VB', 'indikator', 'Z', 'Z', 'RB', 'Z'] 27
+['NNP', 'NNP', 'VB', 'NN', 'NN', 'CC', 'IN', 'RB', 'VB', 'NN', 'RB', 'VB', 'NN', 'IN', 'indikator', 'IN', 'NN', 'Z', 'CC', 'VB', 'NN', 'MD', 'VB', 'NN', 'Z', 'Z', 'RB'] 27
+['NN', 'NN', 'indikator', 'SC', 'VB', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'VB', 'NNP', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NNP', 'NNP', 'Z', 'NNP'] 27
+['NN', 'SC', 'NN', 'PR', 'VB', 'IN', 'NN', 'Z', 'Z', 'VB', 'NN', 'NN', 'NN', 'PR', 'Z', 'NNP', 'CC', 'RB', 'Z', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'indikator', 'NN'] 27
+['NNP', 'NNP', 'IN', 'NN', 'NN', 'indikator', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'Z', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 27
+['NN', 'JJ', 'VB', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'SC', 'VB', 'Z', 'NN', 'PR', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NN'] 28
+['NN', 'VB', 'NN', 'indikator', 'NN', 'NN', 'NN', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NN', 'PR', 'VB', 'IN', 'NN', 'CD', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 28
+['NNP', 'Z', 'SC', 'VB', 'IN', 'NN', 'RB', 'JJ', 'CC', 'NNP', 'VB', 'NN', 'IN', 'NN', 'JJ', 'IN', 'CD', 'NN', 'Z', 'NN', 'RB', 'indikator', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 28
+['IN', 'NN', 'SC', 'VB', 'NN', 'Z', 'NN', 'SC', 'indikator', 'NN', 'SC', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'SC', 'VB', 'NN', 'NN'] 28
+['VB', 'NN', 'NN', 'SC', 'VB', 'NN', 'Z', 'NNP', 'VB', 'RB', 'NEG', 'MD', 'VB', 'indikator', 'SC', 'VB', 'NN', 'PRP', 'VB', 'IN', 'NN', 'NN', 'NN', 'NN', 'NN', 'Z', 'Z', 'RB'] 28
+['NN', 'NN', 'NN', 'NNP', 'Z', 'NNP', 'Z', 'VB', 'NN', 'RB', 'IN', 'VB', 'SC', 'NN', 'JJ', 'CC', 'NN', 'SC', 'VB', 'IN', 'NN', 'indikator', 'CC', 'VB', 'NN', 'NN', 'NN', 'NN'] 28
+['VB', 'NN', 'JJ', 'NNP', 'indikator', 'SC', 'VB', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'IN', 'NN', 'CD', 'NN'] 28
+['NNP', 'Z', 'NN', 'NN', 'SC', 'MD', 'VB', 'IN', 'NN', 'NN', 'NN', 'PR', 'VB', 'indikator', 'IN', 'NN', 'NN', 'NN', 'NN', 'IN', 'NN', 'VB', 'CC', 'VB', 'VB', 'NNP', 'NNP', 'NNP'] 28
+['NN', 'NN', 'PR', 'Z', 'NN', 'VB', 'NNP', 'NNP', 'VB', 'indikator', 'NN', 'IN', 'NN', 'CC', 'NN', 'NN', 'Z', 'NN', 'NN', 'NNP', 'VB', 'NN', 'IN', 'NN', 'CC', 'NN', 'NN', 'NN'] 28
+['VB', 'SC', 'Z', 'NND', 'NN', 'indikator', 'NN', 'NN', 'NN', 'IN', 'NN', 'NN', 'NN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'Z', 'NNP', 'Z', 'CD', 'Z'] 29
+['NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NN', 'NN', 'NN', 'SC', 'VB', 'NN', 'PR', 'RB', 'VB', 'indikator', 'IN', 'NN', 'VB', 'NN', 'NN', 'CC', 'MD', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'Z'] 29
+['SC', 'NN', 'indikator', 'Z', 'SC', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'CC', 'NNP', 'Z', 'CD', 'Z', 'Z', 'RB', 'NN', 'JJ', 'IN', 'CD', 'NN', 'VB'] 29
+['VB', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'NNP', 'IN', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'PR', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'IN', 'NN', 'CD', 'NN'] 29
+['NNP', 'indikator', 'SC', 'VB', 'NN', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'NNP', 'NNP', 'Z', 'CC', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NN', 'NN', 'SC', 'MD', 'VB', 'IN', 'NNP', 'NNP', 'NNP'] 29
+['JJ', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'NN', 'NN', 'MD', 'VB', 'NN', 'NN', 'JJ', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'SC', 'VB', 'IN', 'VB', 'NN', 'SC', 'NN', 'JJ'] 29
+['NNP', 'NN', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NNP', 'Z', 'Z', 'VB', 'NN', 'NN', 'VB', 'NNP', 'VB', 'NN', 'NN', 'NN', 'NN', 'VB', 'indikator', 'CC', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP'] 29
+['NN', 'PRP', 'VB', 'IN', 'FW', 'FW', 'FW', 'FW', 'FW', 'SC', 'RB', 'VB', 'SC', 'VB', 'NN', 'CC', 'CC', 'SC', 'VB', 'SC', 'VB', 'NN', 'NN', 'CC', 'indikator', 'Z', 'Z', 'NN', 'NNP'] 29
+['NN', 'SC', 'NEG', 'VB', 'RB', 'indikator', 'IN', 'NN', 'JJ', 'IN', 'NN', 'SC', 'VB', 'FW', 'FW', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z'] 29
+['NN', 'SC', 'NEG', 'VB', 'RB', 'VB', 'IN', 'indikator', 'JJ', 'IN', 'NN', 'SC', 'VB', 'FW', 'FW', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z'] 29
+['CC', 'NN', 'indikator', 'JJ', 'SC', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP'] 29
+['CC', 'NN', 'NEG', 'VB', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'CC', 'RB', 'JJ', 'CC', 'NN', 'NN', 'IN', 'CD', 'NND', 'Z', 'CC', 'indikator', 'IN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP'] 29
+['NNP', 'Z', 'SC', 'PR', 'Z', 'NN', 'NN', 'RB', 'JJ', 'VB', 'NN', 'NN', 'NN', 'SC', 'indikator', 'NN', 'NNP', 'IN', 'NNP', 'Z', 'IN', 'CD', 'NNP', 'CD', 'Z', 'NN', 'VB', 'IN', 'NN'] 29
+['NN', 'SC', 'VB', 'NND', 'NN', 'NN', 'indikator', 'NN', 'NN', 'NN', 'PR', 'VB', 'VB', 'IN', 'NN', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z'] 30
+['NN', 'IN', 'NN', 'JJ', 'VB', 'CD', 'NN', 'NN', 'JJ', 'VB', 'IN', 'NND', 'NN', 'JJ', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'IN', 'NN', 'NN', 'CC', 'RB', 'indikator'] 30
+['NN', 'IN', 'NN', 'OD', 'NNP', 'CD', 'CC', 'Z', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'indikator', 'SC', 'RB', 'VB', 'NN', 'NN', 'Z'] 30
+['NN', 'Z', 'VB', 'VB', 'NN', 'SC', 'VB', 'IN', 'NN', 'NNP', 'NNP', 'VB', 'indikator', 'IN', 'NN', 'Z', 'VB', 'NN', 'IN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'Z', 'VB', 'NNP'] 30
+['NNP', 'NNP', 'VB', 'NN', 'VB', 'NN', 'JJ', 'Z', 'SC', 'RB', 'SC', 'VB', 'MD', 'VB', 'NN', 'NN', 'IN', 'PR', 'Z', 'SC', 'VB', 'SC', 'indikator', 'VB', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP'] 30
+['NN', 'NN', 'PR', 'Z', 'NNP', 'SC', 'VB', 'NN', 'NNP', 'VB', 'NN', 'IN', 'NN', 'NN', 'CC', 'NN', 'Z', 'indikator', 'NN', 'IN', 'NN', 'NN', 'NN', 'CC', 'NN', 'CC', 'NN', 'NN', 'NN', 'NN'] 30
+['NN', 'NN', 'NN', 'Z', 'NN', 'NN', 'VB', 'NN', 'NN', 'NN', 'NN', 'NN', 'indikator', 'IN', 'NN', 'Z', 'SC', 'CD', 'NN', 'JJ', 'VB', 'IN', 'NN', 'IN', 'NN', 'JJ', 'Z', 'Z', 'VB', 'NNP'] 30
+['NN', 'VB', 'indikator', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'VB', 'IN', 'NN', 'NNP', 'Z', 'Z', 'VB', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 31
+['NNP', 'indikator', 'IN', 'NN', 'NN', 'NN', 'JJ', 'IN', 'NN', 'NNP', 'NNP', 'NNP', 'PRP', 'VB', 'NN', 'VB', 'NN', 'IN', 'NN', 'NN', 'NN', 'SC', 'VB', 'VB', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP'] 31
+['NNP', 'VB', 'IN', 'NN', 'NN', 'indikator', 'JJ', 'IN', 'NN', 'NNP', 'NNP', 'NNP', 'PRP', 'VB', 'NN', 'VB', 'NN', 'IN', 'NN', 'NN', 'NN', 'SC', 'VB', 'VB', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP'] 31
+['NNP', 'NNP', 'VB', 'indikator', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NN', 'NN', 'PR', 'SC', 'VB', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'JJ', 'Z', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'Z', 'RB'] 31
+['NN', 'Z', 'NNP', 'Z', 'CD', 'Z', 'Z', 'indikator', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'Z', 'VB', 'NN', 'PR', 'VB', 'NN', 'PR', 'IN', 'NN', 'CD', 'NN'] 31
+['NNP', 'IN', 'NN', 'NN', 'Z', 'indikator', 'IN', 'NN', 'NN', 'IN', 'NN', 'NN', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 31
+['NN', 'VB', 'NN', 'Z', 'NN', 'Z', 'NN', 'SC', 'VB', 'Z', 'NN', 'NN', 'PR', 'VB', 'indikator', 'Z', 'NNP', 'Z', 'CD', 'Z', 'NN', 'Z', 'IN', 'NN', 'CD', 'NN', 'IN', 'NN', 'NN', 'SC', 'VB'] 31
+['NNP', 'NNP', 'IN', 'JJ', 'NN', 'NN', 'NN', 'Z', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'PR', 'Z', 'NN', 'indikator', 'NN', 'Z', 'SC', 'VB', 'NN', 'NN', 'MD', 'IN', 'NN', 'Z', 'Z', 'RB', 'Z'] 31
+['NNP', 'NNP', 'NN', 'SC', 'NN', 'NN', 'IN', 'NN', 'NN', 'NN', 'VB', 'CD', 'NN', 'indikator', 'IN', 'NN', 'IN', 'NN', 'CD', 'NN', 'VB', 'VB', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'Z', 'Z', 'VB', 'PRP'] 31
+['Z', 'CD', 'Z', 'Z', 'NN', 'SC', 'VB', 'SC', 'VB', 'NN', 'IN', 'NNP', 'CC', 'CC', 'VB', 'indikator', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'VB', 'IN', 'NN', 'RB', 'Z', 'NNP', 'Z', 'NNP', 'NNP'] 31
+['VB', 'CD', 'CD', 'NN', 'indikator', 'IN', 'NN', 'SYM', 'CD', 'CD', 'IN', 'CD', 'CC', 'NN', 'NN', 'VB', 'NN', 'IN', 'NN', 'VB', 'CD', 'CD', 'NN', 'Z', 'SC', 'JJ', 'NN', 'NN', 'SYM', 'CD', 'CD'] 31
+['NEG', 'VB', 'NN', 'NNP', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'VB', 'IN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'SC', 'VB', 'indikator', 'IN', 'NNP', 'NNP', 'Z', 'NNP'] 31
+['JJ', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'SC', 'VB', 'NN', 'NN', 'IN', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NNP', 'MD', 'VB', 'VB', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'VB', 'NNP', 'IN', 'NN', 'CD', 'NN'] 31
+['NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'IN', 'NN', 'SC', 'VB', 'NN', 'PR', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NN'] 31
+['NN', 'indikator', 'IN', 'NN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'Z', 'RB', 'VB', 'NN', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'IN', 'NN', 'CD', 'NN'] 31
+['CC', 'Z', 'NN', 'PR', 'RB', 'JJ', 'CC', 'MD', 'VB', 'NN', 'SC', 'VB', 'IN', 'NN', 'NN', 'SC', 'VB', 'NN', 'SC', 'WH', 'VB', 'indikator', 'JJ', 'CC', 'NN', 'IN', 'NN', 'Z', 'Z', 'VB', 'NNP'] 31
+['NNP', 'NNP', 'indikator', 'NN', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'IN', 'NN', 'NN', 'Z', 'NN', 'PR', 'VB', 'NEG', 'VB', 'NN', 'NN'] 31
+['IN', 'NNP', 'Z', 'NN', 'NN', 'NN', 'Z', 'NNP', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'MD', 'JJ', 'SC', 'VB', 'NN', 'Z', 'SC', 'RB', 'VB', 'indikator', 'JJ'] 32
+['VB', 'NN', 'indikator', 'IN', 'NN', 'CC', 'NN', 'IN', 'NNP', 'Z', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'VB', 'VB', 'RB', 'IN', 'NN', 'NNP', 'VB', 'NNP', 'IN', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'CD', 'NN'] 32
+['NN', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'indikator', 'NN', 'Z', 'NN', 'NN', 'Z', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'SC', 'VB', 'NN', 'NNP', 'Z', 'CD', 'Z'] 32
+['NNP', 'MD', 'indikator', 'NN', 'Z', 'Z', 'VB', 'NNP', 'CD', 'Z', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'Z', 'NN', 'VB', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z', 'Z'] 32
+['NN', 'indikator', 'JJ', 'IN', 'NN', 'NN', 'NN', 'Z', 'NN', 'SC', 'VB', 'PR', 'Z', 'Z', 'VB', 'NNP', 'NN', 'VB', 'NN', 'VB', 'NN', 'VB', 'WH', 'NN', 'NN', 'PR', 'VB', 'FW', 'FW', 'Z', 'NNP', 'RB'] 32
+['NN', 'NN', 'SC', 'VB', 'FW', 'FW', 'CC', 'JJ', 'JJ', 'CC', 'VB', 'NN', 'IN', 'indikator', 'IN', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'NN', 'NN', 'SC', 'VB', 'NN', 'Z', 'RB', 'MD', 'PRP', 'VB', 'IN', 'NN'] 32
+['CD', 'NN', 'VB', 'SC', 'NNP', 'NNP', 'PR', 'RB', 'VB', 'IN', 'NNP', 'Z', 'VB', 'Z', 'PRP', 'VB', 'NN', 'NNP', 'Z', 'PRP', 'MD', 'VB', 'Z', 'NN', 'SC', 'VB', 'JJ', 'CC', 'RB', 'VB', 'indikator', 'JJ'] 32
+['NNP', 'NNP', 'Z', 'NNP', 'Z', 'VB', 'NND', 'RB', 'VB', 'VB', 'CC', 'VB', 'NN', 'NN', 'NN', 'SC', 'VB', 'NN', 'JJ', 'IN', 'NN', 'SC', 'indikator', 'NN', 'NN', 'IN', 'NN', 'NNP', 'Z', 'CD', 'Z', 'NN'] 32
+['NNP', 'NNP', 'JJ', 'PRP', 'MD', 'VB', 'NN', 'NN', 'NN', 'SC', 'indikator', 'SC', 'VB', 'NN', 'NN', 'NN', 'VB', 'SC', 'VB', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 32
+['NNP', 'NNP', 'VB', 'Z', 'SC', 'VB', 'NN', 'NN', 'NNP', 'NNP', 'SC', 'NEG', 'VB', 'IN', 'NN', 'NN', 'VB', 'NN', 'NN', 'Z', 'NN', 'NN', 'NN', 'indikator', 'NN', 'IN', 'NNP', 'Z', 'Z', 'VB', 'NNP', 'Z'] 32
+['NNP', 'indikator', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 32
+['NND', 'NN', 'NN', 'NNP', 'VB', 'NN', 'VB', 'VB', 'CC', 'indikator', 'NN', 'IN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 32
+['NNP', 'Z', 'IN', 'SC', 'VB', 'NN', 'IN', 'NN', 'NN', 'JJ', 'Z', 'VB', 'VB', 'NN', 'CC', 'NN', 'CC', 'NN', 'SC', 'VB', 'JJ', 'SC', 'NN', 'NEG', 'VB', 'indikator', 'IN', 'NN', 'NN', 'NN', 'NN', 'NN'] 32
+['NN', 'VB', 'IN', 'NN', 'IN', 'NN', 'NN', 'NN', 'NN', 'NN', 'NN', 'VB', 'NN', 'VB', 'NN', 'IN', 'indikator', 'NN', 'IN', 'NN', 'NN', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'NNP', 'Z', 'CD', 'Z'] 32
+['SC', 'PR', 'VB', 'NN', 'VB', 'Z', 'NN', 'VB', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NN', 'NN', 'VB', 'NNP', 'Z', 'CD', 'Z', 'Z', 'CD', 'NN', 'NNP', 'Z', 'VB', 'indikator', 'CC', 'VB', 'IN', 'NN', 'JJ'] 32
+['NNP', 'Z', 'IN', 'NN', 'IN', 'PR', 'Z', 'NN', 'NN', 'SC', 'Z', 'VB', 'IN', 'NN', 'NNP', 'Z', 'SC', 'PR', 'Z', 'NN', 'NN', 'RB', 'VB', 'NN', 'VB', 'NN', 'NN', 'NN', 'SC', 'indikator', 'NN', 'NNP', 'IN'] 33
+['SC', 'VB', 'Z', 'NN', 'SC', 'NEG', 'VB', 'RB', 'indikator', 'VB', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'IN', 'NN', 'NN', 'MD', 'VB', 'IN', 'NN', 'NN', 'CC', 'NEG', 'VB', 'NNP', 'NNP', 'NNP', 'NNP'] 33
+['SC', 'CD', 'NN', 'SC', 'VB', 'VB', 'NN', 'Z', 'Z', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'VB', 'indikator', 'JJ', 'CC', 'MD', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'NNP'] 33
+['NNP', 'NNP', 'NN', 'NNP', 'NNP', 'RB', 'VB', 'IN', 'NN', 'NN', 'RB', 'IN', 'JJ', 'NN', 'NN', 'NN', 'VB', 'NND', 'NN', 'SC', 'MD', 'VB', 'VB', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'indikator', 'Z', 'Z', 'RB'] 33
+['NNP', 'NNP', 'indikator', 'IN', 'NN', 'NN', 'SC', 'VB', 'NN', 'NNP', 'SC', 'VB', 'IN', 'NNP', 'NNP', 'Z', 'CD', 'NN', 'NN', 'NN', 'JJ', 'SC', 'NN', 'OD', 'NN', 'PR', 'RB', 'MD', 'VB', 'IN', 'NN', 'NNP', 'NNP'] 33
+['NNP', 'NNP', 'NNP', 'NNP', 'indikator', 'NN', 'IN', 'NN', 'CC', 'NNP', 'NNP', 'VB', 'NN', 'IN', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'VB', 'Z', 'NNP', 'Z', 'CD', 'Z'] 33
+['NN', 'FW', 'FW', 'Z', 'CD', 'Z', 'indikator', 'SC', 'VB', 'NN', 'PR', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NN', 'CD', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 33
+['NN', 'JJ', 'VB', 'NN', 'CC', 'NNP', 'indikator', 'NN', 'NNP', 'NNP', 'VB', 'Z', 'NNP', 'VB', 'NNP', 'NNP', 'VB', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'IN', 'NN', 'IN', 'NN', 'NN', 'NN', 'NN', 'NEG', 'VB', 'RB'] 33
+['NNP', 'NN', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'VB', 'Z', 'SC', 'NN', 'NN', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NN', 'NN', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'VB', 'indikator', 'JJ', 'Z', 'NN', 'MD', 'IN', 'NN'] 33
+['CC', 'indikator', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'NN', 'NN', 'Z', 'VB', 'NNP', 'Z', 'IN', 'NN', 'CD', 'NN', 'IN', 'NN', 'FW', 'NN', 'NNP', 'Z', 'NNP', 'CC', 'NNP'] 34
+['NN', 'NN', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'IN', 'NNP', 'NNP', 'Z', 'VB', 'Z', 'Z', 'VB', 'PRP', 'NN', 'PR', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z', 'NN'] 34
+['NNP', 'NNP', 'IN', 'NN', 'NN', 'CC', 'NN', 'NN', 'NN', 'NN', 'NEG', 'VB', 'Z', 'NN', 'VB', 'NN', 'JJ', 'NN', 'JJ', 'CC', 'indikator', 'NN', 'Z', 'NN', 'VB', 'NN', 'VB', 'IN', 'NN', 'CC', 'NN', 'Z', 'Z', 'RB'] 34
+['NNP', 'NNP', 'IN', 'NN', 'NN', 'CC', 'NN', 'NN', 'NN', 'NN', 'NEG', 'VB', 'Z', 'NN', 'VB', 'indikator', 'JJ', 'NN', 'JJ', 'CC', 'VB', 'NN', 'Z', 'NN', 'VB', 'NN', 'VB', 'IN', 'NN', 'CC', 'NN', 'Z', 'Z', 'RB'] 34
+['JJ', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'NN', 'IN', 'NN', 'Z', 'SC', 'VB', 'NN', 'NN', 'Z', 'NNP', 'NNP', 'VB', 'NN', 'MD', 'VB', 'IN', 'PRP', 'CC', 'PRP', 'VB', 'IN', 'NN', 'NN', 'PR', 'VB', 'NN', 'RB'] 34
+['VB', 'indikator', 'IN', 'NN', 'NN', 'Z', 'CC', 'SC', 'RB', 'MD', 'VB', 'NNP', 'CC', 'NN', 'Z', 'PRP', 'IN', 'PR', 'VB', 'Z', 'RB', 'Z', 'CC', 'NEG', 'VB', 'Z', 'RB', 'NEG', 'VB', 'Z', 'Z', 'VB', 'PRP', 'Z'] 34
+['NN', 'VB', 'Z', 'IN', 'NN', 'NNP', 'Z', 'NNP', 'NNP', 'SC', 'VB', 'RB', 'VB', 'indikator', 'Z', 'CC', 'NN', 'NN', 'JJ', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z'] 34
+['NN', 'VB', 'IN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NN', 'Z', 'indikator', 'VB', 'IN', 'NNP', 'NNP', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 34
+['NN', 'SC', 'NN', 'IN', 'NNP', 'CD', 'NN', 'Z', 'indikator', 'Z', 'VB', 'IN', 'NNP', 'NNP', 'CC', 'CD', 'NN', 'NNP', 'VB', 'IN', 'NNP', 'NNP', 'Z', 'Z', 'VB', 'NNP', 'IN', 'NN', 'JJ', 'Z', 'NNP', 'Z', 'CD', 'Z'] 34
+['NNP', 'IN', 'NN', 'CD', 'NN', 'Z', 'NN', 'NN', 'Z', 'CC', 'NN', 'NEG', 'indikator', 'Z', 'Z', 'VB', 'NNP', 'IN', 'NNP', 'NN', 'Z', 'IN', 'CD', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'NNP', 'VB', 'IN', 'NN', 'VB', 'NN', 'JJ'] 35
+['NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'NN', 'NN', 'MD', 'VB', 'NN', 'NNP', 'NNP', 'Z', 'RB', 'RB', 'PR', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 35
+['NNP', 'NNP', 'VB', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'NNP', 'CD', 'NN', 'Z', 'SC', 'NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'NN', 'PRP', 'NN', 'IN', 'NN', 'SC', 'RB', 'VB', 'indikator', 'IN', 'NN', 'NNP', 'NNP', 'Z', 'CD', 'Z'] 35
+['CD', 'NN', 'VB', 'NNP', 'NNP', 'NNP', 'Z', 'NN', 'NN', 'Z', 'indikator', 'NN', 'IN', 'NN', 'JJ', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 35
+['Z', 'CD', 'Z', 'Z', 'NN', 'NN', 'SC', 'VB', 'NN', 'IN', 'NN', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'SC', 'VB', 'NN', 'indikator', 'NN', 'IN', 'NN', 'CC', 'NN', 'NN'] 36
+['RB', 'VB', 'NN', 'NN', 'NN', 'indikator', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'Z', 'SC', 'VB', 'IN', 'NN', 'NNP', 'Z', 'IN', 'NN', 'NN', 'VB', 'NN', 'JJ'] 36
+['NN', 'NN', 'WH', 'PRP', 'RB', 'RB', 'VB', 'NN', 'NN', 'CC', 'MD', 'VB', 'RB', 'indikator', 'IN', 'NN', 'Z', 'CC', 'NEG', 'JJ', 'VB', 'NN', 'NN', 'NN', 'VB', 'SC', 'IN', 'NN', 'NN', 'MD', 'VB', 'NN', 'NNP', 'VB', 'NN', 'NN'] 36
+['SYM', 'CD', 'NN', 'VB', 'IN', 'NNP', 'Z', 'SC', 'NN', 'Z', 'NN', 'NN', 'NEG', 'FW', 'Z', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'indikator', 'NN', 'NN', 'PR'] 36
+['NN', 'NN', 'NNP', 'NNP', 'VB', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'Z', 'CD', 'Z', 'Z', 'CD', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'SC', 'VB', 'indikator', 'IN', 'NN', 'NN'] 36
+['NN', 'NN', 'NN', 'NN', 'CC', 'NNP', 'NNP', 'RB', 'JJ', 'Z', 'CC', 'NN', 'NN', 'NN', 'VB', 'NN', 'NN', 'SC', 'MD', 'VB', 'SC', 'VB', 'NN', 'CC', 'indikator', 'NN', 'NN', 'NN', 'SC', 'MD', 'VB', 'PR', 'Z', 'Z', 'VB', 'NNP'] 36
+['NN', 'NN', 'NN', 'NN', 'CC', 'NNP', 'NNP', 'RB', 'JJ', 'Z', 'CC', 'NN', 'NN', 'NN', 'VB', 'NN', 'NN', 'SC', 'MD', 'VB', 'SC', 'VB', 'indikator', 'CC', 'VB', 'NN', 'NN', 'NN', 'SC', 'MD', 'VB', 'PR', 'Z', 'Z', 'VB', 'NNP'] 36
+['NNP', 'NNP', 'SC', 'VB', 'NN', 'VB', 'NNP', 'NNP', 'RB', 'VB', 'IN', 'NN', 'NN', 'NEG', 'VB', 'PR', 'Z', 'NN', 'NN', 'CC', 'NN', 'PR', 'JJ', 'NNP', 'VB', 'indikator', 'CC', 'RB', 'VB', 'NN', 'IN', 'NNP', 'Z', 'Z', 'VB', 'NNP'] 36
+['NND', 'NN', 'JJ', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'IN', 'NN', 'NN', 'CC', 'NN', 'IN', 'indikator', 'NN', 'IN', 'NNP', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 37
+['NND', 'NN', 'JJ', 'NNP', 'NNP', 'NNP', 'VB', 'indikator', 'IN', 'NN', 'NN', 'CC', 'NN', 'IN', 'VB', 'NN', 'IN', 'NNP', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 37
+['NEG', 'MD', 'VB', 'NN', 'VB', 'NN', 'Z', 'NNP', 'NNP', 'VB', 'NN', 'PR', 'RB', 'VB', 'IN', 'NN', 'CC', 'RB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NN', 'NN', 'PR', 'VB', 'NNP', 'NNP', 'VB', 'NN', 'JJ', 'CC', 'indikator', 'NN', 'IN', 'NNP'] 37
+['NEG', 'MD', 'VB', 'NN', 'VB', 'NN', 'Z', 'NNP', 'NNP', 'VB', 'NN', 'PR', 'RB', 'VB', 'IN', 'NN', 'CC', 'RB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NN', 'NN', 'PR', 'VB', 'NNP', 'NNP', 'VB', 'indikator', 'JJ', 'CC', 'VB', 'NN', 'IN', 'NNP'] 37
+['NN', 'PR', 'VB', 'IN', 'NN', 'NNP', 'IN', 'NN', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'indikator', 'CC', 'SC', 'CD', 'CD', 'NN', 'VB', 'NN', 'JJ', 'IN', 'NN', 'NN', 'NN', 'Z', 'PRP', 'VB', 'VB', 'PRP', 'NNP', 'RB', 'Z', 'Z', 'VB', 'NNP'] 37
+['NNP', 'NN', 'VB', 'IN', 'NN', 'NN', 'NEG', 'VB', 'CC', 'NN', 'Z', 'CC', 'NN', 'VB', 'NN', 'NNP', 'VB', 'Z', 'Z', 'VB', 'NNP', 'IN', 'NN', 'NN', 'PR', 'Z', 'VB', 'NN', 'Z', 'NN', 'NNP', 'indikator', 'NN', 'IN', 'NN', 'IN', 'NN', 'JJ'] 38
+['CC', 'NN', 'NN', 'indikator', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'Z', 'IN', 'NNP', 'Z', 'CD', 'Z', 'IN', 'NN', 'CD', 'NN'] 38
+['NN', 'NN', 'NNP', 'NNP', 'indikator', 'IN', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NN', 'VB', 'NNP', 'VB', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'CD', 'NN', 'NN'] 38
+['CC', 'NN', 'NND', 'NN', 'indikator', 'SC', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'Z', 'CD', 'Z', 'VB', 'VB', 'NEG', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'CD', 'SYM', 'Z', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z', 'Z', 'IN', 'NN', 'CD', 'NN'] 38
+['NNP', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'indikator', 'IN', 'NN', 'NN', 'Z', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z'] 39
+['NN', 'NN', 'NN', 'indikator', 'VB', 'NND', 'NN', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NN', 'NN', 'NN', 'MD', 'VB', 'NN', 'CC', 'Z', 'VB', 'NN', 'PR', 'SC', 'VB', 'IN', 'NN', 'NN', 'IN', 'NN', 'Z', 'NN', 'IN', 'NN', 'IN', 'VB', 'CD'] 39
+['NNP', 'NNP', 'SC', 'VB', 'NNP', 'SC', 'MD', 'VB', 'CC', 'MD', 'VB', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'VB', 'NN', 'NN', 'PR', 'NN', 'NNP', 'NNP', 'indikator', 'CC', 'VB', 'IN', 'NNP', 'NNP', 'Z', 'Z', 'RB'] 39
+['NNP', 'NNP', 'RB', 'JJ', 'Z', 'CC', 'NN', 'NN', 'NN', 'VB', 'NN', 'NN', 'SC', 'MD', 'VB', 'SC', 'VB', 'NN', 'CC', 'indikator', 'NN', 'NN', 'NN', 'SC', 'MD', 'VB', 'PR', 'Z', 'Z', 'VB', 'NN', 'NN', 'VB', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 39
+['NNP', 'NNP', 'RB', 'JJ', 'Z', 'CC', 'NN', 'NN', 'NN', 'VB', 'NN', 'NN', 'SC', 'MD', 'VB', 'SC', 'VB', 'indikator', 'CC', 'VB', 'NN', 'NN', 'NN', 'SC', 'MD', 'VB', 'PR', 'Z', 'Z', 'VB', 'NN', 'NN', 'VB', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 39
+['NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'NN', 'VB', 'NN', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'PR', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'NN', 'IN', 'NN', 'CD', 'NN'] 39
+['NNP', 'Z', 'NN', 'VB', 'NN', 'NN', 'IN', 'VB', 'RB', 'VB', 'NN', 'NN', 'NEG', 'VB', 'Z', 'VB', 'NN', 'VB', 'NN', 'RB', 'SC', 'VB', 'VB', 'NN', 'NN', 'NN', 'IN', 'VB', 'CD', 'NN', 'NN', 'VB', 'CC', 'VB', 'indikator', 'Z', 'Z', 'VB', 'NNP'] 39
+['NNP', 'NNP', 'VB', 'NN', 'NN', 'NN', 'NN', 'NN', 'SC', 'indikator', 'NN', 'IN', 'NN', 'SC', 'VB', 'NN', 'NN', 'CC', 'VB', 'NN', 'DT', 'NN', 'Z', 'NN', 'VB', 'VB', 'NN', 'CC', 'NN', 'NN', 'NN', 'CC', 'RB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP'] 40
+['NN', 'VB', 'NNP', 'NNP', 'indikator', 'NN', 'NNP', 'IN', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NN', 'NNP', 'Z', 'NN', 'VB', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 40
+['NNP', 'IN', 'NN', 'JJ', 'IN', 'NN', 'JJ', 'NN', 'Z', 'NNP', 'NNP', 'MD', 'VB', 'SC', 'NNP', 'MD', 'indikator', 'IN', 'NN', 'SC', 'RB', 'Z', 'Z', 'VB', 'NNP', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'VB', 'NN', 'RB', 'IN', 'NN', 'JJ', 'IN', 'NN', 'NNP'] 40
+['NNP', 'NNP', 'NN', 'NN', 'indikator', 'NN', 'NN', 'NN', 'NN', 'IN', 'NN', 'NN', 'NNP', 'IN', 'NN', 'NN', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'VB', 'NN', 'NNP', 'Z', 'CD', 'Z'] 40
+['NN', 'indikator', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'Z', 'IN', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'CD', 'NN'] 40
+['NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'VB', 'indikator', 'JJ', 'CC', 'IN', 'NN', 'PR', 'SC', 'VB', 'NEG', 'VB', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'VB', 'IN', 'NN', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z'] 41
+['NNP', 'NNP', 'VB', 'NN', 'NN', 'SC', 'NN', 'NN', 'SC', 'JJ', 'NNP', 'VB', 'CD', 'NN', 'Z', 'SC', 'MD', 'VB', 'IN', 'NN', 'NNP', 'CC', 'VB', 'IN', 'NN', 'VB', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NN', 'PR', 'Z', 'NNP', 'RB', 'indikator', 'IN', 'NN', 'NN'] 42
+['NNP', 'NNP', 'PR', 'RB', 'VB', 'IN', 'NNP', 'Z', 'VB', 'Z', 'PRP', 'VB', 'NN', 'NNP', 'Z', 'PRP', 'MD', 'VB', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'VB', 'NNP', 'Z', 'NN', 'SC', 'VB', 'JJ', 'CC', 'RB', 'VB', 'indikator', 'JJ'] 42
+['NNP', 'Z', 'CD', 'Z', 'VB', 'NN', 'NN', 'NN', 'CC', 'indikator', 'NN', 'SC', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'VB', 'IN', 'NN', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NN'] 43
+['NNP', 'MD', 'indikator', 'NN', 'Z', 'Z', 'VB', 'NNP', 'CD', 'Z', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'Z', 'VB', 'NNP', 'VB', 'NN', 'NN', 'IN', 'NN', 'VB', 'IN', 'NN', 'NNP', 'NNP', 'Z', 'RB', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP'] 43
+['NN', 'CC', 'NN', 'SC', 'VB', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'RB', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'NN', 'Z', 'SC', 'NN', 'CC', 'NN', 'NN', 'indikator', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'VB', 'Z', 'NNP', 'Z', 'CD', 'Z'] 43
+['NNP', 'NNP', 'VB', 'NN', 'NN', 'IN', 'CD', 'NN', 'SC', 'VB', 'NN', 'Z', 'indikator', 'CC', 'VB', 'RB', 'NN', 'NN', 'SC', 'VB', 'IN', 'NN', 'NN', 'CC', 'NN', 'NN', 'JJ', 'IN', 'NN', 'SC', 'VB', 'NN', 'Z', 'VB', 'NNP', 'Z', 'DT', 'NN', 'NN', 'VB', 'NN', 'JJ', 'SYM', 'CD', 'CD'] 45
+['SC', 'VB', 'NN', 'RB', 'VB', 'NN', 'SC', 'VB', 'RB', 'VB', 'SC', 'NNP', 'NNP', 'IN', 'NN', 'PR', 'MD', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'NNP', 'VB', 'Z', 'NN', 'VB', 'indikator', 'IN', 'NN', 'CC', 'NN'] 45
+['NNP', 'NNP', 'MD', 'VB', 'NNP', 'NNP', 'NNP', 'VB', 'SC', 'VB', 'IN', 'NN', 'PR', 'Z', 'VB', 'IN', 'PR', 'RB', 'VB', 'NN', 'NN', 'PR', 'NN', 'NN', 'NN', 'Z', 'RB', 'VB', 'SC', 'MD', 'indikator', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NNP', 'NNP', 'Z', 'Z', 'VB', 'NNP', 'Z'] 45
+['NNP', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'indikator', 'NN', 'IN', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'IN', 'NN', 'Z', 'VB', 'NN', 'IN', 'NN', 'NN', 'Z', 'NN', 'Z'] 45
+['NN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'VB', 'indikator', 'JJ', 'IN', 'NN', 'PR', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NN', 'VB', 'NNP', 'VB', 'NNP', 'CC', 'NN', 'NNP', 'NNP', 'VB', 'NN', 'NNP', 'NNP', 'NN', 'NN', 'PR', 'VB'] 45
+['NN', 'NN', 'NN', 'NN', 'NN', 'NN', 'PR', 'NN', 'NN', 'NNP', 'IN', 'NN', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NN', 'NNP', 'NNP', 'IN', 'NN', 'NNP', 'Z', 'CD', 'Z', 'VB', 'indikator', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 46
+['NN', 'IN', 'NN', 'PR', 'NN', 'JJ', 'VB', 'SC', 'VB', 'IN', 'indikator', 'IN', 'NN', 'Z', 'PRP', 'RB', 'VB', 'NN', 'NN', 'SC', 'RB', 'JJ', 'CC', 'NEG', 'JJ', 'VB', 'IN', 'NN', 'Z', 'NN', 'PR', 'RB', 'JJ', 'VB', 'IN', 'NN', 'NN', 'IN', 'NN', 'CC', 'FW', 'Z', 'Z', 'VB', 'NNP', 'NNP'] 46
+['JJ', 'NNP', 'indikator', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'PR', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'CD', 'NN', 'IN', 'JJ', 'NNP', 'NNP', 'CD', 'NN', 'Z', 'NN', 'IN', 'VB', 'NN', 'NNP', 'NNP', 'NNP', 'IN', 'FW', 'FW', 'NNP'] 46
+['NN', 'NN', 'VB', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'indikator', 'Z', 'SC', 'VB', 'NN', 'NN', 'NN', 'Z', 'SC', 'VB', 'NN', 'NN', 'NEG', 'WH', 'Z', 'Z', 'VB', 'NN', 'FW', 'FW', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NN', 'VB', 'NNP', 'NEG', 'VB', 'NN', 'NN', 'SC', 'VB', 'NN', 'NN'] 46
+['NN', 'Z', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'Z', 'CD', 'Z', 'Z', 'indikator', 'NN', 'NN', 'NN', 'VB', 'IN', 'NN', 'NN', 'NNP', 'Z', 'RB', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'JJ', 'Z', 'VB', 'NN', 'PR', 'VB', 'NNP', 'Z', 'CD', 'Z', 'NN', 'CD', 'NNP'] 47
+['NN', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'NN', 'indikator', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'MD', 'MD', 'PRP', 'VB', 'IN', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z'] 47
+['NN', 'NN', 'IN', 'NN', 'NN', 'CC', 'NN', 'PR', 'Z', 'NNP', 'NNP', 'VB', 'indikator', 'CC', 'VB', 'IN', 'NN', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'SC', 'NNP', 'NNP', 'VB', 'NN', 'JJ', 'CC', 'VB', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NN', 'VB', 'NN', 'IN', 'NN', 'JJ', 'IN', 'NN', 'Z', 'Z', 'RB'] 47
+['NNP', 'RP', 'NN', 'NN', 'IN', 'NN', 'Z', 'CC', 'VB', 'NNP', 'NNP', 'NN', 'Z', 'VB', 'NN', 'CC', 'NEG', 'JJ', 'SC', 'NN', 'NN', 'Z', 'SC', 'VB', 'NN', 'IN', 'NN', 'Z', 'VB', 'PRP', 'VB', 'RB', 'VB', 'NN', 'IN', 'NN', 'PR', 'SC', 'VB', 'NNP', 'NNP', 'RB', 'VB', 'VB', 'NN', 'indikator', 'Z', 'Z', 'RB'] 49
+['NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'SC', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NEG', 'VB', 'NN', 'IN', 'indikator', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'Z', 'NN', 'VB', 'NNP', 'VB', 'NNP', 'MD', 'NEG', 'VB', 'NN', 'SC', 'VB', 'JJ', 'IN', 'NN'] 50
+['NN', 'NN', 'IN', 'NNP', 'PR', 'VB', 'NN', 'PR', 'Z', 'SC', 'VB', 'Z', 'NND', 'NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'indikator', 'SC', 'NNP', 'NNP', 'JJ', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'VB', 'IN', 'NNP', 'Z', 'NN', 'RB', 'JJ', 'IN', 'NEG', 'VB', 'NN', 'IN', 'NN'] 51
+['CC', 'NN', 'indikator', 'VB', 'NN', 'NN', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NNP', 'Z', 'NNP', 'NNP', 'Z', 'NN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NNP', 'Z', 'NNP', 'Z', 'CC', 'CD', 'NN', 'SC', 'VB', 'NN', 'IN', 'NN', 'VB', 'NNP', 'Z', 'SC', 'NNP', 'NNP', 'Z', 'CD', 'Z', 'CC', 'NNP', 'NNP', 'Z', 'CD', 'Z'] 51
+['VB', 'NNP', 'Z', 'CD', 'Z', 'NN', 'NN', 'NNP', 'NNP', 'SC', 'VB', 'RB', 'VB', 'indikator', 'CC', 'NN', 'PR', 'VB', 'NN', 'JJ', 'Z', 'VB', 'CD', 'SC', 'VB', 'MD', 'VB', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z'] 51
+['NNP', 'VB', 'NN', 'NN', 'VB', 'IN', 'NN', 'NN', 'Z', 'CC', 'NN', 'NN', 'CC', 'indikator', 'Z', 'IN', 'NN', 'VB', 'NN', 'NN', 'Z', 'CC', 'VB', 'CD', 'NN', 'FW', 'Z', 'CC', 'NN', 'NN', 'NN', 'IN', 'NN', 'NN', 'VB', 'IN', 'NN', 'NN', 'IN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'Z', 'IN', 'NN', 'Z', 'NNP', 'Z', 'CD', 'Z'] 52
+['NN', 'indikator', 'NN', 'NN', 'NN', 'NN', 'NNP', 'VB', 'IN', 'NN', 'NNP', 'VB', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'VB', 'IN', 'NN', 'NN', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'VB', 'NN', 'NNP', 'PR', 'VB', 'CD', 'NN', 'Z', 'IN', 'NN', 'CD', 'RB', 'VB', 'IN', 'NN', 'NN', 'NN'] 53
+['NNP', 'VB', 'IN', 'NN', 'PRP', 'VB', 'NNP', 'CD', 'NN', 'CD', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'SC', 'VB', 'SC', 'VB', 'NN', 'IN', 'NN', 'VB', 'NN', 'NN', 'IN', 'NN', 'SC', 'VB', 'SC', 'VB', 'NN', 'JJ', 'indikator', 'NN', 'Z', 'SC', 'MD', 'VB', 'IN', 'NN', 'NN', 'RB', 'JJ', 'CD', 'NN', 'CC', 'NN', 'RB', 'CD', 'SYM', 'CD', 'CD', 'Z', 'Z', 'Z', 'NN', 'NNP'] 59
+['NNP', 'VB', 'NN', 'IN', 'NN', 'NNP', 'Z', 'VB', 'CD', 'VB', 'VB', 'JJ', 'IN', 'NN', 'NN', 'VB', 'NN', 'NNP', 'VB', 'IN', 'NN', 'VB', 'NN', 'IN', 'NN', 'NNP', 'SC', 'JJ', 'Z', 'VB', 'DT', 'NN', 'SC', 'JJ', 'IN', 'NN', 'VB', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NN', 'NN', 'VB', 'NN', 'NN', 'PR', 'VB', 'indikator', 'RB', 'JJ', 'CC', 'MD', 'VB', 'NN', 'JJ', 'IN', 'NN', 'JJ'] 63
+['NNP', 'Z', 'PRP', 'VB', 'NN', 'PR', 'IN', 'NN', 'VB', 'VB', 'IN', 'NN', 'Z', 'NN', 'NN', 'NN', 'NNP', 'CD', 'NN', 'PRP', 'SC', 'VB', 'IN', 'NNP', 'Z', 'CD', 'Z', 'VB', 'NN', 'Z', 'NN', 'PRP', 'NNP', 'Z', 'CD', 'Z', 'Z', 'indikator', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NN', 'NNP', 'MD', 'VB', 'CD', 'NN', 'NN', 'NN', 'IN', 'NN', 'NN', 'NNP', 'IN', 'NNP', 'Z', 'CD', 'Z'] 66
+['IN', 'NN', 'SC', 'VB', 'NN', 'IN', 'NN', 'JJ', 'Z', 'NN', 'NN', 'PR', 'VB', 'IN', 'NN', 'NN', 'VB', 'NN', 'NN', 'NN', 'Z', 'IN', 'NNP', 'SC', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NNP', 'NNP', 'VB', 'NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'VB', 'NN', 'IN', 'NN', 'CC', 'indikator', 'NN', 'IN', 'NN', 'Z', 'Z', 'VB', 'NN', 'NN', 'VB', 'SC', 'PR', 'Z', 'CD', 'NN', 'RB', 'VB', 'NN'] 67
+['IN', 'NN', 'SC', 'VB', 'NN', 'IN', 'NN', 'JJ', 'Z', 'NN', 'NN', 'PR', 'VB', 'IN', 'NN', 'NN', 'VB', 'NN', 'NN', 'NN', 'Z', 'IN', 'NNP', 'SC', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'VB', 'NNP', 'NNP', 'VB', 'NN', 'JJ', 'NNP', 'Z', 'CD', 'Z', 'VB', 'indikator', 'IN', 'NN', 'CC', 'VB', 'NN', 'IN', 'NN', 'Z', 'Z', 'VB', 'NN', 'NN', 'VB', 'SC', 'PR', 'Z', 'CD', 'NN', 'RB', 'VB', 'NN'] 67
+['NNP', 'VB', 'IN', 'NN', 'IN', 'NN', 'JJ', 'SC', 'VB', 'NN', 'NNP', 'Z', 'NN', 'PRP', 'VB', 'NNP', 'CD', 'NN', 'CD', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'SC', 'VB', 'SC', 'VB', 'NN', 'IN', 'NN', 'VB', 'NN', 'NN', 'IN', 'NN', 'SC', 'VB', 'SC', 'VB', 'NN', 'JJ', 'indikator', 'NN', 'Z', 'SC', 'MD', 'VB', 'IN', 'NN', 'NN', 'RB', 'JJ', 'CD', 'NN', 'CC', 'NN', 'RB', 'CD', 'SYM', 'CD', 'CD', 'Z', 'Z', 'Z', 'NN', 'NNP'] 68
+['NN', 'NN', 'NN', 'indikator', 'NN', 'NN', 'VB', 'NN', 'VB', 'IN', 'NN', 'NNP', 'NNP', 'SC', 'NN', 'PRP', 'Z', 'CD', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'Z', 'NN', 'IN', 'NN', 'NN', 'CC', 'SC', 'VB', 'MD', 'VB', 'NN', 'Z', 'IN', 'NN', 'NN', 'Z', 'CC', 'VB', 'SC', 'PR', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NN', 'VB', 'NNP', 'VB', 'NN', 'NN', 'PR', 'MD', 'VB', 'NN', 'IN', 'NN', 'NN', 'VB'] 73
+['SYM', 'CD', 'NN', 'NNP', 'NNP', 'NNP', 'SC', 'VB', 'NN', 'NN', 'CC', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z', 'NN', 'CD', 'NN', 'Z', 'MD', 'VB', 'NN', 'indikator', 'NN', 'CC', 'NN', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'VB', 'Z', 'NNP', 'Z', 'CD', 'Z'] 75
+['SYM', 'CD', 'NN', 'NNP', 'NNP', 'NNP', 'SC', 'VB', 'NN', 'NN', 'CC', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'CD', 'Z', 'NN', 'CD', 'NN', 'Z', 'MD', 'VB', 'NN', 'VB', 'NN', 'CC', 'NN', 'NN', 'NN', 'indikator', 'IN', 'NNP', 'NNP', 'Z', 'Z', 'VB', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'Z', 'NNP', 'Z', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'VB', 'Z', 'NNP', 'Z', 'CD', 'Z'] 75

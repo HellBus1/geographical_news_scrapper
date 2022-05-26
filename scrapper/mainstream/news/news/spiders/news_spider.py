@@ -25,9 +25,12 @@ class NewsSpider(scrapy.Spider):
         # "tribunnews.com"
     ]
     start_urls = [
-        "https://www.detik.com/tag/kecelakaan",
-        "https://www.detik.com/tag/tabrakan",
-        "https://www.detik.com/tag/tertabrak",
+        # "https://www.detik.com/tag/kecelakaan",
+        # "https://www.detik.com/tag/tabrakan",
+        # "https://www.detik.com/tag/tertabrak",
+        "https://www.detik.com/tag/kapal-tenggelam",
+        "https://www.detik.com/tag/kapal-terbalik",
+        "https://www.detik.com/tag/pesawat-jatuh",
         # "https://www.kompas.com/tag/kecelakaan"
         # "https://www.tribunnews.com/tag/kecelakaan"
     ]
@@ -184,7 +187,7 @@ class NewsSpider(scrapy.Spider):
 
     def spider_closed(self, spider):
         writer = pd.DataFrame(self.berita, columns=['title', 'date', 'description', 'source'])
-        writer.to_csv('scrapped_news.csv', index=False, sep=',')
+        writer.to_csv('scrapped_news_kapal_pesawat.csv', index=False, sep=',')
 
     def textParser(self, text):
         converter = html2text.HTML2Text()
