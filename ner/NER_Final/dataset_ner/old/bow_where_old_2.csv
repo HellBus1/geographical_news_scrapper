@@ -1,0 +1,7447 @@
+no,daerah,tipe
+1,aceh barat,kabkot
+2,aceh barat daya,kabkot
+3,aceh besar,kabkot
+4,aceh jaya,kabkot
+5,aceh selatan,kabkot
+6,aceh singkil,kabkot
+7,aceh tamiang,kabkot
+8,aceh tengah,kabkot
+9,aceh tenggara,kabkot
+10,aceh timur,kabkot
+11,aceh utara,kabkot
+12,bener meriah,kabkot
+13,bireuen,kabkot
+14,gayo lues,kabkot
+15,nagan raya,kabkot
+16,pidie,kabkot
+17,pidie jaya,kabkot
+18,simeulue,kabkot
+19,banda aceh,kabkot
+20,langsa,kabkot
+21,lhokseumawe,kabkot
+22,sabang,kabkot
+23,subulussalam,kabkot
+24,asahan,kabkot
+25,batubara,kabkot
+26,dairi,kabkot
+27,deli serdang,kabkot
+28,humbang hasundutan,kabkot
+29,karo,kabkot
+30,labuhanbatu,kabkot
+31,labuhanbatu selatan,kabkot
+32,labuhanbatu utara,kabkot
+33,langkat,kabkot
+34,mandailing natal,kabkot
+35,nias,kabkot
+36,nias barat,kabkot
+37,nias selatan,kabkot
+38,nias utara,kabkot
+39,padang lawas,kabkot
+40,padang lawas utara,kabkot
+41,pakpak bharat,kabkot
+42,samosir,kabkot
+43,serdang bedagai,kabkot
+44,simalungun,kabkot
+45,tapanuli selatan,kabkot
+46,tapanuli tengah,kabkot
+47,tapanuli utara,kabkot
+48,toba samosir,kabkot
+49,binjai,kabkot
+50,gunungsitoli,kabkot
+51,medan,kabkot
+52,padangsidempuan,kabkot
+53,pematangsiantar,kabkot
+54,sibolga,kabkot
+55,tanjungbalai,kabkot
+56,tebing tinggi,kabkot
+57,agam,kabkot
+58,dharmasraya,kabkot
+59,kepulauan mentawai,kabkot
+60,lima puluh kota,kabkot
+61,padang pariaman,kabkot
+62,pasaman,kabkot
+63,pasaman barat,kabkot
+64,pesisir selatan,kabkot
+65,sijunjung,kabkot
+66,solok,kabkot
+67,solok selatan,kabkot
+68,tanah datar,kabkot
+69,bukittinggi,kabkot
+70,padang,kabkot
+71,padangpanjang,kabkot
+72,pariaman,kabkot
+73,payakumbuh,kabkot
+74,sawahlunto,kabkot
+75,solok,kabkot
+76,banyuasin,kabkot
+77,empat lawang,kabkot
+78,lahat,kabkot
+79,muara enim,kabkot
+80,musi banyuasin,kabkot
+81,musi rawas,kabkot
+82,musi rawas utara,kabkot
+83,ogan ilir,kabkot
+84,ogan komering ilir,kabkot
+85,ogan komering ulu,kabkot
+86,ogan komering ulu selatan,kabkot
+87,ogan komering ulu timur,kabkot
+88,penukal abab lematang ilir,kabkot
+89,lubuklinggau,kabkot
+90,pagar alam,kabkot
+91,palembang,kabkot
+92,prabumulih,kabkot
+93,bengkalis,kabkot
+94,indragiri hilir,kabkot
+95,indragiri hulu,kabkot
+96,kampar,kabkot
+97,kepulauan meranti,kabkot
+98,kuantan singingi,kabkot
+99,pelalawan,kabkot
+100,rokan hilir,kabkot
+101,rokan hulu,kabkot
+102,siak,kabkot
+103,dumai,kabkot
+104,pekanbaru,kabkot
+105,bintan,kabkot
+106,karimun,kabkot
+107,kepulauan anambas,kabkot
+108,lingga,kabkot
+109,natuna,kabkot
+110,batam,kabkot
+111,tanjung pinang,kabkot
+112,batanghari,kabkot
+113,bungo,kabkot
+114,kerinci,kabkot
+115,merangin,kabkot
+116,muaro jambi,kabkot
+117,sarolangun,kabkot
+118,tanjung jabung barat,kabkot
+119,tanjung jabung timur,kabkot
+120,tebo,kabkot
+121,jambi,kabkot
+122,sungai penuh,kabkot
+123,bengkulu selatan,kabkot
+124,bengkulu tengah,kabkot
+125,bengkulu utara,kabkot
+126,kaur,kabkot
+127,kepahiang,kabkot
+128,lebong,kabkot
+129,mukomuko,kabkot
+130,rejang lebong,kabkot
+131,seluma,kabkot
+132,bengkulu,kabkot
+133,bangka,kabkot
+134,bangka barat,kabkot
+135,bangka selatan,kabkot
+136,bangka tengah,kabkot
+137,belitung,kabkot
+138,belitung timur,kabkot
+139,pangkal pinang,kabkot
+140,lampung tengah,kabkot
+141,lampung utara,kabkot
+142,lampung selatan,kabkot
+143,lampung barat,kabkot
+144,lampung timur,kabkot
+145,mesuji,kabkot
+146,pesawaran,kabkot
+147,pesisir barat,kabkot
+148,pringsewu,kabkot
+149,tulang bawang,kabkot
+150,tulang bawang barat,kabkot
+151,tanggamus,kabkot
+152,way kanan,kabkot
+153,bandar lampung,kabkot
+154,metro,kabkot
+155,lebak,kabkot
+156,pandeglang,kabkot
+157,serang,kabkot
+158,tangerang,kabkot
+159,cilegon,kabkot
+160,serang,kabkot
+161,tangerang,kabkot
+162,tangerang selatan,kabkot
+163,bandung,kabkot
+164,bandung barat,kabkot
+165,bekasi,kabkot
+166,bogor,kabkot
+167,ciamis,kabkot
+168,cianjur,kabkot
+169,cirebon,kabkot
+170,garut,kabkot
+171,indramayu,kabkot
+172,karawang,kabkot
+173,kuningan,kabkot
+174,majalengka,kabkot
+175,pangandaran,kabkot
+176,purwakarta,kabkot
+177,subang,kabkot
+178,sukabumi,kabkot
+179,sumedang,kabkot
+180,tasikmalaya,kabkot
+181,bandung,kabkot
+182,banjar,kabkot
+183,bekasi,kabkot
+184,bogor,kabkot
+185,cimahi,kabkot
+186,cirebon,kabkot
+187,depok,kabkot
+188,sukabumi,kabkot
+189,tasikmalaya,kabkot
+190,banjarnegara,kabkot
+191,banyumas,kabkot
+192,batang,kabkot
+193,blora,kabkot
+194,boyolali,kabkot
+195,brebes,kabkot
+196,cilacap,kabkot
+197,demak,kabkot
+198,grobogan,kabkot
+199,jepara,kabkot
+200,karanganyar,kabkot
+201,kebumen,kabkot
+202,kendal,kabkot
+203,klaten,kabkot
+204,kudus,kabkot
+205,magelang,kabkot
+206,pati,kabkot
+207,pekalongan,kabkot
+208,pemalang,kabkot
+209,purbalingga,kabkot
+210,purworejo,kabkot
+211,rembang,kabkot
+212,semarang,kabkot
+213,sragen,kabkot
+214,sukoharjo,kabkot
+215,tegal,kabkot
+216,temanggung,kabkot
+217,wonogiri,kabkot
+218,wonosobo,kabkot
+219,magelang,kabkot
+220,pekalongan,kabkot
+221,salatiga,kabkot
+222,semarang,kabkot
+223,surakarta,kabkot
+224,tegal,kabkot
+225,bangkalan,kabkot
+226,banyuwangi,kabkot
+227,blitar,kabkot
+228,bojonegoro,kabkot
+229,bondowoso,kabkot
+230,gresik,kabkot
+231,jember,kabkot
+232,jombang,kabkot
+233,kediri,kabkot
+234,lamongan,kabkot
+235,lumajang,kabkot
+236,madiun,kabkot
+237,magetan,kabkot
+238,malang,kabkot
+239,mojokerto,kabkot
+240,nganjuk,kabkot
+241,ngawi,kabkot
+242,pacitan,kabkot
+243,pamekasan,kabkot
+244,pasuruan,kabkot
+245,ponorogo,kabkot
+246,probolinggo,kabkot
+247,sampang,kabkot
+248,sidoarjo,kabkot
+249,situbondo,kabkot
+250,sumenep,kabkot
+251,trenggalek,kabkot
+252,tuban,kabkot
+253,tulungagung,kabkot
+254,batu,kabkot
+255,blitar,kabkot
+256,kediri,kabkot
+257,madiun,kabkot
+258,malang,kabkot
+259,mojokerto,kabkot
+260,pasuruan,kabkot
+261,probolinggo,kabkot
+262,surabaya,kabkot
+263,administrasi jakarta barat,kabkot
+264,administrasi jakarta pusat,kabkot
+265,administrasi jakarta selatan,kabkot
+266,administrasi jakarta timur,kabkot
+267,administrasi jakarta utara,kabkot
+268,administrasi kepulauan seribu,kabkot
+269,bantul,kabkot
+270,gunungkidul,kabkot
+271,kulon progo,kabkot
+272,sleman,kabkot
+273,yogyakarta,kabkot
+274,badung,kabkot
+275,bangli,kabkot
+276,buleleng,kabkot
+277,gianyar,kabkot
+278,jembrana,kabkot
+279,karangasem,kabkot
+280,klungkung,kabkot
+281,tabanan,kabkot
+282,denpasar,kabkot
+283,bima,kabkot
+284,dompu,kabkot
+285,lombok barat,kabkot
+286,lombok tengah,kabkot
+287,lombok timur,kabkot
+288,lombok utara,kabkot
+289,sumbawa,kabkot
+290,sumbawa barat,kabkot
+291,bima,kabkot
+292,mataram,kabkot
+293,alor,kabkot
+294,belu,kabkot
+295,ende,kabkot
+296,flores timur,kabkot
+297,kupang,kabkot
+298,lembata,kabkot
+299,malaka,kabkot
+300,manggarai,kabkot
+301,manggarai barat,kabkot
+302,manggarai timur,kabkot
+303,ngada,kabkot
+304,nagekeo,kabkot
+305,rote ndao,kabkot
+306,sabu raijua,kabkot
+307,sikka,kabkot
+308,sumba barat,kabkot
+309,sumba barat daya,kabkot
+310,sumba tengah,kabkot
+311,sumba timur,kabkot
+312,timor tengah selatan,kabkot
+313,timor tengah utara,kabkot
+314,kupang,kabkot
+315,bengkayang,kabkot
+316,kapuas hulu,kabkot
+317,kayong utara,kabkot
+318,ketapang,kabkot
+319,kubu raya,kabkot
+320,landak,kabkot
+321,melawi,kabkot
+322,mempawah,kabkot
+323,sambas,kabkot
+324,sanggau,kabkot
+325,sekadau,kabkot
+326,sintang,kabkot
+327,pontianak,kabkot
+328,singkawang,kabkot
+329,balangan,kabkot
+330,banjar,kabkot
+331,barito kuala,kabkot
+332,hulu sungai selatan,kabkot
+333,hulu sungai tengah,kabkot
+334,hulu sungai utara,kabkot
+335,kotabaru,kabkot
+336,tabalong,kabkot
+337,tanah bumbu,kabkot
+338,tanah laut,kabkot
+339,tapin,kabkot
+340,banjarbaru,kabkot
+341,banjarmasin,kabkot
+342,barito selatan,kabkot
+343,barito timur,kabkot
+344,barito utara,kabkot
+345,gunung mas,kabkot
+346,kapuas,kabkot
+347,katingan,kabkot
+348,kotawaringin barat,kabkot
+349,kotawaringin timur,kabkot
+350,lamandau,kabkot
+351,murung raya,kabkot
+352,pulang pisau,kabkot
+353,sukamara,kabkot
+354,seruyan,kabkot
+355,palangka raya,kabkot
+356,berau,kabkot
+357,kutai barat,kabkot
+358,kutai kartanegara,kabkot
+359,kutai timur,kabkot
+360,mahakam ulu,kabkot
+361,paser,kabkot
+362,penajam paser utara,kabkot
+363,balikpapan,kabkot
+364,bontang,kabkot
+365,samarinda,kabkot
+366,bulungan,kabkot
+367,malinau,kabkot
+368,nunukan,kabkot
+369,tana tidung,kabkot
+370,tarakan,kabkot
+371,boalemo,kabkot
+372,bone bolango,kabkot
+373,gorontalo,kabkot
+374,gorontalo utara,kabkot
+375,pohuwato,kabkot
+376,gorontalo,kabkot
+377,bantaeng,kabkot
+378,barru,kabkot
+379,bone,kabkot
+380,bulukumba,kabkot
+381,enrekang,kabkot
+382,gowa,kabkot
+383,jeneponto,kabkot
+384,kepulauan selayar,kabkot
+385,luwu,kabkot
+386,luwu timur,kabkot
+387,luwu utara,kabkot
+388,maros,kabkot
+389,pangkajene dan kepulauan,kabkot
+390,pinrang,kabkot
+391,sidenreng rappang,kabkot
+392,sinjai,kabkot
+393,soppeng,kabkot
+394,takalar,kabkot
+395,tana toraja,kabkot
+396,toraja utara,kabkot
+397,wajo,kabkot
+398,makassar,kabkot
+399,palopo,kabkot
+400,parepare,kabkot
+401,bombana,kabkot
+402,buton,kabkot
+403,buton selatan,kabkot
+404,buton tengah,kabkot
+405,buton utara,kabkot
+406,kolaka,kabkot
+407,kolaka timur,kabkot
+408,kolaka utara,kabkot
+409,konawe,kabkot
+410,konawe kepulauan,kabkot
+411,konawe selatan,kabkot
+412,konawe utara,kabkot
+413,muna,kabkot
+414,muna barat,kabkot
+415,wakatobi,kabkot
+416,bau-bau,kabkot
+417,kendari,kabkot
+418,banggai,kabkot
+419,banggai kepulauan,kabkot
+420,banggai laut,kabkot
+421,buol,kabkot
+422,donggala,kabkot
+423,morowali,kabkot
+424,morowali utara,kabkot
+425,parigi moutong,kabkot
+426,poso,kabkot
+427,sigi,kabkot
+428,tojo una-una,kabkot
+429,toli-toli,kabkot
+430,palu,kabkot
+431,bolaang mongondow,kabkot
+432,bolaang mongondow selatan,kabkot
+433,bolaang mongondow timur,kabkot
+434,bolaang mongondow utara,kabkot
+435,kepulauan sangihe,kabkot
+436,kepulauan siau tagulandang biaro,kabkot
+437,kepulauan talaud,kabkot
+438,minahasa,kabkot
+439,minahasa selatan,kabkot
+440,minahasa tenggara,kabkot
+441,minahasa utara,kabkot
+442,bitung,kabkot
+443,kotamobagu,kabkot
+444,manado,kabkot
+445,tomohon,kabkot
+446,majene,kabkot
+447,mamasa,kabkot
+448,mamuju,kabkot
+449,mamuju tengah,kabkot
+450,mamuju utara,kabkot
+451,polewali mandar,kabkot
+452,mamuju,kabkot
+453,buru,kabkot
+454,buru selatan,kabkot
+455,kepulauan aru,kabkot
+456,maluku barat daya,kabkot
+457,maluku tengah,kabkot
+458,maluku tenggara,kabkot
+459,maluku tenggara barat,kabkot
+460,seram bagian barat,kabkot
+461,seram bagian timur,kabkot
+462,ambon,kabkot
+463,tual,kabkot
+464,halmahera barat,kabkot
+465,halmahera tengah,kabkot
+466,halmahera utara,kabkot
+467,halmahera selatan,kabkot
+468,kepulauan sula,kabkot
+469,halmahera timur,kabkot
+470,pulau morotai,kabkot
+471,pulau taliabu,kabkot
+472,ternate,kabkot
+473,tidore kepulauan,kabkot
+474,asmat,kabkot
+475,biak numfor,kabkot
+476,boven digoel,kabkot
+477,deiyai,kabkot
+478,dogiyai,kabkot
+479,intan jaya,kabkot
+480,jayapura,kabkot
+481,jayawijaya,kabkot
+482,keerom,kabkot
+483,kepulauan yapen,kabkot
+484,lanny jaya,kabkot
+485,mamberamo raya,kabkot
+486,mamberamo tengah,kabkot
+487,mappi,kabkot
+488,merauke,kabkot
+489,mimika,kabkot
+490,nabire,kabkot
+491,nduga,kabkot
+492,paniai,kabkot
+493,pegunungan bintang,kabkot
+494,puncak,kabkot
+495,puncak jaya,kabkot
+496,sarmi,kabkot
+497,supiori,kabkot
+498,tolikara,kabkot
+499,waropen,kabkot
+500,yahukimo,kabkot
+501,yalimo,kabkot
+502,jayapura,kabkot
+503,fakfak,kabkot
+504,kaimana,kabkot
+505,manokwari,kabkot
+506,manokwari selatan,kabkot
+507,maybrat,kabkot
+508,pegunungan arfak,kabkot
+509,raja ampat,kabkot
+510,sorong,kabkot
+511,sorong selatan,kabkot
+512,tambrauw,kabkot
+513,teluk bintuni,kabkot
+514,teluk wondama,kabkot
+515,nanggroe aceh darussalam,provinsi
+516,sumatera barat,provinsi
+517,sumatera utara,provinsi
+518,sumatera selatan,provinsi
+519,lampung,provinsi
+520,riau,provinsi
+521,kepulauan riau,provinsi
+522,jambi,provinsi
+523,kepulauan bangka belitung,provinsi
+524,bengkulu,provinsi
+525,dki jakarta,provinsi
+526,banten,provinsi
+527,jawa barat,provinsi
+528,jawa tengah,provinsi
+529,jawa timur,provinsi
+530,daerah istimewa yogyakarta,provinsi
+531,kepulauan nusa tenggara,provinsi
+532,bali,provinsi
+533,nusa tenggara barat,provinsi
+534,nusa tenggara timur,provinsi
+535,kalimantan barat,provinsi
+536,kalimantan selatan,provinsi
+537,kalimantan tengah,provinsi
+538,kalimantan timur,provinsi
+539,kalimantan utara,provinsi
+540,sulawesi barat,provinsi
+541,sulawesi tenggara,provinsi
+542,sulawesi selatan,provinsi
+543,sulawesi tengah,provinsi
+544,sulawesi utara,provinsi
+545,gorontalo,provinsi
+546,kepulauan maluku,provinsi
+547,maluku,provinsi
+548,maluku utara,provinsi
+549,papua,provinsi
+550,papua barat,provinsi
+551,kepulauan seribu selatan,kecamatan
+552,kepulauan seribu utara,kecamatan
+553,tanah abang,kecamatan
+554,menteng,kecamatan
+555,senen,kecamatan
+556,johar baru,kecamatan
+557,cempaka putih,kecamatan
+558,kemayoran,kecamatan
+559,sawah besar,kecamatan
+560,gambir,kecamatan
+561,penjaringan,kecamatan
+562,pademangan,kecamatan
+563,tanjung priok,kecamatan
+564,koja,kecamatan
+565,kelapa gading,kecamatan
+566,cilincing,kecamatan
+567,kembangan,kecamatan
+568,kebon jeruk,kecamatan
+569,palmerah,kecamatan
+570,grogol petamburan,kecamatan
+571,tambora,kecamatan
+572,taman sari,kecamatan
+573,cengkareng,kecamatan
+574,kali deres,kecamatan
+575,jagakarsa,kecamatan
+576,pasar minggu,kecamatan
+577,cilandak,kecamatan
+578,pesanggrahan,kecamatan
+579,kebayoran lama,kecamatan
+580,kebayoran baru,kecamatan
+581,mampang prapatan,kecamatan
+582,pancoran,kecamatan
+583,tebet,kecamatan
+584,setia budi,kecamatan
+585,pasar rebo,kecamatan
+586,ciracas,kecamatan
+587,cipayung,kecamatan
+588,makasar,kecamatan
+589,kramat jati,kecamatan
+590,jatinegara,kecamatan
+591,duren sawit,kecamatan
+592,cakung,kecamatan
+593,pulo gadung,kecamatan
+594,matraman,kecamatan
+595,nanggung,kecamatan
+596,leuwiliang,kecamatan
+597,pamijahan,kecamatan
+598,cibungbulang,kecamatan
+599,ciampea,kecamatan
+600,dramaga,kecamatan
+601,ciomas,kecamatan
+602,cijeruk,kecamatan
+603,caringin,kecamatan
+604,ciawi,kecamatan
+605,cisarua,kecamatan
+606,megamendung,kecamatan
+607,sukaraja,kecamatan
+608,babakan madang,kecamatan
+609,sukamakmur,kecamatan
+610,cariu,kecamatan
+611,jonggol,kecamatan
+612,cileungsi,kecamatan
+613,gunungputri,kecamatan
+614,citeureup,kecamatan
+615,cibinong,kecamatan
+616,bojong gede,kecamatan
+617,kemang,kecamatan
+618,parung,kecamatan
+619,gunung sindur,kecamatan
+620,rumpin,kecamatan
+621,cigudeg,kecamatan
+622,jasinga,kecamatan
+623,tenjo,kecamatan
+624,parungpanjang,kecamatan
+625,tamansari,kecamatan
+626,ciseeng,kecamatan
+627,kelapa nunggal,kecamatan
+628,sukajaya,kecamatan
+629,ranca bungur,kecamatan
+630,tanjung sari,kecamatan
+631,tajurhalang,kecamatan
+632,cigombong,kecamatan
+633,leuwisadeng,kecamatan
+634,tenjolaya,kecamatan
+635,ciemas,kecamatan
+636,ciracap,kecamatan
+637,surade,kecamatan
+638,jampang kulon,kecamatan
+639,kalibunder,kecamatan
+640,tegalbuleud,kecamatan
+641,cidolog,kecamatan
+642,sagaranten,kecamatan
+643,pabuaran,kecamatan
+644,lengkong,kecamatan
+645,pelabuhan ratu,kecamatan
+646,warung kiara,kecamatan
+647,jampang tengah,kecamatan
+648,cikembar,kecamatan
+649,nyalindung,kecamatan
+650,gegerbitung,kecamatan
+651,sukaraja,kecamatan
+652,sukabumi,kecamatan
+653,kadudampit,kecamatan
+654,cisaat,kecamatan
+655,cibadak,kecamatan
+656,nagrak,kecamatan
+657,cicurug,kecamatan
+658,cidahu,kecamatan
+659,parakansalak,kecamatan
+660,parungkuda,kecamatan
+661,kalapa nunggal,kecamatan
+662,cikidang,kecamatan
+663,cisolok,kecamatan
+664,kabandungan,kecamatan
+665,gunung guruh,kecamatan
+666,cikakak,kecamatan
+667,bantar gadung,kecamatan
+668,cicantayan,kecamatan
+669,simpenan,kecamatan
+670,kebon pedes,kecamatan
+671,cidadap,kecamatan
+672,cibitung,kecamatan
+673,curugkembar,kecamatan
+674,purabaya,kecamatan
+675,cireunghas,kecamatan
+676,sukalarang,kecamatan
+677,caringin,kecamatan
+678,bojong genteng,kecamatan
+679,waluran,kecamatan
+680,cimanggu,kecamatan
+681,ciambar,kecamatan
+682,agrabinta,kecamatan
+683,sindang barang,kecamatan
+684,cidaun,kecamatan
+685,naringgul,kecamatan
+686,cibinong,kecamatan
+687,tanggeung,kecamatan
+688,kadupandak,kecamatan
+689,takokak,kecamatan
+690,sukanagara,kecamatan
+691,pagelaran,kecamatan
+692,campaka,kecamatan
+693,cibeber,kecamatan
+694,warungkondang,kecamatan
+695,cilaku,kecamatan
+696,sukaluyu,kecamatan
+697,ciranjang,kecamatan
+698,mande,kecamatan
+699,karang tengah,kecamatan
+700,cianjur,kecamatan
+701,cugenang,kecamatan
+702,pacet,kecamatan
+703,sukaresmi,kecamatan
+704,cikalong kulon,kecamatan
+705,bojong picung,kecamatan
+706,campaka mulya,kecamatan
+707,cikadu,kecamatan
+708,leles,kecamatan
+709,cijati,kecamatan
+710,gekbrong,kecamatan
+711,cipanas,kecamatan
+712,haurwangi,kecamatan
+713,pasirkuda,kecamatan
+714,ciwidey,kecamatan
+715,pasirjambu,kecamatan
+716,cimaung,kecamatan
+717,pangalengan,kecamatan
+718,kertasari,kecamatan
+719,pacet,kecamatan
+720,ibun,kecamatan
+721,paseh,kecamatan
+722,cikancung,kecamatan
+723,cicalengka,kecamatan
+724,rancaekek,kecamatan
+725,majalaya,kecamatan
+726,ciparay,kecamatan
+727,bale endah,kecamatan
+728,arjasari,kecamatan
+729,banjaran,kecamatan
+730,pameungpeuk,kecamatan
+731,ketapang,kecamatan
+732,soreang,kecamatan
+733,marga asih,kecamatan
+734,margahayu,kecamatan
+735,dayeuhkolot,kecamatan
+736,bojongsoang,kecamatan
+737,cileunyi,kecamatan
+738,cilengkrang,kecamatan
+739,cimenyan,kecamatan
+740,rancabali,kecamatan
+741,nagreg,kecamatan
+742,solokan jeruk,kecamatan
+743,cangkuang,kecamatan
+744,kutawaringin,kecamatan
+745,jatinangor,kecamatan
+746,cimanggung,kecamatan
+747,tanjungsari,kecamatan
+748,rancakalong,kecamatan
+749,sumedang selatan,kecamatan
+750,sumedang utara,kecamatan
+751,situraja,kecamatan
+752,darmaraja,kecamatan
+753,cibugel,kecamatan
+754,wado,kecamatan
+755,tomo,kecamatan
+756,ujung jaya,kecamatan
+757,conggeang,kecamatan
+758,paseh,kecamatan
+759,cimalaka,kecamatan
+760,tanjungkerta,kecamatan
+761,buah dua,kecamatan
+762,ganeas,kecamatan
+763,jati gede,kecamatan
+764,pamulihan,kecamatan
+765,cisitu,kecamatan
+766,jatinunggal,kecamatan
+767,cisarua,kecamatan
+768,tanjungmedar,kecamatan
+769,surian,kecamatan
+770,sukasari,kecamatan
+771,talegong,kecamatan
+772,cisewu,kecamatan
+773,bungbulang,kecamatan
+774,pamulihan,kecamatan
+775,pakenjeng,kecamatan
+776,cikelet,kecamatan
+777,pameungpeuk,kecamatan
+778,cibalong,kecamatan
+779,cisompet,kecamatan
+780,peundeuy,kecamatan
+781,singajaya,kecamatan
+782,cikajang,kecamatan
+783,banjarwangi,kecamatan
+784,cilawu,kecamatan
+785,bayongbong,kecamatan
+786,cisurupan,kecamatan
+787,samarang,kecamatan
+788,garut kota,kecamatan
+789,karangpawitan,kecamatan
+790,wanaraja,kecamatan
+791,sukawening,kecamatan
+792,banyuresmi,kecamatan
+793,leles,kecamatan
+794,leuwigoong,kecamatan
+795,cibatu,kecamatan
+796,cibiuk,kecamatan
+797,kadungora,kecamatan
+798,blubur limbangan,kecamatan
+799,selaawi,kecamatan
+800,malangbong,kecamatan
+801,mekarmukti,kecamatan
+802,caringin,kecamatan
+803,cihurip,kecamatan
+804,sukaresmi,kecamatan
+805,pasirwangi,kecamatan
+806,karangtengah,kecamatan
+807,kersamanah,kecamatan
+808,tarogong kaler,kecamatan
+809,tarogong kidul,kecamatan
+810,cigedug,kecamatan
+811,sucinaraja,kecamatan
+812,pangatikan,kecamatan
+813,cipatujah,kecamatan
+814,karangnunggal,kecamatan
+815,cikalong,kecamatan
+816,panca tengah,kecamatan
+817,cikatomas,kecamatan
+818,cibalong,kecamatan
+819,bantarkalong,kecamatan
+820,bojong gambir,kecamatan
+821,sodonghilir,kecamatan
+822,taraju,kecamatan
+823,salawu,kecamatan
+824,tanjungjaya,kecamatan
+825,sukaraja,kecamatan
+826,salopa,kecamatan
+827,cineam,kecamatan
+828,manonjaya,kecamatan
+829,singaparna,kecamatan
+830,cigalontang,kecamatan
+831,leuwisari,kecamatan
+832,cisayong,kecamatan
+833,rajapolah,kecamatan
+834,jamanis,kecamatan
+835,ciawi,kecamatan
+836,pagerageung,kecamatan
+837,parung ponteng,kecamatan
+838,sariwangi,kecamatan
+839,sukaratu,kecamatan
+840,sukarame,kecamatan
+841,bojong asih,kecamatan
+842,culamega,kecamatan
+843,puspahiang,kecamatan
+844,jatiwaras,kecamatan
+845,mangunreja,kecamatan
+846,gunung tanjung,kecamatan
+847,karang jaya,kecamatan
+848,pada kembang,kecamatan
+849,sukahening,kecamatan
+850,kadipaten,kecamatan
+851,sukaresik,kecamatan
+852,cimerak,kecamatan
+853,cijulang,kecamatan
+854,cigugur,kecamatan
+855,langkaplancar,kecamatan
+856,parigi,kecamatan
+857,sidamulih,kecamatan
+858,pangandaran,kecamatan
+859,kalipucang,kecamatan
+860,padaherang,kecamatan
+861,banjarsari,kecamatan
+862,lakbok,kecamatan
+863,pamarican,kecamatan
+864,cidolog,kecamatan
+865,cimaragas,kecamatan
+866,cijeungjing,kecamatan
+867,cisaga,kecamatan
+868,tambaksari,kecamatan
+869,rancah,kecamatan
+870,rajadesa,kecamatan
+871,sukadana,kecamatan
+872,ciamis,kecamatan
+873,cikoneng,kecamatan
+874,cihaurbeuti,kecamatan
+875,sadananya,kecamatan
+876,cipaku,kecamatan
+877,jatinagara,kecamatan
+878,panawangan,kecamatan
+879,kawali,kecamatan
+880,panjalu,kecamatan
+881,panumbangan,kecamatan
+882,panjalu utara/sukamantri,kecamatan
+883,sindangkasih,kecamatan
+884,purwadadi,kecamatan
+885,baregbeg,kecamatan
+886,lumbung,kecamatan
+887,mangunjaya,kecamatan
+888,sukamantri,kecamatan
+889,padaherang,kecamatan
+890,kalipucang,kecamatan
+891,pangandaran,kecamatan
+892,sidamulih,kecamatan
+893,parigi,kecamatan
+894,cimerak,kecamatan
+895,cigugur,kecamatan
+896,langkaplancar,kecamatan
+897,mangunjaya,kecamatan
+898,darma,kecamatan
+899,kadugede,kecamatan
+900,ciniru,kecamatan
+901,selajambe,kecamatan
+902,subang,kecamatan
+903,ciwaru,kecamatan
+904,cibingbin,kecamatan
+905,luragung,kecamatan
+906,cidahu,kecamatan
+907,ciawigebang,kecamatan
+908,lebakwangi,kecamatan
+909,garawangi,kecamatan
+910,kuningan,kecamatan
+911,cigugur,kecamatan
+912,kramatmulya,kecamatan
+913,jalaksana,kecamatan
+914,cilimus,kecamatan
+915,mandirancan,kecamatan
+916,pasawahan,kecamatan
+917,pancalang,kecamatan
+918,cipicung,kecamatan
+919,kalimanggis,kecamatan
+920,japara,kecamatan
+921,karangkancana,kecamatan
+922,nusaherang,kecamatan
+923,cilebak,kecamatan
+924,hantara,kecamatan
+925,cimahi,kecamatan
+926,cibeureum,kecamatan
+927,sindang agung,kecamatan
+928,maleber,kecamatan
+929,ciganda mekar,kecamatan
+930,lemahsugih,kecamatan
+931,bantarujeg,kecamatan
+932,cikijing,kecamatan
+933,talaga,kecamatan
+934,argapura,kecamatan
+935,maja,kecamatan
+936,majalengka,kecamatan
+937,cigasong,kecamatan
+938,sukahaji,kecamatan
+939,rajagaluh,kecamatan
+940,sindangwangi,kecamatan
+941,leuwimunding,kecamatan
+942,palasah,kecamatan
+943,jatiwangi,kecamatan
+944,dawuan,kecamatan
+945,panyingkiran,kecamatan
+946,kadipaten,kecamatan
+947,kertajati,kecamatan
+948,jatitujuh,kecamatan
+949,ligung,kecamatan
+950,sumberjaya,kecamatan
+951,banjaran,kecamatan
+952,cingambul,kecamatan
+953,mala usma,kecamatan
+954,sindang,kecamatan
+955,kasokandel,kecamatan
+956,waled,kecamatan
+957,ciledug,kecamatan
+958,losari,kecamatan
+959,babakan,kecamatan
+960,karang sembung,kecamatan
+961,lemah abang,kecamatan
+962,sedong,kecamatan
+963,astana japura,kecamatan
+964,mundu,kecamatan
+965,beber,kecamatan
+966,sumber,kecamatan
+967,palimanan,kecamatan
+968,plumbon,kecamatan
+969,weru,kecamatan
+970,kapetakan,kecamatan
+971,klangenan,kecamatan
+972,arjawinangun,kecamatan
+973,ciwaringin,kecamatan
+974,susukan,kecamatan
+975,gegesik,kecamatan
+976,susukan lebak,kecamatan
+977,pabedilan,kecamatan
+978,dukupuntang,kecamatan
+979,panguragan,kecamatan
+980,kaliwedi,kecamatan
+981,pangenan,kecamatan
+982,gebang,kecamatan
+983,depok,kecamatan
+984,kedawung,kecamatan
+985,karang wereng,kecamatan
+986,talun,kecamatan
+987,gunung jati,kecamatan
+988,pasaleman,kecamatan
+989,pabuaran,kecamatan
+990,tengah tani,kecamatan
+991,plered,kecamatan
+992,gempol,kecamatan
+993,greged,kecamatan
+994,suranenggala,kecamatan
+995,jamblang,kecamatan
+996,haurgeulis,kecamatan
+997,kroya,kecamatan
+998,gabuswetan,kecamatan
+999,cikedung,kecamatan
+1000,lelea,kecamatan
+1001,bangodua,kecamatan
+1002,widasari,kecamatan
+1003,kertasemaya,kecamatan
+1004,krangkeng,kecamatan
+1005,karangampel,kecamatan
+1006,juntinyuat,kecamatan
+1007,sliyeg,kecamatan
+1008,jatibarang,kecamatan
+1009,balongan,kecamatan
+1010,indramayu,kecamatan
+1011,sindang,kecamatan
+1012,lohbener,kecamatan
+1013,losarang,kecamatan
+1014,kandanghaur,kecamatan
+1015,bongas,kecamatan
+1016,anjatan,kecamatan
+1017,sukra,kecamatan
+1018,arahan,kecamatan
+1019,cantigi,kecamatan
+1020,gantar,kecamatan
+1021,terisi,kecamatan
+1022,sukagumiwang,kecamatan
+1023,kedokan bunder,kecamatan
+1024,pasekan,kecamatan
+1025,tukdana,kecamatan
+1026,patrol,kecamatan
+1027,sagalaherang,kecamatan
+1028,jalancagak,kecamatan
+1029,cisalak,kecamatan
+1030,tanjung siang,kecamatan
+1031,cijambe,kecamatan
+1032,cibogo,kecamatan
+1033,subang,kecamatan
+1034,kalijati,kecamatan
+1035,cipeundeuy,kecamatan
+1036,pabuaran,kecamatan
+1037,patokbeusi,kecamatan
+1038,purwadadi,kecamatan
+1039,cikaum,kecamatan
+1040,pagaden,kecamatan
+1041,cipunagara,kecamatan
+1042,compreng,kecamatan
+1043,binong,kecamatan
+1044,ciasem,kecamatan
+1045,pamanukan,kecamatan
+1046,pusakanagara,kecamatan
+1047,legon kulon,kecamatan
+1048,blanakan,kecamatan
+1049,dawuan,kecamatan
+1050,serang panjang,kecamatan
+1051,kasomalang,kecamatan
+1052,tambakdahan,kecamatan
+1053,pagaden barat,kecamatan
+1054,pusakajaya,kecamatan
+1055,ciater,kecamatan
+1056,sukasari,kecamatan
+1057,jatiluhur,kecamatan
+1058,maniis,kecamatan
+1059,tegalwaru,kecamatan
+1060,plered,kecamatan
+1061,sukatani,kecamatan
+1062,darangdan,kecamatan
+1063,bojong,kecamatan
+1064,wanayasa,kecamatan
+1065,pasawahan,kecamatan
+1066,purwakarta,kecamatan
+1067,campaka,kecamatan
+1068,sukasari,kecamatan
+1069,kiarapedes,kecamatan
+1070,babakancikao,kecamatan
+1071,cibatu,kecamatan
+1072,bungursari,kecamatan
+1073,pondok salam,kecamatan
+1074,pangkalan,kecamatan
+1075,ciampel,kecamatan
+1076,klari,kecamatan
+1077,cikampek,kecamatan
+1078,tirtamulya,kecamatan
+1079,jatisari,kecamatan
+1080,lemahabang,kecamatan
+1081,telagasari,kecamatan
+1082,karawang,kecamatan
+1083,rawamerta,kecamatan
+1084,tempuran,kecamatan
+1085,kutawaluya,kecamatan
+1086,rengasdengklok,kecamatan
+1087,pedes,kecamatan
+1088,cibuaya,kecamatan
+1089,tirtajaya,kecamatan
+1090,batujaya,kecamatan
+1091,pakisjaya,kecamatan
+1092,majalaya,kecamatan
+1093,jayakerta,kecamatan
+1094,cilamaya kulon,kecamatan
+1095,banyusari,kecamatan
+1096,kotabaru,kecamatan
+1097,cilamaya wetan,kecamatan
+1098,purwasari,kecamatan
+1099,teluk jambe barat,kecamatan
+1100,teluk jambe timur,kecamatan
+1101,karawang timur,kecamatan
+1102,tegalwaru,kecamatan
+1103,cilebar,kecamatan
+1104,karawang barat,kecamatan
+1105,setu,kecamatan
+1106,cibarusah,kecamatan
+1107,kedung waringin,kecamatan
+1108,cibitung,kecamatan
+1109,bebelan,kecamatan
+1110,taruma jaya,kecamatan
+1111,tembelang,kecamatan
+1112,sukatani,kecamatan
+1113,pebayuran,kecamatan
+1114,cabangbungin,kecamatan
+1115,muara gembong,kecamatan
+1116,tambun selatan,kecamatan
+1117,tambun utara,kecamatan
+1118,cikarang barat,kecamatan
+1119,karang bahagia,kecamatan
+1120,cikarang utara,kecamatan
+1121,cikarang selatan,kecamatan
+1122,cikarang timur,kecamatan
+1123,bojong mangu,kecamatan
+1124,cikarang pusat,kecamatan
+1125,sukakarya,kecamatan
+1126,sukawangi,kecamatan
+1127,serang baru,kecamatan
+1128,rongga,kecamatan
+1129,gununghalu,kecamatan
+1130,sindangkerta,kecamatan
+1131,cililin,kecamatan
+1132,cihampelas,kecamatan
+1133,cipongkor,kecamatan
+1134,batujajar,kecamatan
+1135,cipatat,kecamatan
+1136,padalarang,kecamatan
+1137,ngamprah,kecamatan
+1138,parongpong,kecamatan
+1139,lembang,kecamatan
+1140,cisarua,kecamatan
+1141,cikalong wetan,kecamatan
+1142,cipeundeuy,kecamatan
+1143,bandung kulon,kecamatan
+1144,babakan ciparay,kecamatan
+1145,bojong loa kaler,kecamatan
+1146,bojong loa kidul,kecamatan
+1147,astananyar,kecamatan
+1148,regol,kecamatan
+1149,lengkong,kecamatan
+1150,bandung kidul,kecamatan
+1151,buah batu,kecamatan
+1152,rancasari,kecamatan
+1153,cibiru,kecamatan
+1154,ujungberung,kecamatan
+1155,arcamanik,kecamatan
+1156,kiaracondong,kecamatan
+1157,batununggal,kecamatan
+1158,sumur bandung,kecamatan
+1159,andir,kecamatan
+1160,cicendo,kecamatan
+1161,bandung wetan,kecamatan
+1162,cibeunying kidul,kecamatan
+1163,cibeunying kaler,kecamatan
+1164,coblong,kecamatan
+1165,sukajadi,kecamatan
+1166,sukasari,kecamatan
+1167,cidadap,kecamatan
+1168,gedebage,kecamatan
+1169,panyileukan,kecamatan
+1170,cinambo,kecamatan
+1171,mandalajati,kecamatan
+1172,antapani,kecamatan
+1173,kota bogor selatan,kecamatan
+1174,kota bogor timur,kecamatan
+1175,kota bogor utara,kecamatan
+1176,kota bogor tengah,kecamatan
+1177,kota bogor barat,kecamatan
+1178,tanah sereal,kecamatan
+1179,baros,kecamatan
+1180,citamiang,kecamatan
+1181,warudoyong,kecamatan
+1182,gunung puyuh,kecamatan
+1183,cikole,kecamatan
+1184,lembur situ,kecamatan
+1185,cibeureum,kecamatan
+1186,harjamukti,kecamatan
+1187,lemahwungkuk,kecamatan
+1188,pekalipan,kecamatan
+1189,kesambi,kecamatan
+1190,kejaksan,kecamatan
+1191,pondokgede,kecamatan
+1192,jatiasih,kecamatan
+1193,bantargebang,kecamatan
+1194,bekasi timur,kecamatan
+1195,bekasi selatan,kecamatan
+1196,bekasi barat,kecamatan
+1197,bekasi utara,kecamatan
+1198,jati sampurna,kecamatan
+1199,medan satria,kecamatan
+1200,rawalumbu,kecamatan
+1201,mustika jaya,kecamatan
+1202,pondok melati,kecamatan
+1203,sawangan,kecamatan
+1204,pancoran mas,kecamatan
+1205,sukmajaya,kecamatan
+1206,cimanggis,kecamatan
+1207,beji,kecamatan
+1208,limo,kecamatan
+1209,cipayung,kecamatan
+1210,cilodong,kecamatan
+1211,cinere,kecamatan
+1212,tapos,kecamatan
+1213,bojongsari,kecamatan
+1214,cimahi selatan,kecamatan
+1215,cimahi tengah,kecamatan
+1216,cimahi utara,kecamatan
+1217,cibeureum,kecamatan
+1218,tamansari,kecamatan
+1219,kawalu,kecamatan
+1220,mangkubumi,kecamatan
+1221,indihiang,kecamatan
+1222,cipedes,kecamatan
+1223,cihideung,kecamatan
+1224,tawang,kecamatan
+1225,purbaratu,kecamatan
+1226,bungursari,kecamatan
+1227,banjar,kecamatan
+1228,purwaharja,kecamatan
+1229,pataruman,kecamatan
+1230,langensari,kecamatan
+1231,dayeuhluhur,kecamatan
+1232,wanareja,kecamatan
+1233,majenang,kecamatan
+1234,cimanggu,kecamatan
+1235,karangpucung,kecamatan
+1236,cipari,kecamatan
+1237,sidareja,kecamatan
+1238,kedungreja,kecamatan
+1239,patimuan,kecamatan
+1240,gandrungmangu,kecamatan
+1241,bantarsari,kecamatan
+1242,kawunganten,kecamatan
+1243,kampung laut,kecamatan
+1244,jeruklegi,kecamatan
+1245,kesugihan,kecamatan
+1246,adipala,kecamatan
+1247,maos,kecamatan
+1248,sampang,kecamatan
+1249,kroya,kecamatan
+1250,binangun,kecamatan
+1251,nusawungu,kecamatan
+1252,cilacap selatan,kecamatan
+1253,cilacap tengah,kecamatan
+1254,cilacap utara,kecamatan
+1255,lumbir,kecamatan
+1256,wangon,kecamatan
+1257,jatilawang,kecamatan
+1258,rawalo,kecamatan
+1259,kebasen,kecamatan
+1260,kemranjen,kecamatan
+1261,sumpiuh,kecamatan
+1262,tambak,kecamatan
+1263,somagede,kecamatan
+1264,kalibagor,kecamatan
+1265,banyumas,kecamatan
+1266,patikraja,kecamatan
+1267,purwojati,kecamatan
+1268,ajibarang,kecamatan
+1269,gumelar,kecamatan
+1270,pekuncen,kecamatan
+1271,cilongok,kecamatan
+1272,karanglewas,kecamatan
+1273,kedung banteng,kecamatan
+1274,baturaden,kecamatan
+1275,sumbang,kecamatan
+1276,kembaran,kecamatan
+1277,sokaraja,kecamatan
+1278,purwokerto selatan,kecamatan
+1279,purwokerto barat,kecamatan
+1280,purwokerto timur,kecamatan
+1281,purwokerto utara,kecamatan
+1282,kemangkon,kecamatan
+1283,bukateja,kecamatan
+1284,kejobong,kecamatan
+1285,pengadegan,kecamatan
+1286,kaligondang,kecamatan
+1287,purbalingga,kecamatan
+1288,kalimanah,kecamatan
+1289,padamara,kecamatan
+1290,kutasari,kecamatan
+1291,bojongsari,kecamatan
+1292,mrebet,kecamatan
+1293,bobotsari,kecamatan
+1294,karangreja,kecamatan
+1295,karanganyar,kecamatan
+1296,karangmoncol,kecamatan
+1297,rembang,kecamatan
+1298,karangjambu,kecamatan
+1299,kertanegara,kecamatan
+1300,susukan,kecamatan
+1301,purworejo/ klampok,kecamatan
+1302,mandiraja,kecamatan
+1303,purwonegara,kecamatan
+1304,bawang,kecamatan
+1305,banjarnegara,kecamatan
+1306,sigaluh,kecamatan
+1307,madukara,kecamatan
+1308,banjarmangu,kecamatan
+1309,wanadadi,kecamatan
+1310,rakit,kecamatan
+1311,punggelan,kecamatan
+1312,karangkobar,kecamatan
+1313,pagentan,kecamatan
+1314,pejawaran,kecamatan
+1315,batur,kecamatan
+1316,wanayasa,kecamatan
+1317,kalibening,kecamatan
+1318,pandan arum,kecamatan
+1319,pagedongan,kecamatan
+1320,ayah,kecamatan
+1321,buayan,kecamatan
+1322,puring,kecamatan
+1323,petanahan,kecamatan
+1324,klirong,kecamatan
+1325,bulupesantren,kecamatan
+1326,ambal,kecamatan
+1327,mirit,kecamatan
+1328,prembun,kecamatan
+1329,kutowinangun,kecamatan
+1330,alian,kecamatan
+1331,kebumen,kecamatan
+1332,pejagoan,kecamatan
+1333,sruweng,kecamatan
+1334,adimulyo,kecamatan
+1335,kuwarasan,kecamatan
+1336,rowokele,kecamatan
+1337,sempor,kecamatan
+1338,gombong,kecamatan
+1339,karanganyar,kecamatan
+1340,karangganyam,kecamatan
+1341,sadang,kecamatan
+1342,bonorowo,kecamatan
+1343,padureso,kecamatan
+1344,poncowarno,kecamatan
+1345,karangsambung,kecamatan
+1346,grabag,kecamatan
+1347,ngombol,kecamatan
+1348,purwodadi,kecamatan
+1349,bagelen,kecamatan
+1350,kaligesing,kecamatan
+1351,purworejo,kecamatan
+1352,banyu urip,kecamatan
+1353,bayan,kecamatan
+1354,kutoarjo,kecamatan
+1355,butuh,kecamatan
+1356,pituruh,kecamatan
+1357,kemiri,kecamatan
+1358,bruno,kecamatan
+1359,gebang,kecamatan
+1360,loano,kecamatan
+1361,bener,kecamatan
+1362,wadaslintang,kecamatan
+1363,kepil,kecamatan
+1364,sapuran,kecamatan
+1365,kaliwiro,kecamatan
+1366,leksono,kecamatan
+1367,selomerto,kecamatan
+1368,kalikajar,kecamatan
+1369,kertek,kecamatan
+1370,wonosobo,kecamatan
+1371,watumalang,kecamatan
+1372,mojotengah,kecamatan
+1373,garung,kecamatan
+1374,kejajar,kecamatan
+1375,sukoharjo,kecamatan
+1376,kalibawang,kecamatan
+1377,salaman,kecamatan
+1378,borobudur,kecamatan
+1379,ngluwar,kecamatan
+1380,salam,kecamatan
+1381,srumbung,kecamatan
+1382,dukun,kecamatan
+1383,muntilan,kecamatan
+1384,mungkid,kecamatan
+1385,sawangan,kecamatan
+1386,candimulyo,kecamatan
+1387,martoyudan,kecamatan
+1388,tempuran,kecamatan
+1389,kajoran,kecamatan
+1390,kaliangkrik,kecamatan
+1391,bandongan,kecamatan
+1392,windusari,kecamatan
+1393,secang,kecamatan
+1394,tegalrejo,kecamatan
+1395,pakis,kecamatan
+1396,grabag,kecamatan
+1397,ngablak,kecamatan
+1398,selo,kecamatan
+1399,ampel,kecamatan
+1400,cepogo,kecamatan
+1401,musuk,kecamatan
+1402,boyolali,kecamatan
+1403,mojosongo,kecamatan
+1404,teras,kecamatan
+1405,sawit,kecamatan
+1406,banyudono,kecamatan
+1407,sambi,kecamatan
+1408,ngemplak,kecamatan
+1409,nogosari,kecamatan
+1410,simo,kecamatan
+1411,karanggede,kecamatan
+1412,klego,kecamatan
+1413,andong,kecamatan
+1414,kemusu,kecamatan
+1415,wonosegoro,kecamatan
+1416,juwangi,kecamatan
+1417,prambanan,kecamatan
+1418,gantiwarno,kecamatan
+1419,wedi,kecamatan
+1420,bayat,kecamatan
+1421,cawas,kecamatan
+1422,trucuk,kecamatan
+1423,kalikotes,kecamatan
+1424,kebonarum,kecamatan
+1425,jogonalan,kecamatan
+1426,manisrenggo,kecamatan
+1427,karangnongko,kecamatan
+1428,ngawen,kecamatan
+1429,ceper,kecamatan
+1430,pedan,kecamatan
+1431,karangdowo,kecamatan
+1432,juwiring,kecamatan
+1433,wonosari,kecamatan
+1434,delanggu,kecamatan
+1435,polanharjo,kecamatan
+1436,karanganom,kecamatan
+1437,tulung,kecamatan
+1438,jatinom,kecamatan
+1439,kemalang,kecamatan
+1440,klaten selatan,kecamatan
+1441,klaten tengah,kecamatan
+1442,klaten utara,kecamatan
+1443,weru,kecamatan
+1444,bulu,kecamatan
+1445,tawangsari,kecamatan
+1446,sukoharjo,kecamatan
+1447,nguter,kecamatan
+1448,bendosari,kecamatan
+1449,polokarto,kecamatan
+1450,mojolaban,kecamatan
+1451,grogol,kecamatan
+1452,baki,kecamatan
+1453,gatak,kecamatan
+1454,kartasura,kecamatan
+1455,pracimantoro,kecamatan
+1456,paranggupito,kecamatan
+1457,giritontro,kecamatan
+1458,giriwoyo,kecamatan
+1459,batuwarno,kecamatan
+1460,karangtengah,kecamatan
+1461,tirtomoyo,kecamatan
+1462,nguntoronadi,kecamatan
+1463,baturetno,kecamatan
+1464,eromoko,kecamatan
+1465,wuryantoro,kecamatan
+1466,manyaran,kecamatan
+1467,selogiri,kecamatan
+1468,wonogiri,kecamatan
+1469,ngadirojo,kecamatan
+1470,sidoharjo,kecamatan
+1471,jatiroto,kecamatan
+1472,kismantoro,kecamatan
+1473,purwantoro,kecamatan
+1474,bulukerto,kecamatan
+1475,slogohimo,kecamatan
+1476,jatisrono,kecamatan
+1477,jatipurno,kecamatan
+1478,girimarto,kecamatan
+1479,puhpelem,kecamatan
+1480,jatipuro,kecamatan
+1481,jatiyoso,kecamatan
+1482,jumapolo,kecamatan
+1483,jumantono,kecamatan
+1484,matesih,kecamatan
+1485,tawangmangu,kecamatan
+1486,ngargoyoso,kecamatan
+1487,karangpandan,kecamatan
+1488,karanganyar,kecamatan
+1489,tasikmadu,kecamatan
+1490,jaten,kecamatan
+1491,colomadu,kecamatan
+1492,gondangrejo,kecamatan
+1493,kebakkramat,kecamatan
+1494,mojogedang,kecamatan
+1495,kerjo,kecamatan
+1496,jenawi,kecamatan
+1497,kalijambe,kecamatan
+1498,plupuh,kecamatan
+1499,masaran,kecamatan
+1500,kedawung,kecamatan
+1501,sambirejo,kecamatan
+1502,gondang,kecamatan
+1503,sambung macan,kecamatan
+1504,ngrampal,kecamatan
+1505,karangmalang,kecamatan
+1506,sragen,kecamatan
+1507,sidoharjo,kecamatan
+1508,tanon,kecamatan
+1509,gemolong,kecamatan
+1510,miri,kecamatan
+1511,sumberlawang,kecamatan
+1512,mondokan,kecamatan
+1513,sukodono,kecamatan
+1514,gesi,kecamatan
+1515,tangen,kecamatan
+1516,jenar,kecamatan
+1517,kedungjati,kecamatan
+1518,karangrayung,kecamatan
+1519,penawangan,kecamatan
+1520,toroh,kecamatan
+1521,geyer,kecamatan
+1522,pulokulon,kecamatan
+1523,kradenan,kecamatan
+1524,gabus,kecamatan
+1525,ngaringan,kecamatan
+1526,wirosari,kecamatan
+1527,tawangharjo,kecamatan
+1528,grobogan,kecamatan
+1529,purwodadi,kecamatan
+1530,brati,kecamatan
+1531,klambu,kecamatan
+1532,godong,kecamatan
+1533,gubug,kecamatan
+1534,tegowanu,kecamatan
+1535,tanggungharjo,kecamatan
+1536,jati,kecamatan
+1537,randublatung,kecamatan
+1538,kradenan,kecamatan
+1539,kedungtuban,kecamatan
+1540,cepu,kecamatan
+1541,sambong,kecamatan
+1542,jiken,kecamatan
+1543,bogorejo,kecamatan
+1544,jepon,kecamatan
+1545,kota blora,kecamatan
+1546,banjarejo,kecamatan
+1547,tunjungan,kecamatan
+1548,japah,kecamatan
+1549,ngawen,kecamatan
+1550,kunduran,kecamatan
+1551,todanan,kecamatan
+1552,sumber,kecamatan
+1553,bulu,kecamatan
+1554,gunem,kecamatan
+1555,sale,kecamatan
+1556,sarang,kecamatan
+1557,sedan,kecamatan
+1558,pamotan,kecamatan
+1559,sulang,kecamatan
+1560,kaliori,kecamatan
+1561,rembang,kecamatan
+1562,pancur,kecamatan
+1563,kragan,kecamatan
+1564,sluke,kecamatan
+1565,lasem,kecamatan
+1566,sukolilo,kecamatan
+1567,kayen,kecamatan
+1568,tambakromo,kecamatan
+1569,winong,kecamatan
+1570,pucakwangi,kecamatan
+1571,jaken,kecamatan
+1572,batangan,kecamatan
+1573,juwana,kecamatan
+1574,jakenan,kecamatan
+1575,pati,kecamatan
+1576,gabus,kecamatan
+1577,margorejo,kecamatan
+1578,gembong,kecamatan
+1579,tlogowungu,kecamatan
+1580,wedarijaksa,kecamatan
+1581,trangkil,kecamatan
+1582,margoyoso,kecamatan
+1583,gunung wungkal,kecamatan
+1584,cluwak,kecamatan
+1585,tayu,kecamatan
+1586,dukuhseti,kecamatan
+1587,kaliwungu,kecamatan
+1588,kota kudus,kecamatan
+1589,jati,kecamatan
+1590,undaan,kecamatan
+1591,mejobo,kecamatan
+1592,jekulo,kecamatan
+1593,bae,kecamatan
+1594,gebog,kecamatan
+1595,dawe,kecamatan
+1596,kedung,kecamatan
+1597,pecangaan,kecamatan
+1598,welahan,kecamatan
+1599,mayong,kecamatan
+1600,nalumsari,kecamatan
+1601,batealit,kecamatan
+1602,tahunan,kecamatan
+1603,jepara,kecamatan
+1604,mlonggo,kecamatan
+1605,bangsri,kecamatan
+1606,keling,kecamatan
+1607,karimunjawa,kecamatan
+1608,kalinyamatan,kecamatan
+1609,kembang,kecamatan
+1610,donorojo,kecamatan
+1611,pakis aji,kecamatan
+1612,mranggen,kecamatan
+1613,karangawen,kecamatan
+1614,guntur,kecamatan
+1615,sayung,kecamatan
+1616,karang tengah,kecamatan
+1617,bonang,kecamatan
+1618,demak,kecamatan
+1619,wonosalam,kecamatan
+1620,dempet,kecamatan
+1621,gajah,kecamatan
+1622,karanganyar,kecamatan
+1623,mijen,kecamatan
+1624,wedung,kecamatan
+1625,kebonagung,kecamatan
+1626,getasan,kecamatan
+1627,tengaran,kecamatan
+1628,susukan,kecamatan
+1629,suruh,kecamatan
+1630,pabelan,kecamatan
+1631,tuntang,kecamatan
+1632,banyubiru,kecamatan
+1633,jambu,kecamatan
+1634,sumowono,kecamatan
+1635,ambarawa,kecamatan
+1636,bawen,kecamatan
+1637,bringin,kecamatan
+1638,pringapus,kecamatan
+1639,bergas,kecamatan
+1640,kaliwungu,kecamatan
+1641,bancak,kecamatan
+1642,ungaran barat,kecamatan
+1643,ungaran timur,kecamatan
+1644,bandungan,kecamatan
+1645,parakan,kecamatan
+1646,bulu,kecamatan
+1647,temanggung,kecamatan
+1648,tembarak,kecamatan
+1649,kranggan,kecamatan
+1650,pringsurat,kecamatan
+1651,kaloran,kecamatan
+1652,kandangan,kecamatan
+1653,kedu,kecamatan
+1654,ngadirejo,kecamatan
+1655,jumo,kecamatan
+1656,candiroto,kecamatan
+1657,tretep,kecamatan
+1658,kledung,kecamatan
+1659,bansari,kecamatan
+1660,tlogomulyo,kecamatan
+1661,selopampang,kecamatan
+1662,gemawang,kecamatan
+1663,bejen,kecamatan
+1664,wonoboyo,kecamatan
+1665,plantungan,kecamatan
+1666,sukorejo,kecamatan
+1667,pegeruyung,kecamatan
+1668,patean,kecamatan
+1669,singorojo,kecamatan
+1670,limbangan,kecamatan
+1671,boja,kecamatan
+1672,kaliwungu,kecamatan
+1673,brangsong,kecamatan
+1674,pegandon,kecamatan
+1675,gemuh,kecamatan
+1676,waleri,kecamatan
+1677,rowosari,kecamatan
+1678,kangkung,kecamatan
+1679,cipiring,kecamatan
+1680,patebon,kecamatan
+1681,kota kendal,kecamatan
+1682,ngampel,kecamatan
+1683,ringinarum,kecamatan
+1684,kaliwungu selatan,kecamatan
+1685,wonotunggal,kecamatan
+1686,bandar,kecamatan
+1687,blado,kecamatan
+1688,reban,kecamatan
+1689,bawang,kecamatan
+1690,tersono,kecamatan
+1691,gringsing,kecamatan
+1692,limpung,kecamatan
+1693,subah,kecamatan
+1694,tulis,kecamatan
+1695,batang,kecamatan
+1696,warung asem,kecamatan
+1697,banyuputih,kecamatan
+1698,pecalungan,kecamatan
+1699,kandeman,kecamatan
+1700,kandang serang,kecamatan
+1701,peninggaran,kecamatan
+1702,lebakbarang,kecamatan
+1703,petungkriono,kecamatan
+1704,talun,kecamatan
+1705,doro,kecamatan
+1706,karanganyar,kecamatan
+1707,kajen,kecamatan
+1708,kesesi,kecamatan
+1709,sragi,kecamatan
+1710,bojong,kecamatan
+1711,wonopringgo,kecamatan
+1712,kedungwuni,kecamatan
+1713,buaran,kecamatan
+1714,tirto,kecamatan
+1715,wiradesa,kecamatan
+1716,siwalan,kecamatan
+1717,karangdadap,kecamatan
+1718,wonokerto,kecamatan
+1719,moga,kecamatan
+1720,pulosari,kecamatan
+1721,belik,kecamatan
+1722,watukumpul,kecamatan
+1723,bodeh,kecamatan
+1724,bantarbolang,kecamatan
+1725,randudongkel,kecamatan
+1726,pemalang,kecamatan
+1727,taman,kecamatan
+1728,petarukan,kecamatan
+1729,ampelgading,kecamatan
+1730,comal,kecamatan
+1731,ulujami,kecamatan
+1732,warungpring,kecamatan
+1733,margasari,kecamatan
+1734,bumijawa,kecamatan
+1735,bojong,kecamatan
+1736,balapulang,kecamatan
+1737,pagerbarang,kecamatan
+1738,lebaksiu,kecamatan
+1739,jatinegara,kecamatan
+1740,kedung banteng,kecamatan
+1741,pangkah,kecamatan
+1742,slawi,kecamatan
+1743,dukuhwaru,kecamatan
+1744,adiwerna,kecamatan
+1745,dukuhturi,kecamatan
+1746,talang,kecamatan
+1747,tarub,kecamatan
+1748,kramat,kecamatan
+1749,suradadi,kecamatan
+1750,warureja,kecamatan
+1751,salem,kecamatan
+1752,bantarkawung,kecamatan
+1753,bumiayu,kecamatan
+1754,paguyangan,kecamatan
+1755,sirampog,kecamatan
+1756,tonjong,kecamatan
+1757,larangan,kecamatan
+1758,ketanggungan,kecamatan
+1759,banjarharjo,kecamatan
+1760,losari,kecamatan
+1761,tanjung,kecamatan
+1762,kersana,kecamatan
+1763,bulakamba,kecamatan
+1764,wanasari,kecamatan
+1765,songgom,kecamatan
+1766,jatibarang,kecamatan
+1767,brebes,kecamatan
+1768,magelang selatan,kecamatan
+1769,magelang utara,kecamatan
+1770,magelang tengah,kecamatan
+1771,laweyan,kecamatan
+1772,serengan,kecamatan
+1773,pasarkliwon,kecamatan
+1774,jebres,kecamatan
+1775,banjarsari,kecamatan
+1776,argomulyo,kecamatan
+1777,tingkir,kecamatan
+1778,sidomukti,kecamatan
+1779,sidorejo,kecamatan
+1780,mijen,kecamatan
+1781,gunung pati,kecamatan
+1782,banyumanik,kecamatan
+1783,gajah mungkur,kecamatan
+1784,semarang selatan,kecamatan
+1785,candisari,kecamatan
+1786,tembalang,kecamatan
+1787,pedurungan,kecamatan
+1788,genuk,kecamatan
+1789,gayamsari,kecamatan
+1790,semarang timur,kecamatan
+1791,semarang tengah,kecamatan
+1792,semarang utara,kecamatan
+1793,semarang barat,kecamatan
+1794,tugu,kecamatan
+1795,ngaliyan,kecamatan
+1796,pekalongan barat,kecamatan
+1797,pekalongan timur,kecamatan
+1798,pekalongan selatan,kecamatan
+1799,pekalongan utara,kecamatan
+1800,tegal selatan,kecamatan
+1801,tegal timur,kecamatan
+1802,tegal barat,kecamatan
+1803,margadana,kecamatan
+1804,srandakan,kecamatan
+1805,sanden,kecamatan
+1806,kretek,kecamatan
+1807,pundong,kecamatan
+1808,bambang lipuro,kecamatan
+1809,pandak,kecamatan
+1810,bantul,kecamatan
+1811,jetis,kecamatan
+1812,imogiri,kecamatan
+1813,dlingo,kecamatan
+1814,pleret,kecamatan
+1815,piyungan,kecamatan
+1816,banguntapan,kecamatan
+1817,sewon,kecamatan
+1818,kasihan,kecamatan
+1819,pajangan,kecamatan
+1820,sedayu,kecamatan
+1821,moyudan,kecamatan
+1822,minggir,kecamatan
+1823,seyegan,kecamatan
+1824,godean,kecamatan
+1825,gamping,kecamatan
+1826,mlati,kecamatan
+1827,depok,kecamatan
+1828,berbah,kecamatan
+1829,prambanan,kecamatan
+1830,kalasan,kecamatan
+1831,ngemplak,kecamatan
+1832,ngaglik,kecamatan
+1833,sleman,kecamatan
+1834,tempel,kecamatan
+1835,turi,kecamatan
+1836,pekem,kecamatan
+1837,cangkringan,kecamatan
+1838,panggang,kecamatan
+1839,paliyan,kecamatan
+1840,sapto sari,kecamatan
+1841,tepus,kecamatan
+1842,rongkop,kecamatan
+1843,semanu,kecamatan
+1844,ponjong,kecamatan
+1845,karangmojo,kecamatan
+1846,wonosari,kecamatan
+1847,playen,kecamatan
+1848,patuk,kecamatan
+1849,gedang sari,kecamatan
+1850,nglipar,kecamatan
+1851,ngawen,kecamatan
+1852,semin,kecamatan
+1853,purwosari,kecamatan
+1854,girisubo,kecamatan
+1855,tanjungsari,kecamatan
+1856,temon,kecamatan
+1857,wates,kecamatan
+1858,panjatan,kecamatan
+1859,galur,kecamatan
+1860,lendah,kecamatan
+1861,sentolo,kecamatan
+1862,pengasih,kecamatan
+1863,kokap,kecamatan
+1864,girimulyo,kecamatan
+1865,nanggulan,kecamatan
+1866,kalibawang,kecamatan
+1867,samigaluh,kecamatan
+1868,mantrijeron,kecamatan
+1869,kraton,kecamatan
+1870,mergangsan,kecamatan
+1871,umbulharjo,kecamatan
+1872,kotagede,kecamatan
+1873,gondokusuman,kecamatan
+1874,danurejan,kecamatan
+1875,pakualaman,kecamatan
+1876,gondomanan,kecamatan
+1877,ngampilan,kecamatan
+1878,wirobrajan,kecamatan
+1879,gedongtengen,kecamatan
+1880,jetis,kecamatan
+1881,tegalrejo,kecamatan
+1882,wringin anom,kecamatan
+1883,driyorejo,kecamatan
+1884,kedamean,kecamatan
+1885,menganti,kecamatan
+1886,cerme,kecamatan
+1887,benjeng,kecamatan
+1888,balong panggang,kecamatan
+1889,duduk sampeyan,kecamatan
+1890,kebomas,kecamatan
+1891,gresik,kecamatan
+1892,manyar,kecamatan
+1893,bungah,kecamatan
+1894,sidayu,kecamatan
+1895,dukun,kecamatan
+1896,panceng,kecamatan
+1897,ujung pangkah,kecamatan
+1898,sangkapura,kecamatan
+1899,tambak,kecamatan
+1900,tarik,kecamatan
+1901,prambon,kecamatan
+1902,krembung,kecamatan
+1903,porong,kecamatan
+1904,jabon,kecamatan
+1905,tanggulangin,kecamatan
+1906,candi,kecamatan
+1907,tulangan,kecamatan
+1908,wonoayu,kecamatan
+1909,sukodono,kecamatan
+1910,sidoarjo,kecamatan
+1911,buduran,kecamatan
+1912,sedati,kecamatan
+1913,waru,kecamatan
+1914,gedangan,kecamatan
+1915,taman,kecamatan
+1916,krian,kecamatan
+1917,balong bendo,kecamatan
+1918,jatirejo,kecamatan
+1919,gondang,kecamatan
+1920,pacet,kecamatan
+1921,trawas,kecamatan
+1922,ngoro,kecamatan
+1923,pungging,kecamatan
+1924,kutorejo,kecamatan
+1925,mojosari,kecamatan
+1926,bangsal,kecamatan
+1927,dlanggu,kecamatan
+1928,puri,kecamatan
+1929,trowulan,kecamatan
+1930,sooko,kecamatan
+1931,gedek,kecamatan
+1932,kemlagi,kecamatan
+1933,jetis,kecamatan
+1934,dawar blandong,kecamatan
+1935,mojoanyar,kecamatan
+1936,bandar kedung mulyo,kecamatan
+1937,perak,kecamatan
+1938,gudo,kecamatan
+1939,diwek,kecamatan
+1940,ngoro,kecamatan
+1941,mojowarno,kecamatan
+1942,bareng,kecamatan
+1943,wonosalam,kecamatan
+1944,mojoagung,kecamatan
+1945,somobito,kecamatan
+1946,jogo roto,kecamatan
+1947,peterongan,kecamatan
+1948,jombang,kecamatan
+1949,megaluh,kecamatan
+1950,tembelang,kecamatan
+1951,kesamben,kecamatan
+1952,kudu,kecamatan
+1953,ploso,kecamatan
+1954,kabuh,kecamatan
+1955,plandaan,kecamatan
+1956,ngusikan,kecamatan
+1957,margomulyo,kecamatan
+1958,ngraho,kecamatan
+1959,tambakrejo,kecamatan
+1960,ngambon,kecamatan
+1961,bubulan,kecamatan
+1962,temayang,kecamatan
+1963,sugihwaras,kecamatan
+1964,kedungadem,kecamatan
+1965,kepoh baru,kecamatan
+1966,baureno,kecamatan
+1967,kanor,kecamatan
+1968,sumberrejo,kecamatan
+1969,balen,kecamatan
+1970,sukosewu,kecamatan
+1971,kapas,kecamatan
+1972,bojonegoro,kecamatan
+1973,trucuk,kecamatan
+1974,dander,kecamatan
+1975,ngasem,kecamatan
+1976,kalitidu,kecamatan
+1977,malo,kecamatan
+1978,purwosari,kecamatan
+1979,padangan,kecamatan
+1980,kasiman,kecamatan
+1981,kedewan,kecamatan
+1982,gondang,kecamatan
+1983,sekar,kecamatan
+1984,kenduruan,kecamatan
+1985,bangilan,kecamatan
+1986,senori,kecamatan
+1987,singgahan,kecamatan
+1988,montong,kecamatan
+1989,parengan,kecamatan
+1990,soko,kecamatan
+1991,rengel,kecamatan
+1992,plumpang,kecamatan
+1993,widang,kecamatan
+1994,palang,kecamatan
+1995,semanding,kecamatan
+1996,tuban,kecamatan
+1997,jenu,kecamatan
+1998,merakurak,kecamatan
+1999,kerek,kecamatan
+2000,tambakboyo,kecamatan
+2001,jatirogo,kecamatan
+2002,bancar,kecamatan
+2003,grabagan,kecamatan
+2004,sukorame,kecamatan
+2005,bluluk,kecamatan
+2006,ngimbang,kecamatan
+2007,sambeng,kecamatan
+2008,mantup,kecamatan
+2009,kambang bahu,kecamatan
+2010,sugio,kecamatan
+2011,kedungpring,kecamatan
+2012,modo,kecamatan
+2013,babat,kecamatan
+2014,pucuk,kecamatan
+2015,sukodadi,kecamatan
+2016,lamongan,kecamatan
+2017,tikung,kecamatan
+2018,deket,kecamatan
+2019,glagah,kecamatan
+2020,karangbinangun,kecamatan
+2021,turi,kecamatan
+2022,kalitengah,kecamatan
+2023,karang geneng,kecamatan
+2024,sekaran,kecamatan
+2025,maduran,kecamatan
+2026,laren,kecamatan
+2027,solokuro,kecamatan
+2028,paciran,kecamatan
+2029,brondong,kecamatan
+2030,sarirejo,kecamatan
+2031,kebonsari,kecamatan
+2032,geger,kecamatan
+2033,dolopo,kecamatan
+2034,dagangan,kecamatan
+2035,wungu,kecamatan
+2036,kare,kecamatan
+2037,gemarang,kecamatan
+2038,saradan,kecamatan
+2039,pilangkenceng,kecamatan
+2040,mejayan,kecamatan
+2041,wonoasri,kecamatan
+2042,balerejo,kecamatan
+2043,madiun,kecamatan
+2044,sawahan,kecamatan
+2045,jiwan,kecamatan
+2046,sine,kecamatan
+2047,ngrambe,kecamatan
+2048,jogorogo,kecamatan
+2049,kendal,kecamatan
+2050,geneng,kecamatan
+2051,kwadungan,kecamatan
+2052,pangkur,kecamatan
+2053,karangjati,kecamatan
+2054,bringin,kecamatan
+2055,padas,kecamatan
+2056,ngawi,kecamatan
+2057,paron,kecamatan
+2058,kedunggalar,kecamatan
+2059,pitu,kecamatan
+2060,widodaren,kecamatan
+2061,mantingan,kecamatan
+2062,karanganyar,kecamatan
+2063,gerih,kecamatan
+2064,kasreman,kecamatan
+2065,poncol,kecamatan
+2066,parang,kecamatan
+2067,lembeyan,kecamatan
+2068,takeran,kecamatan
+2069,kawedanan,kecamatan
+2070,magetan,kecamatan
+2071,plaosan,kecamatan
+2072,panekan,kecamatan
+2073,sukomoro,kecamatan
+2074,bendo,kecamatan
+2075,maospati,kecamatan
+2076,karangrejo,kecamatan
+2078,kartoharjo,kecamatan
+2079,karas,kecamatan
+2080,ngariboyo,kecamatan
+2081,nguntoronadi,kecamatan
+2082,sidorejo,kecamatan
+2083,ngrayun,kecamatan
+2084,slahung,kecamatan
+2085,bungkal,kecamatan
+2086,sambit,kecamatan
+2087,sawoo,kecamatan
+2088,sooko,kecamatan
+2089,pulung,kecamatan
+2090,mlarak,kecamatan
+2091,siman,kecamatan
+2092,jetis,kecamatan
+2093,balong,kecamatan
+2094,kauman,kecamatan
+2095,jambon,kecamatan
+2096,badegan,kecamatan
+2097,sampung,kecamatan
+2098,sukorejo,kecamatan
+2099,ponorogo,kecamatan
+2100,babadan,kecamatan
+2101,jenangan,kecamatan
+2102,ngebel,kecamatan
+2103,pudak,kecamatan
+2104,donorejo,kecamatan
+2105,punung,kecamatan
+2106,pringkuku,kecamatan
+2107,pacitan,kecamatan
+2108,kebon agung,kecamatan
+2109,arjosari,kecamatan
+2110,nawangan,kecamatan
+2111,bandar,kecamatan
+2112,tegalombo,kecamatan
+2113,tulakan,kecamatan
+2114,ngadirojo,kecamatan
+2115,sudimoro,kecamatan
+2116,kras,kecamatan
+2117,ringinrejo,kecamatan
+2118,ngancar,kecamatan
+2119,kepung,kecamatan
+2120,puncu,kecamatan
+2121,ploso klaten,kecamatan
+2122,wates,kecamatan
+2123,kandat,kecamatan
+2124,ngadiluwih,kecamatan
+2125,mojo,kecamatan
+2126,semen,kecamatan
+2127,banyakan,kecamatan
+2128,tarokan,kecamatan
+2129,grogol,kecamatan
+2130,gampengrejo,kecamatan
+2131,gurah,kecamatan
+2132,pagu,kecamatan
+2133,papar,kecamatan
+2134,plemahan,kecamatan
+2135,purwoasri,kecamatan
+2136,kunjang,kecamatan
+2137,pare,kecamatan
+2138,kandangan,kecamatan
+2139,kayen kidul,kecamatan
+2140,ngasem,kecamatan
+2141,badas,kecamatan
+2142,sawahan,kecamatan
+2143,ngetos,kecamatan
+2144,berbek,kecamatan
+2145,loceret,kecamatan
+2146,pace,kecamatan
+2147,tanjunganom,kecamatan
+2148,prambon,kecamatan
+2149,ngronggot,kecamatan
+2150,kertosono,kecamatan
+2151,patianrowo,kecamatan
+2152,baron,kecamatan
+2153,gondang,kecamatan
+2154,sukomoro,kecamatan
+2155,nganjuk,kecamatan
+2156,bagor,kecamatan
+2157,wilangan,kecamatan
+2158,rejoso,kecamatan
+2159,ngluyu,kecamatan
+2160,lengkong,kecamatan
+2161,jatikalen,kecamatan
+2162,bakung,kecamatan
+2163,wonotirto,kecamatan
+2164,panggungrejo,kecamatan
+2165,wates,kecamatan
+2166,binangun,kecamatan
+2167,sutojayan,kecamatan
+2168,kademangan,kecamatan
+2169,kanigoro,kecamatan
+2170,talun,kecamatan
+2171,selopuro,kecamatan
+2172,kesamben,kecamatan
+2173,selorejo,kecamatan
+2174,doko,kecamatan
+2175,wlingi,kecamatan
+2176,gandusari,kecamatan
+2177,garum,kecamatan
+2178,nglegok,kecamatan
+2179,sanankulon,kecamatan
+2180,ponggok,kecamatan
+2181,srengat,kecamatan
+2182,wonodadi,kecamatan
+2183,udanawu,kecamatan
+2184,besuki,kecamatan
+2185,bandung,kecamatan
+2186,pakel,kecamatan
+2187,campur darat,kecamatan
+2188,tanggung gunung,kecamatan
+2189,kalidawir,kecamatan
+2190,pucang laban,kecamatan
+2191,rejotangan,kecamatan
+2192,ngunut,kecamatan
+2193,sumbergempol,kecamatan
+2194,boyolangu,kecamatan
+2195,tulungagung,kecamatan
+2196,kedungwaru,kecamatan
+2197,ngantru,kecamatan
+2198,karangrejo,kecamatan
+2199,kauman,kecamatan
+2200,gondang,kecamatan
+2201,pagerwojo,kecamatan
+2202,sendang,kecamatan
+2203,panggul,kecamatan
+2204,munjungan,kecamatan
+2205,watulimo,kecamatan
+2206,kampak,kecamatan
+2207,dongko,kecamatan
+2208,pule,kecamatan
+2209,karangan,kecamatan
+2210,gandusari,kecamatan
+2211,durenan,kecamatan
+2212,pogalan,kecamatan
+2213,trenggalek,kecamatan
+2214,tugu,kecamatan
+2215,bendungan,kecamatan
+2216,suruh,kecamatan
+2217,donomulyo,kecamatan
+2218,kalipare,kecamatan
+2219,pagak,kecamatan
+2220,bantur,kecamatan
+2221,gedangan,kecamatan
+2222,sumber manjing wetan,kecamatan
+2223,dampit,kecamatan
+2224,tirto yudo,kecamatan
+2225,ampelgading,kecamatan
+2226,poncokusumo,kecamatan
+2227,wajak,kecamatan
+2228,turen,kecamatan
+2229,pagelaran,kecamatan
+2230,gondanglegi,kecamatan
+2231,bululawang,kecamatan
+2232,kepanjen,kecamatan
+2233,sumberpucung,kecamatan
+2234,kromengan,kecamatan
+2235,wonosari,kecamatan
+2236,ngajum,kecamatan
+2237,wagir,kecamatan
+2238,pakisaji,kecamatan
+2239,tajinan,kecamatan
+2240,tumpang,kecamatan
+2241,pakis,kecamatan
+2242,jabung,kecamatan
+2243,lawang,kecamatan
+2244,singosari,kecamatan
+2245,karangploso,kecamatan
+2246,dau,kecamatan
+2247,pujon,kecamatan
+2248,ngantang,kecamatan
+2249,kasembon,kecamatan
+2250,purwodadi,kecamatan
+2251,tutur,kecamatan
+2252,puspo,kecamatan
+2253,tosari,kecamatan
+2254,lumbang,kecamatan
+2255,pasrepan,kecamatan
+2256,kejayan,kecamatan
+2257,wonorejo,kecamatan
+2258,purwosari,kecamatan
+2259,prigen,kecamatan
+2260,sukorejo,kecamatan
+2261,pandaan,kecamatan
+2262,gempol,kecamatan
+2263,beji,kecamatan
+2264,bangil,kecamatan
+2265,rembang,kecamatan
+2266,kraton,kecamatan
+2267,pohjentrek,kecamatan
+2268,gondang wetan,kecamatan
+2269,rejoso,kecamatan
+2270,winongan,kecamatan
+2271,grati,kecamatan
+2272,lekok,kecamatan
+2273,nguling,kecamatan
+2274,sukapura,kecamatan
+2275,sumber,kecamatan
+2276,kuripan,kecamatan
+2277,bantaran,kecamatan
+2278,leces,kecamatan
+2279,tegal siwalan,kecamatan
+2280,banyu anyar,kecamatan
+2281,tiris,kecamatan
+2282,krucil,kecamatan
+2283,gading,kecamatan
+2284,pakuniran,kecamatan
+2285,kota anyar,kecamatan
+2286,paiton,kecamatan
+2287,besuk,kecamatan
+2288,kraksaan,kecamatan
+2289,krejengan,kecamatan
+2290,pajarakan,kecamatan
+2291,maron,kecamatan
+2292,gending,kecamatan
+2293,dringu,kecamatan
+2294,wonomerto,kecamatan
+2295,lumbang,kecamatan
+2296,tongas,kecamatan
+2297,sumberasih,kecamatan
+2298,tempursari,kecamatan
+2299,pronojiwo,kecamatan
+2300,candipuro,kecamatan
+2301,pasirian,kecamatan
+2302,tempeh,kecamatan
+2303,kunir,kecamatan
+2304,yosowilangun,kecamatan
+2305,rowokangkung,kecamatan
+2306,tekung,kecamatan
+2307,lumajang,kecamatan
+2308,pasrujambe,kecamatan
+2309,senduro,kecamatan
+2310,padang,kecamatan
+2311,sukodono,kecamatan
+2312,jatiroto,kecamatan
+2313,randuagung,kecamatan
+2314,kedungjajang,kecamatan
+2315,gucialit,kecamatan
+2316,klakah,kecamatan
+2317,ranuyoso,kecamatan
+2318,sumbersuko,kecamatan
+2319,maesan,kecamatan
+2320,grujugan,kecamatan
+2321,tamanan,kecamatan
+2322,pujer,kecamatan
+2323,tlogosari,kecamatan
+2324,sukosari,kecamatan
+2325,tapen,kecamatan
+2326,wonosari,kecamatan
+2327,tenggarang,kecamatan
+2328,bondowoso,kecamatan
+2329,curahdami,kecamatan
+2330,pakem,kecamatan
+2331,wringin,kecamatan
+2332,tegalampel,kecamatan
+2333,klabang,kecamatan
+2334,prajekan,kecamatan
+2335,cermee,kecamatan
+2336,binakal,kecamatan
+2337,sumber wringin,kecamatan
+2338,sempol,kecamatan
+2339,jambesari darus sholah,kecamatan
+2340,taman krocok,kecamatan
+2341,botolinggo,kecamatan
+2342,sumber malang,kecamatan
+2343,jatibanteng,kecamatan
+2344,banyuglugur,kecamatan
+2345,besuki,kecamatan
+2346,suboh,kecamatan
+2347,mlandingan,kecamatan
+2348,bungatan,kecamatan
+2349,kendit,kecamatan
+2350,panarukan,kecamatan
+2351,situbondo,kecamatan
+2352,mangaran,kecamatan
+2353,panji,kecamatan
+2354,kapongan,kecamatan
+2355,arjasa,kecamatan
+2356,jangkar,kecamatan
+2357,asembagus,kecamatan
+2358,banyuputih,kecamatan
+2359,kencong,kecamatan
+2360,gumuk mas,kecamatan
+2361,puger,kecamatan
+2362,wuluhan,kecamatan
+2363,ambulu,kecamatan
+2364,tempurejo,kecamatan
+2365,silo,kecamatan
+2366,mayang,kecamatan
+2367,mumbulsari,kecamatan
+2368,jenggawah,kecamatan
+2369,ajung,kecamatan
+2370,rambipuji,kecamatan
+2371,balung,kecamatan
+2372,umbulsari,kecamatan
+2373,semboro,kecamatan
+2374,jombang,kecamatan
+2375,sumberbaru,kecamatan
+2376,tanggul,kecamatan
+2377,bangsalsari,kecamatan
+2378,panti,kecamatan
+2379,sukorambi,kecamatan
+2380,arjasa,kecamatan
+2381,pakusari,kecamatan
+2382,kalisat,kecamatan
+2383,ledok ombo,kecamatan
+2384,sumberjambe,kecamatan
+2385,sukowono,kecamatan
+2386,jelbuk,kecamatan
+2387,kaliwates,kecamatan
+2388,sumbersari,kecamatan
+2389,patrang,kecamatan
+2390,pesanggaran,kecamatan
+2391,bangorejo,kecamatan
+2392,purwoharjo,kecamatan
+2393,tegaldlimo,kecamatan
+2394,muncar,kecamatan
+2395,cluring,kecamatan
+2396,gambiran,kecamatan
+2397,glenmore,kecamatan
+2398,kalibaru,kecamatan
+2399,genteng,kecamatan
+2400,srono,kecamatan
+2401,rogojampi,kecamatan
+2402,kabat,kecamatan
+2403,singojuruh,kecamatan
+2404,sempu,kecamatan
+2405,songgon,kecamatan
+2406,glagah,kecamatan
+2407,banyuwangi,kecamatan
+2408,giri,kecamatan
+2409,kalipuro,kecamatan
+2410,wongsorejo,kecamatan
+2411,licin,kecamatan
+2412,tegalsari,kecamatan
+2413,siliragung,kecamatan
+2414,tlanakan,kecamatan
+2415,pademawu,kecamatan
+2416,galis,kecamatan
+2417,larangan,kecamatan
+2418,pamekasan,kecamatan
+2419,proppo,kecamatan
+2420,palengaan,kecamatan
+2421,pegantenan,kecamatan
+2422,kadur,kecamatan
+2423,pakong,kecamatan
+2424,waru,kecamatan
+2425,batu marmer,kecamatan
+2426,pasean,kecamatan
+2427,sreseh,kecamatan
+2428,torjun,kecamatan
+2429,sampang,kecamatan
+2430,camplong,kecamatan
+2431,omben,kecamatan
+2432,kedungdung,kecamatan
+2433,jrengik,kecamatan
+2434,tambelangan,kecamatan
+2435,banyuates,kecamatan
+2436,robatal,kecamatan
+2437,ketapang,kecamatan
+2438,sokobanah,kecamatan
+2439,karangpenang,kecamatan
+2440,pangarengan,kecamatan
+2441,pragaan,kecamatan
+2442,bluto,kecamatan
+2443,saronggi,kecamatan
+2444,giligenteng,kecamatan
+2445,talango,kecamatan
+2446,kalianget,kecamatan
+2447,kota sumenep,kecamatan
+2448,lenteng,kecamatan
+2449,ganding,kecamatan
+2450,guluk guluk,kecamatan
+2451,pasongsongan,kecamatan
+2452,ambunten,kecamatan
+2453,rubaru,kecamatan
+2454,dasuk,kecamatan
+2455,manding,kecamatan
+2456,batuputih,kecamatan
+2457,gapura,kecamatan
+2458,batang batang,kecamatan
+2459,dungkek,kecamatan
+2460,nonggunong,kecamatan
+2461,gayam,kecamatan
+2462,ra as,kecamatan
+2463,sapeken,kecamatan
+2464,arjasa,kecamatan
+2465,masalembu,kecamatan
+2466,batuan,kecamatan
+2467,kangayan,kecamatan
+2468,kamal,kecamatan
+2469,labang,kecamatan
+2470,kwanyar,kecamatan
+2471,modung,kecamatan
+2472,blega,kecamatan
+2473,konang,kecamatan
+2474,galis,kecamatan
+2475,tanah merah,kecamatan
+2476,tragah,kecamatan
+2477,socah,kecamatan
+2478,bangkalan,kecamatan
+2479,burneh,kecamatan
+2480,arosbaya,kecamatan
+2481,geger,kecamatan
+2482,kokop,kecamatan
+2483,tanjungbumi,kecamatan
+2484,sepulu,kecamatan
+2485,klampis,kecamatan
+2486,karang pilang,kecamatan
+2487,jambangan,kecamatan
+2488,gayungan,kecamatan
+2489,wonocolo,kecamatan
+2490,tenggilis mejoyo,kecamatan
+2491,gununganyar,kecamatan
+2492,rungkut,kecamatan
+2493,sukolilo,kecamatan
+2494,mulyorejo,kecamatan
+2495,gubeng,kecamatan
+2496,wonokromo,kecamatan
+2497,dukuh pakis,kecamatan
+2498,wiyung,kecamatan
+2499,lakarsantri,kecamatan
+2500,tandes,kecamatan
+2501,sukomanunggal,kecamatan
+2502,sawahan,kecamatan
+2503,tegal sari,kecamatan
+2504,genteng,kecamatan
+2505,tambaksari,kecamatan
+2506,kenjeran,kecamatan
+2507,simokerto,kecamatan
+2508,semampir,kecamatan
+2509,pabean cantian,kecamatan
+2510,bubutan,kecamatan
+2511,krembangan,kecamatan
+2512,asemrowo,kecamatan
+2513,benowo,kecamatan
+2514,bulak,kecamatan
+2515,pakal,kecamatan
+2516,sambi kerep,kecamatan
+2517,kedungkandang,kecamatan
+2518,sukun,kecamatan
+2519,klojen,kecamatan
+2520,blimbing,kecamatan
+2521,lowokwaru,kecamatan
+2522,manguharjo,kecamatan
+2523,taman,kecamatan
+2524,kartoharjo,kecamatan
+2525,mojoroto,kecamatan
+2526,kota kediri,kecamatan
+2527,pesantren,kecamatan
+2528,prajurit kulon,kecamatan
+2529,magersari,kecamatan
+2530,sukorejo,kecamatan
+2531,kepanjen kidul,kecamatan
+2532,sanan wetan,kecamatan
+2533,gadingrejo,kecamatan
+2534,purworejo,kecamatan
+2535,bugul kidul,kecamatan
+2536,panggungrejo,kecamatan
+2537,kademangan,kecamatan
+2538,wonoasih,kecamatan
+2539,mayangan,kecamatan
+2540,kedopok,kecamatan
+2541,kanigaran,kecamatan
+2542,batu,kecamatan
+2543,junrejo,kecamatan
+2544,bumiaji,kecamatan
+2545,lhoong,kecamatan
+2546,lho nga,kecamatan
+2547,indrapuri,kecamatan
+2548,seulimeum,kecamatan
+2549,mesjid raya,kecamatan
+2550,darussalam,kecamatan
+2551,kuta baro,kecamatan
+2552,montasik,kecamatan
+2553,ingin jaya,kecamatan
+2554,suka makmur,kecamatan
+2555,darul imarah,kecamatan
+2556,peukan bada,kecamatan
+2557,pulo aceh,kecamatan
+2558,leupung,kecamatan
+2559,kuta malaka,kecamatan
+2560,leumbah seulewah,kecamatan
+2561,kota jantho,kecamatan
+2562,baitussalam,kecamatan
+2563,krung barona jaya,kecamatan
+2564,simpang tiga,kecamatan
+2565,kuta cot glie,kecamatan
+2566,darul kamal,kecamatan
+2567,blang bintang,kecamatan
+2568,geumpang,kecamatan
+2569,glumpang tiga,kecamatan
+2570,mutiara,kecamatan
+2571,tiro/truseb,kecamatan
+2572,tangse,kecamatan
+2573,sakti,kecamatan
+2574,mila,kecamatan
+2575,padang tiji,kecamatan
+2576,delima,kecamatan
+2577,indrajaya,kecamatan
+2578,peukan baru,kecamatan
+2579,kembang tanjung,kecamatan
+2580,simpang tiga,kecamatan
+2581,kota sigli,kecamatan
+2582,pidie,kecamatan
+2583,batee,kecamatan
+2584,muara tiga,kecamatan
+2585,mane,kecamatan
+2586,grong-grong,kecamatan
+2587,mutiara timur,kecamatan
+2588,glupang baro,kecamatan
+2589,keumala,kecamatan
+2590,titeuae,kecamatan
+2591,sawang,kecamatan
+2592,nisam,kecamatan
+2593,kuta makmur,kecamatan
+2594,syamtalira bayu,kecamatan
+2595,meurah mulia,kecamatan
+2596,matangkuli,kecamatan
+2597,cot girek,kecamatan
+2598,tanah jambo aye,kecamatan
+2599,seunudon,kecamatan
+2600,baktiya,kecamatan
+2601,tanah luas,kecamatan
+2602,samudera,kecamatan
+2603,syamtalira aron,kecamatan
+2604,tanah pasir,kecamatan
+2605,langkahan,kecamatan
+2606,baktiya barat,kecamatan
+2607,simpang keramat,kecamatan
+2608,nibong,kecamatan
+2609,paya bakong,kecamatan
+2610,muara batu,kecamatan
+2611,dewantara,kecamatan
+2612,lhoksukon,kecamatan
+2613,lapang,kecamatan
+2614,pirak timu,kecamatan
+2615,geureudong pase,kecamatan
+2616,banda baro,kecamatan
+2617,nisam antara,kecamatan
+2618,serba jadi,kecamatan
+2619,birem bayeun,kecamatan
+2620,rantau selamat,kecamatan
+2621,peureulak,kecamatan
+2622,ranto peureulak,kecamatan
+2623,idi rayeuk,kecamatan
+2624,darul aman,kecamatan
+2625,nurussalam,kecamatan
+2626,julok,kecamatan
+2627,pante beudari,kecamatan
+2628,simpang ulim,kecamatan
+2629,sungai raya,kecamatan
+2630,peureulak timur,kecamatan
+2631,peureulak barat,kecamatan
+2632,banda alam,kecamatan
+2633,idi tunong,kecamatan
+2634,peudawa,kecamatan
+2635,indra makmur,kecamatan
+2636,madat,kecamatan
+2637,simpang jernih,kecamatan
+2638,darul ihsan,kecamatan
+2639,peunaron,kecamatan
+2640,idi timur,kecamatan
+2641,darul falah,kecamatan
+2642,lingge,kecamatan
+2643,bintang,kecamatan
+2644,pegasing,kecamatan
+2645,bebesen,kecamatan
+2646,silih nara,kecamatan
+2647,kuta panang,kecamatan
+2648,ketol,kecamatan
+2649,celala,kecamatan
+2650,kebayakan,kecamatan
+2651,laut tawar,kecamatan
+2652,atu lintang,kecamatan
+2653,jagong jeget,kecamatan
+2654,bies,kecamatan
+2655,rusip antara,kecamatan
+2656,johan pahlawan,kecamatan
+2657,samatiga,kecamatan
+2658,woyla,kecamatan
+2659,kaway xvi,kecamatan
+2660,sungai mas,kecamatan
+2661,bubon,kecamatan
+2662,arongan lambalek,kecamatan
+2663,meureubo,kecamatan
+2664,pantee ceureumen,kecamatan
+2665,woyla barat,kecamatan
+2666,woyla timur,kecamatan
+2667,panton reu,kecamatan
+2668,trumon,kecamatan
+2669,bakongan,kecamatan
+2670,kluet selatan,kecamatan
+2671,kluet utara,kecamatan
+2672,tapak tuan,kecamatan
+2673,samadua,kecamatan
+2674,sawang,kecamatan
+2675,meukek,kecamatan
+2676,labuhan haji,kecamatan
+2677,pasie raja,kecamatan
+2678,trumon timur,kecamatan
+2679,kluet timur,kecamatan
+2680,bakongan timur,kecamatan
+2681,kluet tengah,kecamatan
+2682,labuhan haji barat,kecamatan
+2683,labuhan haji timur,kecamatan
+2684,kota bahagia,kecamatan
+2685,trumon tengah,kecamatan
+2686,lawe alas,kecamatan
+2687,lawe sigala-gala,kecamatan
+2688,bambel,kecamatan
+2689,babussalam,kecamatan
+2690,badar,kecamatan
+2691,darul hasanah,kecamatan
+2692,babul makmur,kecamatan
+2693,lawe bulan,kecamatan
+2694,bukit tusam,kecamatan
+2695,semadam,kecamatan
+2696,babul rahmat,kecamatan
+2697,ketambe,kecamatan
+2698,deleng pokhkisen,kecamatan
+2699,lawe sumur,kecamatan
+2700,tanoh alas,kecamatan
+2701,lueser,kecamatan
+2702,teupah selatan,kecamatan
+2703,simeulue timur,kecamatan
+2704,simeulue tengah,kecamatan
+2705,salang,kecamatan
+2706,simeulue barat,kecamatan
+2707,teupah barat,kecamatan
+2708,teluk dalam,kecamatan
+2709,alafan,kecamatan
+2710,samalanga,kecamatan
+2711,pandrah,kecamatan
+2712,jeunib,kecamatan
+2713,peudada,kecamatan
+2714,juli,kecamatan
+2715,jeumpa,kecamatan
+2716,jangka,kecamatan
+2717,peusangan,kecamatan
+2718,makmur,kecamatan
+2719,ganda pura,kecamatan
+2720,simpang mamplam,kecamatan
+2721,peulimbang,kecamatan
+2722,kota juang,kecamatan
+2723,kuala,kecamatan
+2724,peusangan selatan,kecamatan
+2725,peusangan siblah krueng,kecamatan
+2726,kuta blang,kecamatan
+2727,pulau banyak,kecamatan
+2728,singkil,kecamatan
+2729,simpang kanan,kecamatan
+2730,singkil utara,kecamatan
+2731,gunung mariah,kecamatan
+2732,danau paris,kecamatan
+2733,suro makmur,kecamatan
+2734,kuta baharu,kecamatan
+2735,singkohor,kecamatan
+2736,kuala baru,kecamatan
+2737,pulau banyak barat,kecamatan
+2738,tamiang hulu,kecamatan
+2739,kejuruan muda,kecamatan
+2740,kota kuala simpang,kecamatan
+2741,seruway,kecamatan
+2742,bendahara,kecamatan
+2743,karang baru,kecamatan
+2744,manyak payed,kecamatan
+2745,rantau,kecamatan
+2746,bandar mulya,kecamatan
+2747,bandar pusaka,kecamatan
+2748,tenggulun,kecamatan
+2749,sekerak,kecamatan
+2750,darul makmur,kecamatan
+2751,kuala,kecamatan
+2752,beutong,kecamatan
+2753,seunagan,kecamatan
+2754,seunagan timur,kecamatan
+2755,kuala pesisir,kecamatan
+2756,tadu raya,kecamatan
+2757,suka makmue,kecamatan
+2758,tripa makmur,kecamatan
+2759,teunom,kecamatan
+2760,krueng sabee,kecamatan
+2761,setia bakti,kecamatan
+2762,sampoiniet,kecamatan
+2763,jaya,kecamatan
+2764,panga,kecamatan
+2765,indra jaya,kecamatan
+2766,darul hikmah,kecamatan
+2767,pasie raya,kecamatan
+2768,manggeng,kecamatan
+2769,tangan-tangan,kecamatan
+2770,blang pidie,kecamatan
+2771,susoh,kecamatan
+2772,kuala batee,kecamatan
+2773,babah rot,kecamatan
+2774,lembah sabil,kecamatan
+2775,setia bakti,kecamatan
+2776,jeumpa,kecamatan
+2777,blang kejeran,kecamatan
+2778,kuta panjang,kecamatan
+2779,rikit gaib,kecamatan
+2780,terangon,kecamatan
+2781,pinding,kecamatan
+2782,blang jerango,kecamatan
+2783,puteri betung,kecamatan
+2784,dabung gelang,kecamatan
+2785,blang pegayon,kecamatan
+2786,pantan cuaca,kecamatan
+2787,tripe jaya,kecamatan
+2788,timang gajah,kecamatan
+2789,bukit,kecamatan
+2790,bandar,kecamatan
+2791,permata,kecamatan
+2792,pintu rime gayo,kecamatan
+2793,wih pesam,kecamatan
+2794,syiah utama,kecamatan
+2795,bener kelipah,kecamatan
+2796,mesidah,kecamatan
+2797,gajah putih,kecamatan
+2798,meureudu,kecamatan
+2799,ulim,kecamatan
+2800,jangka buya,kecamatan
+2801,bandar dua,kecamatan
+2802,meurah dua,kecamatan
+2803,bandar baru,kecamatan
+2804,panteraja,kecamatan
+2805,trienggadeng,kecamatan
+2806,sukajaya,kecamatan
+2807,sukakarya,kecamatan
+2808,meuraxa,kecamatan
+2809,baiturrahman,kecamatan
+2810,kuta alam,kecamatan
+2811,syiah kuala,kecamatan
+2812,kuta raja,kecamatan
+2813,ulee kareng,kecamatan
+2814,lueng bata,kecamatan
+2815,banda raya,kecamatan
+2816,jaya baru,kecamatan
+2817,blang mangat,kecamatan
+2818,muara dua,kecamatan
+2819,banda sakti,kecamatan
+2820,muara satu,kecamatan
+2821,langsa timur,kecamatan
+2822,langsa barat,kecamatan
+2823,langsa kota,kecamatan
+2824,langsa lama,kecamatan
+2825,langsa baro,kecamatan
+2826,simpang kiri,kecamatan
+2827,penanggalan,kecamatan
+2828,rundeng,kecamatan
+2829,sultan daulat,kecamatan
+2830,longkib,kecamatan
+2831,gunung meriah,kecamatan
+2832,sinembah tanjung muda hul,kecamatan
+2833,sibolangit,kecamatan
+2834,kutaiimbaru,kecamatan
+2835,pancur batu,kecamatan
+2836,namo rambe,kecamatan
+2837,sibiru-biru,kecamatan
+2838,bangun purba,kecamatan
+2839,galang,kecamatan
+2840,tanjung morawa,kecamatan
+2841,patumbak,kecamatan
+2842,deli tua,kecamatan
+2843,sunggal,kecamatan
+2844,hamparan perak,kecamatan
+2845,labuhan deli,kecamatan
+2846,percut sei tuan,kecamatan
+2847,batang kuis,kecamatan
+2848,pantai labu,kecamatan
+2849,beringin,kecamatan
+2850,lubuk pakam,kecamatan
+2851,pagar marbau,kecamatan
+2852,stm hilir,kecamatan
+2853,bohorok,kecamatan
+2854,salapian,kecamatan
+2855,sei bingai,kecamatan
+2856,kuala,kecamatan
+2857,selesai,kecamatan
+2858,binjai,kecamatan
+2859,stabat,kecamatan
+2860,wampu,kecamatan
+2861,batang serangan,kecamatan
+2862,sawit seberang,kecamatan
+2863,padang tualang,kecamatan
+2864,hinai,kecamatan
+2865,secanggang,kecamatan
+2866,tanjung pura,kecamatan
+2867,gebang,kecamatan
+2868,sei lepan,kecamatan
+2869,babalan,kecamatan
+2870,berandan barat,kecamatan
+2871,besitang,kecamatan
+2872,pangkalan susu,kecamatan
+2873,serapit,kecamatan
+2874,kutambaru,kecamatan
+2875,pematang jaya,kecamatan
+2876,mardinding,kecamatan
+2877,laubaleng,kecamatan
+2878,tiga binanga,kecamatan
+2879,juhar,kecamatan
+2880,munte,kecamatan
+2881,kuta buluh,kecamatan
+2882,payung,kecamatan
+2883,simpang empat,kecamatan
+2884,kabanjahe,kecamatan
+2885,berastagi,kecamatan
+2886,tiga panah,kecamatan
+2887,merek,kecamatan
+2888,barus jahe,kecamatan
+2889,tiga binanga,kecamatan
+2890,naman teran,kecamatan
+2891,merdeka,kecamatan
+2892,dolat rayat,kecamatan
+2893,tiganderket,kecamatan
+2894,silimakuta,kecamatan
+2895,purba,kecamatan
+2896,dolok pardamean,kecamatan
+2897,sidamanik,kecamatan
+2898,girsang simpangan bolon,kecamatan
+2899,tanah jawa,kecamatan
+2900,dolok panribuan,kecamatan
+2901,jorlang hataran,kecamatan
+2902,pane,kecamatan
+2903,raya,kecamatan
+2904,dolok silau,kecamatan
+2905,silau kahean,kecamatan
+2906,raya kahean,kecamatan
+2907,tapian dolok,kecamatan
+2908,dolok batu nanggar,kecamatan
+2909,siantar,kecamatan
+2910,hutabayu raja,kecamatan
+2911,pematang bandar,kecamatan
+2912,bandar,kecamatan
+2913,bosar maligas,kecamatan
+2914,ujung padang,kecamatan
+2915,panombeian pane,kecamatan
+2916,gunung malela,kecamatan
+2917,gunung maligas,kecamatan
+2918,bandar huluan,kecamatan
+2919,bandar masilam,kecamatan
+2920,hatonduhan,kecamatan
+2921,jawa maraja bah jambi,kecamatan
+2922,haranggaol horison,kecamatan
+2923,pematang sidamanik,kecamatan
+2924,pamatang silima huta,kecamatan
+2925,sidikalang,kecamatan
+2926,parbuluan,kecamatan
+2927,sumbul,kecamatan
+2928,pegangan hilir,kecamatan
+2929,siempat nempu hulu,kecamatan
+2930,siempat nempu,kecamatan
+2931,silima pungga-pungga,kecamatan
+2932,siempat nempu hilir,kecamatan
+2933,tigalingga,kecamatan
+2934,tanah pinem,kecamatan
+2935,lae parira,kecamatan
+2936,gunung stember,kecamatan
+2937,berampu,kecamatan
+2938,sitinjo,kecamatan
+2939,silahi sabungan,kecamatan
+2940,merek,kecamatan
+2941,bandar pasir mandoge,kecamatan
+2942,bandar pulau,kecamatan
+2943,pulau rakyat,kecamatan
+2944,sei kepayang,kecamatan
+2945,tanjung balai,kecamatan
+2946,simpang empat,kecamatan
+2947,air batu,kecamatan
+2948,buntu pane,kecamatan
+2949,meranti,kecamatan
+2950,air joman,kecamatan
+2951,aek kuasan,kecamatan
+2952,kisaran barat,kecamatan
+2953,kisaran timur,kecamatan
+2954,aek songsongan,kecamatan
+2955,rahuning,kecamatan
+2956,aek ledong,kecamatan
+2957,sei kepayang barat,kecamatan
+2958,sei kepayang timur,kecamatan
+2959,teluk dalam,kecamatan
+2960,sei dadap,kecamatan
+2961,tinggi raja,kecamatan
+2962,setia janji,kecamatan
+2963,pulo bandring,kecamatan
+2964,rawang panca arga,kecamatan
+2965,silo laut,kecamatan
+2966,bilah hulu,kecamatan
+2967,pangkatan,kecamatan
+2968,bilah barat,kecamatan
+2969,bilah hilir,kecamatan
+2970,panai hulu,kecamatan
+2971,panai tengah,kecamatan
+2972,panai hilir,kecamatan
+2973,rantau selatan,kecamatan
+2974,rantau utara,kecamatan
+2975,parmonangan,kecamatan
+2976,adian koting,kecamatan
+2977,sipoholon,kecamatan
+2978,tarutung,kecamatan
+2979,pahae jae,kecamatan
+2980,pahae julu,kecamatan
+2981,pangaribuan,kecamatan
+2982,garoga,kecamatan
+2983,sipahutar,kecamatan
+2984,siborong-borong,kecamatan
+2985,pagaran,kecamatan
+2986,muara,kecamatan
+2987,purbatua,kecamatan
+2988,simangumban,kecamatan
+2989,siatas barita,kecamatan
+2990,lumut,kecamatan
+2991,sibabangun,kecamatan
+2992,pandan,kecamatan
+2993,tapian nauli,kecamatan
+2994,kolang,kecamatan
+2995,sorkam,kecamatan
+2996,barus,kecamatan
+2997,manduamas,kecamatan
+2998,sosor gadong,kecamatan
+2999,sorkam barat,kecamatan
+3000,andam dewi,kecamatan
+3001,badiri,kecamatan
+3002,sitahuis,kecamatan
+3003,sirandorung,kecamatan
+3004,tukka,kecamatan
+3005,pinang sori,kecamatan
+3006,sukabangun,kecamatan
+3007,sarudik,kecamatan
+3008,barus utara,kecamatan
+3009,pasaribu tobing,kecamatan
+3010,batang angkola,kecamatan
+3011,batang toru,kecamatan
+3012,sipirok,kecamatan
+3013,arse,kecamatan
+3014,saipar dolok hole,kecamatan
+3015,marancar,kecamatan
+3016,sayur matinggi,kecamatan
+3017,aek bilah,kecamatan
+3018,muaro batang toru,kecamatan
+3019,angkola barat,kecamatan
+3020,angkola sangkunur,kecamatan
+3021,angkola selatan,kecamatan
+3022,angkola timur,kecamatan
+3023,tantom angkola,kecamatan
+3024,idano gawo,kecamatan
+3025,gido,kecamatan
+3026,hiliduho,kecamatan
+3027,bawalato,kecamatan
+3028,ulugawo,kecamatan
+3029,ma u,kecamatan
+3030,somolo-molo,kecamatan
+3031,hili serangkai,kecamatan
+3032,botomuzoi,kecamatan
+3033,sogaeadu,kecamatan
+3034,batahan,kecamatan
+3035,batang natal,kecamatan
+3036,kotanopan,kecamatan
+3037,muara sipongi,kecamatan
+3038,panyabungan kota,kecamatan
+3039,natal,kecamatan
+3040,muara batang gadis,kecamatan
+3041,siabu,kecamatan
+3042,panyabungan utara,kecamatan
+3043,panyabungan barat,kecamatan
+3044,panyabungan timur,kecamatan
+3045,panyabungan selatan,kecamatan
+3046,bukit malintang,kecamatan
+3047,lembah sorik merapi,kecamatan
+3048,ulu pungut,kecamatan
+3049,tambangan,kecamatan
+3050,langga bayu,kecamatan
+3051,balige,kecamatan
+3052,lagu boti,kecamatan
+3053,habinsaran,kecamatan
+3054,silaen,kecamatan
+3055,porsea,kecamatan
+3056,lumban julu,kecamatan
+3057,uluan,kecamatan
+3058,pintu pohan meranti,kecamatan
+3059,ajibata,kecamatan
+3060,borbor,kecamatan
+3061,tampahan,kecamatan
+3062,nassau,kecamatan
+3063,sigumpar,kecamatan
+3064,siantar narumonda,kecamatan
+3065,parmaksian,kecamatan
+3066,bonatua lunasi,kecamatan
+3067,pulau-pulau batu,kecamatan
+3068,teluk dalam,kecamatan
+3069,amandraya,kecamatan
+3070,lahusa,kecamatan
+3071,gomo,kecamatan
+3072,lolomatua,kecamatan
+3073,lolowa`u,kecamatan
+3074,hibala,kecamatan
+3075,susua,kecamatan
+3076,maniamolo,kecamatan
+3077,hilimegai,kecamatan
+3078,toma,kecamatan
+3079,mazino,kecamatan
+3080,umbunasi,kecamatan
+3081,aramo,kecamatan
+3082,pulau-pulau batu timur,kecamatan
+3083,mazo,kecamatan
+3084,fanayama,kecamatan
+3085,salak,kecamatan
+3086,kerajaan,kecamatan
+3087,sitelutali urang jehe,kecamatan
+3088,sitelutali urang jehe,kecamatan
+3089,pangindar,kecamatan
+3090,pergetteng-getteng sengku,kecamatan
+3091,tinada,kecamatan
+3092,siempat rube,kecamatan
+3093,sitelu tali urang julu,kecamatan
+3094,pakkat,kecamatan
+3095,onan ganjang,kecamatan
+3096,lintong nihuta,kecamatan
+3097,dolok sanggul,kecamatan
+3098,parlilitan,kecamatan
+3099,pollung,kecamatan
+3100,paranginan,kecamatan
+3101,bakti raja,kecamatan
+3102,sijamapolang,kecamatan
+3103,tarabintang,kecamatan
+3104,harian,kecamatan
+3105,sianjur mula mula,kecamatan
+3106,onan runggu timur,kecamatan
+3107,palipi,kecamatan
+3108,pangururan,kecamatan
+3109,simanindo,kecamatan
+3110,nainggolan,kecamatan
+3111,ronggur nihuta,kecamatan
+3112,sitiotio,kecamatan
+3113,kotarih,kecamatan
+3114,dolok masihul,kecamatan
+3115,sipispis,kecamatan
+3116,dolok merawan,kecamatan
+3117,tebing tinggi,kecamatan
+3118,bandar khalifah,kecamatan
+3119,tanjung beringin,kecamatan
+3120,teluk mengkudu,kecamatan
+3121,sei rampah,kecamatan
+3122,perbaungan,kecamatan
+3123,pantai cermin,kecamatan
+3124,silinda,kecamatan
+3125,bintang bayu,kecamatan
+3126,serbajadi,kecamatan
+3127,tebing syahbandar,kecamatan
+3128,sei bamban,kecamatan
+3129,pegajahan,kecamatan
+3130,medang deras,kecamatan
+3131,air putih,kecamatan
+3132,lima puluh,kecamatan
+3133,sei balai,kecamatan
+3134,sei suka,kecamatan
+3135,talawi,kecamatan
+3136,tanjung tiram,kecamatan
+3137,padang bolak julu,kecamatan
+3138,padang bolak,kecamatan
+3139,halongonan,kecamatan
+3140,dolok sxigompulon,kecamatan
+3141,portibi,kecamatan
+3142,simangambat,kecamatan
+3143,batang onang,kecamatan
+3144,dolok,kecamatan
+3145,hulu sihapas,kecamatan
+3146,barumun,kecamatan
+3147,sosa,kecamatan
+3148,barumun tengah,kecamatan
+3149,batang lubu sutam.,kecamatan
+3150,huta raja tinggi,kecamatan
+3151,lubuk barumun,kecamatan
+3152,huristak,kecamatan
+3153,ulu barumun,kecamatan
+3154,sosopan,kecamatan
+3155,barumun selatan,kecamatan
+3156,aek nabara barumun,kecamatan
+3157,na ix-x,kecamatan
+3158,aek natas,kecamatan
+3159,aek kuo,kecamatan
+3160,kualuh hilir,kecamatan
+3161,kualuh selatan,kecamatan
+3162,kualuh hulu,kecamatan
+3163,kualuh leidong,kecamatan
+3164,marbau,kecamatan
+3165,sungai kanan,kecamatan
+3166,torgamba,kecamatan
+3167,kota pinang,kecamatan
+3168,silangkitang,kecamatan
+3169,kampung rakyat,kecamatan
+3170,lolofitu moi,kecamatan
+3171,sirombu,kecamatan
+3172,lahomi,kecamatan
+3173,mandrehe,kecamatan
+3174,mandrehe barat,kecamatan
+3175,moro o,kecamatan
+3176,mandrehe barat,kecamatan
+3177,ulo moro o,kecamatan
+3178,tuhemberua,kecamatan
+3179,lotu,kecamatan
+3180,sitolu ori,kecamatan
+3181,sawo,kecamatan
+3182,alasa,kecamatan
+3183,namohalu esiwa,kecamatan
+3184,alasa talu muzoi,kecamatan
+3185,tugala oyo,kecamatan
+3186,lahewa,kecamatan
+3187,afulu,kecamatan
+3188,lahewa timur,kecamatan
+3189,medan tuntungan,kecamatan
+3190,medan johor,kecamatan
+3191,medan amplas,kecamatan
+3192,medan denai,kecamatan
+3193,medan area,kecamatan
+3194,medan kota,kecamatan
+3195,medan maimun,kecamatan
+3196,medan polonia,kecamatan
+3197,medan baru,kecamatan
+3198,medan selayang,kecamatan
+3199,medan sunggal,kecamatan
+3200,medan helvetia,kecamatan
+3201,medan petisah,kecamatan
+3202,medan barat,kecamatan
+3203,medan timur,kecamatan
+3204,medan perjuangan,kecamatan
+3205,medan tembung,kecamatan
+3206,medan deli,kecamatan
+3207,medan labuhan,kecamatan
+3208,medan marelan,kecamatan
+3209,medan kota belawan,kecamatan
+3210,binjai selatan,kecamatan
+3211,binjai kota,kecamatan
+3212,binjai timur,kecamatan
+3213,binjai utara,kecamatan
+3214,binjai barat,kecamatan
+3215,padang hulu,kecamatan
+3216,rambutan,kecamatan
+3217,padang hilir,kecamatan
+3218,bajenis,kecamatan
+3219,tebing tinggi kota,kecamatan
+3220,siantar marihat,kecamatan
+3221,siantar selatan,kecamatan
+3222,siantar barat,kecamatan
+3223,siantar utara,kecamatan
+3224,siantar timur,kecamatan
+3225,siantar martoba,kecamatan
+3226,siantar marimbun,kecamatan
+3227,siantar sitalasari,kecamatan
+3228,datuk bandar,kecamatan
+3229,tanjung balai selatan,kecamatan
+3230,tanjung balai utara,kecamatan
+3231,s. tualang raso,kecamatan
+3232,teluk nibung,kecamatan
+3233,datuk bandar timur,kecamatan
+3234,sibolga utara,kecamatan
+3235,sibolga kota,kecamatan
+3236,sibolga selatan,kecamatan
+3237,sibolga sambas,kecamatan
+3238,padang sidimpuan selatan,kecamatan
+3239,padang sidimpuan utara,kecamatan
+3240,padang sidimpuan batu nad,kecamatan
+3241,padang sidimpuan hutaimba,kecamatan
+3242,padang sidimpuan tenggara,kecamatan
+3243,padang sidimpuan angkola,kecamatan
+3244,gunung sitoli idanoi,kecamatan
+3245,gunung sitoli alo oa,kecamatan
+3246,gunung sitoli,kecamatan
+3247,gunung sitoli selatan,kecamatan
+3248,gunung sitoli barat,kecamatan
+3249,gunung sitoli utara,kecamatan
+3250,tanjung mutiara,kecamatan
+3251,lubuk basung,kecamatan
+3252,tanjung raya,kecamatan
+3253,matur,kecamatan
+3254,iv koto,kecamatan
+3255,iv angkat candung,kecamatan
+3256,baso,kecamatan
+3257,tilatang kamang,kecamatan
+3258,palembayan,kecamatan
+3259,palupuh,kecamatan
+3260,sungai pua,kecamatan
+3261,candung,kecamatan
+3262,kamang magek,kecamatan
+3263,banuhampu,kecamatan
+3264,ampek angkek,kecamatan
+3265,malalak,kecamatan
+3266,ampek nagari,kecamatan
+3267,bonjol,kecamatan
+3268,lubuk sikaping,kecamatan
+3269,ii koto,kecamatan
+3270,panti,kecamatan
+3271,iii nagari,kecamatan
+3272,rao,kecamatan
+3273,mapat tunggul,kecamatan
+3274,mapat tunggul selatan,kecamatan
+3275,simpang alahan mati,kecamatan
+3276,padang gelugur,kecamatan
+3277,rao utara,kecamatan
+3278,rao selatan,kecamatan
+3279,payakumbuh,kecamatan
+3280,luak,kecamatan
+3281,harau,kecamatan
+3282,guguak,kecamatan
+3283,suliki,kecamatan
+3284,gunuang omeh,kecamatan
+3285,kapur ix,kecamatan
+3286,pangkalan koto baru,kecamatan
+3287,bukkt barisan,kecamatan
+3288,mungka,kecamatan
+3289,akabiluru,kecamatan
+3290,situjuah limo nagari,kecamatan
+3291,lareh sago halaban,kecamatan
+3292,pantai cermin,kecamatan
+3293,lembah gumanti,kecamatan
+3294,payung sekaki,kecamatan
+3295,lembang jaya,kecamatan
+3296,gunung talang,kecamatan
+3297,bukit sundi,kecamatan
+3298,kubung,kecamatan
+3299,ix koto sungai lasi,kecamatan
+3300,x koto diatas,kecamatan
+3301,x koto singkarak,kecamatan
+3302,junjung sirih,kecamatan
+3303,hiliran gumanti,kecamatan
+3304,tigo lurah,kecamatan
+3305,danau kembar,kecamatan
+3306,batang anai,kecamatan
+3307,lubuk alung,kecamatan
+3308,ulakan tapakis,kecamatan
+3309,nan sabaris,kecamatan
+3310,2 x 11 vi lingkung,kecamatan
+3311,vii koto sungai sarik,kecamatan
+3312,v koto kampung dalam,kecamatan
+3313,sungai limau,kecamatan
+3314,sungai geringging,kecamatan
+3315,iv koto aur malintang,kecamatan
+3316,batang gasan,kecamatan
+3317,v koto timur,kecamatan
+3318,patamuan,kecamatan
+3319,padang sago,kecamatan
+3320,2 x 11 kayu tanam,kecamatan
+3321,sintuk toboh gadang,kecamatan
+3322,vi lingkung,kecamatan
+3323,lunang silaut,kecamatan
+3324,basa iv balai tapan,kecamatan
+3325,pancung soal,kecamatan
+3326,linggo saribaganti,kecamatan
+3327,ranah pesisir,kecamatan
+3328,lengayang,kecamatan
+3329,sutera,kecamatan
+3330,batang kapas,kecamatan
+3331,iv jurai,kecamatan
+3332,bayang,kecamatan
+3333,koto xi terusan,kecamatan
+3334,iv bayang utara,kecamatan
+3335,sepuluh koto,kecamatan
+3336,batipuh,kecamatan
+3337,pariangan,kecamatan
+3338,rambatan,kecamatan
+3339,lima kaum,kecamatan
+3340,tanjung mas,kecamatan
+3341,padang ganting,kecamatan
+3342,lintau buo,kecamatan
+3343,sungayang,kecamatan
+3344,sungai tarab,kecamatan
+3345,salimpaung,kecamatan
+3346,batipuh selatan,kecamatan
+3347,lintau buo utara,kecamatan
+3348,tanjung baru,kecamatan
+3349,kamang baru,kecamatan
+3350,tanjung gadang,kecamatan
+3351,sijunjung,kecamatan
+3352,iv nagari,kecamatan
+3353,kupitan,kecamatan
+3354,koto tujuh,kecamatan
+3355,sumpur kudus,kecamatan
+3356,lubuk tarok,kecamatan
+3357,pagai utara,kecamatan
+3358,sipora selatan,kecamatan
+3359,siberut selatan,kecamatan
+3360,siberut utara,kecamatan
+3361,siberut barat,kecamatan
+3362,siberut barat daya,kecamatan
+3363,siberut tengah,kecamatan
+3364,sipora utara,kecamatan
+3365,sikakap,kecamatan
+3366,pagai selatan,kecamatan
+3367,siberut barat,kecamatan
+3368,sangir,kecamatan
+3369,sungai pagu,kecamatan
+3370,koto parik gadang diateh,kecamatan
+3371,sangir jujuhan,kecamatan
+3372,sangir batanghari,kecamatan
+3373,pauah duo,kecamatan
+3374,sangir balai janggo,kecamatan
+3375,sungai rumbai,kecamatan
+3376,koto baru,kecamatan
+3377,sitiung,kecamatan
+3378,pulau punjung,kecamatan
+3379,sembilan koto,kecamatan
+3380,timpeh,kecamatan
+3381,koto salak,kecamatan
+3382,tiumang,kecamatan
+3383,padang laweh,kecamatan
+3384,asam jujuhan,kecamatan
+3385,koto besar,kecamatan
+3386,sungai beremas,kecamatan
+3387,ranah batahan,kecamatan
+3388,lembah melintang,kecamatan
+3389,gunung tuleh,kecamatan
+3390,pasaman,kecamatan
+3391,kinali,kecamatan
+3392,talamau,kecamatan
+3393,koto balingka,kecamatan
+3394,luhak nan duo,kecamatan
+3395,sasak ranah pesisir,kecamatan
+3396,sungai aur,kecamatan
+3397,guguk panjang,kecamatan
+3398,mandiangin koto selayan,kecamatan
+3399,aur birugo tigo baleh,kecamatan
+3400,bungus teluk kabung,kecamatan
+3401,lubuk kilangan,kecamatan
+3402,lubuk begalung,kecamatan
+3403,padang selatan,kecamatan
+3404,padang timur,kecamatan
+3405,padang barat,kecamatan
+3406,padang utara,kecamatan
+3407,nanggalo,kecamatan
+3408,kuranji,kecamatan
+3409,pauh,kecamatan
+3410,koto tangah,kecamatan
+3411,padang panjang barat,kecamatan
+3412,padang panjang timur,kecamatan
+3413,silungkang,kecamatan
+3414,lembah segar,kecamatan
+3415,barangin,kecamatan
+3416,talawi,kecamatan
+3417,lubuk sikarah,kecamatan
+3418,tanjung harapan,kecamatan
+3419,payakumbuh barat,kecamatan
+3420,payakumbuh timur,kecamatan
+3421,payakumbuh utara,kecamatan
+3422,lamposi tigo nagori,kecamatan
+3423,payakumbuh selatan,kecamatan
+3424,pariaman selatan,kecamatan
+3425,pariaman tengah,kecamatan
+3426,pariaman utara,kecamatan
+3427,pariaman timur,kecamatan
+3428,xiii koto kampar,kecamatan
+3429,kampar kiri,kecamatan
+3430,kampar,kecamatan
+3431,tambang,kecamatan
+3432,bangkinang,kecamatan
+3433,bangkinang barat,kecamatan
+3434,siak hulu,kecamatan
+3435,tapung,kecamatan
+3436,kampar kiri hulu,kecamatan
+3437,kampar kiri hilir,kecamatan
+3438,tapung hulu,kecamatan
+3439,tapung hilir,kecamatan
+3440,tapung kiri,kecamatan
+3441,salo,kecamatan
+3442,rumbio jaya,kecamatan
+3443,bangkinang seberang,kecamatan
+3444,perhentian raja,kecamatan
+3445,kampar timur,kecamatan
+3446,kampar utara,kecamatan
+3447,kampar kiri tengah,kecamatan
+3448,gunung sahilan,kecamatan
+3449,koto kampar hulu,kecamatan
+3450,mandau,kecamatan
+3451,bengkalis,kecamatan
+3452,bantan,kecamatan
+3453,bukit batu,kecamatan
+3454,rupat,kecamatan
+3455,rupat utara,kecamatan
+3456,siak kecil,kecamatan
+3457,pinggir,kecamatan
+3458,peranap,kecamatan
+3459,pasir penyu,kecamatan
+3460,kelayang,kecamatan
+3461,seberida,kecamatan
+3462,rengat,kecamatan
+3463,rengat barat,kecamatan
+3464,lirik,kecamatan
+3465,batang gansal,kecamatan
+3466,batang cenaku,kecamatan
+3467,batang peranap,kecamatan
+3468,lubuk batu jaya,kecamatan
+3469,sei lala,kecamatan
+3470,rakit kulim,kecamatan
+3471,kuala cenaku,kecamatan
+3472,keritang,kecamatan
+3473,reteh,kecamatan
+3474,enok,kecamatan
+3475,tanah merah,kecamatan
+3476,kuala indragiri,kecamatan
+3477,tembilahan,kecamatan
+3478,tempuling,kecamatan
+3479,batang tuaka,kecamatan
+3480,gaung anak serka,kecamatan
+3481,gaung,kecamatan
+3482,mandah,kecamatan
+3483,kateman,kecamatan
+3484,kemuning,kecamatan
+3485,pelangiran,kecamatan
+3486,pulau burung,kecamatan
+3487,teluk blengkong,kecamatan
+3488,tembilahan hulu,kecamatan
+3489,concong,kecamatan
+3490,kempas,kecamatan
+3491,sungai batang,kecamatan
+3492,langgam,kecamatan
+3493,pangkalan kuras,kecamatan
+3494,bunut,kecamatan
+3495,kuala kampar,kecamatan
+3496,pangkalan kerinci,kecamatan
+3497,ukui,kecamatan
+3498,pangkalan lesung,kecamatan
+3499,kerumutan,kecamatan
+3500,pelalawan,kecamatan
+3501,teluk meranti,kecamatan
+3502,bandar sei kijang,kecamatan
+3503,bandar petalangan,kecamatan
+3504,ujung batu,kecamatan
+3505,rokan iv koto,kecamatan
+3506,rambah,kecamatan
+3507,tembusai,kecamatan
+3508,kepenuhan,kecamatan
+3509,kunto darussalam,kecamatan
+3510,rambah samo,kecamatan
+3511,rambah hilir,kecamatan
+3512,tembusai utara,kecamatan
+3513,bangun purba,kecamatan
+3514,tandun,kecamatan
+3515,kabun,kecamatan
+3516,bonai darussalam,kecamatan
+3517,pagaran tapah darussalam,kecamatan
+3518,pendalian iv koto,kecamatan
+3519,kepenuhan hulu,kecamatan
+3520,kubu,kecamatan
+3521,bangko,kecamatan
+3522,tanah putih,kecamatan
+3523,rimba melintang,kecamatan
+3524,bagan sinembah,kecamatan
+3525,pasir limau kapas,kecamatan
+3526,sinaboi,kecamatan
+3527,tanah putih tanjung melaw,kecamatan
+3528,pujud,kecamatan
+3529,bangko pusako,kecamatan
+3530,simpang kanan,kecamatan
+3531,batu hampar,kecamatan
+3532,rantau kopar,kecamatan
+3533,minas,kecamatan
+3534,siak,kecamatan
+3535,sungai apit,kecamatan
+3536,tualang,kecamatan
+3537,kerinci kanan,kecamatan
+3538,dayun,kecamatan
+3539,bunga raya,kecamatan
+3540,sungai mandau,kecamatan
+3541,kandis,kecamatan
+3542,lubuk dalam,kecamatan
+3543,koto gasip,kecamatan
+3544,pusako,kecamatan
+3545,sabak auh,kecamatan
+3546,sungai mempura,kecamatan
+3547,mempura,kecamatan
+3548,kuantan mudik,kecamatan
+3549,kuantan tengah,kecamatan
+3550,benai,kecamatan
+3551,singingi,kecamatan
+3552,kuantan hilir,kecamatan
+3553,cerenti,kecamatan
+3554,pangean,kecamatan
+3555,logas tanah darat,kecamatan
+3556,inuman,kecamatan
+3557,singingi hilir,kecamatan
+3558,hulu kuantan,kecamatan
+3559,gunung toar,kecamatan
+3560,merbau,kecamatan
+3561,rangsang,kecamatan
+3562,rangsang barat,kecamatan
+3563,tebing tinggi,kecamatan
+3564,tebing tinggi barat,kecamatan
+3565,tasik putri puyu,kecamatan
+3566,pulau merbau,kecamatan
+3567,tebing tinggi timur,kecamatan
+3568,rangsang pesisir,kecamatan
+3569,tampan,kecamatan
+3570,bukit raya,kecamatan
+3571,lima puluh,kecamatan
+3572,sail,kecamatan
+3573,pekanbaru kota,kecamatan
+3574,sukajadi,kecamatan
+3575,senapelan,kecamatan
+3576,rumbai,kecamatan
+3577,tenayan raya,kecamatan
+3578,marpoyan damai,kecamatan
+3579,rumbai pesisir,kecamatan
+3580,payung sekaki,kecamatan
+3581,bukit kapur,kecamatan
+3582,dumai barat,kecamatan
+3583,dumai timur,kecamatan
+3584,medang kampai,kecamatan
+3585,sungai sembilan,kecamatan
+3586,dumai kota,kecamatan
+3587,dumai selatan,kecamatan
+3588,mersan,kecamatan
+3589,muara tembesi,kecamatan
+3590,batin xxiv,kecamatan
+3591,muara bulian,kecamatan
+3592,pemayung,kecamatan
+3593,maro sebo ulu,kecamatan
+3594,bajubang,kecamatan
+3595,maro sebo ilir,kecamatan
+3596,tanah tumbuh,kecamatan
+3597,tanah sepenggal,kecamatan
+3598,jujuhan,kecamatan
+3599,rantau pandan,kecamatan
+3600,pasar muara bungo,kecamatan
+3601,pelepat,kecamatan
+3602,pelepat ilir,kecamatan
+3603,limbur lubuk mengkuang,kecamatan
+3604,bathin ii babeko,kecamatan
+3605,muko muko batin vii,kecamatan
+3606,bungo dani,kecamatan
+3607,bathin iii,kecamatan
+3608,bathin iii ulu,kecamatan
+3609,tanah sepenggal luas,kecamatan
+3610,bathin ii pelayang,kecamatan
+3611,jujuhan ilir,kecamatan
+3612,rimbo tengah,kecamatan
+3613,tanah sepenggal lintas,kecamatan
+3614,batang asai,kecamatan
+3615,limun,kecamatan
+3616,sarolangon,kecamatan
+3617,pelawan,kecamatan
+3618,pauh,kecamatan
+3619,mandiangin,kecamatan
+3620,air hitam,kecamatan
+3621,bathin viii,kecamatan
+3622,singkut,kecamatan
+3623,cermin nan gadang,kecamatan
+3624,tungkal ulu,kecamatan
+3625,pengabuan,kecamatan
+3626,tungkal ilir,kecamatan
+3627,betara,kecamatan
+3628,merlung,kecamatan
+3629,batang asam,kecamatan
+3630,tebing tinggi,kecamatan
+3631,renah mendalu,kecamatan
+3632,muara papalik,kecamatan
+3633,senyerang,kecamatan
+3634,bram itam,kecamatan
+3635,seberang kota,kecamatan
+3636,kuala betara,kecamatan
+3637,gunung raya,kecamatan
+3638,batang merangin,kecamatan
+3639,keliling danau,kecamatan
+3640,danau kerinci,kecamatan
+3641,sitinjau laut,kecamatan
+3642,air hangat,kecamatan
+3643,gunung kerinci,kecamatan
+3644,kayu aro,kecamatan
+3645,air hangat timur,kecamatan
+3646,gunung tujuh,kecamatan
+3647,siulak,kecamatan
+3648,depati tujuh,kecamatan
+3649,rimbo bujang,kecamatan
+3650,tebo ilir,kecamatan
+3651,tebo tengah,kecamatan
+3652,tebo ulu,kecamatan
+3653,sumay,kecamatan
+3654,vii koto,kecamatan
+3655,rimbo ilir,kecamatan
+3656,rimbo ulu,kecamatan
+3657,tengah ilir,kecamatan
+3658,serai serumpun,kecamatan
+3659,vii koto ilir,kecamatan
+3660,muara tabir,kecamatan
+3661,jambi luar kota,kecamatan
+3662,mestong,kecamatan
+3663,kumpeh ulu,kecamatan
+3664,sekernan,kecamatan
+3665,maro sebo,kecamatan
+3666,kumpeh,kecamatan
+3667,sungai bahar,kecamatan
+3668,sungai gelam,kecamatan
+3669,muara sabak,kecamatan
+3670,mendahara,kecamatan
+3671,dendang,kecamatan
+3672,nipah panjang,kecamatan
+3673,rantau rasau,kecamatan
+3674,sadu,kecamatan
+3675,mendahara ulu,kecamatan
+3676,geragai,kecamatan
+3677,muara sabak barat,kecamatan
+3678,kuala jambi,kecamatan
+3679,berbak,kecamatan
+3680,muara sabak timur,kecamatan
+3681,jangkat,kecamatan
+3682,bangko,kecamatan
+3683,pamenang,kecamatan
+3684,muara siau,kecamatan
+3685,sungai manau,kecamatan
+3686,tabir,kecamatan
+3687,tabir ulu,kecamatan
+3688,lembah masuarai,kecamatan
+3689,tabir selatan,kecamatan
+3690,bangko barat,kecamatan
+3691,nalo tantan,kecamatan
+3692,batang masumai,kecamatan
+3693,pamenang barat,kecamatan
+3694,tabir ilir,kecamatan
+3695,tabir timur,kecamatan
+3696,renah pemparap,kecamatan
+3697,pangkalan jambu,kecamatan
+3698,sungai tenang,kecamatan
+3699,tiang pumpung,kecamatan
+3700,renah pamenang,kecamatan
+3701,pamenang selatan,kecamatan
+3702,tabir lintas,kecamatan
+3703,margo tabir,kecamatan
+3704,tabir barat,kecamatan
+3705,kota baru,kecamatan
+3706,jambi selatan,kecamatan
+3707,jelutung,kecamatan
+3708,pasar jambi,kecamatan
+3709,telanai pura,kecamatan
+3710,danau teluk,kecamatan
+3711,pelayangan,kecamatan
+3712,jambi timur,kecamatan
+3713,tanah kampung,kecamatan
+3714,sungai penuh,kecamatan
+3715,hamparan rawang,kecamatan
+3716,pesisir bukit,kecamatan
+3717,kumun debai,kecamatan
+3718,sanga desa,kecamatan
+3719,babat toman,kecamatan
+3720,sungai keruh,kecamatan
+3721,sekayu,kecamatan
+3722,sungai lilin,kecamatan
+3723,bayung lencir,kecamatan
+3724,lais,kecamatan
+3725,batanghari leko,kecamatan
+3726,keluang,kecamatan
+3727,plakat tinggi,kecamatan
+3728,lalan,kecamatan
+3729,tungkal jaya,kecamatan
+3730,lawang wetan,kecamatan
+3731,babat supat,kecamatan
+3732,lempuing,kecamatan
+3733,mesuji,kecamatan
+3734,tulung selapan,kecamatan
+3735,pedamaran,kecamatan
+3736,tanjung lubuk,kecamatan
+3737,kota ayu agung,kecamatan
+3738,sirah pulau padang,kecamatan
+3739,pampangan,kecamatan
+3740,air sugihan,kecamatan
+3741,cengal,kecamatan
+3742,jejawi,kecamatan
+3743,sungai menang,kecamatan
+3744,lempuing jaya,kecamatan
+3745,mesuji makmur,kecamatan
+3746,mesuji raya,kecamatan
+3747,pedamaran timur,kecamatan
+3748,teluk gelam,kecamatan
+3749,pangkalan lapam,kecamatan
+3750,sosoh buay rayap,kecamatan
+3751,pengandonan,kecamatan
+3752,peninjauan,kecamatan
+3753,lubuk batang,kecamatan
+3754,ulu ogan,kecamatan
+3755,semidang aji,kecamatan
+3756,lengkiti,kecamatan
+3757,baturaja timur,kecamatan
+3758,baturaja barat,kecamatan
+3759,sinar peninjauan,kecamatan
+3760,lubuk raja,kecamatan
+3761,muara jaya,kecamatan
+3762,semende darat laut,kecamatan
+3763,tanjung agung,kecamatan
+3764,lawang kidul,kecamatan
+3765,muara enim,kecamatan
+3766,gunung megang,kecamatan
+3767,talang ubi,kecamatan
+3768,gelumbang,kecamatan
+3769,sungai rotan,kecamatan
+3770,lembak,kecamatan
+3771,benakat,kecamatan
+3772,ujan mas,kecamatan
+3773,penukal,kecamatan
+3774,penukal utara,kecamatan
+3775,tanah abang,kecamatan
+3776,lubai,kecamatan
+3777,rambang,kecamatan
+3778,semende darat ulu,kecamatan
+3779,semende darat tengah,kecamatan
+3780,rambang dangku,kecamatan
+3781,abab,kecamatan
+3782,kelekar,kecamatan
+3783,muara belida,kecamatan
+3784,abab,kecamatan
+3785,talang ubi,kecamatan
+3786,penukal utara,kecamatan
+3787,tanah abang,kecamatan
+3788,penukal,kecamatan
+3789,kota agung,kecamatan
+3790,pulau pinang,kecamatan
+3791,jarai,kecamatan
+3792,kikim timur,kecamatan
+3793,lahat,kecamatan
+3794,mulak ulu,kecamatan
+3795,pajar bulan,kecamatan
+3796,kikim selatan,kecamatan
+3797,kikim barat,kecamatan
+3798,kikim tengah,kecamatan
+3799,tanjung sakti pumi,kecamatan
+3800,tanjung sakti pumu,kecamatan
+3801,merapi barat,kecamatan
+3802,pseksu,kecamatan
+3803,gumay talang,kecamatan
+3804,pagar gunung,kecamatan
+3805,merapi timur,kecamatan
+3806,gumay ulu,kecamatan
+3807,merapi selatan,kecamatan
+3808,tanjung tebat,kecamatan
+3809,muara payang,kecamatan
+3810,rawas ulu,kecamatan
+3811,rupit,kecamatan
+3812,stl ulu terawas,kecamatan
+3813,tugu mulyo,kecamatan
+3814,muara beliti,kecamatan
+3815,jayaloka,kecamatan
+3816,muara kelingi,kecamatan
+3817,muara lakitan,kecamatan
+3818,megang sakti,kecamatan
+3819,rawas ilir,kecamatan
+3820,purwodadi,kecamatan
+3821,selangit,kecamatan
+3822,karang jaya,kecamatan
+3823,karang dapo,kecamatan
+3824,bulan tengah suku ulu,kecamatan
+3825,ulu rawas,kecamatan
+3826,nibung,kecamatan
+3827,tiang pumpung kepungut,kecamatan
+3828,sumber harta,kecamatan
+3829,tanah negeri,kecamatan
+3830,suka karya,kecamatan
+3831,rantau bayur,kecamatan
+3832,talang kelapa,kecamatan
+3833,banyuasin iii,kecamatan
+3834,betung,kecamatan
+3835,makarti jaya,kecamatan
+3836,banyuasin i,kecamatan
+3837,banyuasin ii,kecamatan
+3838,rambutan,kecamatan
+3839,muara telang,kecamatan
+3840,muara padang,kecamatan
+3841,tanjung lago,kecamatan
+3842,muara sugihan,kecamatan
+3843,air salek,kecamatan
+3844,tungkal ilir,kecamatan
+3845,suak tapeh,kecamatan
+3846,pulau rimau,kecamatan
+3847,sembawa,kecamatan
+3848,martapura,kecamatan
+3849,buay madang,kecamatan
+3850,cempaka,kecamatan
+3851,madang suku i,kecamatan
+3852,madang suku ii,kecamatan
+3853,belitang i,kecamatan
+3854,belitang ii,kecamatan
+3855,belitang iii,kecamatan
+3856,buay pemuka peliung,kecamatan
+3857,semendawai suku iii,kecamatan
+3858,bunga mayang,kecamatan
+3859,buay madang timur,kecamatan
+3860,madang suku iii,kecamatan
+3861,semendawai barat,kecamatan
+3862,semendawai timur,kecamatan
+3863,jayapura,kecamatan
+3864,belitang jaya,kecamatan
+3865,belitang madang raya,kecamatan
+3866,belitang mulia,kecamatan
+3867,buay pemuka bangsa raja,kecamatan
+3868,belitang,kecamatan
+3869,banding agung,kecamatan
+3870,pulau beringin,kecamatan
+3871,muaradua kisam,kecamatan
+3872,muaradua,kecamatan
+3873,simpang,kecamatan
+3874,buay sandang aji,kecamatan
+3875,buay runjung,kecamatan
+3876,buay pemaca,kecamatan
+3877,mekakau ilir,kecamatan
+3878,kisam tinggi,kecamatan
+3879,kisam ilir,kecamatan
+3880,buay pematang ribu ranau,kecamatan
+3881,warkuk ranau selatan,kecamatan
+3882,runjung agung,kecamatan
+3883,sungai are,kecamatan
+3884,sidang danau,kecamatan
+3885,buana pemaca,kecamatan
+3886,tiga dihaji,kecamatan
+3887,buay rawan,kecamatan
+3888,tanjung raja,kecamatan
+3889,muara kuang,kecamatan
+3890,tanjung batu,kecamatan
+3891,indralaya,kecamatan
+3892,pemulutan,kecamatan
+3893,rantau alai,kecamatan
+3894,rambang kuang,kecamatan
+3895,lubuk keliat,kecamatan
+3896,payaraman,kecamatan
+3897,kandis,kecamatan
+3898,pemulutan selatan,kecamatan
+3899,pemulutan barat,kecamatan
+3900,indralaya selatan,kecamatan
+3901,indralaya utara,kecamatan
+3902,rantau panjang,kecamatan
+3903,sungai pinang,kecamatan
+3904,lintang kanan,kecamatan
+3905,muara pinang,kecamatan
+3906,pendopo,kecamatan
+3907,ulu musi,kecamatan
+3908,tebing tinggi,kecamatan
+3909,talang padang,kecamatan
+3910,pasemah air keruh,kecamatan
+3911,sikap dalam,kecamatan
+3912,ilir barat ii,kecamatan
+3913,seberang ulu i,kecamatan
+3914,seberang ulu ii,kecamatan
+3915,ilir barat i,kecamatan
+3916,ilir timur i,kecamatan
+3917,ilir timur ii,kecamatan
+3918,sako,kecamatan
+3919,sukarami,kecamatan
+3920,kemuning,kecamatan
+3921,plaju,kecamatan
+3922,kertapati,kecamatan
+3923,gandus,kecamatan
+3924,bukit kecil,kecamatan
+3925,kalidoni,kecamatan
+3926,alang-alang lebar,kecamatan
+3927,sematang borang,kecamatan
+3928,prabumulih timur,kecamatan
+3929,prabumulih barat,kecamatan
+3930,cambai,kecamatan
+3931,rambang kapak tengah,kecamatan
+3932,prabumulih utara,kecamatan
+3933,prabumulih selatan,kecamatan
+3934,lubuk linggau barat i,kecamatan
+3935,lubuk linggau timur i,kecamatan
+3936,lubuk linggau selatan i,kecamatan
+3937,lubuk linggau utara i,kecamatan
+3938,lubuk linggau barat ii,kecamatan
+3939,lubuk linggau timur ii,kecamatan
+3940,lubuk linggau selatan ii,kecamatan
+3941,lubuk linggau utara ii,kecamatan
+3942,pagar alam utara,kecamatan
+3943,pagar alam selatan,kecamatan
+3944,dempo utara,kecamatan
+3945,dempo selatan,kecamatan
+3946,dempo tengah,kecamatan
+3947,natar,kecamatan
+3948,jati agung,kecamatan
+3949,tanjung bintang,kecamatan
+3950,katibung,kecamatan
+3951,sidomulyo,kecamatan
+3952,palas,kecamatan
+3953,penengahan,kecamatan
+3954,merbau mataram,kecamatan
+3955,candipuro,kecamatan
+3956,rajabasa,kecamatan
+3957,sragi,kecamatan
+3958,ketapang,kecamatan
+3959,katibung,kecamatan
+3960,bakauheni,kecamatan
+3961,tanjung sari,kecamatan
+3962,way sulan,kecamatan
+3963,way panji,kecamatan
+3964,kalianda,kecamatan
+3965,padang ratu,kecamatan
+3966,kalirejo,kecamatan
+3967,bangunrejo,kecamatan
+3968,gunung sugih,kecamatan
+3969,trimurjo,kecamatan
+3970,punggur,kecamatan
+3971,seputih raman,kecamatan
+3972,terbanggi besar,kecamatan
+3973,terusan nunyai,kecamatan
+3974,seputih mataram,kecamatan
+3975,seputih banyak,kecamatan
+3976,rumbia,kecamatan
+3977,seputih surabaya,kecamatan
+3978,bumi ratu nuban,kecamatan
+3979,way pengubuan,kecamatan
+3980,seputih agung,kecamatan
+3981,bandar mataram,kecamatan
+3982,sendang agung,kecamatan
+3983,anak tuha,kecamatan
+3984,pubian,kecamatan
+3985,bandar surabaya,kecamatan
+3986,bumi nabung,kecamatan
+3987,way seputih,kecamatan
+3988,kota gajah,kecamatan
+3989,selagai lingga,kecamatan
+3990,bekri,kecamatan
+3991,anak ratu aji,kecamatan
+3992,putra rumbia,kecamatan
+3993,bukit kemuning,kecamatan
+3994,tanjung raja,kecamatan
+3995,abung barat,kecamatan
+3996,kotabumi kota,kecamatan
+3997,abung selatan,kecamatan
+3998,abung timur,kecamatan
+3999,sungkai selatan,kecamatan
+4000,sungkai utara,kecamatan
+4001,abung tinggi,kecamatan
+4002,abung tengah,kecamatan
+4003,kotabumi utara,kecamatan
+4004,kotabumi selatan,kecamatan
+4005,abung semuli,kecamatan
+4006,abung surakarta,kecamatan
+4007,muara sungkai,kecamatan
+4008,bunga mayang,kecamatan
+4009,hulu sungkai,kecamatan
+4010,sungkai tengah,kecamatan
+4011,abung pekurun,kecamatan
+4012,sungkai jaya,kecamatan
+4013,sungkai barat,kecamatan
+4014,abung kunang,kecamatan
+4015,blambangan pagar,kecamatan
+4016,pesisir selatan,kecamatan
+4017,pesisir tengah,kecamatan
+4018,pesisir utara,kecamatan
+4019,balik bukit,kecamatan
+4020,belalau,kecamatan
+4021,sumber jaya,kecamatan
+4022,sekincau,kecamatan
+4023,bengkunat,kecamatan
+4024,batu brak,kecamatan
+4025,karyapenggawa,kecamatan
+4026,lemong,kecamatan
+4027,waytenong,kecamatan
+4028,sukau,kecamatan
+4029,suoh,kecamatan
+4030,gedung surian,kecamatan
+4031,bengkunat belimbing,kecamatan
+4032,ngambur,kecamatan
+4033,pagar dewa,kecamatan
+4034,lumbok seminung,kecamatan
+4035,banjar agung,kecamatan
+4036,gedung aji,kecamatan
+4037,manggala,kecamatan
+4038,penawartama,kecamatan
+4039,rawajitu selatan,kecamatan
+4040,gedung meneng,kecamatan
+4041,banjar margo,kecamatan
+4042,penawar aji,kecamatan
+4043,rawa pitu,kecamatan
+4044,rawajitu timur,kecamatan
+4045,meraksa aji,kecamatan
+4046,gedung aji baru,kecamatan
+4047,dente teladas,kecamatan
+4048,banjar baru,kecamatan
+4049,menggala timur,kecamatan
+4050,menggala,kecamatan
+4051,wonosobo,kecamatan
+4052,kota agung,kecamatan
+4053,pulau panggung,kecamatan
+4054,talang padang,kecamatan
+4055,pugung,kecamatan
+4056,cukuh balak,kecamatan
+4057,pematang sawa,kecamatan
+4058,sumberejo,kecamatan
+4059,semaka,kecamatan
+4060,ulu belu,kecamatan
+4061,kelumbayan,kecamatan
+4062,kota agung barat,kecamatan
+4063,kota agung timur,kecamatan
+4064,gisting,kecamatan
+4065,gunung alip,kecamatan
+4066,limau,kecamatan
+4067,bandar negeri semuong,kecamatan
+4068,air naningan,kecamatan
+4069,bulok,kecamatan
+4070,kelumbayan barat,kecamatan
+4071,metro kibang,kecamatan
+4072,batanghari,kecamatan
+4073,sekampung,kecamatan
+4074,margatiga,kecamatan
+4075,sekampung udik,kecamatan
+4076,jabung,kecamatan
+4077,labuhan maringgai,kecamatan
+4078,way jepara,kecamatan
+4079,sukadana,kecamatan
+4080,pekalongan,kecamatan
+4081,raman utara,kecamatan
+4082,purbolinggo,kecamatan
+4083,bumi agung,kecamatan
+4084,braja slebah,kecamatan
+4085,bandar sribawono,kecamatan
+4086,mataram baru,kecamatan
+4087,melinting,kecamatan
+4088,gunung pelindung,kecamatan
+4089,waway karya,kecamatan
+4090,pasir sakti,kecamatan
+4091,labuhan ratu,kecamatan
+4092,batanghari nuban,kecamatan
+4093,way bungur,kecamatan
+4094,marga sekampung,kecamatan
+4095,banjit,kecamatan
+4096,baradatu,kecamatan
+4097,kasui,kecamatan
+4098,blambangan umpu,kecamatan
+4099,bahuga,kecamatan
+4100,pakuan ratu,kecamatan
+4101,gunung labuhan,kecamatan
+4102,rebang tangkas,kecamatan
+4103,way tuba,kecamatan
+4104,negeri agung,kecamatan
+4105,negara batin,kecamatan
+4106,negeri besar,kecamatan
+4107,buay bahuga,kecamatan
+4108,bumi agung,kecamatan
+4109,padang cermin,kecamatan
+4110,punduh pedada,kecamatan
+4111,kedondong,kecamatan
+4112,way lima,kecamatan
+4113,gedung tataan,kecamatan
+4114,negeri katon,kecamatan
+4115,tegineneng,kecamatan
+4116,pagelaran,kecamatan
+4117,sukoharjo,kecamatan
+4118,adiluwih,kecamatan
+4119,banyumas,kecamatan
+4120,pringsewu,kecamatan
+4121,ambarawa,kecamatan
+4122,gadingrejo,kecamatan
+4123,pardasuka,kecamatan
+4124,mesuji,kecamatan
+4125,tanjung raya,kecamatan
+4126,rawajitu utara,kecamatan
+4127,mesuji timur,kecamatan
+4128,simpang pematang,kecamatan
+4129,way serdang,kecamatan
+4130,panca jaya,kecamatan
+4131,tulang bawang udik,kecamatan
+4132,tumijajar,kecamatan
+4133,tulang bawang tengah,kecamatan
+4134,lambu kibang,kecamatan
+4135,pagar dewa,kecamatan
+4136,way kenanga,kecamatan
+4137,gunung terang,kecamatan
+4138,gunung agung,kecamatan
+4139,teluk betung barat,kecamatan
+4140,teluk betung selatan,kecamatan
+4141,panjang,kecamatan
+4142,tanjung karang timur,kecamatan
+4143,teluk betung utara,kecamatan
+4144,tanjung karang pusat,kecamatan
+4145,tanjung karang barat,kecamatan
+4146,kedaton,kecamatan
+4147,sukarame,kecamatan
+4148,kemiling,kecamatan
+4149,rajabasa,kecamatan
+4150,tanjung senang,kecamatan
+4151,sukabumi,kecamatan
+4152,metro pusat,kecamatan
+4153,metro utara,kecamatan
+4154,metro barat,kecamatan
+4155,metro timur,kecamatan
+4156,metro selatan,kecamatan
+4157,selakau,kecamatan
+4158,pemangkat,kecamatan
+4159,tebas,kecamatan
+4160,sambas,kecamatan
+4161,jawai,kecamatan
+4162,teluk keramat,kecamatan
+4163,sejangkung,kecamatan
+4164,sajingan besar,kecamatan
+4165,paloh,kecamatan
+4166,subah,kecamatan
+4167,galing,kecamatan
+4168,semparuk,kecamatan
+4169,tekarang,kecamatan
+4170,sajad,kecamatan
+4171,sebawi,kecamatan
+4172,jawai selatan,kecamatan
+4173,tangaran,kecamatan
+4174,selakau tua,kecamatan
+4175,salatiga,kecamatan
+4176,selakau timur,kecamatan
+4177,siantan,kecamatan
+4178,sungai pinyuh,kecamatan
+4179,mempawah hilir,kecamatan
+4180,sungai kunyit,kecamatan
+4181,toho,kecamatan
+4182,segedong,kecamatan
+4183,anjongan,kecamatan
+4184,sadaniang,kecamatan
+4185,mempawah timur,kecamatan
+4186,ambawang,kecamatan
+4187,toba,kecamatan
+4188,sanggau kapuas,kecamatan
+4189,mokok,kecamatan
+4190,jangkang,kecamatan
+4191,bonti,kecamatan
+4192,parindu,kecamatan
+4193,tayan hilir,kecamatan
+4194,balai,kecamatan
+4195,tayan hulu,kecamatan
+4196,kembayan,kecamatan
+4197,beduwai,kecamatan
+4198,noyan,kecamatan
+4199,sekayan,kecamatan
+4200,entikong,kecamatan
+4201,meliau,kecamatan
+4202,kapuas,kecamatan
+4203,nanga serawai,kecamatan
+4204,ambalau,kecamatan
+4205,kayan hulu,kecamatan
+4206,sepauk,kecamatan
+4207,tempunak,kecamatan
+4208,sungai tebelian,kecamatan
+4209,sintang,kecamatan
+4210,dedai,kecamatan
+4211,kayan hilir,kecamatan
+4212,kelam permai,kecamatan
+4213,binjai hulu,kecamatan
+4214,ketungau hilir,kecamatan
+4215,ketungau tengah,kecamatan
+4216,ketungau hulu,kecamatan
+4217,silat hilir,kecamatan
+4218,silat hulu,kecamatan
+4219,hulu gurung,kecamatan
+4220,bunut hulu,kecamatan
+4221,mentebah,kecamatan
+4222,kalis,kecamatan
+4223,embaloh hilir,kecamatan
+4224,bunut hilir,kecamatan
+4225,boyan tanjung,kecamatan
+4226,selimbau,kecamatan
+4227,suhaid,kecamatan
+4228,seberuang,kecamatan
+4229,semitau,kecamatan
+4230,empanang,kecamatan
+4231,puring kencana,kecamatan
+4232,badau,kecamatan
+4233,batang lupar,kecamatan
+4234,embaloh hulu,kecamatan
+4235,hulu kapuas,kecamatan
+4236,putussibau utara,kecamatan
+4237,bika,kecamatan
+4238,jongkong,kecamatan
+4239,putussibau selatan,kecamatan
+4240,pengkadan,kecamatan
+4241,danau setarum,kecamatan
+4242,kendawangan,kecamatan
+4243,manis mata,kecamatan
+4244,marau,kecamatan
+4245,jelai hulu,kecamatan
+4246,tumbang titi,kecamatan
+4247,matan hilir selatan,kecamatan
+4248,matan hilir utara,kecamatan
+4249,nanga tayap,kecamatan
+4250,sandai,kecamatan
+4251,sungai laur,kecamatan
+4252,simpang hulu,kecamatan
+4253,muara pawan,kecamatan
+4254,delta pawan,kecamatan
+4255,simpang dua,kecamatan
+4256,benua kayong,kecamatan
+4257,hulu sungai,kecamatan
+4258,air upas,kecamatan
+4259,singkup,kecamatan
+4260,pemahan,kecamatan
+4261,sungai melayu rayek,kecamatan
+4262,sungai raya,kecamatan
+4263,capkala,kecamatan
+4264,samalantan,kecamatan
+4265,bengkayang,kecamatan
+4266,ledo,kecamatan
+4267,sanggau ledo,kecamatan
+4268,seluas,kecamatan
+4269,jagoi babang,kecamatan
+4270,teriak,kecamatan
+4271,monterado,kecamatan
+4272,suti semarang,kecamatan
+4273,siding,kecamatan
+4274,lumar,kecamatan
+4275,sungai betung,kecamatan
+4276,sungai raya kepulauan,kecamatan
+4277,lembah bawang,kecamatan
+4278,tujuh belas,kecamatan
+4279,sebangki,kecamatan
+4280,ngabang,kecamatan
+4281,sengah temila,kecamatan
+4282,mandor,kecamatan
+4283,menjalin,kecamatan
+4284,mempawah hulu,kecamatan
+4285,menyuke,kecamatan
+4286,meranti,kecamatan
+4287,kuala behe,kecamatan
+4288,air besar,kecamatan
+4289,jelimpo,kecamatan
+4290,sompak,kecamatan
+4291,banyuke hulu,kecamatan
+4292,nanga mahap,kecamatan
+4293,nanga taman,kecamatan
+4294,sekadau hulu,kecamatan
+4295,sekadau hilir,kecamatan
+4296,belitang,kecamatan
+4297,belitang hilir,kecamatan
+4298,belitang hulu,kecamatan
+4299,sokan,kecamatan
+4300,tanah pinoh,kecamatan
+4301,sayan,kecamatan
+4302,ella hilir,kecamatan
+4303,menukung,kecamatan
+4304,nanga pinoh,kecamatan
+4305,belimbing,kecamatan
+4306,tanah pinoh barat,kecamatan
+4307,belimbing hulu,kecamatan
+4308,pinoh selatan,kecamatan
+4309,pinoh utara,kecamatan
+4310,pulau maya karimata,kecamatan
+4311,simpang hilir,kecamatan
+4312,sukadana,kecamatan
+4313,teluk batang,kecamatan
+4314,seponti,kecamatan
+4315,kuala mandor b,kecamatan
+4316,sungai ambawang,kecamatan
+4317,sungai kakap,kecamatan
+4318,telok pakedai,kecamatan
+4319,terentang,kecamatan
+4320,sungai raya,kecamatan
+4321,batu ampar,kecamatan
+4322,kubu,kecamatan
+4323,rasau jaya,kecamatan
+4324,pontianak selatan,kecamatan
+4325,pontianak timur,kecamatan
+4326,pontianak barat,kecamatan
+4327,pontianak utara,kecamatan
+4328,pontianak kota,kecamatan
+4329,pontianak tenggara,kecamatan
+4330,singkawang selatan,kecamatan
+4331,singkawang timur,kecamatan
+4332,singkawang utara,kecamatan
+4333,singkawang barat,kecamatan
+4334,singkawang tengah,kecamatan
+4335,kapuas kuala,kecamatan
+4336,kapuas timur,kecamatan
+4337,selat,kecamatan
+4338,basarang,kecamatan
+4339,kapuas hilir,kecamatan
+4340,pulau petak,kecamatan
+4341,kapuas murung,kecamatan
+4342,kapuas barat,kecamatan
+4343,mantangai,kecamatan
+4344,timpah,kecamatan
+4345,kapuas tengah,kecamatan
+4346,kapuas hulu,kecamatan
+4347,dusun hilir,kecamatan
+4348,jenamas,kecamatan
+4349,karau kuala,kecamatan
+4350,dusun selatan,kecamatan
+4351,dusun utara,kecamatan
+4352,gunung bintang awai,kecamatan
+4353,montallat,kecamatan
+4354,gunung timang,kecamatan
+4355,gunung purei,kecamatan
+4356,teweh timur,kecamatan
+4357,teweh tengah,kecamatan
+4358,lahei,kecamatan
+4359,teweh baru,kecamatan
+4360,teweh selatan,kecamatan
+4361,lahei barat,kecamatan
+4362,mentaya hilir selatan,kecamatan
+4363,pulau hanaut,kecamatan
+4364,mentawa baru/ketapang,kecamatan
+4365,mentaya hilir utara,kecamatan
+4366,kota besi,kecamatan
+4367,baamang,kecamatan
+4368,cempaga,kecamatan
+4369,parenggean,kecamatan
+4370,mentaya hulu,kecamatan
+4371,antang kalang,kecamatan
+4372,teluk sampit,kecamatan
+4373,seranau,kecamatan
+4374,cempaga hulu,kecamatan
+4375,bukit santuei,kecamatan
+4376,telawang,kecamatan
+4377,tualan hulu,kecamatan
+4378,telaga antang,kecamatan
+4379,tualan hulu,kecamatan
+4380,telaga antang,kecamatan
+4381,kotawaringin lama,kecamatan
+4382,arut selatan,kecamatan
+4383,kumai,kecamatan
+4384,arut utara,kecamatan
+4385,pangkalan banteng,kecamatan
+4386,pangkalan lada,kecamatan
+4387,katingan kuala,kecamatan
+4388,mendawai,kecamatan
+4389,kampiang,kecamatan
+4390,tasik payawan,kecamatan
+4391,katingan hilir,kecamatan
+4392,tewang sangalang garing,kecamatan
+4393,pulau malan,kecamatan
+4394,katingan tengah,kecamatan
+4395,katingan hulu,kecamatan
+4396,marikit,kecamatan
+4397,sanaman mantikei,kecamatan
+4398,petak malai,kecamatan
+4399,bukit raya,kecamatan
+4400,seruyan hilir,kecamatan
+4401,danau sembuluh,kecamatan
+4402,hanau,kecamatan
+4403,seruyan tengah,kecamatan
+4404,seruyan hulu,kecamatan
+4405,seruyan hilir timur,kecamatan
+4406,seruyan raya,kecamatan
+4407,danau seluluk,kecamatan
+4408,batu ampar,kecamatan
+4409,suling tambun,kecamatan
+4410,sembuluh raya,kecamatan
+4411,natai kelampai,kecamatan
+4412,sepan biha,kecamatan
+4413,seruyan hulu utara,kecamatan
+4414,natai kelampai,kecamatan
+4415,sepan biha,kecamatan
+4416,seruyan hulu utara,kecamatan
+4417,sembuluh raya,kecamatan
+4418,jelai,kecamatan
+4419,sukamara,kecamatan
+4420,balai riam,kecamatan
+4421,pantai lunci,kecamatan
+4422,permata kecubung,kecamatan
+4423,bulik,kecamatan
+4424,lamandau,kecamatan
+4425,delang,kecamatan
+4426,bulik timur,kecamatan
+4427,mentobi raya,kecamatan
+4428,sematu jaya,kecamatan
+4429,belantikan raya,kecamatan
+4430,batang kawa,kecamatan
+4431,tewah,kecamatan
+4432,kurun,kecamatan
+4433,sepang simin,kecamatan
+4434,rungan,kecamatan
+4435,manuhing,kecamatan
+4436,kahayan hulu utara,kecamatan
+4437,mihing raya,kecamatan
+4438,damang batu,kecamatan
+4439,miri manasa,kecamatan
+4440,rungan hulu,kecamatan
+4441,manuhing raya,kecamatan
+4442,kahayan kuala,kecamatan
+4443,pandih batu,kecamatan
+4444,maliku,kecamatan
+4445,kahayan hilir,kecamatan
+4446,kahayan tengah,kecamatan
+4447,banama tingan,kecamatan
+4448,sebangau kuala,kecamatan
+4449,jabiren raya,kecamatan
+4450,laung tuhup,kecamatan
+4451,murung,kecamatan
+4452,permata intan,kecamatan
+4453,tanah siang,kecamatan
+4454,sumber barito,kecamatan
+4455,barito tuhup raya,kecamatan
+4456,tanah siang selatan,kecamatan
+4457,sungai babuat,kecamatan
+4458,seribu riam,kecamatan
+4459,uut murung,kecamatan
+4460,dusun timur,kecamatan
+4461,benua lima,kecamatan
+4462,patangkep tutui,kecamatan
+4463,awang,kecamatan
+4464,dusun tengah,kecamatan
+4465,pematang karau,kecamatan
+4466,paju epat,kecamatan
+4467,reren batuah,kecamatan
+4468,paku,kecamatan
+4469,karusen janang,kecamatan
+4470,pahandut,kecamatan
+4471,bukit batu,kecamatan
+4472,sabangau,kecamatan
+4473,jekan raya,kecamatan
+4474,rakumpit,kecamatan
+4475,aluh-aluh,kecamatan
+4476,gambut,kecamatan
+4477,kertak hanyar,kecamatan
+4478,sungai tabuk,kecamatan
+4479,martapura,kecamatan
+4480,astambul,kecamatan
+4481,karang intan,kecamatan
+4482,aranio,kecamatan
+4483,sungai pinang,kecamatan
+4484,pengaron,kecamatan
+4485,mataraman,kecamatan
+4486,simpang empat,kecamatan
+4487,beruntung baru,kecamatan
+4488,martapura barat,kecamatan
+4489,martapura timur,kecamatan
+4490,paramasan,kecamatan
+4491,tatah makmur,kecamatan
+4492,sambung makmur,kecamatan
+4493,telaga bauntung,kecamatan
+4494,panyipatan,kecamatan
+4495,takisung,kecamatan
+4496,kurau,kecamatan
+4497,bati-bati,kecamatan
+4498,tambang ulang,kecamatan
+4499,pelaihari,kecamatan
+4500,batu ampar,kecamatan
+4501,jorong,kecamatan
+4502,kintap,kecamatan
+4503,harapan bumi makmur,kecamatan
+4504,bajuin,kecamatan
+4505,tabunganen,kecamatan
+4506,tamban,kecamatan
+4507,mekarsari,kecamatan
+4508,anjir pasar,kecamatan
+4509,anjir muara,kecamatan
+4510,alalak,kecamatan
+4511,mandastana,kecamatan
+4512,belawang,kecamatan
+4513,wanaraya,kecamatan
+4514,barambai,kecamatan
+4515,rantau badauh,kecamatan
+4516,cerbon,kecamatan
+4517,bakumpai,kecamatan
+4518,marabahan,kecamatan
+4519,tabukan,kecamatan
+4520,kuripan,kecamatan
+4521,jejangkit,kecamatan
+4522,binuang,kecamatan
+4523,tapin selatan,kecamatan
+4524,tapin tengah,kecamatan
+4525,bungur,kecamatan
+4526,piani,kecamatan
+4527,lokpaikat,kecamatan
+4528,tapin utara,kecamatan
+4529,bakarangan,kecamatan
+4530,candi laras selatan,kecamatan
+4531,candi laras utara,kecamatan
+4532,hatungun,kecamatan
+4533,salam babaris,kecamatan
+4534,padang batung,kecamatan
+4535,loksado,kecamatan
+4536,telaga langsat,kecamatan
+4537,angkinang,kecamatan
+4538,kandangan,kecamatan
+4539,sungai raya,kecamatan
+4540,simpur,kecamatan
+4541,kalumpang,kecamatan
+4542,daha selatan,kecamatan
+4543,daha utara,kecamatan
+4544,daha barat,kecamatan
+4545,haruyan,kecamatan
+4546,batu benawa,kecamatan
+4547,hantakan,kecamatan
+4548,batang alai selatan,kecamatan
+4549,barabai,kecamatan
+4550,labuan amas selatan,kecamatan
+4551,labuan amas utara,kecamatan
+4552,pendawan,kecamatan
+4553,batang alai utara,kecamatan
+4554,batang alai timur,kecamatan
+4555,limpasu,kecamatan
+4556,danau panggang,kecamatan
+4557,babirik,kecamatan
+4558,sungai pandan,kecamatan
+4559,amuntai selatan,kecamatan
+4560,amuntai tengah,kecamatan
+4561,banjang,kecamatan
+4562,amuntai utara,kecamatan
+4563,paminggir,kecamatan
+4564,sungai tabukan,kecamatan
+4565,haur gading,kecamatan
+4566,banua lawas,kecamatan
+4567,pugaan,kecamatan
+4568,kelua,kecamatan
+4569,muara harus,kecamatan
+4570,tanta,kecamatan
+4571,tanjung,kecamatan
+4572,murung pudak,kecamatan
+4573,haruai,kecamatan
+4574,upau,kecamatan
+4575,muara uya,kecamatan
+4576,jaro,kecamatan
+4577,bintang ara,kecamatan
+4578,pulau sembilan,kecamatan
+4579,pulau laut barat,kecamatan
+4580,pulau laut selatan,kecamatan
+4581,pulau laut timur,kecamatan
+4582,pulau sebuku,kecamatan
+4583,pulau laut utara,kecamatan
+4584,pulau laut tengah,kecamatan
+4585,kelumpang hilir,kecamatan
+4586,kelumpang barat,kecamatan
+4587,kelumpang selatan,kecamatan
+4588,kelumpang hulu,kecamatan
+4589,hampang,kecamatan
+4590,sungai durian,kecamatan
+4591,kelumpang tengah,kecamatan
+4592,kelumpang utara,kecamatan
+4593,pamukan selatan,kecamatan
+4594,sampanahan,kecamatan
+4595,pamukan utara,kecamatan
+4596,pulau laut kepulauan,kecamatan
+4597,pamukan barat,kecamatan
+4598,lampihong,kecamatan
+4599,batu mandi,kecamatan
+4600,awayan,kecamatan
+4601,paringin,kecamatan
+4602,juai,kecamatan
+4603,halong,kecamatan
+4604,tebing tinggi,kecamatan
+4605,paringin selatan,kecamatan
+4606,kusan hilir,kecamatan
+4607,sungai loban,kecamatan
+4608,satui,kecamatan
+4609,kusan hulu,kecamatan
+4610,batu licin,kecamatan
+4611,simpang empat,kecamatan
+4612,karang bintang,kecamatan
+4613,mantewe,kecamatan
+4614,angsana,kecamatan
+4615,kuranji,kecamatan
+4616,banjarmasin selatan,kecamatan
+4617,banjarmasin timur,kecamatan
+4618,banjarmasin barat,kecamatan
+4619,banjarmasin utara,kecamatan
+4620,banjarmasin tengah,kecamatan
+4621,landasan ulin,kecamatan
+4622,cempaka,kecamatan
+4623,banjarbaru utara,kecamatan
+4624,banjarbaru selatan,kecamatan
+4625,liang anggang,kecamatan
+4626,batu sopang,kecamatan
+4627,tanjung harapan,kecamatan
+4628,pasir balengkong,kecamatan
+4629,tanah grogot,kecamatan
+4630,kuaro,kecamatan
+4631,long ikis,kecamatan
+4632,muara komam,kecamatan
+4633,long kali,kecamatan
+4634,muara samu,kecamatan
+4635,batu engau,kecamatan
+4636,semboja,kecamatan
+4637,muara jawa,kecamatan
+4638,sanga-sanga,kecamatan
+4639,loa janan,kecamatan
+4640,loa kulu,kecamatan
+4641,muara muntai,kecamatan
+4642,muara wis,kecamatan
+4643,kota bangun,kecamatan
+4644,tenggarong,kecamatan
+4645,sebulu,kecamatan
+4646,tenggarong seberang,kecamatan
+4647,anggana,kecamatan
+4648,muara badak,kecamatan
+4649,marang kayu,kecamatan
+4650,muara kaman,kecamatan
+4651,kenohan,kecamatan
+4652,kembang janggut,kecamatan
+4653,tabang,kecamatan
+4654,kelay,kecamatan
+4655,talisayan,kecamatan
+4656,biduk biduk,kecamatan
+4657,pulau derawan,kecamatan
+4658,sambaliung,kecamatan
+4659,tanjung redeb,kecamatan
+4660,gunung tabur,kecamatan
+4661,segah,kecamatan
+4662,teluk bayur,kecamatan
+4663,tubalar,kecamatan
+4664,pulau maratua,kecamatan
+4665,batu putih,kecamatan
+4666,biatan,kecamatan
+4667,tanjung palas,kecamatan
+4668,sekatak,kecamatan
+4669,pulau bunyu,kecamatan
+4670,tanjung palas barat,kecamatan
+4671,tanjung palas utara,kecamatan
+4672,tanjung palas timur,kecamatan
+4673,tanjung selor,kecamatan
+4674,tanjung palas tengah,kecamatan
+4675,peso hilir,kecamatan
+4676,peso,kecamatan
+4677,kayan hulu,kecamatan
+4678,kayan hilir,kecamatan
+4679,pujungan,kecamatan
+4680,malinau kota,kecamatan
+4681,mentarang,kecamatan
+4682,sungai boh,kecamatan
+4683,malinau selatan,kecamatan
+4684,malinau barat,kecamatan
+4685,malinau utara,kecamatan
+4686,kayan selatan,kecamatan
+4687,bahau hulu,kecamatan
+4688,mentarang hulu,kecamatan
+4689,kerayan,kecamatan
+4690,lumbis,kecamatan
+4691,sembakung,kecamatan
+4692,nunukan,kecamatan
+4693,sebatik,kecamatan
+4694,sebuku,kecamatan
+4695,krayan selatan,kecamatan
+4696,sebatik barat,kecamatan
+4697,nunukan selatan,kecamatan
+4698,nunukan,kecamatan
+4699,krayan selatan,kecamatan
+4700,krayan,kecamatan
+4701,nunukan selatan,kecamatan
+4702,bongan,kecamatan
+4703,jempang,kecamatan
+4704,penyinggahan,kecamatan
+4705,muara pahu,kecamatan
+4706,muara lawa,kecamatan
+4707,damai,kecamatan
+4708,barong tongkok,kecamatan
+4709,melak,kecamatan
+4710,long iram,kecamatan
+4711,long hubung,kecamatan
+4712,long bagun,kecamatan
+4713,long pahangai,kecamatan
+4714,long apari,kecamatan
+4715,bentian besar,kecamatan
+4716,linggang bingung,kecamatan
+4717,manor bulatn,kecamatan
+4718,laham,kecamatan
+4719,nyuatan,kecamatan
+4720,sekolaq darat,kecamatan
+4721,tering,kecamatan
+4722,siluq ngurai,kecamatan
+4723,long bagun,kecamatan
+4724,long apari,kecamatan
+4725,long pahangai,kecamatan
+4726,long hubung,kecamatan
+4727,laham,kecamatan
+4728,muara ancalong,kecamatan
+4729,muara wahau,kecamatan
+4730,muara bengkal,kecamatan
+4731,sengata utara,kecamatan
+4732,sangkulirang,kecamatan
+4733,kaliorang,kecamatan
+4734,kombeng,kecamatan
+4735,bengalon,kecamatan
+4736,busang,kecamatan
+4737,sandaran,kecamatan
+4738,telen,kecamatan
+4739,sengata selatan,kecamatan
+4740,teluk pandan,kecamatan
+4741,rantau pulung,kecamatan
+4742,kaubun,kecamatan
+4743,karangan,kecamatan
+4744,batu ampar,kecamatan
+4745,long mesangat,kecamatan
+4746,babulu,kecamatan
+4747,waru,kecamatan
+4748,penajam,kecamatan
+4749,sepaku,kecamatan
+4750,palaran,kecamatan
+4751,samarinda ilir,kecamatan
+4752,samarinda seberang,kecamatan
+4753,sungai kunjang,kecamatan
+4754,samarinda ulu,kecamatan
+4755,samarinda utara,kecamatan
+4756,sambutan,kecamatan
+4757,sungai pinang,kecamatan
+4758,samarinda kota,kecamatan
+4759,loa janan ilir,kecamatan
+4760,balikpapan selatan,kecamatan
+4761,balikpapan timur,kecamatan
+4762,balikpapan utara,kecamatan
+4763,balikpapan tengah,kecamatan
+4764,balikpapan barat,kecamatan
+4765,tarakan timur,kecamatan
+4766,tarakan tengah,kecamatan
+4767,tarakan barat,kecamatan
+4768,tarakan utara,kecamatan
+4769,bontang selatan,kecamatan
+4770,bontang utara,kecamatan
+4771,bontang barat,kecamatan
+4772,sesayap,kecamatan
+4773,sesayap hilir,kecamatan
+4774,tana lia,kecamatan
+4775,lolayan,kecamatan
+4776,poigar,kecamatan
+4777,bolaang,kecamatan
+4778,lolak,kecamatan
+4779,sangtombolang,kecamatan
+4780,dumoga utara,kecamatan
+4781,dumoga barat,kecamatan
+4782,dumoga timur,kecamatan
+4783,passi barat,kecamatan
+4784,passi timur,kecamatan
+4785,bilalang,kecamatan
+4786,sangtombolang,kecamatan
+4787,bolaang timur,kecamatan
+4788,langowan timur,kecamatan
+4789,tompaso,kecamatan
+4790,kawangkoan,kecamatan
+4791,sonder,kecamatan
+4792,tombariri,kecamatan
+4793,pineleng,kecamatan
+4794,tondano timur,kecamatan
+4795,remboken,kecamatan
+4796,kakas,kecamatan
+4797,lembean timur,kecamatan
+4798,eris,kecamatan
+4799,kombi,kecamatan
+4800,langowan barat,kecamatan
+4801,tombulu,kecamatan
+4802,tondano barat,kecamatan
+4803,tondano utara,kecamatan
+4804,langowan selatan,kecamatan
+4805,tondano selatan,kecamatan
+4806,langowan utara,kecamatan
+4807,manganitu selatan,kecamatan
+4808,tamako,kecamatan
+4809,tabukan selatan,kecamatan
+4810,tabukan tengah,kecamatan
+4811,manganitu,kecamatan
+4812,tahuna,kecamatan
+4813,tabukan utara,kecamatan
+4814,kendahe,kecamatan
+4815,tatoareng,kecamatan
+4816,nusa tabukan,kecamatan
+4817,tabukan selatan tengah,kecamatan
+4818,tabukan selatan tenggara,kecamatan
+4819,tahuna timur,kecamatan
+4820,tahuna barat,kecamatan
+4821,kepulauan marore,kecamatan
+4822,kabaruan,kecamatan
+4823,lirung,kecamatan
+4824,melonguane,kecamatan
+4825,beo,kecamatan
+4826,rainis,kecamatan
+4827,essang,kecamatan
+4828,nanusa,kecamatan
+4829,gemeh,kecamatan
+4830,damau,kecamatan
+4831,tanpa namma,kecamatan
+4832,lirung selatan,kecamatan
+4833,kalongan,kecamatan
+4834,moronge,kecamatan
+4835,melonguane timur,kecamatan
+4836,beo utara,kecamatan
+4837,beo selatan,kecamatan
+4838,pulutan,kecamatan
+4839,essang selatan,kecamatan
+4840,miangas,kecamatan
+4841,salibabu,kecamatan
+4842,modoinding,kecamatan
+4843,tompaso baru,kecamatan
+4844,ranoyapo,kecamatan
+4845,motoling,kecamatan
+4846,tenga,kecamatan
+4847,amurang,kecamatan
+4848,tareran,kecamatan
+4849,kumelembuai,kecamatan
+4850,maesaan,kecamatan
+4851,amurang barat,kecamatan
+4852,amurang timur,kecamatan
+4853,tatapan,kecamatan
+4854,motoling barat,kecamatan
+4855,motoling timur,kecamatan
+4856,sulta,kecamatan
+4857,tumpaan,kecamatan
+4858,sinonsayang,kecamatan
+4859,ratatotok,kecamatan
+4860,pusomaen,kecamatan
+4861,kauditan,kecamatan
+4862,airmadidi,kecamatan
+4863,dimembe,kecamatan
+4864,wori,kecamatan
+4865,likupang timur,kecamatan
+4866,kema,kecamatan
+4867,likupang barat,kecamatan
+4868,kalawat,kecamatan
+4869,talawaan,kecamatan
+4870,likupang selatan,kecamatan
+4871,bintauna,kecamatan
+4872,bolaang itang timur,kecamatan
+4873,bolaang itang barat,kecamatan
+4874,kaidipang,kecamatan
+4875,pinogaluman,kecamatan
+4876,sangkub,kecamatan
+4877,biaro,kecamatan
+4878,siau barat,kecamatan
+4879,siau barat selatan,kecamatan
+4880,siau barat utara,kecamatan
+4881,siau tengah,kecamatan
+4882,siau timur,kecamatan
+4883,siau timur selatan,kecamatan
+4884,tagulandang,kecamatan
+4885,tagulandang selatan,kecamatan
+4886,tagulandang utara,kecamatan
+4887,ratatotok,kecamatan
+4888,pusomaen,kecamatan
+4889,belang,kecamatan
+4890,ratahan,kecamatan
+4891,tombatu,kecamatan
+4892,touluaan,kecamatan
+4893,touluaan selatan,kecamatan
+4894,silian raya,kecamatan
+4895,tombatu timur,kecamatan
+4896,tombatu utara,kecamatan
+4897,pasan,kecamatan
+4898,ratahan timur,kecamatan
+4899,kotabunan,kecamatan
+4900,nuangan,kecamatan
+4901,kec.tutuyan,kecamatan
+4902,modayag,kecamatan
+4903,modayag barat,kecamatan
+4904,bolaang uki,kecamatan
+4905,posigadan,kecamatan
+4906,pinolosian,kecamatan
+4907,pinolosian timur,kecamatan
+4908,pinolosian tengah,kecamatan
+4909,malalayang,kecamatan
+4910,sario,kecamatan
+4911,wenang,kecamatan
+4912,mapanget,kecamatan
+4913,bunaken,kecamatan
+4914,wanea,kecamatan
+4915,tikala,kecamatan
+4916,tuminting,kecamatan
+4917,singkil,kecamatan
+4918,ranowulu,kecamatan
+4919,matuari,kecamatan
+4920,girian,kecamatan
+4921,madidir,kecamatan
+4922,maesa,kecamatan
+4923,aertembaga,kecamatan
+4924,lembeh utara,kecamatan
+4925,lembeh selatan,kecamatan
+4926,tomohon utara,kecamatan
+4927,tomohon tengah,kecamatan
+4928,tomohon selatan,kecamatan
+4929,tomohon timur,kecamatan
+4930,tomohon barat,kecamatan
+4931,kotamobagu barat,kecamatan
+4932,kotamobagu timur,kecamatan
+4933,kotamobagu utara,kecamatan
+4934,kotamobagu selatan,kecamatan
+4935,labobo,kecamatan
+4936,banggai,kecamatan
+4937,totikum,kecamatan
+4938,tinangkung,kecamatan
+4939,liang,kecamatan
+4940,bulagi,kecamatan
+4941,buko,kecamatan
+4942,bokan kepulauan,kecamatan
+4943,bulagi selatan,kecamatan
+4944,bangkurung,kecamatan
+4945,banggai utara,kecamatan
+4946,banggai tengah,kecamatan
+4947,banggai selatan,kecamatan
+4949,tinangkung selatan,kecamatan
+4950,tinangkung utara,kecamatan
+4951,peling tengah,kecamatan
+4952,bulagi utara,kecamatan
+4953,buko selatan,kecamatan
+4954,banggai utara,kecamatan
+4955,banggai,kecamatan
+4956,labobo,kecamatan
+4957,bokan kepulauan,kecamatan
+4958,bangkurung,kecamatan
+4959,banggai tengah,kecamatan
+4960,banggai selatan,kecamatan
+4961,totikum selatan,kecamatan
+4962,banawa,kecamatan
+4963,labuan,kecamatan
+4964,sindue,kecamatan
+4965,sirenja,kecamatan
+4966,balaesang,kecamatan
+4967,damsol,kecamatan
+4968,sojol,kecamatan
+4969,rio pakava,kecamatan
+4970,banawa selatan,kecamatan
+4971,tanantovea,kecamatan
+4972,pinembani,kecamatan
+4973,banawa tengah,kecamatan
+4974,sindue tombusabora,kecamatan
+4975,sindue tobata,kecamatan
+4976,sojol utara,kecamatan
+4977,balaesang tanjung,kecamatan
+4978,dompelas sojol,kecamatan
+4979,pamona selatan,kecamatan
+4980,lore selatan,kecamatan
+4981,pamona utara,kecamatan
+4982,lore utara,kecamatan
+4983,poso pesisir,kecamatan
+4984,lage,kecamatan
+4985,poso kota,kecamatan
+4986,pamona timur,kecamatan
+4987,lore tengah,kecamatan
+4988,pamona barat,kecamatan
+4989,poso pesisir selatan,kecamatan
+4990,poso pesisir utara,kecamatan
+4991,poso kota utara,kecamatan
+4992,lore barat,kecamatan
+4993,poso kota selatan,kecamatan
+4994,pamona puselemba,kecamatan
+4995,lore timur,kecamatan
+4996,lore peore,kecamatan
+4997,pamona tenggara,kecamatan
+4998,toili,kecamatan
+4999,batui,kecamatan
+5000,bunta,kecamatan
+5001,kintom,kecamatan
+5002,luwuk,kecamatan
+5003,pagimana,kecamatan
+5004,lamala,kecamatan
+5005,balantak,kecamatan
+5006,bualemo,kecamatan
+5007,toili barat,kecamatan
+5008,nuhon,kecamatan
+5009,luwuk timur,kecamatan
+5010,masama,kecamatan
+5011,biau,kecamatan
+5012,momunu,kecamatan
+5013,bokat,kecamatan
+5014,bunobogu,kecamatan
+5015,paleleh,kecamatan
+5016,tiloan,kecamatan
+5017,bukal,kecamatan
+5018,gadung,kecamatan
+5019,lipunoto,kecamatan
+5020,karamat,kecamatan
+5021,paleleh barat,kecamatan
+5022,lakea,kecamatan
+5023,dampal selatan,kecamatan
+5024,dampal utara,kecamatan
+5025,dondo,kecamatan
+5026,baolan,kecamatan
+5027,galang,kecamatan
+5028,utara toli-toli,kecamatan
+5029,ogo deide,kecamatan
+5030,basidondo,kecamatan
+5031,lampasio,kecamatan
+5032,dako pemean,kecamatan
+5033,menui kepulauan,kecamatan
+5034,bungku selatan,kecamatan
+5035,bungku tengah,kecamatan
+5036,bungku barat,kecamatan
+5037,lembo,kecamatan
+5038,mori atas,kecamatan
+5039,petasia,kecamatan
+5040,bungku utara,kecamatan
+5041,bahodopi,kecamatan
+5042,soyo jaya,kecamatan
+5043,witaponda,kecamatan
+5044,mamosalato,kecamatan
+5045,bumi raya,kecamatan
+5046,sausu,kecamatan
+5047,parigi,kecamatan
+5048,ampibabo,kecamatan
+5049,tinombo,kecamatan
+5050,tomini,kecamatan
+5051,moutong,kecamatan
+5052,bolano lambunu,kecamatan
+5053,kasimbar,kecamatan
+5054,torue,kecamatan
+5055,tinombo selatan,kecamatan
+5056,parigi selatan,kecamatan
+5057,mepanga,kecamatan
+5058,malakosa,kecamatan
+5059,parigi barat,kecamatan
+5060,parigi utara,kecamatan
+5061,ribulu,kecamatan
+5062,siniu,kecamatan
+5063,palasa,kecamatan
+5064,taopa,kecamatan
+5065,parigi tengah,kecamatan
+5066,balinggi,kecamatan
+5067,ongka malino,kecamatan
+5068,bolano,kecamatan
+5069,lambunu,kecamatan
+5070,tojo,kecamatan
+5071,ulubongka,kecamatan
+5072,ampana tete,kecamatan
+5073,ampana kota,kecamatan
+5074,una - una,kecamatan
+5075,walea kepulauan,kecamatan
+5076,togean,kecamatan
+5077,tojo barat,kecamatan
+5078,walea besar,kecamatan
+5079,kulawi,kecamatan
+5080,pipikoro,kecamatan
+5081,kulawi selatan,kecamatan
+5082,lindu,kecamatan
+5083,palolo,kecamatan
+5084,nokilalaki,kecamatan
+5085,dolo,kecamatan
+5086,dolo selatan,kecamatan
+5087,dolo barat,kecamatan
+5088,marawola,kecamatan
+5089,kinovaru,kecamatan
+5090,marawola barat,kecamatan
+5091,sigibiromaru,kecamatan
+5092,gumbasa,kecamatan
+5093,tanambulava,kecamatan
+5094,palu barat,kecamatan
+5095,palu selatan,kecamatan
+5096,palu timur,kecamatan
+5097,palu utara,kecamatan
+5098,mandai,kecamatan
+5099,maros baru,kecamatan
+5100,maros utara,kecamatan
+5101,bantimurung,kecamatan
+5102,tanralili,kecamatan
+5103,camba,kecamatan
+5104,mallawa,kecamatan
+5105,moncongloe,kecamatan
+5106,turikale,kecamatan
+5107,marusu,kecamatan
+5108,lau,kecamatan
+5109,simbang,kecamatan
+5110,tompobulu,kecamatan
+5111,cenrana,kecamatan
+5112,bontoa,kecamatan
+5113,liukang tangaya,kecamatan
+5114,liukang kalukuang masalim,kecamatan
+5115,liukang tapabiring,kecamatan
+5116,pangkajene,kecamatan
+5117,balocci,kecamatan
+5118,bungoro,kecamatan
+5119,labakkang,kecamatan
+5120,ma`rang,kecamatan
+5121,sigeri,kecamatan
+5122,minasatene,kecamatan
+5123,tondong tallasa,kecamatan
+5124,mandalle,kecamatan
+5125,liukang tupabbiring utara,kecamatan
+5126,bontonompo,kecamatan
+5127,bajeng,kecamatan
+5128,pallangga,kecamatan
+5129,somba opu,kecamatan
+5130,bontomarannu,kecamatan
+5131,parang loe,kecamatan
+5132,tinggi moncong,kecamatan
+5133,bungaya,kecamatan
+5134,tompobulu,kecamatan
+5135,barombong,kecamatan
+5136,biring bulu,kecamatan
+5137,tombolo pao,kecamatan
+5138,manuju,kecamatan
+5139,bontolempangan,kecamatan
+5140,pattallassang,kecamatan
+5141,bontonompo selatan,kecamatan
+5142,parigi,kecamatan
+5143,bajeng barat,kecamatan
+5144,pattalasang,kecamatan
+5145,mangarabombang,kecamatan
+5146,mappakasunggu,kecamatan
+5147,polombangkeng selatan,kecamatan
+5148,polombangkeng utara,kecamatan
+5149,galesong selatan,kecamatan
+5150,galesong utara,kecamatan
+5151,pattallassang,kecamatan
+5152,sanrobone,kecamatan
+5153,galesong,kecamatan
+5154,bangkala,kecamatan
+5155,tamalatea,kecamatan
+5156,binamu,kecamatan
+5157,batang,kecamatan
+5158,kelara,kecamatan
+5159,bangkala barat,kecamatan
+5160,bontoramba,kecamatan
+5161,turatea,kecamatan
+5162,arungkeke,kecamatan
+5163,rumbia,kecamatan
+5164,tarowang,kecamatan
+5165,tanete riaja,kecamatan
+5166,tanete rilau,kecamatan
+5167,barru,kecamatan
+5168,soppeng riaja,kecamatan
+5169,mallusetasi,kecamatan
+5170,balusu,kecamatan
+5171,pujananting,kecamatan
+5172,bontocani,kecamatan
+5173,kahu,kecamatan
+5174,kajuara,kecamatan
+5175,selomekko,kecamatan
+5176,tonra,kecamatan
+5177,patimpeng,kecamatan
+5178,libureng,kecamatan
+5179,mare,kecamatan
+5180,sibulue,kecamatan
+5181,cina,kecamatan
+5182,barebbo,kecamatan
+5183,ponre,kecamatan
+5184,lappariaja,kecamatan
+5185,lamuru,kecamatan
+5186,bengo,kecamatan
+5187,ulaweng,kecamatan
+5188,palakka,kecamatan
+5189,awangpone,kecamatan
+5190,tellu siattinge,kecamatan
+5191,amali,kecamatan
+5192,ajangale,kecamatan
+5193,dua boccoe,kecamatan
+5194,cenrana,kecamatan
+5195,tanete riattang barat,kecamatan
+5196,tanete riattang,kecamatan
+5197,tanete riattang timur,kecamatan
+5198,tellu limpoe,kecamatan
+5199,sabbangparu,kecamatan
+5200,tempe,kecamatan
+5201,pammana,kecamatan
+5202,bola,kecamatan
+5203,takkalala,kecamatan
+5204,sajo anging,kecamatan
+5205,majauleng,kecamatan
+5206,tanasitolo,kecamatan
+5207,belawa,kecamatan
+5208,maniang pajo,kecamatan
+5209,keera,kecamatan
+5210,pitumpanua,kecamatan
+5211,gilireng,kecamatan
+5212,penrang,kecamatan
+5213,mariowiwawo,kecamatan
+5214,lalabata,kecamatan
+5215,liliriaja,kecamatan
+5216,lili rilau,kecamatan
+5217,donri-donri,kecamatan
+5218,mario riawa,kecamatan
+5219,ganra,kecamatan
+5220,citta,kecamatan
+5221,bissappu,kecamatan
+5222,bantaeng,kecamatan
+5223,tompobulu,kecamatan
+5224,ulu ere,kecamatan
+5225,ere merasa,kecamatan
+5226,pa`jukukang,kecamatan
+5227,gantarang keke,kecamatan
+5228,sinoa,kecamatan
+5229,gantarang,kecamatan
+5230,ujung bulu,kecamatan
+5231,bontobahari,kecamatan
+5232,bontotiro,kecamatan
+5233,hero lange-lange,kecamatan
+5234,kajang,kecamatan
+5235,bulukumba,kecamatan
+5236,rilau ale,kecamatan
+5237,kindang,kecamatan
+5238,ujung loe,kecamatan
+5239,sinjai barat,kecamatan
+5240,sinjai borong,kecamatan
+5241,sinjai selatan,kecamatan
+5242,tellu limpoe,kecamatan
+5243,sinjai timur,kecamatan
+5244,sinjai tengah,kecamatan
+5245,sinjai utara,kecamatan
+5246,bulupoddo,kecamatan
+5247,pulau sembilan,kecamatan
+5248,pasimarannu,kecamatan
+5249,pasimassunggu,kecamatan
+5250,bontosikuyu,kecamatan
+5251,bontoharu,kecamatan
+5252,bontomatene,kecamatan
+5253,bontomanai,kecamatan
+5254,benteng,kecamatan
+5255,taka bonerate,kecamatan
+5256,pasilambena,kecamatan
+5257,pasimasunggu timur,kecamatan
+5258,buki,kecamatan
+5259,pasimasunggu,kecamatan
+5260,suppa,kecamatan
+5261,mattiro sompe,kecamatan
+5262,mattiro bulu,kecamatan
+5263,watang sawitto,kecamatan
+5264,patampanua,kecamatan
+5265,cempa,kecamatan
+5266,duampanua,kecamatan
+5267,lembang,kecamatan
+5268,lanrisang,kecamatan
+5269,tiroang,kecamatan
+5270,paleteang,kecamatan
+5271,batulappa,kecamatan
+5272,panca lautang,kecamatan
+5273,tellulimpoe,kecamatan
+5274,watangpulu,kecamatan
+5275,baranti,kecamatan
+5276,panca rijang,kecamatan
+5277,maritengae,kecamatan
+5278,pitu riawa,kecamatan
+5279,duapitue,kecamatan
+5280,kulo,kecamatan
+5281,pitu riase,kecamatan
+5282,watang sidenreng,kecamatan
+5283,maiwa,kecamatan
+5284,enrekang,kecamatan
+5285,barakka,kecamatan
+5286,anggeraja,kecamatan
+5287,alla,kecamatan
+5288,bungin,kecamatan
+5289,cendana,kecamatan
+5290,curio,kecamatan
+5291,malua,kecamatan
+5292,buntu batu,kecamatan
+5293,masale,kecamatan
+5294,baroko,kecamatan
+5295,larompong,kecamatan
+5296,suli,kecamatan
+5297,belopa,kecamatan
+5298,bajo,kecamatan
+5299,bassesangtempe,kecamatan
+5300,buaponrang,kecamatan
+5301,bua,kecamatan
+5302,walenrang,kecamatan
+5303,lamasi,kecamatan
+5304,latimojong,kecamatan
+5305,larompong selatan,kecamatan
+5306,kamanre,kecamatan
+5307,walenrang barat,kecamatan
+5308,walenrang utara,kecamatan
+5309,walenrang timur,kecamatan
+5310,lamasi timur,kecamatan
+5311,suli barat,kecamatan
+5312,bajo barat,kecamatan
+5313,ponrang selatan,kecamatan
+5314,ponrang,kecamatan
+5315,bolopa utara,kecamatan
+5316,bonggakaradeng,kecamatan
+5317,mengkendek,kecamatan
+5318,sangalla,kecamatan
+5319,makale,kecamatan
+5320,saluputti,kecamatan
+5321,simbuang,kecamatan
+5322,rantetayo,kecamatan
+5323,bittuang,kecamatan
+5324,ranomeeto,kecamatan
+5325,mappak,kecamatan
+5326,gadang batu silanan,kecamatan
+5327,sangala selatan,kecamatan
+5328,sangala utara,kecamatan
+5329,makale selatan,kecamatan
+5330,makale utara,kecamatan
+5331,rembon,kecamatan
+5332,masanda,kecamatan
+5333,malimbong balepe,kecamatan
+5334,kurra,kecamatan
+5335,sabbang,kecamatan
+5336,baebunta,kecamatan
+5337,malangke,kecamatan
+5338,sukamaju,kecamatan
+5339,bone-bone,kecamatan
+5340,massamba,kecamatan
+5341,limbong,kecamatan
+5342,mappedeceng,kecamatan
+5343,sekko,kecamatan
+5344,rampi,kecamatan
+5345,malangke barat,kecamatan
+5346,tana lili,kecamatan
+5347,burau,kecamatan
+5348,tomoni,kecamatan
+5349,wotu,kecamatan
+5350,malili,kecamatan
+5351,nuha,kecamatan
+5352,mangkutana,kecamatan
+5353,towuti,kecamatan
+5354,angkona,kecamatan
+5355,tomoni timur,kecamatan
+5356,kalaena,kecamatan
+5357,wasuponda,kecamatan
+5358,awan rante karua,kecamatan
+5359,balusu,kecamatan
+5360,bengkelekila,kecamatan
+5361,baruppu,kecamatan
+5362,buntao,kecamatan
+5363,kapala pitu,kecamatan
+5364,kesu,kecamatan
+5365,nanggala,kecamatan
+5366,rantebua,kecamatan
+5367,rantepao,kecamatan
+5368,rindingallo,kecamatan
+5369,sa`dan,kecamatan
+5370,sanggalangi,kecamatan
+5371,sesean,kecamatan
+5372,sesean suloara,kecamatan
+5373,sopai,kecamatan
+5374,tallunglipu,kecamatan
+5375,tikala,kecamatan
+5376,tondon,kecamatan
+5377,dende` piongan napo,kecamatan
+5378,buntu pepasan,kecamatan
+5379,mariso,kecamatan
+5380,mamajang,kecamatan
+5381,tamalate,kecamatan
+5382,makasar,kecamatan
+5383,ujung pandang,kecamatan
+5384,wajo,kecamatan
+5385,bontoala,kecamatan
+5386,ujung tanah,kecamatan
+5387,tallo,kecamatan
+5388,panakukkang,kecamatan
+5389,biringkanaya,kecamatan
+5390,tamalanrea,kecamatan
+5391,rappocini,kecamatan
+5392,manggala,kecamatan
+5393,bacukiki,kecamatan
+5394,ujung,kecamatan
+5395,soreang,kecamatan
+5396,bacukiki barat,kecamatan
+5397,wara,kecamatan
+5398,wara utara,kecamatan
+5399,wara selatan,kecamatan
+5400,telluwanua,kecamatan
+5401,wara timur,kecamatan
+5402,wara barat,kecamatan
+5403,sendana,kecamatan
+5404,mungkajang,kecamatan
+5405,bara,kecamatan
+5406,soropia,kecamatan
+5407,sampara,kecamatan
+5408,lambuya,kecamatan
+5409,pondidaha,kecamatan
+5410,wawotobi,kecamatan
+5411,unaaha,kecamatan
+5412,abuki,kecamatan
+5413,bondoala,kecamatan
+5414,uepai,kecamatan
+5415,wonggeduku,kecamatan
+5416,tongauna,kecamatan
+5417,latoma,kecamatan
+5418,besulutu,kecamatan
+5419,puriala,kecamatan
+5420,meluhu,kecamatan
+5421,amonggedo,kecamatan
+5422,wawonii barat,kecamatan
+5423,wawonii timur,kecamatan
+5424,wawonii selatan,kecamatan
+5425,wawonii utara,kecamatan
+5426,routa,kecamatan
+5427,anggaberi,kecamatan
+5428,wawoni tengah,kecamatan
+5429,kapoiala,kecamatan
+5430,konawe,kecamatan
+5431,asinua,kecamatan
+5432,wawonii tenggara,kecamatan
+5433,wawonii timur laut,kecamatan
+5434,lalonggasumeeto,kecamatan
+5435,onembute,kecamatan
+5436,tongkuno,kecamatan
+5437,parigi,kecamatan
+5438,kabawo,kecamatan
+5439,lawa,kecamatan
+5440,kusambi,kecamatan
+5441,katobu,kecamatan
+5442,napabalano,kecamatan
+5443,wakorumba selatan,kecamatan
+5444,lohia,kecamatan
+5445,kontunaga,kecamatan
+5446,sawerigadi,kecamatan
+5447,maginti,kecamatan
+5448,kabangka,kecamatan
+5449,maligano,kecamatan
+5450,tiworo tengah,kecamatan
+5451,barangka,kecamatan
+5452,watopute,kecamatan
+5453,batalaiworu,kecamatan
+5454,duruka,kecamatan
+5455,lasalepa,kecamatan
+5456,pasir putih,kecamatan
+5457,tiworo kepulauan,kecamatan
+5458,bone,kecamatan
+5459,kontu kowuna,kecamatan
+5460,marobo,kecamatan
+5461,tongkuno selatan,kecamatan
+5462,pasi kolaga,kecamatan
+5463,batukara,kecamatan
+5464,wa daga,kecamatan
+5465,napano kusambi,kecamatan
+5466,towea,kecamatan
+5467,tiworo selatan,kecamatan
+5468,tiworo utara,kecamatan
+5469,lasalimu,kecamatan
+5470,pasar wajo,kecamatan
+5471,sampolawa,kecamatan
+5472,batauga,kecamatan
+5473,kapontori,kecamatan
+5474,gu,kecamatan
+5475,lakudo,kecamatan
+5476,mawasangka,kecamatan
+5477,lasalimu selatan,kecamatan
+5478,batu atas,kecamatan
+5479,siompu,kecamatan
+5480,kadatua,kecamatan
+5481,mawasangka timur,kecamatan
+5482,talaga raya,kecamatan
+5483,mawasangka tengah,kecamatan
+5484,sangia wambulu,kecamatan
+5485,siontapia,kecamatan
+5486,wolowa,kecamatan
+5487,wabula,kecamatan
+5488,lapandewa,kecamatan
+5489,siompu barat,kecamatan
+5490,watubangga,kecamatan
+5491,pomalaa,kecamatan
+5492,wundulako,kecamatan
+5493,ladongi,kecamatan
+5494,tirawuta,kecamatan
+5495,kolaka,kecamatan
+5496,wolo,kecamatan
+5497,mowewe,kecamatan
+5498,tanggetada,kecamatan
+5499,baula,kecamatan
+5500,lambandia,kecamatan
+5501,latambaga,kecamatan
+5502,samaturu,kecamatan
+5503,uluiwoi,kecamatan
+5504,tinondo,kecamatan
+5505,poli-polia,kecamatan
+5506,lalolae,kecamatan
+5507,toari,kecamatan
+5508,polinggona,kecamatan
+5509,loela,kecamatan
+5510,tirawuta,kecamatan
+5511,ladongi,kecamatan
+5512,poli-polia,kecamatan
+5513,lambandia,kecamatan
+5514,uluiwoi,kecamatan
+5515,mowewe,kecamatan
+5516,tinanggea,kecamatan
+5517,palangga,kecamatan
+5518,konda,kecamatan
+5519,lainea,kecamatan
+5520,moramo,kecamatan
+5521,ranomeeto,kecamatan
+5522,landono,kecamatan
+5523,kolono,kecamatan
+5524,andolo,kecamatan
+5525,laonti,kecamatan
+5526,angata,kecamatan
+5527,lalembuu,kecamatan
+5528,buke,kecamatan
+5529,palangga selatan,kecamatan
+5530,baito,kecamatan
+5531,laeya,kecamatan
+5532,moramo utara,kecamatan
+5533,wolasi,kecamatan
+5534,ranomeeto barat,kecamatan
+5535,mowila,kecamatan
+5536,benua,kecamatan
+5537,basala,kecamatan
+5538,binongko,kecamatan
+5539,tomia,kecamatan
+5540,kaledupa,kecamatan
+5541,wangi-wangi,kecamatan
+5542,wangi-wangi selatan,kecamatan
+5543,kaledupa selatan,kecamatan
+5544,tomia timur,kecamatan
+5545,togo binongko,kecamatan
+5546,kabaena,kecamatan
+5547,kabaena timur,kecamatan
+5548,poleang,kecamatan
+5549,poleang timur,kecamatan
+5550,rumbia,kecamatan
+5551,rarowatu,kecamatan
+5552,poleang barat,kecamatan
+5553,mataelo,kecamatan
+5554,rarowatu utara,kecamatan
+5555,poleang utara,kecamatan
+5556,poleang selatan,kecamatan
+5557,poleang tenggara,kecamatan
+5558,kabaena selatan,kecamatan
+5559,kabaena barat,kecamatan
+5560,kabaena utara,kecamatan
+5561,kabaena tengah,kecamatan
+5562,kep. masaloka raya,kecamatan
+5563,rumbia tengah,kecamatan
+5564,poleang tengah,kecamatan
+5565,tatonuwu,kecamatan
+5566,lantari jaya,kecamatan
+5567,mata usu,kecamatan
+5568,lasusua,kecamatan
+5569,pakue,kecamatan
+5570,batu putih,kecamatan
+5571,ranteangin,kecamatan
+5572,kodeoha,kecamatan
+5573,ngapa,kecamatan
+5574,wawo,kecamatan
+5575,lambai,kecamatan
+5576,watunohu,kecamatan
+5577,pakue tengah,kecamatan
+5578,pakue utara,kecamatan
+5579,porehu,kecamatan
+5580,katoi,kecamatan
+5581,tiwu,kecamatan
+5582,katoi,kecamatan
+5583,tolala,kecamatan
+5584,langkima,kecamatan
+5585,molawe,kecamatan
+5586,lembo,kecamatan
+5587,asera,kecamatan
+5588,wiwirano,kecamatan
+5589,lasolo,kecamatan
+5590,sawa,kecamatan
+5591,oheo,kecamatan
+5592,andowia,kecamatan
+5593,motui,kecamatan
+5594,kulisusu,kecamatan
+5595,kulisusu barat,kecamatan
+5596,kulisusu utara,kecamatan
+5597,kambowa,kecamatan
+5598,bonenugu,kecamatan
+5599,wakorumba utara,kecamatan
+5600,wakorumba utara,kecamatan
+5601,loea,kecamatan
+5602,lalolae,kecamatan
+5603,mandonga,kecamatan
+5604,poasia,kecamatan
+5605,kendari,kecamatan
+5606,baruga,kecamatan
+5607,kendari barat,kecamatan
+5608,abeli,kecamatan
+5609,puwato,kecamatan
+5610,kadia,kecamatan
+5611,wua-wua,kecamatan
+5612,kambu,kecamatan
+5613,betoambari,kecamatan
+5614,wolio,kecamatan
+5615,sorowalio,kecamatan
+5616,bungi,kecamatan
+5617,murhum,kecamatan
+5618,kokalukuna,kecamatan
+5619,lea-lea,kecamatan
+5620,banda,kecamatan
+5621,tehoru,kecamatan
+5622,amahai,kecamatan
+5623,teon nila serua,kecamatan
+5624,saparua,kecamatan
+5625,pulau haruku,kecamatan
+5626,salahutu,kecamatan
+5627,leihitu,kecamatan
+5628,seram utara,kecamatan
+5629,masohi,kecamatan
+5630,nusa laut,kecamatan
+5631,teluk elpaputih,kecamatan
+5632,seram utara barat,kecamatan
+5633,leihitu barat,kecamatan
+5634,telutih,kecamatan
+5635,seram utara timur seti,kecamatan
+5636,seram utara timur kobi,kecamatan
+5637,kei kecil,kecamatan
+5638,kei besar,kecamatan
+5639,kei besar selatan,kecamatan
+5640,kei besar utara timur,kecamatan
+5641,kei kecil barat,kecamatan
+5642,kei kecil timur,kecamatan
+5643,air buaya,kecamatan
+5644,waeapo,kecamatan
+5645,namlea,kecamatan
+5646,waplau,kecamatan
+5647,bata baul,kecamatan
+5648,pulau-pulau terselatan,kecamatan
+5649,pulau-pulau babar,kecamatan
+5650,tanimbar selatan,kecamatan
+5651,tanimbar utara,kecamatan
+5652,damer,kecamatan
+5653,wer tamrian,kecamatan
+5654,wer maktian,kecamatan
+5655,selaru,kecamatan
+5656,yaru,kecamatan
+5657,wuar labobar,kecamatan
+5658,nirun mas,kecamatan
+5659,kormomolin,kecamatan
+5660,molu maru,kecamatan
+5661,kairatu,kecamatan
+5662,seram barat,kecamatan
+5663,taniwel,kecamatan
+5664,waisala,kecamatan
+5665,huamual,kecamatan
+5666,inamosol,kecamatan
+5667,elpaputih,kecamatan
+5668,taniwel timur,kecamatan
+5669,huamual belakang,kecamatan
+5670,kepulauan manipa,kecamatan
+5671,kairatu barat,kecamatan
+5672,seram timur,kecamatan
+5673,werinama,kecamatan
+5674,bula,kecamatan
+5675,pulau-pulau gorom,kecamatan
+5676,wakate,kecamatan
+5677,tutuk tolu,kecamatan
+5678,pulau-pulau aru,kecamatan
+5679,aru tengah,kecamatan
+5680,aru selatan,kecamatan
+5681,aru selatan timur,kecamatan
+5682,aru tengah timur,kecamatan
+5683,aru tengah selatan,kecamatan
+5684,aru utara,kecamatan
+5685,batuley,kecamatan
+5686,sir-sir,kecamatan
+5687,aru selatan utara,kecamatan
+5688,babar timur,kecamatan
+5689,mdona hiera,kecamatan
+5690,moa lakor,kecamatan
+5691,pulau letti,kecamatan
+5692,wetar,kecamatan
+5693,damer,kecamatan
+5694,pulau-pulau babar,kecamatan
+5695,pulau-pulau terselatan,kecamatan
+5696,ambalau,kecamatan
+5697,kepala madan,kecamatan
+5698,leksula,kecamatan
+5699,namrole,kecamatan
+5700,waesama,kecamatan
+5701,nusaniwe,kecamatan
+5702,sirimau,kecamatan
+5703,teluk ambon,kecamatan
+5704,baguala,kecamatan
+5705,lei timur selatan,kecamatan
+5706,pp kur mangur,kecamatan
+5707,pulau dullah selatan,kecamatan
+5708,pulau dullah utara,kecamatan
+5709,tayando tam,kecamatan
+5710,gerokgak,kecamatan
+5711,seririt,kecamatan
+5712,busungbiu,kecamatan
+5713,banjar,kecamatan
+5714,sukasada,kecamatan
+5715,buleleng,kecamatan
+5716,sawan,kecamatan
+5717,kubutambahan,kecamatan
+5718,tejakula,kecamatan
+5719,melaya,kecamatan
+5720,negara,kecamatan
+5721,mendoyo,kecamatan
+5722,pekutatan,kecamatan
+5723,jembrana,kecamatan
+5724,selemadeg,kecamatan
+5725,kerambitan,kecamatan
+5726,tabanan,kecamatan
+5727,kediri,kecamatan
+5728,marga,kecamatan
+5729,baturiti,kecamatan
+5730,penebel,kecamatan
+5731,pupuan,kecamatan
+5732,selemadeg barat,kecamatan
+5733,selemadeg timur,kecamatan
+5734,kuta selatan,kecamatan
+5735,kuta,kecamatan
+5736,kuta utara,kecamatan
+5737,mengwi,kecamatan
+5738,abiansemal,kecamatan
+5739,petang,kecamatan
+5740,sukawati,kecamatan
+5741,blahbatuh,kecamatan
+5742,gianyar,kecamatan
+5743,tampak siring,kecamatan
+5744,ubud,kecamatan
+5745,tegallalang,kecamatan
+5746,payangan,kecamatan
+5747,nusapenida,kecamatan
+5748,banjarangkan,kecamatan
+5749,klungkung,kecamatan
+5750,dawan,kecamatan
+5751,susut,kecamatan
+5752,bangli,kecamatan
+5753,tembuku,kecamatan
+5754,kintamani,kecamatan
+5755,rendang,kecamatan
+5756,sidemen,kecamatan
+5757,manggis,kecamatan
+5758,karang asem,kecamatan
+5759,abang,kecamatan
+5760,bebandem,kecamatan
+5761,selat,kecamatan
+5762,kubu,kecamatan
+5763,denpasar selatan,kecamatan
+5764,denpasar timur,kecamatan
+5765,denpasar barat,kecamatan
+5766,denpasar utara,kecamatan
+5767,sekotong tengah,kecamatan
+5768,gerung,kecamatan
+5769,labuapi,kecamatan
+5770,kediri,kecamatan
+5771,narmada,kecamatan
+5772,gunung sari,kecamatan
+5773,kuripan,kecamatan
+5774,lembar,kecamatan
+5775,batu layar,kecamatan
+5776,lingsar,kecamatan
+5777,praya barat,kecamatan
+5778,pujut,kecamatan
+5779,praya timur,kecamatan
+5780,janapria,kecamatan
+5781,kopang,kecamatan
+5782,praya,kecamatan
+5783,jonggat,kecamatan
+5784,pringgarata,kecamatan
+5785,batukliang,kecamatan
+5786,batukliang utara,kecamatan
+5787,praya barat daya,kecamatan
+5788,praya tengah,kecamatan
+5789,keruak,kecamatan
+5790,sakra,kecamatan
+5791,terara,kecamatan
+5792,sikur,kecamatan
+5793,masbagik,kecamatan
+5794,sukamulia,kecamatan
+5795,selong,kecamatan
+5796,pringgabaya,kecamatan
+5797,aikmel,kecamatan
+5798,sambelia,kecamatan
+5799,labuhan haji,kecamatan
+5800,suralaga,kecamatan
+5801,sakra timur,kecamatan
+5802,sakra barat,kecamatan
+5803,jerowaru,kecamatan
+5804,pringgasela,kecamatan
+5805,montong gading,kecamatan
+5806,wanasaba,kecamatan
+5807,sembalun,kecamatan
+5808,suela,kecamatan
+5809,lunyuk,kecamatan
+5810,alas,kecamatan
+5811,batu lanten,kecamatan
+5812,sumbawa,kecamatan
+5813,moyo hilir,kecamatan
+5814,moyo hulu,kecamatan
+5815,ropang,kecamatan
+5816,plampang,kecamatan
+5817,empang,kecamatan
+5818,labuhan badas,kecamatan
+5819,alas barat,kecamatan
+5820,labangka,kecamatan
+5821,unter iwes,kecamatan
+5822,rhee,kecamatan
+5823,buer,kecamatan
+5824,moyo utara,kecamatan
+5825,maronge,kecamatan
+5826,tarano,kecamatan
+5827,lopok,kecamatan
+5828,lenangguar,kecamatan
+5829,orong telu,kecamatan
+5830,utan,kecamatan
+5831,lape,kecamatan
+5832,lantung,kecamatan
+5833,hu`u,kecamatan
+5834,dompu,kecamatan
+5835,woja,kecamatan
+5836,kilo,kecamatan
+5837,kempo,kecamatan
+5838,pekat,kecamatan
+5839,pajo,kecamatan
+5840,manggelewa,kecamatan
+5841,monta,kecamatan
+5842,bolo,kecamatan
+5843,woha,kecamatan
+5844,belo,kecamatan
+5845,wawo,kecamatan
+5846,sape,kecamatan
+5847,wera,kecamatan
+5848,donggo,kecamatan
+5849,sanggar,kecamatan
+5850,lambu,kecamatan
+5851,tambora,kecamatan
+5852,ambalawi,kecamatan
+5853,mada pangga,kecamatan
+5854,langgudu,kecamatan
+5855,soromandi,kecamatan
+5856,parado,kecamatan
+5857,lambitu,kecamatan
+5858,palibelo,kecamatan
+5859,jereweh,kecamatan
+5860,taliwang,kecamatan
+5861,seteluk,kecamatan
+5862,brang rea,kecamatan
+5863,sekongkang,kecamatan
+5864,maluk,kecamatan
+5865,brang ene,kecamatan
+5866,poto tano,kecamatan
+5867,tanjung,kecamatan
+5868,gangga,kecamatan
+5869,bayan,kecamatan
+5870,pemenang,kecamatan
+5871,kayangan,kecamatan
+5872,ampenan,kecamatan
+5873,mataram,kecamatan
+5874,cakranegara,kecamatan
+5875,sekarbela,kecamatan
+5876,selaperang,kecamatan
+5877,sandubaya,kecamatan
+5878,rasanae barat,kecamatan
+5879,rasanae timur,kecamatan
+5880,asakota,kecamatan
+5881,raba,kecamatan
+5882,mpunda,kecamatan
+5883,raijua,kecamatan
+5884,sabu barat,kecamatan
+5885,sabu timur,kecamatan
+5886,semau,kecamatan
+5887,kupang barat,kecamatan
+5888,kupang tengah,kecamatan
+5889,amarasi,kecamatan
+5890,kupang timur,kecamatan
+5891,sulamu,kecamatan
+5892,fatuleu,kecamatan
+5893,takari,kecamatan
+5894,amfoang selatan,kecamatan
+5895,amfoang utara,kecamatan
+5896,sabu tengah,kecamatan
+5897,nekamese,kecamatan
+5898,amabi oefeto timur,kecamatan
+5899,amarasi selatan,kecamatan
+5900,amarasi timur,kecamatan
+5901,amarasi barat,kecamatan
+5902,amfoang barat daya,kecamatan
+5903,amfoang barat laut,kecamatan
+5904,sabu liae,kecamatan
+5905,hawu mehara,kecamatan
+5906,semau selatan,kecamatan
+5907,taebenu,kecamatan
+5908,amabi oefeto,kecamatan
+5909,fatuleu tengah,kecamatan
+5910,fatuleu barat,kecamatan
+5911,amfoang timur,kecamatan
+5912,amfoang tengah,kecamatan
+5913,mollo utara,kecamatan
+5914,mollo selatan,kecamatan
+5915,kota soe,kecamatan
+5916,amanuban barat,kecamatan
+5917,amanuban selatan,kecamatan
+5918,kuanfatu,kecamatan
+5919,amanuban tengah,kecamatan
+5920,amanuban timur,kecamatan
+5921,kie,kecamatan
+5922,amanatun selatan,kecamatan
+5923,amanatun utara,kecamatan
+5924,fatumnasi,kecamatan
+5925,polen,kecamatan
+5926,batuputih,kecamatan
+5927,boking,kecamatan
+5928,noebana,kecamatan
+5929,nunkolo,kecamatan
+5930,kot`olin,kecamatan
+5931,oenino,kecamatan
+5932,kolbano,kecamatan
+5933,kualin,kecamatan
+5934,toianas,kecamatan
+5935,mollo barat,kecamatan
+5936,kok baun,kecamatan
+5937,tobu,kecamatan
+5938,nunbena,kecamatan
+5939,mollo tengah,kecamatan
+5940,kuatnana,kecamatan
+5941,noebeba,kecamatan
+5942,fautmolo,kecamatan
+5943,fatukopa,kecamatan
+5944,santian,kecamatan
+5945,miomafo barat,kecamatan
+5946,miomafo timur,kecamatan
+5947,kota kefamenanu,kecamatan
+5948,insana,kecamatan
+5949,biboki selatan,kecamatan
+5950,biboki utara,kecamatan
+5951,noemuti,kecamatan
+5952,insana utara,kecamatan
+5953,biboki anleu,kecamatan
+5954,noemuti timur,kecamatan
+5955,miomafo tengah,kecamatan
+5956,musi,kecamatan
+5957,mutis,kecamatan
+5958,bikomi selatan,kecamatan
+5959,bikomi tengah,kecamatan
+5960,bikomi nilulat,kecamatan
+5961,bikomi utara,kecamatan
+5962,naibenu,kecamatan
+5963,insana fafinesu,kecamatan
+5964,insana barat,kecamatan
+5965,insana tengah,kecamatan
+5966,biboki tanpah,kecamatan
+5967,biboki moenleu,kecamatan
+5968,biboki feotleu,kecamatan
+5969,malaka barat,kecamatan
+5970,malaka tengah,kecamatan
+5971,malaka timur,kecamatan
+5972,kobalima,kecamatan
+5973,tasifeto barat,kecamatan
+5974,kota atambua,kecamatan
+5975,tasifeto timur,kecamatan
+5976,lamakmen,kecamatan
+5977,kakuluk mesak,kecamatan
+5978,raihat,kecamatan
+5979,rinhat,kecamatan
+5980,sasita mean,kecamatan
+5981,weliman,kecamatan
+5982,wewiku,kecamatan
+5983,rai manuk,kecamatan
+5984,laen manen,kecamatan
+5985,lasiolat,kecamatan
+5986,lamakmen selatan,kecamatan
+5987,lo kufeu,kecamatan
+5988,botin leo bele,kecamatan
+5989,atambua barat,kecamatan
+5990,atambua selatan,kecamatan
+5991,nanaet duabesi,kecamatan
+5992,kobalima timur,kecamatan
+5993,malaka barat,kecamatan
+5994,malaka timur,kecamatan
+5995,kobalima,kecamatan
+5996,sasitamean,kecamatan
+5997,laen manen,kecamatan
+5998,io kufeu,kecamatan
+5999,botin leo bele,kecamatan
+6000,kobalima timur,kecamatan
+6001,rinhat,kecamatan
+6002,wewiku,kecamatan
+6003,weliman,kecamatan
+6004,alor barat daya,kecamatan
+6005,alor selatan,kecamatan
+6006,alor timur,kecamatan
+6007,teluk mutiara,kecamatan
+6008,alor barat laut,kecamatan
+6009,pantar,kecamatan
+6010,alor timur laut,kecamatan
+6011,alor tengah utara,kecamatan
+6012,pantar barat,kecamatan
+6013,pantar timur,kecamatan
+6014,pantar barat laut,kecamatan
+6015,pantar tengah,kecamatan
+6016,mataru,kecamatan
+6017,pureman,kecamatan
+6018,kabola,kecamatan
+6019,pulau pura,kecamatan
+6020,lembur,kecamatan
+6021,wulang gitang,kecamatan
+6022,tanjung bunga,kecamatan
+6023,larantuka,kecamatan
+6024,solor barat,kecamatan
+6025,solor timur,kecamatan
+6026,adonara barat,kecamatan
+6027,adonara timur,kecamatan
+6028,titehena,kecamatan
+6029,ile boleng,kecamatan
+6030,witihama,kecamatan
+6031,kelubagolit,kecamatan
+6032,wotan ulumado,kecamatan
+6033,ile mandiri,kecamatan
+6034,demon pagong,kecamatan
+6035,lewolema,kecamatan
+6036,ilebura,kecamatan
+6037,adonara,kecamatan
+6038,adonara tengah,kecamatan
+6039,solor selatan,kecamatan
+6040,paga,kecamatan
+6041,lela,kecamatan
+6042,bola,kecamatan
+6043,talibura,kecamatan
+6044,kewapante,kecamatan
+6045,nelle,kecamatan
+6046,nitta,kecamatan
+6047,alok,kecamatan
+6048,mego,kecamatan
+6049,waigete,kecamatan
+6050,palue,kecamatan
+6051,waiblama,kecamatan
+6052,alok barat,kecamatan
+6053,alok timur,kecamatan
+6054,magependa,kecamatan
+6055,koting,kecamatan
+6056,tana wawo,kecamatan
+6057,hewokloang,kecamatan
+6058,kangae,kecamatan
+6059,doreng,kecamatan
+6060,mapitara,kecamatan
+6061,nangapanda,kecamatan
+6062,ende,kecamatan
+6063,ende selatan,kecamatan
+6064,ndona,kecamatan
+6065,wolowaru,kecamatan
+6066,maurole,kecamatan
+6067,detusoko,kecamatan
+6068,maukaro,kecamatan
+6069,wewaria,kecamatan
+6070,wolojita,kecamatan
+6071,pulau ende,kecamatan
+6072,kota baru,kecamatan
+6073,ndona timur,kecamatan
+6074,kelimutu,kecamatan
+6075,lio timur,kecamatan
+6076,detukeli,kecamatan
+6077,ndori,kecamatan
+6078,ende utara,kecamatan
+6079,ende tengah,kecamatan
+6080,ende timur,kecamatan
+6081,lepembusu kelisoke,kecamatan
+6082,aimere,kecamatan
+6083,bajawa,kecamatan
+6084,golewa,kecamatan
+6085,bajawa utara,kecamatan
+6086,riung,kecamatan
+6087,riung barat,kecamatan
+6088,soa,kecamatan
+6089,jerebuu,kecamatan
+6090,riung selatan,kecamatan
+6091,satarmese,kecamatan
+6092,langke rembong,kecamatan
+6093,ruteng,kecamatan
+6094,cibal,kecamatan
+6095,reok,kecamatan
+6096,wae ri`i,kecamatan
+6097,satar mese barat,kecamatan
+6098,rahong utara,kecamatan
+6099,lelak,kecamatan
+6100,lewa,kecamatan
+6101,tabundung,kecamatan
+6102,paberiwai,kecamatan
+6103,pahunga lodu,kecamatan
+6104,rindi,kecamatan
+6105,pandawai,kecamatan
+6106,kota waingapu,kecamatan
+6107,haharu,kecamatan
+6108,nggaha ori angu,kecamatan
+6109,karera,kecamatan
+6110,umalulu,kecamatan
+6111,kahaungu eti,kecamatan
+6112,matawai la pawu,kecamatan
+6113,pinu pahar,kecamatan
+6114,wulla waijelu,kecamatan
+6115,katala hamu lingu,kecamatan
+6116,mahu,kecamatan
+6117,ngadu ngala,kecamatan
+6118,kambata mapambuhang,kecamatan
+6119,kambera,kecamatan
+6120,kanatang,kecamatan
+6121,lewa tidahu,kecamatan
+6122,loli,kecamatan
+6123,kota waikabubak,kecamatan
+6124,wanokaka,kecamatan
+6125,lamboya,kecamatan
+6126,tana righu,kecamatan
+6127,laboya barat,kecamatan
+6128,naga wutung,kecamatan
+6129,atadei,kecamatan
+6130,ile ape,kecamatan
+6131,lebatukan,kecamatan
+6132,nubatukan,kecamatan
+6133,omesuri,kecamatan
+6134,buyasuri,kecamatan
+6135,wulandoni,kecamatan
+6136,ile ape timur,kecamatan
+6137,rote barat daya,kecamatan
+6138,rote barat laut,kecamatan
+6139,lobalain,kecamatan
+6140,rote tengah,kecamatan
+6141,pantai baru,kecamatan
+6142,rote timur,kecamatan
+6143,rote barat,kecamatan
+6144,rote selatan,kecamatan
+6145,komodo,kecamatan
+6146,sano nggoang,kecamatan
+6147,lembor,kecamatan
+6148,kuwus,kecamatan
+6149,macang pacar,kecamatan
+6150,boleng,kecamatan
+6151,welak,kecamatan
+6152,ndoso,kecamatan
+6153,lembor selatan,kecamatan
+6154,mbeliling,kecamatan
+6155,aesesa,kecamatan
+6156,boawae,kecamatan
+6157,keo tengah,kecamatan
+6158,mauponggo,kecamatan
+6159,nangaroro,kecamatan
+6160,wolowae,kecamatan
+6161,aesesa selatan,kecamatan
+6162,katiku tana,kecamatan
+6163,mamboro,kecamatan
+6164,umbu ratu nggay,kecamatan
+6165,umbu ratu nggay barat,kecamatan
+6166,katiku tana selatan,kecamatan
+6167,kodi,kecamatan
+6168,kodi bangedo,kecamatan
+6169,loura,kecamatan
+6170,wewewa barat,kecamatan
+6171,wewewa selatan,kecamatan
+6172,wewewa timur,kecamatan
+6173,wewewa utara,kecamatan
+6174,kodi utara,kecamatan
+6175,elar,kecamatan
+6176,kota komba,kecamatan
+6177,lamba leda,kecamatan
+6178,poco ranaka,kecamatan
+6179,sambi rampas,kecamatan
+6180,borong,kecamatan
+6181,hawu mehara,kecamatan
+6182,sabu tengah,kecamatan
+6183,raijua,kecamatan
+6184,sabu liae,kecamatan
+6185,sabu barat,kecamatan
+6186,sabu timur,kecamatan
+6187,alak,kecamatan
+6188,maulafa,kecamatan
+6189,oebodo,kecamatan
+6190,kelapa lima,kecamatan
+6191,kota raja,kecamatan
+6192,kota lama,kecamatan
+6193,kaureh,kecamatan
+6194,kemtuk,kecamatan
+6195,kemtuk gresie,kecamatan
+6196,nimboran,kecamatan
+6197,nimbokrang,kecamatan
+6198,unurum guay,kecamatan
+6199,demta,kecamatan
+6200,depapre,kecamatan
+6201,sentani barat,kecamatan
+6202,sentani,kecamatan
+6203,sentani timur,kecamatan
+6204,airu,kecamatan
+6205,yapsi,kecamatan
+6206,nimboran timur/namblong,kecamatan
+6207,waibu,kecamatan
+6208,ebungfau,kecamatan
+6209,numfor barat,kecamatan
+6210,numfor timur,kecamatan
+6211,padaido,kecamatan
+6212,biak timur,kecamatan
+6213,biak kota,kecamatan
+6214,samofa,kecamatan
+6215,yendidori,kecamatan
+6216,biak utara,kecamatan
+6217,warsa,kecamatan
+6218,biak barat,kecamatan
+6219,swandiwe,kecamatan
+6220,orkeri,kecamatan
+6221,bruyandori,kecamatan
+6222,poiru,kecamatan
+6223,ainando padaido,kecamatan
+6224,oridek,kecamatan
+6225,andey,kecamatan
+6226,yawosi,kecamatan
+6227,bondifuar,kecamatan
+6228,yapen timur,kecamatan
+6229,angkaisera,kecamatan
+6230,yapen selatan,kecamatan
+6231,yapen barat,kecamatan
+6232,poom,kecamatan
+6233,kosiwo,kecamatan
+6234,yapen utara,kecamatan
+6235,raimbawi,kecamatan
+6236,teluk ampimoi,kecamatan
+6237,kepulauan ambai,kecamatan
+6238,wonawa,kecamatan
+6239,windesi,kecamatan
+6240,kimaam,kecamatan
+6241,okaba,kecamatan
+6242,kurik,kecamatan
+6243,merauke,kecamatan
+6244,muting,kecamatan
+6245,distrik ulilin,kecamatan
+6246,semangga,kecamatan
+6247,tanah miring,kecamatan
+6248,jagebob,kecamatan
+6249,sota,kecamatan
+6250,eligobel,kecamatan
+6251,naukenjerai,kecamatan
+6252,animha,kecamatan
+6253,malind,kecamatan
+6254,tubang,kecamatan
+6255,ngunti,kecamatan
+6256,kaptel,kecamatan
+6257,tabonji,kecamatan
+6258,waan,kecamatan
+6259,ilwayab,kecamatan
+6260,asologaima,kecamatan
+6261,kurulu,kecamatan
+6262,abenaho,kecamatan
+6263,walelagama,kecamatan
+6264,musatfak,kecamatan
+6265,asolokobal,kecamatan
+6266,pelebaga,kecamatan
+6267,yalengga,kecamatan
+6268,wamena,kecamatan
+6269,hubikosi,kecamatan
+6270,bolakme,kecamatan
+6271,wollo,kecamatan
+6272,uwapa,kecamatan
+6273,yaur,kecamatan
+6274,wanggar,kecamatan
+6275,nabire,kecamatan
+6276,napan,kecamatan
+6277,siriwo,kecamatan
+6278,teluk umar,kecamatan
+6279,makimi,kecamatan
+6280,teluk kimi,kecamatan
+6281,yarokibisay,kecamatan
+6282,nabire barat,kecamatan
+6283,wapoga,kecamatan
+6284,dipha,kecamatan
+6285,yaro,kecamatan
+6286,paniai timur,kecamatan
+6287,bibida,kecamatan
+6288,paniai barat,kecamatan
+6289,bogoboida,kecamatan
+6290,yatamo,kecamatan
+6291,kebo,kecamatan
+6292,dumadama,kecamatan
+6293,ekadide,kecamatan
+6294,siriwo,kecamatan
+6295,aradide,kecamatan
+6296,fawi,kecamatan
+6297,mulia,kecamatan
+6298,ilu,kecamatan
+6299,mewoluk,kecamatan
+6300,yamo,kecamatan
+6301,torere,kecamatan
+6302,jigonikme,kecamatan
+6303,tingginambut,kecamatan
+6304,mimika barat,kecamatan
+6305,mimika timur,kecamatan
+6306,mimika baru,kecamatan
+6307,agimuga,kecamatan
+6308,mimika barat jauh,kecamatan
+6309,mimika barat tengah,kecamatan
+6310,tembagapura,kecamatan
+6311,jila,kecamatan
+6312,jita,kecamatan
+6313,kuala kencana,kecamatan
+6314,mimika timur tengah,kecamatan
+6315,mimika timur jauh,kecamatan
+6316,jair,kecamatan
+6317,mindiptana,kecamatan
+6318,mandobo,kecamatan
+6319,kouh,kecamatan
+6320,waropko,kecamatan
+6321,distrik bomakia,kecamatan
+6322,subur,kecamatan
+6323,iniyandit,kecamatan
+6324,fofi,kecamatan
+6325,arimop,kecamatan
+6326,firiwage,kecamatan
+6327,manggelum,kecamatan
+6328,yaniruma,kecamatan
+6329,ambatkwi,kecamatan
+6330,kombut,kecamatan
+6331,nambioman bapai,kecamatan
+6332,edera,kecamatan
+6333,obaa,kecamatan
+6334,haju,kecamatan
+6335,assue,kecamatan
+6336,citakmitak,kecamatan
+6337,minyamur,kecamatan
+6338,venaha,kecamatan
+6339,passue,kecamatan
+6340,kaibar,kecamatan
+6341,pantai kasuari,kecamatan
+6342,fayit,kecamatan
+6343,atsy,kecamatan
+6344,suator,kecamatan
+6345,akat,kecamatan
+6346,agats,kecamatan
+6347,sawaerma,kecamatan
+6348,kurima,kecamatan
+6349,ninia,kecamatan
+6350,anggruk,kecamatan
+6351,dekai,kecamatan
+6352,obio,kecamatan
+6353,suru suru,kecamatan
+6354,wusuma,kecamatan
+6355,amuma,kecamatan
+6356,wusaik,kecamatan
+6357,pasema,kecamatan
+6358,hogio,kecamatan
+6359,mogi,kecamatan
+6360,soba,kecamatan
+6361,werima,kecamatan
+6362,tangma,kecamatan
+6363,ukha,kecamatan
+6364,panggema,kecamatan
+6365,kosarek,kecamatan
+6366,nipsan,kecamatan
+6367,ubahak,kecamatan
+6368,pronggoli,kecamatan
+6369,walma,kecamatan
+6370,yahuliambut,kecamatan
+6371,puldama,kecamatan
+6372,hereapingi,kecamatan
+6373,ubahili,kecamatan
+6374,talambo,kecamatan
+6375,endomen,kecamatan
+6376,kona,kecamatan
+6377,dirwemna,kecamatan
+6378,holuwon,kecamatan
+6379,lolat,kecamatan
+6380,soloikma,kecamatan
+6381,sela,kecamatan
+6382,korupun,kecamatan
+6383,langda,kecamatan
+6384,bomela,kecamatan
+6385,suntamon,kecamatan
+6386,seredela,kecamatan
+6387,sobaham,kecamatan
+6388,kabianggama,kecamatan
+6389,kwelamdua,kecamatan
+6390,kwikma,kecamatan
+6391,hilipuk,kecamatan
+6392,duram,kecamatan
+6393,yogosem,kecamatan
+6394,kayo,kecamatan
+6395,sumo,kecamatan
+6396,silimo,kecamatan
+6397,samenage,kecamatan
+6398,nalca,kecamatan
+6399,seradala,kecamatan
+6400,okiwur,kecamatan
+6401,oksibil,kecamatan
+6402,borme,kecamatan
+6403,okbibab,kecamatan
+6404,kiwirok,kecamatan
+6405,batom,kecamatan
+6406,pepera,kecamatan
+6407,bime,kecamatan
+6408,aboy,kecamatan
+6409,kiwirok timur,kecamatan
+6410,kawor,kecamatan
+6411,tarup,kecamatan
+6412,alemsom,kecamatan
+6413,serambakon,kecamatan
+6414,kalomdom,kecamatan
+6415,oksop,kecamatan
+6416,epumek,kecamatan
+6417,weime,kecamatan
+6418,okbab,kecamatan
+6419,teiraplu,kecamatan
+6420,sopsebang,kecamatan
+6421,hokhika,kecamatan
+6422,kec.oklip,kecamatan
+6423,oksamol,kecamatan
+6424,bemta,kecamatan
+6425,okbape,kecamatan
+6426,ok aom,kecamatan
+6427,awinbon,kecamatan
+6428,batani,kecamatan
+6429,murkim,kecamatan
+6430,mofinop,kecamatan
+6431,jetfa,kecamatan
+6432,nongme,kecamatan
+6433,pamek,kecamatan
+6434,iwur,kecamatan
+6435,okbemtau,kecamatan
+6436,oksebang,kecamatan
+6437,kanggime,kecamatan
+6438,karubaga,kecamatan
+6439,bokondini,kecamatan
+6440,kembu,kecamatan
+6441,goyage,kecamatan
+6442,kubu,kecamatan
+6443,geya,kecamatan
+6444,numba,kecamatan
+6445,dundu,kecamatan
+6446,gudage,kecamatan
+6447,timori,kecamatan
+6448,konda,kecamatan
+6449,nelawi,kecamatan
+6450,kuari,kecamatan
+6451,bokoneri,kecamatan
+6452,bewani,kecamatan
+6453,komboneri,kecamatan
+6454,nabunage,kecamatan
+6455,wakuo,kecamatan
+6456,nunggawi,kecamatan
+6457,woniki,kecamatan
+6458,wunin,kecamatan
+6459,wina,kecamatan
+6460,panaga,kecamatan
+6461,poganeri,kecamatan
+6462,dow,kecamatan
+6463,wari/taiyeve,kecamatan
+6464,umagi,kecamatan
+6465,gilungbandu,kecamatan
+6466,yuneri,kecamatan
+6467,taginire,kecamatan
+6468,egiam,kecamatan
+6469,air garam,kecamatan
+6470,gika,kecamatan
+6471,telenggeme,kecamatan
+6472,anawi,kecamatan
+6473,wenam,kecamatan
+6474,wugi,kecamatan
+6475,danime,kecamatan
+6476,tagime,kecamatan
+6477,tidak ada,kecamatan
+6478,aweku,kecamatan
+6479,bogonuk,kecamatan
+6480,li anogomma,kecamatan
+6481,biuk,kecamatan
+6482,yuko,kecamatan
+6483,kamboneri,kecamatan
+6484,pantai timur,kecamatan
+6485,bonggo,kecamatan
+6486,tor atas,kecamatan
+6487,sarmi,kecamatan
+6488,pantai barat,kecamatan
+6489,pantai timur bagian barat,kecamatan
+6490,bonggo timur,kecamatan
+6491,sarmi timur,kecamatan
+6492,sarmi barat,kecamatan
+6493,apawert hulu,kecamatan
+6494,sarmi selatan,kecamatan
+6495,web,kecamatan
+6496,senggi,kecamatan
+6497,waris,kecamatan
+6498,arso,kecamatan
+6499,skamto,kecamatan
+6500,towe hitam,kecamatan
+6501,arso timur,kecamatan
+6502,waropen bawah,kecamatan
+6503,masirei,kecamatan
+6504,inggerus,kecamatan
+6505,ureifaisei,kecamatan
+6506,risei sayati,kecamatan
+6507,kirihi,kecamatan
+6508,wapoga,kecamatan
+6509,supiori selatan,kecamatan
+6510,yenggarbun,kecamatan
+6511,supiori timur,kecamatan
+6512,kepulauan aruri,kecamatan
+6513,supiori barat,kecamatan
+6514,supiori utara,kecamatan
+6515,waropen atas,kecamatan
+6516,mamberamo ilir,kecamatan
+6517,mamberamo tengah,kecamatan
+6518,mamberamo tengah timur,kecamatan
+6519,rufaer,kecamatan
+6520,mamberamo ulu,kecamatan
+6521,benuki,kecamatan
+6522,sawai,kecamatan
+6523,mamberamo hulu,kecamatan
+6524,mamberamo hilir,kecamatan
+6525,wosak,kecamatan
+6526,kenyam,kecamatan
+6527,geselma,kecamatan
+6528,mapenduma,kecamatan
+6529,mugi,kecamatan
+6530,yigi,kecamatan
+6531,mbuwa,kecamatan
+6532,gearek,kecamatan
+6533,makki,kecamatan
+6534,pirime,kecamatan
+6535,tiom,kecamatan
+6536,balingga,kecamatan
+6537,kuyawage,kecamatan
+6538,malagaineri,kecamatan
+6539,tiomneri,kecamatan
+6540,dimba,kecamatan
+6541,gamelia,kecamatan
+6542,poga,kecamatan
+6543,kobakma,kecamatan
+6544,ilugwa,kecamatan
+6545,kelila,kecamatan
+6546,eragayam,kecamatan
+6547,megambilis,kecamatan
+6548,welarek,kecamatan
+6549,apalapsili,kecamatan
+6550,abenaho,kecamatan
+6551,elelim,kecamatan
+6552,benawa,kecamatan
+6553,agadugume,kecamatan
+6554,gome,kecamatan
+6555,ilaga,kecamatan
+6556,sinak,kecamatan
+6557,pogoma,kecamatan
+6558,wangbe,kecamatan
+6559,beoga,kecamatan
+6560,doufo,kecamatan
+6561,piyaiye,kecamatan
+6562,mapia barat,kecamatan
+6563,mapia,kecamatan
+6564,dogiyai,kecamatan
+6565,kamu selatan,kecamatan
+6566,kamu,kecamatan
+6567,mapia tengah,kecamatan
+6568,kamu tmur,kecamatan
+6569,kamu utara,kecamatan
+6570,sukikai selatan,kecamatan
+6571,tigi,kecamatan
+6572,tigi barat,kecamatan
+6573,tigi timur,kecamatan
+6574,bowobado,kecamatan
+6575,kapiraya,kecamatan
+6576,sugapa,kecamatan
+6577,hitadipa,kecamatan
+6578,homeyo,kecamatan
+6579,biandoga,kecamatan
+6580,wandai,kecamatan
+6581,agisiga,kecamatan
+6582,sugapa*,kecamatan
+6583,hitadipa*,kecamatan
+6584,homeyo*,kecamatan
+6585,biandoga*,kecamatan
+6586,wandai*,kecamatan
+6587,agisiga*,kecamatan
+6588,muara tami,kecamatan
+6589,abepura,kecamatan
+6590,jayapura selatan,kecamatan
+6591,jayapura utara,kecamatan
+6592,heram,kecamatan
+6593,kotaraja,kecamatan
+6594,enggano,kecamatan
+6595,kerkap,kecamatan
+6596,arga makmur,kecamatan
+6597,lais,kecamatan
+6598,padang jaya,kecamatan
+6599,ketahun,kecamatan
+6600,putri hijau,kecamatan
+6601,air napal,kecamatan
+6602,air besi,kecamatan
+6603,batik nau,kecamatan
+6604,giri mulia,kecamatan
+6605,napal putih,kecamatan
+6606,hulu palik,kecamatan
+6607,air padang,kecamatan
+6608,kota padang,kecamatan
+6609,padang ulang tanding,kecamatan
+6610,curup,kecamatan
+6611,sindang kelingi,kecamatan
+6612,bermani ulu,kecamatan
+6613,selupu rejang,kecamatan
+6614,sindang beliti ilir,kecamatan
+6615,bindu riang,kecamatan
+6616,sindang beliti ulu,kecamatan
+6617,sindang dataran,kecamatan
+6618,curup selatan,kecamatan
+6619,curup tengah,kecamatan
+6620,bermani ulu raya,kecamatan
+6621,curup utara,kecamatan
+6622,curup timur,kecamatan
+6623,manna,kecamatan
+6624,seginim,kecamatan
+6625,pino,kecamatan
+6626,kota manna,kecamatan
+6627,pinoraya,kecamatan
+6628,kedurang,kecamatan
+6629,bunga mas,kecamatan
+6630,pasar manna,kecamatan
+6631,kedurang ilir,kecamatan
+6632,air nipis,kecamatan
+6633,ulu manna,kecamatan
+6634,muko-muko selatan,kecamatan
+6635,teras terunjam,kecamatan
+6636,muko-muko utara,kecamatan
+6637,pondok suguh,kecamatan
+6638,lubuk pinang,kecamatan
+6639,air rami,kecamatan
+6640,malin deman,kecamatan
+6641,sungai rumbai,kecamatan
+6642,teramang jaya,kecamatan
+6643,penarik,kecamatan
+6644,selagan raya,kecamatan
+6645,air dikit,kecamatan
+6646,xiv koto,kecamatan
+6647,air manjunto,kecamatan
+6648,v koto,kecamatan
+6649,kota mukomuko,kecamatan
+6650,ipuh,kecamatan
+6651,kepahiang,kecamatan
+6652,bermani ilir,kecamatan
+6653,tebat karai,kecamatan
+6654,ujan mas,kecamatan
+6655,muara kemumu,kecamatan
+6656,seberang musi,kecamatan
+6657,kaba wetan,kecamatan
+6658,merigi,kecamatan
+6659,lebong selatan,kecamatan
+6660,lebong utara,kecamatan
+6661,rimbo pegadang,kecamatan
+6662,lebong tengah,kecamatan
+6663,lebong atas,kecamatan
+6664,topos,kecamatan
+6665,bingin kuning,kecamatan
+6666,lebong sakti,kecamatan
+6667,pelabai,kecamatan
+6668,amen,kecamatan
+6669,uram jaya,kecamatan
+6670,pinang belapis,kecamatan
+6671,kaur selatan,kecamatan
+6672,kaur tengah,kecamatan
+6673,kaur utara,kecamatan
+6674,maje,kecamatan
+6675,nasal,kecamatan
+6676,kinal,kecamatan
+6677,tanjung kemuning,kecamatan
+6678,muara tetap,kecamatan
+6679,luas,kecamatan
+6680,muara sahung,kecamatan
+6681,semidang gumai,kecamatan
+6682,kelam tengah,kecamatan
+6683,padang guci hilir,kecamatan
+6684,padang guci ulu,kecamatan
+6685,lungkang kule,kecamatan
+6686,talo,kecamatan
+6687,seluma,kecamatan
+6688,sukaraja,kecamatan
+6689,semidang alas maras,kecamatan
+6690,semidang alas,kecamatan
+6691,ilir talo,kecamatan
+6692,talo kecil,kecamatan
+6693,ulu talo,kecamatan
+6694,seluma selatan,kecamatan
+6695,seluma barat,kecamatan
+6696,seluma timur,kecamatan
+6697,seluma utara,kecamatan
+6698,air periukan,kecamatan
+6699,lubuk sandi,kecamatan
+6700,talang empat,kecamatan
+6701,karang tinggi,kecamatan
+6702,taba penanjung,kecamatan
+6703,pagar jati,kecamatan
+6704,pondok kelapa,kecamatan
+6705,pematang tiga,kecamatan
+6706,merigi kelindang,kecamatan
+6707,merigi sakti,kecamatan
+6708,pondok kubang,kecamatan
+6709,bang haji,kecamatan
+6710,selebar,kecamatan
+6711,gading cempaka,kecamatan
+6712,teluk segara,kecamatan
+6713,muara bangkahulu,kecamatan
+6714,kampung melayu,kecamatan
+6715,ratu agung,kecamatan
+6716,ratu samban,kecamatan
+6717,sungai serut,kecamatan
+6718,singaran pati,kecamatan
+6719,weda,kecamatan
+6720,pulau gebe,kecamatan
+6721,patani,kecamatan
+6722,weda utara,kecamatan
+6723,weda selatan,kecamatan
+6724,patani utara,kecamatan
+6725,weda tengah,kecamatan
+6726,patani barat,kecamatan
+6727,sahu,kecamatan
+6728,ibu,kecamatan
+6729,loloda,kecamatan
+6730,jailolo selatan,kecamatan
+6731,jailolo,kecamatan
+6732,sahu timur,kecamatan
+6733,ibu selatan,kecamatan
+6734,ibu utara,kecamatan
+6735,jailolo timur,kecamatan
+6736,tobelo,kecamatan
+6737,tobelo selatan,kecamatan
+6738,kao,kecamatan
+6739,galela,kecamatan
+6740,loloda utara,kecamatan
+6741,malifut,kecamatan
+6742,tobelo utara,kecamatan
+6743,tobelo tengah,kecamatan
+6744,tobelo timur,kecamatan
+6745,tobelo barat,kecamatan
+6746,galela barat,kecamatan
+6747,galela selatan,kecamatan
+6748,galela utara,kecamatan
+6749,loloda kepulauan,kecamatan
+6750,kao utara,kecamatan
+6751,kao barat,kecamatan
+6752,kao teluk,kecamatan
+6753,bacan timur,kecamatan
+6754,bacan barat,kecamatan
+6755,bacan,kecamatan
+6756,obi,kecamatan
+6757,gane barat,kecamatan
+6758,gane timur,kecamatan
+6759,kayoa,kecamatan
+6760,pulau makian,kecamatan
+6761,obi selatan,kecamatan
+6762,obi barat,kecamatan
+6763,obi timur,kecamatan
+6764,obi utara,kecamatan
+6765,mandioli selatan,kecamatan
+6766,mandioli utara,kecamatan
+6767,bancan selatan,kecamatan
+6768,batang lomang,kecamatan
+6769,bacan timur selatan,kecamatan
+6770,bacan timur tengah,kecamatan
+6771,kasiruta barat,kecamatan
+6772,kasiruta timur,kecamatan
+6773,bacan barat utara,kecamatan
+6774,kayoa barat,kecamatan
+6775,kayoa selatan,kecamatan
+6776,kayoa utara,kecamatan
+6777,makian barat,kecamatan
+6778,gane selatan,kecamatan
+6779,gane utara,kecamatan
+6780,kepulauan joronga,kecamatan
+6781,gane timur tengah,kecamatan
+6782,gane timur selatan,kecamatan
+6783,gane barat selatan,kecamatan
+6784,gane barat utara,kecamatan
+6785,maba selatan,kecamatan
+6786,wasile selatan,kecamatan
+6787,wasile,kecamatan
+6788,maba,kecamatan
+6789,wasile tengah,kecamatan
+6790,wasile utara,kecamatan
+6791,wasile timur,kecamatan
+6792,maba tengah,kecamatan
+6793,maba utara,kecamatan
+6794,kota maba,kecamatan
+6795,sanana,kecamatan
+6796,sula besi barat,kecamatan
+6797,mangoli timur,kecamatan
+6798,taliabu barat,kecamatan
+6799,taliabu timur,kecamatan
+6800,mangoli barat,kecamatan
+6801,sula besi tengah,kecamatan
+6802,sula besi timur,kecamatan
+6803,mangoli tengah,kecamatan
+6804,mangoli utara timur,kecamatan
+6805,mangoli utara,kecamatan
+6806,mangoli selatan,kecamatan
+6807,taliabu timur selatan,kecamatan
+6808,taliabu utara,kecamatan
+6809,sula besi selatan,kecamatan
+6810,sanana utara,kecamatan
+6811,taliabu barat laut,kecamatan
+6812,lede,kecamatan
+6813,taliabu selatan,kecamatan
+6814,mangoli tengah,kecamatan
+6815,taliabu utara,kecamatan
+6816,taliabu timur selatan,kecamatan
+6817,taliabu -timur,kecamatan
+6818,taliabu selatan,kecamatan
+6819,taliabu barat laut,kecamatan
+6820,taliabu barat,kecamatan
+6821,lede,kecamatan
+6822,tabona,kecamatan
+6823,morotai selatan barat,kecamatan
+6824,morotai selatan,kecamatan
+6825,morotai utara,kecamatan
+6826,morotai jaya,kecamatan
+6827,morotai timur,kecamatan
+6828,pulau ternate,kecamatan
+6829,ternate selatan,kecamatan
+6830,ternate utara,kecamatan
+6831,moti,kecamatan
+6832,pulau batang dua,kecamatan
+6833,ternate tengah,kecamatan
+6834,pulau hiri,kecamatan
+6835,tidore selatan,kecamatan
+6836,tidore utara,kecamatan
+6837,oba,kecamatan
+6838,oba utara,kecamatan
+6839,oba tengah,kecamatan
+6840,oba selatan,kecamatan
+6841,tidore,kecamatan
+6842,tidore timur,kecamatan
+6843,sumur,kecamatan
+6844,cimanggu,kecamatan
+6845,cibaliung,kecamatan
+6846,cikeusik,kecamatan
+6847,cigeulis,kecamatan
+6848,panimbang,kecamatan
+6849,munjul,kecamatan
+6850,picung,kecamatan
+6851,bojong,kecamatan
+6852,saketi,kecamatan
+6853,pagelaran,kecamatan
+6854,labuan,kecamatan
+6855,jiput,kecamatan
+6856,menes,kecamatan
+6857,mandalawangi,kecamatan
+6858,cimanuk,kecamatan
+6859,banjar,kecamatan
+6860,pandeglang,kecamatan
+6861,cadasari,kecamatan
+6862,angsana,kecamatan
+6863,karang tanjung,kecamatan
+6864,kaduhejo,kecamatan
+6865,cikedal,kecamatan
+6866,cipeucang,kecamatan
+6867,cisata,kecamatan
+6868,patia,kecamatan
+6869,carita,kecamatan
+6870,sukaresmi,kecamatan
+6871,mekarjaya,kecamatan
+6872,sindangresmi,kecamatan
+6873,pulosari,kecamatan
+6874,koroncong,kecamatan
+6875,cibitung,kecamatan
+6876,majasari,kecamatan
+6877,sobang,kecamatan
+6878,malingping,kecamatan
+6879,panggarangan,kecamatan
+6880,bayah,kecamatan
+6881,cibeber,kecamatan
+6882,cijaku,kecamatan
+6883,banjarsari,kecamatan
+6884,cileles,kecamatan
+6885,gunung kencana,kecamatan
+6886,bojongmanik,kecamatan
+6887,leuwidamar,kecamatan
+6888,muncang,kecamatan
+6889,cipanas,kecamatan
+6890,sajira,kecamatan
+6891,cimarga,kecamatan
+6892,cikulur,kecamatan
+6893,warung gunung,kecamatan
+6894,cibadak,kecamatan
+6895,rangkasbitung,kecamatan
+6896,maja,kecamatan
+6897,curug bitung,kecamatan
+6898,sobang,kecamatan
+6899,wanasalam,kecamatan
+6900,cilograng,kecamatan
+6901,cihara,kecamatan
+6902,cigemblong,kecamatan
+6903,cirinten,kecamatan
+6904,lebakgedong,kecamatan
+6905,karanganyar,kecamatan
+6906,cisoka,kecamatan
+6907,tiga raksa,kecamatan
+6908,cikupa,kecamatan
+6909,panongan,kecamatan
+6910,curug,kecamatan
+6911,legok,kecamatan
+6912,pagedangan,kecamatan
+6913,pasar kemis,kecamatan
+6914,balaraja,kecamatan
+6915,kresek,kecamatan
+6916,kronjo,kecamatan
+6917,mauk,kecamatan
+6918,rajeg,kecamatan
+6919,sepatan,kecamatan
+6920,pakuhaji,kecamatan
+6921,teluk naga,kecamatan
+6922,kosambi,kecamatan
+6923,jayanti,kecamatan
+6924,jambe,kecamatan
+6925,cisauk,kecamatan
+6926,kemeri,kecamatan
+6927,sukadiri,kecamatan
+6928,sukamulya,kecamatan
+6929,kelapa dua,kecamatan
+6930,sindang jaya,kecamatan
+6931,sepatan timur,kecamatan
+6932,solear,kecamatan
+6933,gunung kaler,kecamatan
+6934,mekar baru,kecamatan
+6935,cinangka,kecamatan
+6936,padarincang,kecamatan
+6937,ciomas,kecamatan
+6938,pabuaran,kecamatan
+6939,baros,kecamatan
+6940,petir,kecamatan
+6941,cikeusal,kecamatan
+6942,pamarayan,kecamatan
+6943,jawilan,kecamatan
+6944,kopo,kecamatan
+6945,cikande,kecamatan
+6946,kragilan,kecamatan
+6947,serang,kecamatan
+6948,waringinkurung,kecamatan
+6949,mancak,kecamatan
+6950,anyar,kecamatan
+6951,bojonegara,kecamatan
+6952,kramatwatu,kecamatan
+6953,ciruas,kecamatan
+6954,pontang,kecamatan
+6955,carenang,kecamatan
+6956,tirtayasa,kecamatan
+6957,tunjung teja,kecamatan
+6958,kibin,kecamatan
+6959,pulo ampel,kecamatan
+6960,binuang,kecamatan
+6961,tanara,kecamatan
+6962,gunung sari,kecamatan
+6963,bandung,kecamatan
+6964,ciwandan,kecamatan
+6965,pulomerak,kecamatan
+6966,cilegon,kecamatan
+6967,cibeber,kecamatan
+6968,gerogol,kecamatan
+6969,purwakarta,kecamatan
+6970,jombang,kecamatan
+6971,citangkil,kecamatan
+6972,ciledug,kecamatan
+6973,cipondoh,kecamatan
+6974,tangerang,kecamatan
+6975,jati uwung,kecamatan
+6976,batuceper,kecamatan
+6977,benda,kecamatan
+6978,larangan,kecamatan
+6979,karang tengah,kecamatan
+6980,pinang,kecamatan
+6981,karawaci,kecamatan
+6982,cibodas,kecamatan
+6983,periuk,kecamatan
+6984,neglasari,kecamatan
+6985,cipocok jaya,kecamatan
+6986,curug,kecamatan
+6987,kasemen,kecamatan
+6988,taktakan,kecamatan
+6989,walantaka,kecamatan
+6990,serang,kecamatan
+6991,ciputat,kecamatan
+6992,ciputat timur,kecamatan
+6993,pamulang,kecamatan
+6994,pondok aren,kecamatan
+6995,serpong,kecamatan
+6996,serpong utara,kecamatan
+6997,setu,kecamatan
+6998,mendo barat,kecamatan
+6999,merawang,kecamatan
+7000,sungai liat,kecamatan
+7001,belinyu,kecamatan
+7002,puding besar,kecamatan
+7003,bakam,kecamatan
+7004,pemali,kecamatan
+7005,riau silip,kecamatan
+7006,membalong,kecamatan
+7007,tanjung pandan,kecamatan
+7008,sijuk,kecamatan
+7009,badau,kecamatan
+7010,selat nasik,kecamatan
+7011,air gegas,kecamatan
+7012,koba,kecamatan
+7013,pangkalan baru,kecamatan
+7014,sungai selan,kecamatan
+7015,simpang katis,kecamatan
+7016,lubuk besar,kecamatan
+7017,namang,kecamatan
+7018,kelapa,kecamatan
+7019,tempilang,kecamatan
+7020,mentok,kecamatan
+7021,simpang teritip,kecamatan
+7022,jebus,kecamatan
+7023,parittiga,kecamatan
+7024,payung,kecamatan
+7025,simpang rimba,kecamatan
+7026,toboali,kecamatan
+7027,lepar pongok,kecamatan
+7028,pulau besar,kecamatan
+7029,tukak sadai,kecamatan
+7030,air gegas,kecamatan
+7031,dendang,kecamatan
+7032,gantung,kecamatan
+7033,manggar,kecamatan
+7034,kelapa kampit,kecamatan
+7035,damar,kecamatan
+7036,simpang renggiang,kecamatan
+7037,simpang pesak,kecamatan
+7038,rangkui,kecamatan
+7039,bukit intan,kecamatan
+7040,pangkal balam,kecamatan
+7041,taman sari,kecamatan
+7042,gerunggang,kecamatan
+7043,girimaya,kecamatan
+7044,tilamuta,kecamatan
+7045,paguyaman,kecamatan
+7046,mananggu,kecamatan
+7047,dulupi,kecamatan
+7048,wonosari,kecamatan
+7049,botumoita,kecamatan
+7050,paguyaman pantai,kecamatan
+7051,batudaa pantai,kecamatan
+7052,batudaa,kecamatan
+7053,tibawa,kecamatan
+7054,boliyohuto,kecamatan
+7055,limboto,kecamatan
+7056,telaga,kecamatan
+7057,bongomeme,kecamatan
+7058,pulubala,kecamatan
+7059,tolangohula,kecamatan
+7060,mootilango,kecamatan
+7061,telaga biru,kecamatan
+7062,limboto barat,kecamatan
+7063,biluhu,kecamatan
+7064,tabongo,kecamatan
+7065,asparaga,kecamatan
+7066,tilango,kecamatan
+7067,telaga jaya,kecamatan
+7068,bilato,kecamatan
+7069,bilato,kecamatan
+7070,popayato,kecamatan
+7071,marisa,kecamatan
+7072,paguat,kecamatan
+7073,lemito,kecamatan
+7074,randangan,kecamatan
+7075,patilanggio,kecamatan
+7076,taluditi,kecamatan
+7077,popayato barat,kecamatan
+7078,popayato timur,kecamatan
+7079,wanggarasi,kecamatan
+7080,buntulia,kecamatan
+7081,duhiadaa,kecamatan
+7082,dengilo,kecamatan
+7083,tapa,kecamatan
+7084,kabila,kecamatan
+7085,suwawa,kecamatan
+7086,bonepantai,kecamatan
+7087,bulango utara,kecamatan
+7088,tilongkabila,kecamatan
+7089,botupingge,kecamatan
+7090,kabila bone,kecamatan
+7091,bone,kecamatan
+7092,bone raya,kecamatan
+7093,bulango selatan,kecamatan
+7094,bulango timur,kecamatan
+7095,bulango ulu,kecamatan
+7096,suwawa selatan,kecamatan
+7097,suwawa timur,kecamatan
+7098,suwawa tengah,kecamatan
+7099,bulawa,kecamatan
+7100,anggrek,kecamatan
+7101,atinggola,kecamatan
+7102,kwandang,kecamatan
+7103,sumalata,kecamatan
+7104,tolinggula,kecamatan
+7105,gentuma raya,kecamatan
+7106,tomilito,kecamatan
+7107,ponelo kepulauan,kecamatan
+7108,monano,kecamatan
+7109,biau,kecamatan
+7110,kota barat,kecamatan
+7111,kota selatan,kecamatan
+7112,kota utara,kecamatan
+7113,kota timur,kecamatan
+7114,dungingi,kecamatan
+7115,kota tengah,kecamatan
+7116,sipatana,kecamatan
+7117,dumbo raya,kecamatan
+7118,hulonthalangi,kecamatan
+7119,bintan utara,kecamatan
+7120,gunung kijang,kecamatan
+7121,tambelan,kecamatan
+7122,teluk bintan,kecamatan
+7123,teluk sebong,kecamatan
+7124,toapaya,kecamatan
+7125,mantang,kecamatan
+7126,bintan pesisir,kecamatan
+7127,seri kuala loban,kecamatan
+7128,bintan timur,kecamatan
+7129,moro,kecamatan
+7130,kundur,kecamatan
+7131,karimun,kecamatan
+7132,meral,kecamatan
+7133,tebing,kecamatan
+7134,buru,kecamatan
+7135,kundur utara,kecamatan
+7136,kundur barat,kecamatan
+7137,durai,kecamatan
+7138,midai,kecamatan
+7139,bunguran barat,kecamatan
+7140,bunguran timur,kecamatan
+7141,serasan,kecamatan
+7142,subi,kecamatan
+7143,bunguran utara,kecamatan
+7144,pulau laut,kecamatan
+7145,pulau tiga,kecamatan
+7146,bunguran timur laut,kecamatan
+7147,bunguran tengah,kecamatan
+7148,bunguran selatan,kecamatan
+7149,serasan timur,kecamatan
+7150,singkep,kecamatan
+7151,lingga,kecamatan
+7152,senayang,kecamatan
+7153,singkep barat,kecamatan
+7154,lingga utara,kecamatan
+7155,jemaja,kecamatan
+7156,jemaja timur,kecamatan
+7157,siantan,kecamatan
+7158,palmatak,kecamatan
+7159,siantan selatan,kecamatan
+7160,siantan timur,kecamatan
+7161,siantan tengah,kecamatan
+7162,belakang padang,kecamatan
+7163,sekupang,kecamatan
+7164,sei beduk,kecamatan
+7165,bulang,kecamatan
+7166,lubuk baja,kecamatan
+7167,batu ampar,kecamatan
+7168,nongsa,kecamatan
+7169,galang,kecamatan
+7170,bengkong,kecamatan
+7171,batam kota,kecamatan
+7172,sagulung,kecamatan
+7173,batu aji,kecamatan
+7174,tanjung pinang barat,kecamatan
+7175,tanjung pinang timur,kecamatan
+7176,bukit bestari,kecamatan
+7177,tanjung pinang kota,kecamatan
+7178,fak-fak timur,kecamatan
+7179,karas,kecamatan
+7180,fak-fak,kecamatan
+7181,fak-fak tengah,kecamatan
+7182,fak-fak barat,kecamatan
+7183,kokas,kecamatan
+7184,teluk patipi,kecamatan
+7185,kramongmongga,kecamatan
+7186,bomberay,kecamatan
+7187,buruway,kecamatan
+7188,teluk arguni (atas),kecamatan
+7189,teluk arguni bawah,kecamatan
+7190,kaimana,kecamatan
+7191,kambrau,kecamatan
+7192,teluk etna,kecamatan
+7193,yamor,kecamatan
+7194,naikere,kecamatan
+7195,wondiboy,kecamatan
+7196,rasiei,kecamatan
+7197,kuri wamesa,kecamatan
+7198,wasior,kecamatan
+7199,teluk duairi,kecamatan
+7200,roon,kecamatan
+7201,windesi,kecamatan
+7202,wamesa,kecamatan
+7203,roswar,kecamatan
+7204,rumberpon,kecamatan
+7205,soug jaya,kecamatan
+7206,nikiwar,kecamatan
+7207,sough wepu,kecamatan
+7208,irorutu/fafuwar,kecamatan
+7209,babo,kecamatan
+7210,sumuri,kecamatan
+7211,aroba,kecamatan
+7212,kaitaro,kecamatan
+7213,kuri,kecamatan
+7214,idoor,kecamatan
+7215,bintuni,kecamatan
+7216,manimeri,kecamatan
+7217,tuhiba,kecamatan
+7218,dataran beimes,kecamatan
+7219,tembuni,kecamatan
+7220,aranday,kecamatan
+7221,komundan,kecamatan
+7222,tomu,kecamatan
+7223,weriagar,kecamatan
+7224,moskona selatan,kecamatan
+7225,meyado,kecamatan
+7226,moskona barat,kecamatan
+7227,merdey,kecamatan
+7228,biscoop,kecamatan
+7229,masyeta,kecamatan
+7230,moskona utara,kecamatan
+7231,moskona timur,kecamatan
+7232,wamesa,kecamatan
+7233,ransiki,kecamatan
+7234,momi waren,kecamatan
+7235,nenei,kecamatan
+7236,sururay,kecamatan
+7237,anggi,kecamatan
+7238,taige,kecamatan
+7239,membey,kecamatan
+7240,oransbari,kecamatan
+7241,warmare,kecamatan
+7242,prafi,kecamatan
+7243,menyambouw,kecamatan
+7244,catubouw,kecamatan
+7245,manokwari barat,kecamatan
+7246,manokwari timur,kecamatan
+7247,manokwari utara,kecamatan
+7248,manokwari selatan,kecamatan
+7249,testega,kecamatan
+7250,tanah rubu,kecamatan
+7251,kebar,kecamatan
+7252,senopi,kecamatan
+7253,amberbaken,kecamatan
+7254,murbani/arfu,kecamatan
+7255,masni,kecamatan
+7256,sidey,kecamatan
+7257,tahosta,kecamatan
+7258,didohu,kecamatan
+7259,dataran isim,kecamatan
+7260,anggi gida,kecamatan
+7261,hingk,kecamatan
+7262,neney,kecamatan
+7263,momi - waren,kecamatan
+7264,tohota,kecamatan
+7265,taige,kecamatan
+7266,membey,kecamatan
+7267,anggi gida,kecamatan
+7268,didohu,kecamatan
+7269,dataran isim,kecamatan
+7270,catubouw,kecamatan
+7271,hink,kecamatan
+7272,ransiki,kecamatan
+7273,inanwatan,kecamatan
+7274,kokoda,kecamatan
+7275,metemeini kais,kecamatan
+7276,moswaren,kecamatan
+7277,seremuk,kecamatan
+7278,wayer,kecamatan
+7279,sawiat,kecamatan
+7280,kais,kecamatan
+7281,konda,kecamatan
+7282,kokoda utara,kecamatan
+7283,saifi,kecamatan
+7284,fokour,kecamatan
+7285,teminabuan,kecamatan
+7286,moraid,kecamatan
+7287,makbon,kecamatan
+7288,beraur,kecamatan
+7289,klamono,kecamatan
+7290,salawati,kecamatan
+7291,manyamuk,kecamatan
+7292,seget,kecamatan
+7293,segun,kecamatan
+7294,salawati selatan,kecamatan
+7295,aimas,kecamatan
+7296,sayosa,kecamatan
+7297,klabot,kecamatan
+7298,klawak,kecamatan
+7299,maudus,kecamatan
+7300,mariat,kecamatan
+7301,klayili,kecamatan
+7302,klaso,kecamatan
+7303,moisegen,kecamatan
+7304,misool selatan,kecamatan
+7305,misool (misool utara),kecamatan
+7306,kofiau,kecamatan
+7307,misool timur,kecamatan
+7308,salawati utara,kecamatan
+7309,waigeo selatan,kecamatan
+7310,teluk mayalibit,kecamatan
+7311,meos mansar,kecamatan
+7312,waigeo barat,kecamatan
+7313,waigeo utara,kecamatan
+7314,kepulauan ayau,kecamatan
+7315,waigeo timur,kecamatan
+7316,warwarbomi,kecamatan
+7317,waigeo barat kepulauan,kecamatan
+7318,misool barat,kecamatan
+7319,kepulauan sembilan,kecamatan
+7320,kota waisai,kecamatan
+7321,tiplol mayalibit,kecamatan
+7322,batanta utara,kecamatan
+7323,salawati barat,kecamatan
+7324,salawati tengah,kecamatan
+7325,supnin,kecamatan
+7326,ayau,kecamatan
+7327,batanta selatan,kecamatan
+7328,selat sagawin,kecamatan
+7329,fef,kecamatan
+7330,miyah,kecamatan
+7331,yembun,kecamatan
+7332,kwoor,kecamatan
+7333,sausapor,kecamatan
+7334,abun,kecamatan
+7335,aifat,kecamatan
+7336,aifat utara,kecamatan
+7337,aifat timur,kecamatan
+7338,aifat selatan,kecamatan
+7339,aitinyo barat,kecamatan
+7340,aitinyo,kecamatan
+7341,aitinyo utara,kecamatan
+7342,ayamaru,kecamatan
+7343,ayamaru utara,kecamatan
+7344,ayamaru timur,kecamatan
+7345,mare,kecamatan
+7346,aitinyo tengah,kecamatan
+7347,aifat timur selatan,kecamatan
+7348,aitinyo raya,kecamatan
+7349,ayamaru timur selatan,kecamatan
+7350,aifat timur tengah,kecamatan
+7351,aifat timur jauh,kecamatan
+7352,ayamaru jaya,kecamatan
+7353,sorong timur,kecamatan
+7354,sorong,kecamatan
+7355,klablim,kecamatan
+7356,klawalu,kecamatan
+7357,giwu,kecamatan
+7358,klamana,kecamatan
+7359,tapalang,kecamatan
+7360,mamuju,kecamatan
+7361,kalukku,kecamatan
+7362,kalumpang,kecamatan
+7363,budong-budong,kecamatan
+7364,tapalang barat,kecamatan
+7365,papalang,kecamatan
+7366,sampaga,kecamatan
+7367,pangale,kecamatan
+7368,tommo,kecamatan
+7369,bonehau,kecamatan
+7370,topoyo,kecamatan
+7371,tobadak,kecamatan
+7372,karossa,kecamatan
+7373,simboro kepulauan,kecamatan
+7374,kep. bala balakang,kecamatan
+7375,topoyo,kecamatan
+7376,budong-budong,kecamatan
+7377,pangale,kecamatan
+7378,pasangkayu,kecamatan
+7379,sarudu,kecamatan
+7380,baras,kecamatan
+7381,bambalamutu,kecamatan
+7382,dapurang,kecamatan
+7383,duripoku,kecamatan
+7384,bulu taba,kecamatan
+7385,lariang,kecamatan
+7386,tikke raya,kecamatan
+7387,pedongga,kecamatan
+7388,bambaira,kecamatan
+7389,sarjo,kecamatan
+7390,karossa,kecamatan
+7391,simboro dan kepulauan,kecamatan
+7392,tobadak,kecamatan
+7393,tinambung,kecamatan
+7394,tutallu,kecamatan
+7395,campalagian,kecamatan
+7396,wonomulyo,kecamatan
+7397,polewali,kecamatan
+7398,limboro,kecamatan
+7399,balanipa,kecamatan
+7400,luyo,kecamatan
+7401,allu,kecamatan
+7402,mapili,kecamatan
+7403,matakali,kecamatan
+7404,binuang,kecamatan
+7405,anreapi,kecamatan
+7406,tapango,kecamatan
+7407,matangnga,kecamatan
+7408,bulo,kecamatan
+7409,tutar,kecamatan
+7410,sumarorong,kecamatan
+7411,pana,kecamatan
+7412,mamasa,kecamatan
+7413,mambi,kecamatan
+7414,tabulahan,kecamatan
+7415,tabang,kecamatan
+7416,messawa,kecamatan
+7417,sesenapadang,kecamatan
+7418,tandukalua,kecamatan
+7419,aralle,kecamatan
+7420,nosu,kecamatan
+7421,bambang,kecamatan
+7422,balla,kecamatan
+7423,tawalian,kecamatan
+7424,rantebulahan timur,kecamatan
+7425,buntumalangka,kecamatan
+7426,mehalaan,kecamatan
+7427,pamboang,kecamatan
+7428,ulumunda,kecamatan
+7429,tammerodo sendana,kecamatan
+7430,tubo sendana,kecamatan
+7431,banggai,kecamatan
+7432,sendana,kecamatan
+7433,malunda,kecamatan
+7434,banggai timur,kecamatan
+7435,tanjung palas utara,kecamatan
+7436,peso ilir,kecamatan
+7437,tanjung palas,kecamatan
+7438,tanjung palas barat,kecamatan
+7439,tanjung selor,kecamatan
+7440,peso,kecamatan
+7441,tanjung palas tengah,kecamatan
+7442,bunyu,kecamatan
+7443,tanjung palas timur,kecamatan
+7444,sekatak,kecamatan
+7445,tarakan utara,kecamatan
+7446,tarakan tengah,kecamatan
+7447,tarakan timur,kecamatan
+7448,tarakan barat,kecamatan

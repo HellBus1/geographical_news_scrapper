@@ -2,7 +2,7 @@ import spacy
 from spacy import displacy
 from spacy.util import minibatch, compounding
 from spacy.util import decaying
-from thinc.neural.optimizers import Adam
+from thinc.api import Adam
 import random
 from matplotlib import pyplot as plt
 
@@ -48,8 +48,8 @@ def train_spacy(data,
     # create the built-in pipeline components and add them to the pipeline
     # nlp.create_pipe works for built-ins that are registered with spaCy
     if 'ner' not in nlp.pipe_names:
-        ner = nlp.create_pipe('ner')
-        nlp.add_pipe(ner, last=True)
+        # ner = nlp.create_pipe('ner')
+        ner = nlp.add_pipe('ner')
        
 
     # add labels
